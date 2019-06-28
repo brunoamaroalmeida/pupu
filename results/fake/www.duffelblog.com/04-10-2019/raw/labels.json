@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.83145446,
+          "topicality": 0.83145446
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.7981993,
+          "topicality": 0.7981993
+        },
+        {
+          "description": "Chef",
+          "mid": "/m/01pn0r",
+          "score": 0.71230835,
+          "topicality": 0.71230835
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.6790118,
+          "topicality": 0.6790118
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.62020713,
+          "topicality": 0.62020713
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.5550803,
+          "topicality": 0.5550803
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.5284434,
+          "topicality": 0.5284434
+        },
+        {
+          "description": "Games",
+          "mid": "/m/03bt1gh",
+          "score": 0.5211578,
+          "topicality": 0.5211578
+        }
+      ]
+    }
+  ]
+}

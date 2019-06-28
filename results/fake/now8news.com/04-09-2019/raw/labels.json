@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.86992955,
+          "topicality": 0.86992955
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.842923,
+          "topicality": 0.842923
+        },
+        {
+          "description": "Organ",
+          "mid": "/m/013y0j",
+          "score": 0.8011015,
+          "topicality": 0.8011015
+        },
+        {
+          "description": "Joint",
+          "mid": "/m/01dvt1",
+          "score": 0.7782675,
+          "topicality": 0.7782675
+        },
+        {
+          "description": "Mouth",
+          "mid": "/m/0283dt1",
+          "score": 0.7556864,
+          "topicality": 0.7556864
+        },
+        {
+          "description": "Human",
+          "mid": "/m/0dgw9r",
+          "score": 0.7467646,
+          "topicality": 0.7467646
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.68175465,
+          "topicality": 0.68175465
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.5655819,
+          "topicality": 0.5655819
+        },
+        {
+          "description": "Ear",
+          "mid": "/m/039xj_",
+          "score": 0.51232,
+          "topicality": 0.51232
+        }
+      ]
+    }
+  ]
+}

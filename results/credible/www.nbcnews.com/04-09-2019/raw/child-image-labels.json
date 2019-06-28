@@ -1,0 +1,80 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Map",
+          "mid": "/m/04_tb",
+          "score": 0.695938,
+          "topicality": 0.695938
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9543808,
+          "topicality": 0.9543808
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.8430083,
+          "topicality": 0.8430083
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.63793284,
+          "topicality": 0.63793284
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Map",
+          "mid": "/m/04_tb",
+          "score": 0.695938,
+          "topicality": 0.695938
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9543808,
+          "topicality": 0.9543808
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.8430083,
+          "topicality": 0.8430083
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.63793284,
+          "topicality": 0.63793284
+        }
+      ]
+    }
+  ]
+}

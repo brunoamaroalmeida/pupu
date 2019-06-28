@@ -1,0 +1,239 @@
+{
+  "documentSentiment": {
+    "magnitude": 7.7,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]alternate [2]alternate [3]alternate [4]alternate\n   Search the BBC ____________________ (BUTTON) Search the BBC\n[30]Sudan military: We won't tolerate chaos\n       The army tells people protesting against Thursday's coup that its\n       [32]Sudan military: We won't tolerate chaos\n     * Nigel Farage and Annunziata Rees-Mogg\n       [35]Nigel Farage launches Brexit Party\n[36]US students pass slavery reparations fund\n       [38]US students pass slavery reparations fund\n     * The name `Finisterre' is Latin for `end of the Earth'\n       [41]An ancient route the world forgot\n       [44]How to predict major world events\n[46]Sweden considers reopening Assange rape case\n       The alleged victim's lawyer says she will do everything she can to\n       [48]Sweden considers reopening Assange rape case\n     * A table, covered in white linen, supports more than a dozen red\n       candles alongside the two photos of Jan Kuciak and his fiancee\n[49]Ex-soldier 'admits killing Slovak journalist'\n       Four suspects are held over the murder of Jan Kuciak and his\n       fianc\u00e9e, which sparked mass protests."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1119,
+        "content": "[51]Ex-soldier 'admits killing Slovak journalist'\n       LGBT correspondent Ben Hunte explains what new rules mean for trans\n       people serving in the US military."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1293,
+        "content": "[54]Why has Trump barred trans troops?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 1332,
+        "content": "[56]Masters second round: Poulter & Molinari lead\n       Live text and leaderboard updates as Ian Poulter and Francesco\n       Molinari share the lead and Tiger Woods and Rory McIlroy prepare to\n       [58]Masters second round: Poulter & Molinari lead\n[59]Solskjaer's early years & the Norwegian town that shaped him\n       As part of a special Football Focus feature, BBC Sport travels to\n       Kristiansund in Norway, Ole Gunnar Solskjaer's hometown.\n       [61]Solskjaer's early years & the Norwegian town that shaped him\n       The latest second-round leaderboard from the 83rd Masters at\n       Augusta National, where Patrick Reed is the defending champion."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 2000,
+        "content": "The new home for amazing BBC video content\n     * Norway's remote island with a population of one\nNorway's remote island with a population of one\n     * The bizarre world of a real-life anime\n     * The strange fate of a person falling into a black hole\nThe strange fate of a person falling into a black hole\n       Our pick of the special releases and re-releases available\n       [72]Record Store Day 2019 best releases\n     * How a violent mugging turned a futon salesman into a savant\n[73]The attack that made me a maths genius\n       How a violent mugging turned a futon salesman into a savant\n       [75]The attack that made me a maths genius\n     * Ellen Pao lays out a plan to make tech more diverse\n       Ellen Pao lays out a plan to make tech more diverse\n       [78]Token efforts and hiring 'will fail'\n     * On 3 December 1967, in Cape Town's Groote Schuur Hospital, history\n       On 3 December 1967, in Cape Town's Groote Schuur Hospital, history\n       [81]A remarkable story of life and death\n     * The new TV show that could kickstart a body diversity revolution on\n[82]Can Hollywood shed its weight issues?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 3135,
+        "content": "The new TV show that could kickstart a body diversity revolution on\n       [84]Can Hollywood shed its weight issues?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3259,
+        "content": "From virtual collections to limitless creativity\n[88]The animal mothers who kill for power\n       Female infanticide is found in nearly a third of mammal species\n       [90]The animal mothers who kill for power\nJet Airways halts all international flights\nIt's Disney's turn to launch a streaming service\n[98]How does it feel to be watched at work all the time?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3627,
+        "content": "[99]How does it feel to be watched at work all the time?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 3691,
+        "content": "[103]The mobile laundry for rock stars\n   Family, friends, fans and community members said goodbye to Nipsey\n   Hussle in Los Angeles with a memorial procession through the city."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3873,
+        "content": "[106]Fans pay tribute to Nipsey Hussle\n       [112]Fans pay tribute to Nipsey Hussle\n[113]Australia election: What's to play for?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4010,
+        "content": "[115]Australia election: What's to play for?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 4055,
+        "content": "[119]Police hunt 'intruder', find vacuum cleaner\n       [121]Police hunt 'intruder', find vacuum cleaner\n       [124]SpaceX nails triple booster landing\n     * The foreign secretary struggled to explain the PM would tackle\n       \"burning injustices\" in the criminal justice system and in\n[125]Boris Johnson struggles in interview\n       [127]Boris Johnson struggles in interview\n     * Solar eclipse to cross North America\n       [130]Ready for the total solar eclipse?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 4526,
+        "content": "[131]Koalas 'face extinction' in parts of...\n       [133]Koalas 'face extinction' in parts of Australia\n     * File image of Mosul's Great Mosque of al-Nuri and video purportedly\n       showing it being blown up on 21 June 2017\n[134]Video 'shows Mosul mosque's destruction'\n       [136]Video 'shows Mosul mosque's destruction'\n[137]Indonesia's female 'devil wheel' riders\n       [139]Indonesia's female 'devil wheel' riders\n[143]World's tallest indoor waterfall opens\n       [145]World's tallest indoor waterfall opens\n[146]Does Trump still love Wikileaks... or what?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 5101,
+        "content": "[148]Does Trump still love Wikileaks... or what?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 5150,
+        "content": "[151]Can you spot ocean plastic from space?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 5201,
+        "content": "Scientists work on the challenging task of tracking pollution from\n       [153]Can you spot ocean plastic from space?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 5319,
+        "content": "[154]Ebola outbreak 'not global emergency yet'\n       [156]Ebola outbreak 'not global emergency yet'\n[157]Wikileaks' document dumps that shook world\n       [159]Wikileaks' document dumps that shook world\n     * Robbie Williams, Ayda Field, Louis Tomlinson and Simon Cowell\n       [162]Robbie Williams quits X Factor\n[163]`I'm 35, with two young children - and Parkinson's'\n       [165]`I'm 35, with two young children - and Parkinson's'\n     * :A man seen on an electric unicycle at a crosswalk in front of a\n       white car with a logo of Uber taxi cab company in Kiev, Ukraine\n       [168]Uber warns it may not make a profit\n[169]Glass artworks invite reflection at Kew\n       [171]Glass artworks invite reflection at Kew\n     * Delay puts Brexit storm on pause - for now By Laura Kuenssberg\n     * Middle classes losing out to ultra-rich By Sean Coughlan\n     * 'Bibi the magician' pulls off another trick By Lyse Doucet\n     * Can a young, gay mayor become US president?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 6295,
+        "content": "By Anthony Zurcher\n     * Facebook to use AI to respect the dead By Dave Lee\n     * Why do we like magic when we know it's a trick?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 6427,
+        "content": "By Sean Coughlan\n     * Eight legal headaches for Donald Trump By Anthony Zurcher\n     * Brexit: Significant hurdles for cross-party talks By Laura\n[173]Why India is one of world's most protectionist countries\n       [175]Why India is one of world's most protectionist countries\n[177]Music tech under-30s wouldn't understand\n       [179]Music tech under-30s wouldn't understand\n     * Bangladeshi woman with face covered by green fabric\n     * Northern lights over Thornham in Norfolk\n[187]'My decade photographing a magical coast'\n       [189]'My decade photographing a magical coast'\n     * A collage by French artist JR in the courtyard of the Louvre,\n       [192]The best news photos of the week\n[193]'Painting-by-numbers literally saved my life'\n       [195]'Painting-by-numbers literally saved my life'\n       [198]Assanzha gotovyatsya sudit' v SSHA."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 7284,
+        "content": "No za chto imenno?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 7310,
+        "content": "[200]C\u00f3mo la foto del agujero negro demuestra que Einstein ten\u00eda\n       raz\u00f3n: la imagen, explicada por uno de los cient\u00edficos que la hizo\n       [202]a+d+a+r+h+ p+s+t+ b+r+t+a+n+a+ a+r+s+a+l+ b+s+t+h+h+a+ p+s+t+\n       b+h+ a+r+a+n+ r+a+ m+t+w+q+f+ \u00a9r+d+\n       [204]Os cabos eleitorais que 'receberam' at\u00e9 R$ 20 mil de verba\n       p\u00fablica, mas n\u00e3o viram a cor do dinheiro\n   Copyright \u00a9 2019 BBC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 7719,
+        "content": "The BBC is not responsible for the content of\n   external sites."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 7784,
+        "content": "[261]Read about our approach to external linking."
+      }
+    }
+  ]
+}

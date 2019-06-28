@@ -1,0 +1,159 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Welcome to USA TODAY NETWORK'S EUROPEAN UNION EXPERIENCE\n   Felicity Huffman leaves the John J Moakley Federal\n   Felicity Huffman pleads guilty, says she's 'ashamed'\n   A judge blocked Trump's \"Remain in Mexico\" plan\n   Families hoping to seek asylum in the United States wait on the bridge\n   connecting Reynosa, Mexico, to Hidalgo, Texas, on March 15, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 364,
+        "content": "A Secret Service officer mans his post on the roof of the White House\n   is seen on October 29, 2008, in Washington, DC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 488,
+        "content": "Three U.S. troops, one contractor killed in Afghanistan\n   Brazil women lose to Scotland 1-0, extending crisis\n   Greg Giannini needed to get gas for his generator, because the lights\n   were flickering at his home and he was afraid he was going to lose\n   power."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 752,
+        "content": "Even though he has four wheel drive, his car got stuck at the\n   pumps and he was trying to dig out to get home as the blizzard swirled\n   around him."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 903,
+        "content": "He was stuck near North Gate Blvd. in Colorado Springs,\n   Colorado, on Wednesday, March 13, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 1005,
+        "content": "Few thumbs down for Texas Tech's 'Guns Up'\n   Texas Tech's mascot shows the \"guns up\" signal at a game this season."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 1124,
+        "content": "'Smallville' star Allison Mack pleads guilty in sex cult case\n   Allison Mack leaves Federal court Tuesday, April 24,\n   Jenna Bush Hager tears up during 'Today' debut\n   Jenna Bush Hager and Hoda Kotb picture on Feb. 27, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1355,
+        "content": "Gannett says MNG tie-up would have too much debt\n   Baseball field set on fire in attempt to dry it\n   Expert picks for Texas Tech-Virginia title game\n   Final Four: Texas Tech Red Raiders guard Matt Mooney (13) falls to the\n   court while Michigan State Spartans guard Cassius Winston (5) goes for\n   A quarter of Trump's Cabinet are 'acting' officials\n   President Donald Trump speaks at the National Republican Congressional\n   Committee's annual spring dinner in Washington, April 2, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 1852,
+        "content": "'Tough to watch': Gymnast sustains devastating injury to both legs\n   Auburn gymnast Samantha Cerio sustained devastating injuries to both\n   Carrie Underwood pumped before performing\n   Carrie Underwood welcomed her second child in January."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 2097,
+        "content": "Tiger Woods shot 65 in first Masters practice\n   Tiger Woods and caddie Joe LaCava take part in a practice round at\n   U.S. labels elite Iran military unit terror group\n   Iran's Revolutionary Guard troops march in a military parade marking\n   the 36th anniversary of Iraq's 1980 invasion of Iran."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 2395,
+        "content": "Photo: Sept. 21,\n   17-year-old star hits No. 1 with debut album\n   LOS ANGELES, CALIFORNIA - JANUARY 05: Billie Eilish attends the Sean\n   Penn J/P HRO gala benefiting J/P Haitian Relief Organization and a\n   coalition of disaster relief organizations at Wiltern Theatre on\n   January 05, 2019 in Los Angeles, California."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2718,
+        "content": "(Photo by Rich Fury/Getty\n   Images) ORG XMIT: 775269689 ORIG FILE ID: 1090315150\n   7 things you didn't know you could do with Gmail\n   Trump's Secret Service and clearances: Our view\n   Yujing Zhang, left, at her court hearing on April 8, 2019, in West Palm\n   Rural America is not 'full'; we need immigrants\n   Farm outside Creston, Iowa, on Sept. 8, 2016."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3081,
+        "content": "Facts alone don't sway anti-vaxxers."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3118,
+        "content": "So what does?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 3135,
+        "content": "Sarah Myriam of New Jersey holds her daughter Aliyah, 2, as they join\n   activists opposed to vaccinations outside a Senate Health, Education,\n   Labor and Pensions Committee hearing on the safety of vaccines on March\n   New homeland security chief known for hard stance on immigration\n   U.S. Customs and Border Protection Commissioner Kevin McAleenan\n   (center) receives a briefing at the San Ysidro Port of Entry in San\n   Buttigieg tells Pence that God made him gay\n   Democratic presidential candidate Pete Buttigieg speaks at the LGBTQ\n   Victory Fund National Champagne Brunch on April 7, 2019 in Washington."
+      }
+    }
+  ]
+}

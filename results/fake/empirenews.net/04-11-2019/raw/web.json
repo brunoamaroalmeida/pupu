@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://image.slidesharecdn.com/overachieversguidetoonlinefundraising-9stepstokickstart2012-120106122300-phpapp02/95/the-overachievers-guide-to-online-fundraising-9-steps-to-kick-start-2012-11-728.jpg?cb=1325868011"
+          },
+          {
+            "url": "http://dzinetaste.com/wp-content/themes/dzinetaste/scripts/thumb.php?src=http://dzinetaste.com/wp-content/uploads/2013/03/Website-Models-Diversity.png&w=330&h=198&zc=1&q=100"
+          },
+          {
+            "url": "https://www.rkaink.com/wp-content/uploads/2016/04/You-Dont-Want-Marie-Forleos-Website-2.jpg"
+          },
+          {
+            "url": "http://www.p51i.com/wp-content/uploads/2014/09/portfolio_0007s_0002_Forum-Upcoming.jpg"
+          },
+          {
+            "url": "http://eeservices.co/wp-content/uploads/2019/02/dating-website-template-cupid-love-business-corporate-wordpress-by.jpg"
+          },
+          {
+            "url": "https://image.shutterstock.com/image-vector/web-site-design-template-vector-260nw-71410459.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/cil12-7essentialelementsofalibrarywebsite-120325073838-phpapp01/95/seven-essential-elements-to-an-awesome-library-website-17-728.jpg?cb=1333512467"
+          },
+          {
+            "url": "https://i.pinimg.com/originals/06/4d/57/064d579fb9e6dc25f05b7c7a3e9adf28.png"
+          },
+          {
+            "url": "http://www.joenyeinc.com/wp-content/uploads/2018/11/facebook-101-how-to-make-a-band-page-on-exotic-create-website-prodigous-1.png"
+          },
+          {
+            "url": "http://healthy-websites.com/images/custom-website-developer/custom-website-design-42657-opencart-b.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.36640558
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.33511412
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2579
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.21736577
+          }
+        ]
+      }
+    }
+  ]
+}

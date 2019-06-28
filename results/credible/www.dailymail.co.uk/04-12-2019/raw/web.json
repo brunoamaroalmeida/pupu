@@ -1,0 +1,72 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "angle"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://image.slidesharecdn.com/1402persorg15ednotes-121117123140-phpapp01/95/14-02-persorg15ednotes-15-638.jpg?cb=1353155559"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://slideplayer.com/slide/11987706/68/images/33/Evaluating+Trigonometric+Functions+at+Any+Angle.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/chap3organizationstructure-090730002521-phpapp01/95/chap-3-organization-structure-26-728.jpg?cb=1248913556"
+          },
+          {
+            "url": "https://slideplayer.com/slide/7070434/24/images/2/Chapter+Objectives+Examine+why+we+need+to+assess+knowledge+management+in+an+organization..jpg"
+          },
+          {
+            "url": "https://tse2.mm.bing.net/th?id=OIP.eOa8Bh6u57wPkBLLcVd-WAHaFu"
+          },
+          {
+            "url": "https://mk0intowindows84fvao.kinstacdn.com/wp-content/uploads/2016/11/change-registered-owner-and-organization-name-Windows-10_thumb.png"
+          },
+          {
+            "url": "https://images.slideplayer.com/5/1512691/slides/slide_10.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/isoppt2-160729050052/95/iso-international-organization-for-standardization-11-638.jpg?cb=1469768639"
+          },
+          {
+            "url": "https://slideplayer.com/slide/7669757/25/images/32/Exhibit+1-7+The+Changing+Organization.jpg"
+          },
+          {
+            "url": "x-raw-image:///74db32bc3fa3173987a4c85be5f3978cc176e41dccffab47cb0f3aa0b67ef34a"
+          },
+          {
+            "url": "https://www.proofpoint.com/sites/default/files/auf2.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.27544186
+          },
+          {
+            "description": "Angle",
+            "entityId": "/m/0mwc",
+            "score": 0.26896796
+          },
+          {
+            "description": "Organization",
+            "entityId": "/m/0qb7t",
+            "score": 0.26722294
+          },
+          {
+            "description": "Document",
+            "entityId": "/m/015bv3",
+            "score": 0.2391632
+          }
+        ]
+      }
+    }
+  ]
+}

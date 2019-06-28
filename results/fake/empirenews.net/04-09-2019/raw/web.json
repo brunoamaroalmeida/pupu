@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://image.slidesharecdn.com/13thingsyoucandotoavoidasocialmediacrisisbypstaunstrup-140908161050-phpapp01/95/13-things-you-can-do-to-avoid-a-social-media-crisis-by-pstaunstrup-3-638.jpg?cb=1410411130"
+          },
+          {
+            "url": "https://www.totalwebdesign.com.au/wp-content/uploads/2018/01/ecommerce-website-design-4.png"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/social-media-overview2013v3-130130134334-phpapp02/95/your-sewer-district-and-social-media-how-neorsd-is-using-it-learning-from-it-educating-with-it-25-638.jpg?cb=1359556884"
+          },
+          {
+            "url": "http://giraldomedia.com/wp-content/uploads/2015/12/website_screenshot_latest-800x580.jpg"
+          },
+          {
+            "url": "http://www.codescratcher.com/wp-content/uploads/2015/01/Static-Website-with-Slider-Gallery-Contact-Form-and-Google-Map-in-ASP.jpg"
+          },
+          {
+            "url": "https://uploads-ssl.webflow.com/59553bdc8be06f2db8ae21eb/5a70ebb0ef38d10001c9733d_screenshot-westside-tablet.png"
+          },
+          {
+            "url": "https://greatsonmedia.com/content/portfolio/deepdj.jpg"
+          },
+          {
+            "url": "https://www.clickz.com/wp-content/uploads/sites/2/2016/08/China_Social-Media_Burburry_Featured-Image.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/p2psexedabbreviated-150217001219-conversion-gate02/95/peertopeer-sex-education-in-social-media-games-41-638.jpg?cb=1424947854"
+          },
+          {
+            "url": "http://www.codescratcher.com/wp-content/uploads/2014/12/Static-Website-in-ASP.NET_-520x245.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.37674287
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.22209278
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.20365547
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "new york times",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://img.stackshare.io/featured_posts/stack_stories_nyt_stackshare_nyt-homepage.png"
+          },
+          {
+            "url": "https://www.richroll.com/wp-content/uploads/podcast/NYTIMES-HOMEPAGE-9.29.151.png"
+          },
+          {
+            "url": "https://static.adweek.com/adweek.com-prod/wp-content/uploads/files/news_article/nyt-relaunch-hed-2013.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/59750e6bb3db2b4e8b011c47/t/5a590f3f9140b75f8712b183/1515786416341/Screenshot+2018-01-11+17.11.41.png"
+          },
+          {
+            "url": "https://typekit.files.wordpress.com/2009/12/skimmer.png"
+          },
+          {
+            "url": "https://studio.zeldman.com/wp-content/uploads/2016/09/portfolio-nyt3-1024x632.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/5820d5c03e00be92419008ba/t/5a09db8124a6942e84219db3/1510595477187/Screen+Shot+2017-11-13+at+11.50.34+AM.png"
+          },
+          {
+            "url": "https://lh3.googleusercontent.com/46FzhT4-EKsIH6Y3s-V2Rctt-_75iNRWqHUdS13JG1Xbl5eSsN3lM63zNsqRkWlSX1VuPrGn=w640-h400-e365"
+          },
+          {
+            "url": "https://profdaly.files.wordpress.com/2014/01/screen-shot-2014-01-08-at-11-11-00-am.png"
+          },
+          {
+            "url": "http://damianduffy.net/wp-content/uploads/2017/01/Hardcover-Graphic-Books-Best-Sellers-The-New-York-Times-Jan-29-2017-1024x485.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.36864543
+          },
+          {
+            "description": "New York",
+            "entityId": "/m/02_286",
+            "score": 0.29070002
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.24793947
+          },
+          {
+            "description": "The New York Times",
+            "entityId": "/m/07k2d",
+            "score": 0.201
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1932
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1892
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]next [2]The Business Standard News \u00bb Feed [3]The Business Standard\n   [8]15 hours ago April 9, 2019April 9, 2019\n[9]Trump Supporters Wants Fascist Joe Arpaio For DHS Secretary\n   [11]5 days ago April 5, 2019April 5, 2019\n[12]Black Nationalist Group: Illuminati Killed Nipsey Hussle to Stop Him From\n   [13]6 days ago April 4, 2019April 4, 2019\n[14]Bakker: Trump's Mental Decline Caused By Attacks From `Witch of the Year'\n   [15]1 week ago April 3, 2019April 3, 2019\n[16]Robertson Claims Vision of Jesus With AK-47, Camo Means He'll Soon Return\n   [17]1 week ago April 1, 2019April 1, 2019\n[18]Dollar: Why Shouldn't John Gray's Wife Have A Lambo, God Gave Me a Jet\n   [19]Andrew Napolitano speaking at podium\n   [20]1 week ago March 31, 2019March 31, 2019\n[21]Racists Claim Napolitano Is Under `Jewish Mind Control' After He Says\n   [22]2 weeks ago March 30, 2019March 30, 2019\n[23]GOP: Facebook Crackdown on White Nationalists Will Affect Our Numbers\n   [25]2 weeks ago March 29, 2019March 30, 2019\n[26"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1011,
+        "content": "]QAnon Follower: Jussie Smollett Was Freed Because He's Michelle Obama's\n   [28]2 weeks ago March 28, 2019March 28, 2019\n[29]Pastor Robert Jeffress Claims Obama Admin."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 1179,
+        "content": "Was `Infested With Demons'\n[32]White Nationalist Group: Obama's Deep State Agents Freed Jussie Smollett\n   [36]//rcm-na.amazon-adsystem.com/e/cm?o=1&p=29&l=ur1&category=electroni\n   cs&f=ifr&linkID=d7712e1b0c860f07ba2044b4159e3176&t=afolabi70-20&trackin\n     * [37]MONDAY'S #ZOWHAT?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1462,
+        "content": "Baltimore Cop Resigns, NFL Male Cheer,\n       Omarosa & More!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 1524,
+        "content": "- Trenz.today on [38]Graham: California Fires Are\n       Divine Punishment for Defying Trump, Gay Marriage\n     * [39]MONDAY'S #ZOWHAT?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1660,
+        "content": "Baltimore Cop Resigns, NFL Male Cheer,\n       Omarosa & More!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 1722,
+        "content": "- NFL PLAYER NEWS- Fantasy Football News Insight &\n       Analysis on [40]Graham: California Fires Are Divine Punishment for\n     * [41]Graham: California Fires Are Divine Punishment for Defying\n       Trump, Gay Marriage - The Business Standard News on [42]Graham:\n       California Fires Are Divine Punishment for Defying Trump, Gay\n     * [43]Trump Supporters Wants Fascist Joe Arpaio For DHS Secretary\n     * [44]Black Nationalist Group: Illuminati Killed Nipsey Hussle to\n     * [45]Bakker: Trump's Mental Decline Caused By Attacks From `Witch of\n   Search for: ____________________ Search"
+      }
+    }
+  ]
+}

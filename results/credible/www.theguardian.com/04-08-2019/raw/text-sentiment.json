@@ -1,0 +1,369 @@
+{
+  "documentSentiment": {
+    "magnitude": 11.8,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]alternate [2]alternate [3]alternate [4]alternate [5]publisher\n   Available for everyone, funded by readers\n   [10]Contribute [11]Subscribe [12]Contribute\n         ______________________________________________________________\n         ______________________________________________________________\n     * [23]switch to the International edition\n     * [26]switch to the Australia edition\n   current edition: International edition\n   ____________________ What term do you want to search?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 494,
+        "content": "(BUTTON) Search\n          + [78]switch to the Australia edition\nNews, sport and opinion from the Guardian's global edition\n[111]Secret Service Trump fires director amid `near-systematic purge' of\n       Randolph Alles's departure comes at a time of high turnover across\n       the department and a day after Kirstjen Nielsen departed\n          + [112]Live Trump reportedly issued order to close El Paso\n          + [113]Kirstjen Nielsen Homeland security secretary resigns\n          + [114]Opinion [115]Kirstjen Nielsen, you were the worst\n          + [116]Live Trump reportedly issued order to close El Paso\n          + [117]Kirstjen Nielsen Homeland security secretary resigns\n          + [118]Opinion [119]Kirstjen Nielsen, you were the worst\n       [120]Trump fires director amid `near-systematic purge' of agency\n[121]'We're frightened' Tripoli braces as fighting reaches suburbs\n       Violence at edge of capital contrasts with tense calm in city\n          + [122]Libya [123]Crisis escalates as warplane strikes Tripoli\n          + [124]Libya [125]Crisis escalates as warplane strikes Tripoli\n       [126]Tripoli braces as fighting reaches suburbs\n[127]Brexit May risks wrath of Tory Brexiters to plead with EU for more time\n       PM to ask Merkel and Macron for a Brexit extension, promising UK\n       will follow EU rules until departure"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1842,
+        "content": "day\n          + [128]Live Government sets date for participation in EU\n          + [129]Analysis Pressure for Merkel and Macron as May seeks more\n          + [130]Brexit Departure date could be fixed by small group of EU\n          + [131]Live Government sets date for participation in EU\n          + [132]Analysis Pressure for Merkel and Macron as May seeks more\n          + [133]Brexit Departure date could be fixed by small group of EU\n       [134]May risks wrath of Tory Brexiters to plead with EU for more\n[135]Brazil 10 soldiers arrested after firing more than 80 bullets into\n            One man was killed and two others wounded after army patrol\n            opened fire on family driving to a baby shower\n            [136]10 soldiers arrested after firing more than 80 bullets\n[137]Felicity Huffman Actor to plead guilty in college admissions cheating\n            [138]Actor to plead guilty in college admissions cheating case\n[139]Mar-a-Lago Woman arrested for security breach had device to detect\n            [140]Woman arrested for security breach had device to detect\n[141]Science Researchers reverse memory decline using electrical pulses\n            [142]Researchers reverse memory decline using electrical\n[143]Apple Students accused of cheating company out of nearly $1m in fake\n            [144]Students accused of cheating company out of nearly $1m in\n[145]Environment"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3229,
+        "content": "Pesticides and antibiotics polluting streams across Europe\n            [146]Pesticides and antibiotics polluting streams across\n[147]European Union MEPs back fines for web firms that fail to remove\n            [148]MEPs back fines for web firms that fail to remove\n[149]Iran Trump designates Revolutionary Guards as foreign terrorist\n            [150]Trump designates Revolutionary Guards as foreign\n   Could Facebook be listening to its users in order to target ads at\n   them, asks Alex Hern."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3724,
+        "content": "Plus: George Monbiot on `rewilding' the planet to\n   Subscribe: [152]Apple Podcasts [153]Google Podcasts [154]Spotify\n   Subscribe: [155]Apple Podcasts [156]Google Podcasts [157]Spotify\n[161]Shades of Black Why dark-skinned black girls like me aren't getting\n       Black women in America marry less than others - and the numbers are\n       even lower for darker skinned black women."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 4108,
+        "content": "As part of a new series,\n       Dream McClinton, writes about her dating experience\n       [162]Why dark-skinned black girls like me aren't getting married\n[163]'Everyone wins' The booming business for smuggling people to the US\n       Families - rather than single adults - from Central America are the\n       big growth sector as poverty, violence and Trump's immigration\n       [164]The booming business for smuggling people to the US\n[165]Hold on to your hard hats New York's $475m Shed throws open its doors\n            The escalators need fixing and there's no bar - but the show\n            must go on, as stars from Ben Whishaw to Steve McQueen open\n            NYC's first major new arts venue for decades\n            [166]New York's $475m Shed throws open its doors\n[167]Burger King Plant-based Whopper gets glowing review - from a meat\n            Impossible Whopper's realistic taste is a `wake-up call' to\n            livestock farmers, Eric Bohl of the Missouri Farm Bureau said\n            [168]Plant-based Whopper gets glowing review - from a meat\n[169]Edvard Munch Booze, bullets and breakdowns\n            [170]Booze, bullets and breakdowns\n[171]'I am not here to entertain' Meet Thailand's first transgender MP\n            [172]Meet Thailand's first transgender MP\n[173]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5397,
+        "content": "How we met I never expected to have a relationship again."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5455,
+        "content": "This was out\n            [174]I never expected to have a relationship again."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 5532,
+        "content": "This was\n[175]Amazing Grace The story behind the electrifying Aretha Franklin movie\n            [176]The story behind the electrifying Aretha Franklin movie\n[177]Barack Obama is stuck in the past."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5729,
+        "content": "He represents the old Democratic\n       The former president says he's worried about `purity' tests in the\n       Democratic party."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5861,
+        "content": "What he's really worried about is his surrogates\n       [178]Barack Obama is stuck in the past."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 5957,
+        "content": "He represents the old\n[179]The secret of Netanyahu's success?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6019,
+        "content": "A simple tale of good versus evil\n       The Israeli prime minister's narrative is raising a generation for\n       whom peace would mean betrayal, says author and psychologist Ayelet\n       [180]The secret of Netanyahu's success?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 6249,
+        "content": "A simple tale of good\n[181]Wall Street loves socialism for bankers -  but not for ordinary people\n       JPMorgan CEO Jamie Dimon decries socialism."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6398,
+        "content": "Unless of course it's\n       the banks that need a government bailout, says the former US\n       [182]Wall Street loves socialism for bankers -  but not for\n[183]A Brexit compromise is in view."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 6592,
+        "content": "A customs union is the only solution\n            [184]A Brexit compromise is in view."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6678,
+        "content": "A customs union is the\n[185]Should Labour support a second Brexit referendum?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6768,
+        "content": "Gloria De Piero and Jess Phillips\n            [186]Should Labour support a second Brexit referendum?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6869,
+        "content": "[187]Bulldozing mosques: the latest tactic in China's war against Uighur\n            [188]Bulldozing mosques: the latest tactic in China's war\n[190]Guardiola awaits Spurs test in City's `quintuple' quest\n       City's manager wants Community Shield win noted before a fierce\n       Champions League welcome at Spurs' new ground\n          + [191]Tottenham Pochettino urges side to match City's desire\n          + [192]Jonathan Wilson Spurs' error-prone ways may damage hopes\n          + [193]The Fiver [194]Sign up for our free daily football email\n          + [195]Tottenham Pochettino urges side to match City's desire\n          + [196]Jonathan Wilson Spurs' error-prone ways may damage hopes\n          + [197]The Fiver [198]Sign up for our free daily football email\n       [199]Guardiola awaits Spurs test in City's `quintuple' quest\n[200]Chelsea 2-0 West Ham Hazard masterclass lifts Blues to third\n       Eden Hazard scored a superb solo effort and a late second in an\n       outstanding individual display to seal victory for Chelsea\n          + [201]As it happened Jacob Steinberg's MBM report\n          + [202]As it happened Jacob Steinberg's MBM report\n       [203]Hazard masterclass lifts Blues to third\n[204]Fleetwood vows to keep taking risks for major reward\n            Fleetwood will not be"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 8174,
+        "content": "changing his strategy on his third visit\n            to Augusta as he seeks that elusive first major\n               o [205]`I still find it crazy' Wallace goes from Alps Tour\n               o [206]`I still find it crazy' Wallace goes from Alps Tour\n            [207]Fleetwood vows to keep taking risks for major reward\n[208]Toni Duggan I've been bigging up the Spain game like a World Cup final\n            The England and Barcelona forward cannot wait for Tuesday's\n            friendly against her adopted country\n            [209]I've been bigging up the Spain game like a World Cup\n[210]Christian Wade Former Wasps and England wing signs for NFL's Buffalo\n            [211]Former Wasps and England wing signs for NFL's Buffalo\n[212]Paul Pogba United priced Barcelona out of move, says Bartomeu\n            [213]United priced Barcelona out of move, says Bartomeu\n[214]NBA James praises Korver for criticism of white privilege\n            [215]James praises Korver for criticism of white privilege\n[216]Bar\u00e7a bag another title as rivals scratch their heads\n            [217]Bar\u00e7a bag another title as rivals scratch their heads\n[219]Volcanoes 'Hovercraft effect' may explain deadly speed of gas clouds\n       Superheated gases and rock fragments can reach speeds of up to\n       400mph by travelling on cushion of air, say scientists\n       [220]'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 9525,
+        "content": "Hovercraft effect' may explain deadly speed of gas clouds\n[221]US wildlife Trump administration sabotages major conservation effort\n       Revealed: federal support to research centers cut off as scientists\n       fear years of successful work will go `down the drain'\n       [222]Trump administration sabotages major conservation effort\n[223]Canada Social media companies may be regulated to avoid election\n            [224]Social media companies may be regulated to avoid election\n[225]Israel Netanyahu rallies right wing in Jerusalem ahead of election\n            [226]Netanyahu rallies right wing in Jerusalem ahead of\n[227]The far right Matteo Salvini launches campaign to forge alliance\n            [228]Matteo Salvini launches campaign to forge alliance\n[229]Q&A What does the battle for Tripoli mean for Libya and the region?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 10371,
+        "content": "[230]What does the battle for Tripoli mean for Libya and the\n[231]Sudan Security forces use teargas against peaceful protesters\n            [232]Security forces use teargas against peaceful protesters\n[233]Russia Country moves to free nearly 100 captive whales after outcry\n            [234]Country moves to free nearly 100 captive whales after\n     * [235]The parents of the Brits killed fighting Isis\n       Watch now at theguardian.com/documentaries\n[236]The month's best music 50 great tracks for April by Holly Herndon, Amon\n       This month's roundup of new music includes Lizzo going toe to toe\n       with Missy Elliott, plus Latin pop, morning sex R&B and trance\n       [237]50 great tracks for April by Holly Herndon, Amon Amarth, Shura\n[238]Ebooks Philip Pullman leads call for UK government action on piracy\n       Pullman calls piracy `an offence against moral justice' as authors\n       including Kazuo Ishiguro and Margaret Drabble issue warning to\n       [239]Philip Pullman leads call for UK government action on piracy\n[240]Coachella Solange pulls out of festival 2019 due to 'production delays'\n       R&B star was due to do two Saturday performances at the Californian\n       [241]Solange pulls out of festival 2019 due to 'production delays'\n[242]Late-night TV roundup John Oliver rips private equity in mobile home\nparks as if 'income inequality"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 11740,
+        "content": "came to life'\n            [243]John Oliver rips private equity in mobile home parks as\n            if 'income inequality came to life'\n[244]Jump the Shark Luther (van) dross: how Idris Elba's show lost its grit\n            [245]Luther (van) dross: how Idris Elba's show lost its grit\n[246]John Oliver Pence parody about gay rabbit among most-objected books in\n            [247]Pence parody about gay rabbit among most-objected books\n[248]Relationships My wife won't have sex with me."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12224,
+        "content": "Do we have a future\n            We live and work together, but she doesn't want anything else\n            [249]My wife won't have sex with me."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 12367,
+        "content": "Do we have a future\n[250]Money Why women need to stop saving their cash - and start investing\n            Money is still a taboo subject for women and they are the\n            poorer for it."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 12558,
+        "content": "But it's easy to invest in stocks and shares,\n            [251]Why women need to stop saving their cash - and start\n[252]Cat-inet reshuffles The long history of felines in politics\n            [253]The long history of felines in politics\n[254]Wellness or hellness?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 12823,
+        "content": "Oura - track your sleep the Prince Harry way\n            [255]Oura - track your sleep the Prince Harry way\n[256]Walking holidays How to see five UK national parks by public transport\n            [257]How to see five UK national parks by public transport\n[258]Tampons Five ways to give up using them\n            [259]Five ways to give up using them\n       Share stories with the Guardian securely and confidentially\n   Paid content is paid for and controlled by an advertiser and produced\n   by the Guardian Labs team."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 13341,
+        "content": "[261]Learn more about Guardian Labs content\nNot so set in stone The startup `growing' a sustainable alternative to\n   Concrete is the world's second-most consumed material, and its\n   production and use exacts a huge toll on the environment\n`All brands need to change' Why small labels lead the charge for sustainable\n   Constantly shifting trends and the rise of fast fashion have taken a\nOcean plastic Could this river-based `bubble barrier' help solve the problem?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 13812,
+        "content": "A Dutch startup is doing everything it can to capture plastic waste\nSupermarket sweep The innovators clearing Britain's aisles of plastic\n   The search for sustainable alternatives is about to hit full swing\n   [268]Postcode Lotteries Green Challenge\n[270]Shades of Black My toxic love affair with skin lightening creams\n       As part of a new series, Stephanie Yeboah writes about starting to\n       use skin lighteners when she was 14."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 14251,
+        "content": "It didn't take long for\n       [271]My toxic love affair with skin lightening creams\n[272]'An example to all' The Mongolian herders who took on a corporate\n       Displaced from their land by multinational mining companies,\n       nomadic herders defied the odds to preserve their heritage for\n       [273]The Mongolian herders who took on a corporate behemoth - and\n[274]From street artist to kickboxer Trailblazing women of Kabul\n       The Women by Women project commissions local female photographers\n       to tell the stories of trendsetting women and girls, in countries\n       where the charity ActionAid works."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 14871,
+        "content": "The series starts with these\n       stories of radical women in Kabul, including a street artist, a\n[276]Everything you need to know Israelis prepare to go to the polls\n            [277]Israelis prepare to go to the polls\n[278]Demolition derby The human cost of Addis Ababa's rapid growth\n            [279]The human cost of Addis Ababa's rapid growth\n[280]The briefing What's at stake as India's 900m voters head for the polls?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 15311,
+        "content": "[281]What's at stake as India's 900m voters head for the\n[284]'People don't even look at me' Black women discuss politics of light and\n[285]Plastic in paradise The battle for the Gal\u00e1pagos Islands' future\n[286]'Let gay Muslims be gay' Owen Jones goes to the centre of the LGBT\n[287]The biggest revolution in gene editing Crispr-Cas9 explained\n[288]Explainer The far right and mainstream Australian politics\n[293]Monday's top photos Nipsey Hussle and a Rwandan tribute\n       Guardian picture editors select photo highlights from around the\n       [294]Nipsey Hussle and a Rwandan tribute\n[295]Olivier awards 2019 Stars on the red carpet\n       Gillian Anderson, Tom Hiddleston, Sophie Okonedo and Danny Dyer are\n       among those arriving for the theatre awards at the Royal Albert\n          + [296]Olivier awards [297]List of winners\n          + [298]Olivier awards [299]List of winners\n[301]To the manor reborn The latest spring styles in regency splendour\n       What better backdrop for the new looks for spring than the\n       refurbished Pitzhanger Manor in west London."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 16390,
+        "content": "Designed by Sir John\n       Soane, this Regency masterpiece has now been restored and reopened\n       [302]The latest spring styles in regency splendour\n[303]The weekend's best photos Spring blooms and aerial shows\n       Guardian picture editors select photo highlights from around the\n       [304]Spring blooms and aerial shows\n[305]Watch the birdie Swedish birds pose for the camera\n       The photographer aStephen Gill captures birds to spectacular effect\n       [306]Swedish birds pose for the camera\n[307]20 photographs of the week Brexit, Rwanda, Venezuela and protests in\n       The continuing Brexit crisis, the 25th anniversary of the genocide\n       in Rwanda, the crisis in Venezuela and migrant protests in Greece -\n       the week captured by the world's best photojournalists\n       [308]Brexit, Rwanda, Venezuela and protests in Greece\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 17250,
+        "content": "[310]Most popular Across the guardian\n[311]Live Brexit: Parliament votes through bill to prevent no-deal - live\n[312]Trump fires Secret Service director amid `near-systematic purge' of\n[313]Chelsea 2-0 West Ham: Premier League - as it happened\n[314]Brexiter MPs pursue fresh bid to oust May by indicative votes\n[315]Britain is in a grimmer state than I can ever remember\n[316]Pleeze Sir Graham Brady Sir, can we have anuvver go to get rid of the\n[317]Why dark-skinned black girls like me aren't getting married\n[318]May risks wrath of Conservative Brexiters to plead with EU for more time\n[319]Why women need to stop saving their cash - and start investing\n[320]UK's new Brexit date could be fixed by small group of EU leaders\n   IFRAME: [336]/email/form/footer/today-uk\n   Available for everyone, funded by readers\n   \u00a9 2019 Guardian News & Media Limited or its affiliated companies."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 18136,
+        "content": "All\n   [p?c1=2&c2=6035250&cv=2.0&cj=1&comscorekw=]\n   6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 18193,
+        "content": "ios-app://409128287/gnmguardian/international?contenttype=front&source=google"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.85250396,
+          "topicality": 0.85250396
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.8419632,
+          "topicality": 0.8419632
+        },
+        {
+          "description": "Organ",
+          "mid": "/m/013y0j",
+          "score": 0.7948495,
+          "topicality": 0.7948495
+        },
+        {
+          "description": "Mouth",
+          "mid": "/m/0283dt1",
+          "score": 0.7556864,
+          "topicality": 0.7556864
+        },
+        {
+          "description": "Organism",
+          "mid": "/m/05nnm",
+          "score": 0.71515906,
+          "topicality": 0.71515906
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.6277036,
+          "topicality": 0.6277036
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.57172424,
+          "topicality": 0.57172424
+        },
+        {
+          "description": "Ear",
+          "mid": "/m/039xj_",
+          "score": 0.51232,
+          "topicality": 0.51232
+        }
+      ]
+    }
+  ]
+}

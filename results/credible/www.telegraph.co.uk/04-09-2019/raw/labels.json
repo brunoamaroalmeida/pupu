@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.8811548,
+          "topicality": 0.8811548
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.8007281,
+          "topicality": 0.8007281
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.69568735,
+          "topicality": 0.69568735
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.6369653,
+          "topicality": 0.6369653
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.63049066,
+          "topicality": 0.63049066
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.6178134,
+          "topicality": 0.6178134
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.6154919,
+          "topicality": 0.6154919
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.5769428,
+          "topicality": 0.5769428
+        },
+        {
+          "description": "Employment",
+          "mid": "/m/01tqrk",
+          "score": 0.51652384,
+          "topicality": 0.51652384
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "documentSentiment": {
+    "magnitude": 8.4,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "[2]Skip to content[3]Skip to site index\n   Adam Higginbotham talks about his new history of the Chernobyl\n   A deceptively simple way to find more happiness at work."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 172,
+        "content": "Solve this bite-sized puzzle in just a few minutes."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 224,
+        "content": "More Top Homeland Security Officials Set to Leave in Trump Purge\n     * President Trump moved to sweep the department's top ranks, a day\n       after pushing out its secretary, Kirstjen Nielsen."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 424,
+        "content": "* Three more leaders were expected to leave, including the Secret\n       Service director, in a housecleaning of immigration and security\n   President Trump sought the resignation of the director of the Secret\n   Service, in part because of the recent arrest of a Chinese woman at the\n   Mar-a-Lago resort."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 731,
+        "content": "Doug Mills/The New York Times\nMr. Trump has pushed aides for months to restart the practice of separating\nimmigrant parents and children at the border."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 883,
+        "content": "The woman from China who gained entry to Mar-a-Lago had a device used to\ndetect hidden cameras, a prosecutor said."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1001,
+        "content": "President Trump sought the resignation of the director of the Secret\n   Service, in part because of the recent arrest of a Chinese woman at the\n   Mar-a-Lago resort."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1167,
+        "content": "Doug Mills/The New York Times\nTrump Designates Iran's Revolutionary Guard Corps a Terrorist Group\n     * President Trump's action is the first time the United States has\n       named a part of another nation's government at that threat level."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 1415,
+        "content": "* Top Pentagon and C.I.A."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1441,
+        "content": "officials opposed the designation, which\n       they argued would allow hardline Iranian officials to justify\n       deadly operations against Americans."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1595,
+        "content": "Felicity Huffman to Plead Guilty in College Admissions Scandal\n     * The actress is the best-known figure to admit wrongdoing in the\n       investigation, which found faked test scores, phony athletic\n     * Prosecutors said that 12 other parents and one coach had also\n       agreed to plead guilty in the case."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1912,
+        "content": "Felicity Huffman left a federal court hearing in Boston earlier this\n   month."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 1991,
+        "content": "Sarah Rice for The New York Times\nAn Olympic Cyclist Seemed Destined for Glory."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 2071,
+        "content": "Why Did She Kill Herself?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2100,
+        "content": "Kelly Catlin was lining up for a shot at gold."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 2147,
+        "content": "And her mathematical\n   mind would open job opportunities off the track."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2220,
+        "content": "But torment lurked\n   Kelly Catlin, a three-time world champion track cyclist, seemed\n   destined to be a star on the American team at the 2020 Olympic Games in\nWith `Unplanned,' Abortion Opponents Turn Toward Hollywood\n   The makers of the divisive anti-abortion movie -- a word-of-mouth hit\n   that a physician called misleading -- say they've been shunned by\nA Rail Journey Into the Horn of Africa's Past, and Future\n   A new train from the Ethiopian capital to the Djibouti coast offers a\n   desert journey into parts of East Africa that have been off the tourist\n   A forest of pinnacles near Lake Abb\u00e9."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 2830,
+        "content": "Marcus Westberg for The New York\n   The tax cut fizzled; send in the clowns!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2910,
+        "content": "Kirstjen Nielsen is the latest one out of the president's spiraling\n   cabinet who expressed his cruelty but wouldn't go as far as he wanted."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3052,
+        "content": "To Reform the Police, Target Their Union Contract\nKirstjen Nielsen Enforced Cruelty at the Border."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 3151,
+        "content": "Her Replacement Could Be\n   Here is our obsessive run-up to the final season, which will begin on\nArabic-Speaking TV Host Wades Into Germany's Culture Wars\n   Jafaar Abdul Karim is not afraid to take on issues that many Muslim\n   refugees in the country consider taboo."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 3421,
+        "content": "And, yes, he has had death\n`I Really Just Wanted the Comfort of My Husband's Being There'\n   Asking for flowers before surgery, help hailing a cab on East Houston\n   Street and more reader tales of New York City in this week's\n   We'd like your thoughts on the New York Times home page\n   experience.[59]Let us know what you think\n   Azqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x"
+      }
+    }
+  ]
+}

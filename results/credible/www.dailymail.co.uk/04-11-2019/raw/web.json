@@ -1,0 +1,72 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "daily mail",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.reasonandreality.org/wp-content/uploads/2013/11/DailyMailGBrown-expenses.gif"
+          },
+          {
+            "url": "http://2.bp.blogspot.com/-tqRqMH7Nv2I/VCnzFdowHLI/AAAAAAAAXo0/y-zwChDR2_o/s1600/mail.JPG"
+          },
+          {
+            "url": "https://pics.me.me/jason-koebler-jason-koebler-this-is-the-best-dailymail-com-home-23796860.png"
+          },
+          {
+            "url": "http://www.transadvocate.com/wp-content/uploads/2013/10/daily-mail.png"
+          },
+          {
+            "url": "https://sophosnews.files.wordpress.com/2012/11/daily-mail-email.jpg?w=380"
+          },
+          {
+            "url": "https://i.dailymail.co.uk/i/newpix/2018/10/23/03/518CFB0E00000578-6305517-image-a-39_1540260407251.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/5b8ede0689c1728d423679f8/5bf1dbb8032be406b1a33777/5bf1dbb84fa51adec12f62b7/1543266825726/FireShot+Capture+158+-+World+Diabetes+Day_+Could+you+name+th_+-+https___www.dailymail.co.uk_wires_.png?format=300w"
+          },
+          {
+            "url": "http://eu-rope.ideasoneurope.eu/files/2014/01/Mail-Correction.gif"
+          },
+          {
+            "url": "https://media.breitbart.com/media/2018/12/Mail-correction.jpg"
+          },
+          {
+            "url": "http://callismakesfilms.co.uk/wp-content/uploads/2017/03/Daily-Mail-The-Sun-Google-Terrorism-Screen-Grab-of-SERP.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Daily Mail",
+            "entityId": "/m/0180v2",
+            "score": 0.3239
+          },
+          {
+            "description": "MailOnline",
+            "entityId": "/m/02z3n9c",
+            "score": 0.2714
+          },
+          {
+            "entityId": "/t/27v_vt2_tp0w6",
+            "score": 0.2714
+          },
+          {
+            "description": "Document",
+            "entityId": "/m/015bv3",
+            "score": 0.24152768
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.22719552
+          }
+        ]
+      }
+    }
+  ]
+}

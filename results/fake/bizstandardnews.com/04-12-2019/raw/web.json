@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://vvpedulink.ac.in/wp-content/uploads/2014/06/2.png"
+          },
+          {
+            "url": "https://acs-web.com/media/1045/high-impact-marketing-brochures-general-by-acs-inc-web-design-and-seo.png"
+          },
+          {
+            "url": "https://s3images.coroflot.com/user_files/individual_files/large_472495_qefg2o0ybacxugmip65hcctkf.jpg"
+          },
+          {
+            "url": "https://s3images.coroflot.com/user_files/individual_files/large_292575_lUQuVvRDizMHJyEUSZiTWYIGh.jpg"
+          },
+          {
+            "url": "http://img.directindustry.com/pdf/repository_di/153083/fluidscan-q1100-594669_1b.jpg"
+          },
+          {
+            "url": "http://img.directindustry.com/pdf/repository_di/894/news-factory-automation-36475_1b.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/d8e56f98-fe1b-4d33-a76e-d286157feee5-160803020201/95/aim-control-brochure-1-638.jpg?cb=1470190247"
+          },
+          {
+            "url": "https://www.bestdestinationwedding.com/image/id/450727/width/1000/height/500"
+          },
+          {
+            "url": "https://www.rocb-europe.org/files/promo/brochure.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/52dd94c7e4b032209174c4fe/t/5beb1fa70e2e72b9d8e43633/1542135752792/WaterHeroBrochure_Cover.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.35685867
+          },
+          {
+            "description": "Henning Municipal Airport",
+            "entityId": "/m/0jk_byc",
+            "score": 0.3051
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2769
+          },
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.27307233
+          },
+          {
+            "description": "Water resources",
+            "entityId": "/m/015s2f",
+            "score": 0.23911197
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.22590582
+          },
+          {
+            "description": "Water",
+            "entityId": "/m/0838f",
+            "score": 0.2154
+          },
+          {
+            "description": "Brochure",
+            "entityId": "/g/121lmpw8",
+            "score": 0.2116
+          },
+          {
+            "description": "Organism",
+            "entityId": "/m/05nnm",
+            "score": 0.20754093
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.19937186
+          }
+        ]
+      }
+    }
+  ]
+}

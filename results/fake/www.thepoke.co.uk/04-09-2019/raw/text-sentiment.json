@@ -1,0 +1,79 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]next [2]The Poke \u00bb Feed [3]The Poke \u00bb Comments Feed\n   Theresa May's meeting with Angela Merkel got off to the most awkward\n   Roald Dahl's shutdown of anti-vaxxers is even more relevant today than\n   Just a lovely optical illusion and a very satisfying watch once you\n   Just a great spoof Boris Johnson Tory leadership campaign video\n   This machine was invented to help shy men give sperm - the only 11\n   This woman's humiliating attempt to ride a circus camel is the ultimate\n   Daily Mail readers calling out the Queen as a traitor is today's best\n   Nigel Farage did a Theresa May-style video and there was one thing\n   about it even more irritating than Nigel Farage\n   The comments on this men's fashion page are funny AF\n   7 favourite takedowns of the guy who mansplained why women shouldn't\n   Just watching this axe-throwing near-miss will give you chills\n   A writer shared the `invisible work' her friend did that her husband\n   never noticed and it's fair to say it struck a chord\n   Game of Thrones meets the Coldstream Guards in unlikely Tower of London\n   This first person piece from 1890 on `What Being Ugly is Like' is a\n   This is why you should never try to sneak up on a goose\n   People love this teacher's `mental health check-in' chart so much\n   \"Graffiti"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 1293,
+        "content": "artist versus council cleaner\" was the match of the year\n   \"What's the most surreal encounter you've had with someone famous?\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 1421,
+        "content": "-\n   Daily Mail readers calling out the Queen as a traitor is today's best\n   `Hammer wielding thief didn't anticipate pepper spray' is a cautionary\n   This machine was invented to help shy men give sperm - the only 11\n   All those words that get on your nerves in one video - totes annoying\n   7 favourite takedowns of the guy who mansplained why women shouldn't\n   23 times the customer really wasn't right and they're very funny and\n   This obituary is the most brutally but hilariously honest you'll read\n   \"Graffiti artist versus council cleaner\" was the match of the year\n   This maths lecturer's next level prank on his class is so funny and\n   \u00a9 The Poke 2019"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2097,
+        "content": "[20]T&C's"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2113,
+        "content": "[21]Cookie Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2137,
+        "content": "[22]Privacy Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2161,
+        "content": "[23]Contact Us"
+      }
+    }
+  ]
+}

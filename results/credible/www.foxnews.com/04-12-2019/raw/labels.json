@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.944714,
+          "topicality": 0.944714
+        },
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.891346,
+          "topicality": 0.891346
+        },
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.8617738,
+          "topicality": 0.8617738
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.8100443,
+          "topicality": 0.8100443
+        },
+        {
+          "description": "Newspaper",
+          "mid": "/m/05jnl",
+          "score": 0.643974,
+          "topicality": 0.643974
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.59408087,
+          "topicality": 0.59408087
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.5520928,
+          "topicality": 0.5520928
+        }
+      ]
+    }
+  ]
+}

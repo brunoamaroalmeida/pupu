@@ -1,0 +1,72 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "jaw"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.portjeffersonsmiles.com/wp-content/uploads/2018/10/dentist-1.jpg"
+          },
+          {
+            "url": "http://jenfeeny.com/wp-content/uploads/2015/09/usana-health-coach-website-design1.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/57b589b9e3df28ee5e9155e2/t/59fc644c24a694f029addb5a/1509712991134/Press+coverage+jpg+for+website.jpg"
+          },
+          {
+            "url": "http://splashmagazine.com/wp-content/uploads/2013/03/Clutch-Magazine.jpg"
+          },
+          {
+            "url": "http://www.impartium.com/img/work/um-1.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/www.cpalanka.org/wp-content/uploads/2014/04/Screen-Shot-2014-05-01-at-10.43.54-AM.png?ssl=1"
+          },
+          {
+            "url": "https://webcreate.com/sites/default/files/portfolio_knollwood.jpg"
+          },
+          {
+            "url": "https://wpmayor.com/wp-content/uploads/2017/02/Wise-Mag-Ad-Space-WordPress-Themes-630x650.png"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/cn2esa6rrtgevsxg77uj-signature-d7bb89ef8e2a4818473350e11c5baa3493d958d240fee61e77affe48b25a3122-poli-160613225124/95/34-type-of-website-7-638.jpg?cb=1511183883"
+          },
+          {
+            "url": "https://www.galaxyitcorp.com/images/eventgallery/Websites/groulis.com.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.35464475
+          },
+          {
+            "description": "Jaw",
+            "entityId": "/m/01k9lj",
+            "score": 0.24241333
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.22225809
+          },
+          {
+            "description": "Service",
+            "entityId": "/m/018tkd",
+            "score": 0.2185578
+          },
+          {
+            "description": "Product",
+            "entityId": "/m/01jwgf",
+            "score": 0.2038
+          }
+        ]
+      }
+    }
+  ]
+}

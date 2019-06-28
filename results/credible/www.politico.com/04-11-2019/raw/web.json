@@ -1,0 +1,147 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "conversation"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "http://2.bp.blogspot.com/-C_mKpStx_JI/U-kGAfoPkMI/AAAAAAAAENg/Y-leFbvzr-o/s1600/people+magazine+scan+6.png"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "fullMatchingImages": [
+              {
+                "url": "https://2.bp.blogspot.com/-C_mKpStx_JI/U-kGAfoPkMI/AAAAAAAAENg/Y-leFbvzr-o/s1600/people+magazine+scan+6.png"
+              }
+            ],
+            "pageTitle": "JFK and JFK Jr. (and anybody else in the Kennedy Family, I Guess ...",
+            "url": "https://www.lipstickalley.com/threads/jfk-and-jfk-jr-and-anybody-else-in-the-kennedy-family-i-guess-tea-discussion-thread.811906/page-394"
+          },
+          {
+            "fullMatchingImages": [
+              {
+                "url": "http://2.bp.blogspot.com/-C_mKpStx_JI/U-kGAfoPkMI/AAAAAAAAENg/Y-leFbvzr-o/s1600/people+magazine+scan+6.png"
+              }
+            ],
+            "pageTitle": "CBK Wardrobe: People Magazine Scans",
+            "url": "http://cbkwardrobe.blogspot.com/2014/08/people-magazine-august-18-2014-scans-john-f-kennedy-jr-carolyn-bessette.html"
+          },
+          {
+            "fullMatchingImages": [
+              {
+                "url": "http://2.bp.blogspot.com/-C_mKpStx_JI/U-kGAfoPkMI/AAAAAAAAENg/Y-leFbvzr-o/s1600/people+magazine+scan+6.png"
+              }
+            ],
+            "pageTitle": "CBK Wardrobe: August 2014",
+            "url": "http://cbkwardrobe.blogspot.com/2014/08/"
+          },
+          {
+            "fullMatchingImages": [
+              {
+                "url": "http://2.bp.blogspot.com/-C_mKpStx_JI/U-kGAfoPkMI/AAAAAAAAENg/Y-leFbvzr-o/s1600/people+magazine+scan+6.png"
+              }
+            ],
+            "pageTitle": "CBK Wardrobe: 2014",
+            "url": "http://cbkwardrobe.blogspot.com/2014/"
+          },
+          {
+            "fullMatchingImages": [
+              {
+                "url": "http://2.bp.blogspot.com/-C_mKpStx_JI/U-kGAfoPkMI/AAAAAAAAENg/Y-leFbvzr-o/s1600/people+magazine+scan+6.png"
+              }
+            ],
+            "pageTitle": "CBK Wardrobe",
+            "url": "http://cbkwardrobe.blogspot.com/"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://wrenchinthegears.files.wordpress.com/2018/09/media-cloud.jpg?w=840"
+          },
+          {
+            "url": "https://secureservercdn.net/ip-ac.mwp2.iad2.godaddy.com/cm9.ddf.godaddywp.com/wp-content/uploads/2018/03/Open-Doors_Dec17-744x1030.jpg"
+          },
+          {
+            "url": "https://www.lifewire.com/thmb/vbCbidJCmE-DVm8ZWXMRlQWsGvQ=/1233x845/filters:no_upscale():max_bytes(150000):strip_icc()/business-social-networks-3486557-5-5b20361d1d6404003797fa51.jpg"
+          },
+          {
+            "url": "https://www.referralcandy.com/wp-content/uploads/2018/05/jcrew-wework-600x627.png"
+          },
+          {
+            "url": "https://www.conferenceboard.ca/images/default-source/public-images/cbi_innovation-success_cover.png"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/digitalcampus-highlights-may62014-140507035959-phpapp02/95/swiss-higher-education-social-media-a-snapshot-23-638.jpg?cb=1399435286"
+          },
+          {
+            "url": "https://images.theconversation.com/files/234533/original/file-20180902-195316-tjqncn.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip"
+          },
+          {
+            "url": "https://fracklethings.com/wp-content/uploads/2017/10/newspaper1.jpg"
+          },
+          {
+            "url": "https://webcdn-adespressoinc.netdna-ssl.com/wp-content/uploads/2016/09/image-3.png"
+          },
+          {
+            "url": "https://www.haleymarketing.com/wp-content/uploads/2016/04/horizon-hospitality-blog-FT.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "John F. Kennedy Jr.",
+            "entityId": "/m/0150p7",
+            "score": 2.859
+          },
+          {
+            "entityId": "/t/224z0bg5hhnn0",
+            "score": 0.1797
+          },
+          {
+            "description": "Milan",
+            "entityId": "/m/0947l",
+            "score": 0.17895
+          },
+          {
+            "entityId": "/t/28fxjq4zljyq4",
+            "score": 0.1704
+          },
+          {
+            "description": "Kennedy family",
+            "entityId": "/m/0fbrl",
+            "score": 0.166
+          },
+          {
+            "description": "Magazine",
+            "entityId": "/m/058sv",
+            "score": 0.1469
+          },
+          {
+            "description": "People",
+            "entityId": "/m/02jqxw",
+            "score": 0.1443
+          },
+          {
+            "description": "Business",
+            "entityId": "/g/120y8l81",
+            "score": 0.1383
+          },
+          {
+            "description": "Conversation",
+            "entityId": "/m/01h8n0",
+            "score": 0.12804097
+          },
+          {
+            "description": "Armoires & Wardrobes",
+            "entityId": "/m/02vkqh8",
+            "score": 0.1276
+          }
+        ]
+      }
+    }
+  ]
+}

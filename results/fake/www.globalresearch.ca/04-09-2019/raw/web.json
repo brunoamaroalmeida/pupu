@@ -1,0 +1,136 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "pagesWithMatchingImages": [
+          {
+            "pageTitle": "Liveleak.com - Breaking! US Government Legalizes Lying To The ...",
+            "partialMatchingImages": [
+              {
+                "url": "https://cdn.liveleak.com/80281E/ll_a_u/2019/Feb/3/LiveLeak-dot-com-5c5683b887da2_24_sf.jpg"
+              }
+            ],
+            "url": "https://www.liveleak.com/view?t=9ovtN_1549173834"
+          },
+          {
+            "pageTitle": "40 Similar Sites Like Beforeitsnews.com - SimilarSites.com",
+            "partialMatchingImages": [
+              {
+                "url": "https://site-images.similarcdn.com/image?url=globalresearch.ca&t=1&s=10&h=17783301521847172650"
+              }
+            ],
+            "url": "https://www.similarsites.com/site/beforeitsnews.com"
+          },
+          {
+            "pageTitle": "40 Similar Sites Like Prisonplanet.com - SimilarSites.com",
+            "partialMatchingImages": [
+              {
+                "url": "https://site-images.similarcdn.com/image?url=globalresearch.ca&t=1&s=10&h=17783301521847172650"
+              }
+            ],
+            "url": "https://www.similarsites.com/site/prisonplanet.com"
+          },
+          {
+            "pageTitle": "40 Similar Sites Like Blacklistednews.com - SimilarSites.com",
+            "partialMatchingImages": [
+              {
+                "url": "https://site-images.similarcdn.com/image?url=globalresearch.ca&t=1&s=10&h=17783301521847172650"
+              }
+            ],
+            "url": "https://www.similarsites.com/site/blacklistednews.com"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn.liveleak.com/80281E/ll_a_u/2019/Feb/3/LiveLeak-dot-com-5c5683b887da2_24_sf.jpg"
+          },
+          {
+            "url": "https://site-images.similarcdn.com/image?url=globalresearch.ca&t=1&s=10&h=17783301521847172650"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://smartbear.com/SmartBearBrand/media/Images/product/collaborator/features/Feature-Collaborate-on-Artifacts-and-Documents.jpg"
+          },
+          {
+            "url": "http://www.qcc.cuny.edu/it/images/swimage1.png"
+          },
+          {
+            "url": "https://www.brilliantdirectories.com/wp-content/uploads/2018/03/easy-directory-website-software.jpg"
+          },
+          {
+            "url": "http://www.bestcodersw.com/sites/default/files/about.jpg"
+          },
+          {
+            "url": "https://www.bitrix24.com/images/content_en/external_call.png"
+          },
+          {
+            "url": "https://kryptronic.com/media/cms/kscreenshotslg/screen-kryptronicdemo.jpg"
+          },
+          {
+            "url": "https://www.thebalancesmb.com/thmb/05QB23fsTOxOuDN0LwDIN1wMZc8=/691x375/filters:no_upscale()/goals-on-track-56a831a15f9b58b7d0f171cd.jpg"
+          },
+          {
+            "url": "https://www.markodojo.com/wp-content/uploads/2017/09/marketing_project_collaboration_room.png"
+          },
+          {
+            "url": "https://solutionsreview.com/content-management/files/2016/06/Content_Management_Feature.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.34456927
+          },
+          {
+            "description": "Website",
+            "entityId": "/m/085n4",
+            "score": 0.2637
+          },
+          {
+            "description": ".com",
+            "entityId": "/m/01gj0k",
+            "score": 0.2381
+          },
+          {
+            "entityId": "/t/2gvt2p6g8xbyy",
+            "score": 0.233
+          },
+          {
+            "entityId": "/g/11dzf398kz",
+            "score": 0.2251
+          },
+          {
+            "description": "Before It's News",
+            "entityId": "/g/11dzf26c9x",
+            "score": 0.2239
+          },
+          {
+            "entityId": "/g/11dzf3374n",
+            "score": 0.2038
+          },
+          {
+            "entityId": "/t/2ggf2vrwftl3n",
+            "score": 0.1943
+          },
+          {
+            "description": "Global Research",
+            "entityId": "/g/11fx8hpypw",
+            "score": 0.1902
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1734
+          }
+        ]
+      }
+    }
+  ]
+}

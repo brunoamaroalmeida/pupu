@@ -1,0 +1,339 @@
+{
+  "documentSentiment": {
+    "magnitude": 12.4,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 7,
+        "content": "____________________ (BUTTON) Search (BUTTON)\n     * [20]The Agenda: The Future of Prosperity\n[62]New Hampshire lawmaker becomes first to endorse Booker\n[63]Senators urge Pompeo to address human rights during Egyptian leader's\n[64]Judge halts Trump administration's `remain in Mexico' policy\n[65]Klobuchar raises $5.2 million in first 2020 fundraising haul\n[66]Lobbyist behind illegal purchase of Trump inaugural ticket a `valuable\n[67]DOJ asks for speedy hearing in case that could kill Obamacare\n[68]New York lawmakers make new push to release Trump's taxes\n[69]Booker to introduce reparations study bill in the Senate\n[70]Playbook PM: Nielsen speaks ..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 664,
+        "content": "Trump's new immigration push\n[71]Bernie Sanders says he does not support open borders\n[72]House Dems look to end months-old stalemate over disaster funds\n[73]Buttigieg eyes changing Washington's 'mesmerizing horror show'\n[75]Democrats could blow election to Trump, Chris Murphy warns\n   The Democratic senator fears 2020 candidates aren't seizing an\n   opportunity to take down Trump's foreign policy."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1069,
+        "content": "By [76]Burgess Everett and [77]Andrew Desiderio\n[80]Reality bites Beto after high-flying kickoff\n   The Texan is campaigning strong, but he's no longer in the\n[84]Stephen Miller pressuring Trump officials amid immigration shakeups\n   By [85]Anita Kumar, [86]Gabby Orr and [87]Daniel Lippman\n     * [88]Hardliners urge Trump to keep immigration agency head amid\n   [89]White House senior adviser Stephen Miller\n[90]Secret Service director out as part of larger Trump shakeup\n   The apparent ouster comes one day after Homeland Security Secretary\n[94]Democrats crafting Mueller response if report drops during recess\n     * [96]House GOP calls on Dems to bring in Mueller to testify\n[98]How Alexandria Ocasio-Cortez broke all the rules of New York politics\n   She became a star without paying her dues to the city's entrenched\n   establishment."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1912,
+        "content": "Now, longtime political insiders are starting to\n   [99]A sign with the likeness of Alexandria Ocasio-Cortez\n   By [102]Wesley Morgan and [103]Nahal Toosi\n     * [104]Trump brands Iranian military group as a terrorist\n[106]Trump's health care brain trust says no thanks\n   Although the president walked back his promise for an Obamacare\n   replacement ahead of 2020, lawmakers can neither escape the issue or\n   By [107]Adam Cancryn and [108]Alice Miranda Ollstein\n   [109]Rep. Duncan Hunter speaks during an interview."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 2432,
+        "content": "[111]Duncan Hunter draws bigotry accusations for tying opponent to\n[115]Trump cranks up his pushback against Dems demanding his tax returns\n[119]2020 candidates struggle to convince home-state voters they're ready for\n   Sign up today to receive the #1-rated newsletter in politics\n   By signing up you agree to receive email newsletters or alerts from\n   POLITICO."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2798,
+        "content": "You can unsubscribe at any time."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 2834,
+        "content": "Egypt's President Abdel Fattah el-Sisi laughs while US President Donald\n   Trump make a statement to the press before a meeting at the Palace\n   Hotel during the 72nd United Nations General Assembly September 20,\nWhy Is Trump Helping Egypt's Dictator Entrench His Power?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3108,
+        "content": "By embracing Middle Eastern autocrats, American presidents have been\n   making the same mistake for decades--with dangerous consequences."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3249,
+        "content": "A photo illustration of JFK, Pete Buttigieg and Beto O'Rourke\nWhy Beto and Buttigieg Pretend to Be Kennedys\n   Decades after JFK and RFK were killed, the family's political style\n   remains the Democratic Party's only winning path to the White House."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3503,
+        "content": "A photo illustration of Mark Meadows, Jim Jordan and Donald Trump."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3570,
+        "content": "How Trump Conspired with the Freedom Caucus to Shut Down the Government\n   Inside the talks and phone calls that convinced Trump to go against the\n   speaker of the House and the Senate majority leader."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3776,
+        "content": "President Calvin Coolidge poses between actor John Drew (left) and,\n   singer Al Jolson at the White House in 1924."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 3892,
+        "content": "The Last Time a President Got a Pass on a Scandal-Plagued White House\n   What Coolidge can teach Trump about 2020: If the economy is good, just\n   Ten smart women tell us what they think of his \"tactile\" style, and\n   whether it disqualifies him for a 2020 run."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 4154,
+        "content": "What a Decades-Old Grand Jury Probe Just Revealed About the Mueller Report\n   Migrants wait for a ride at the toll in San Marcos, on the Mexico\n   City-Puebla highway, in Mexico, on November 5, 2018."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 4354,
+        "content": "Yes, There's a Crisis on the Border."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 4391,
+        "content": "And It's Trump's Fault."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 4418,
+        "content": "Instead of wasting his time on a wall, the president should fix the\n   By Alan Bersin, Nate Bruggeman and Ben Rohrbaugh\n   Reports the special counsel's investigators disliked Trump's victory\n   lap seem intended to force their work into the open."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 4666,
+        "content": "Why Congress Might Not Get Trump's Tax Returns\n   Unless Democrats invoke impeachment, there's a strong chance they'll\nThe Barr-Shaped Cloud Over the Justice Department\n   The attorney general has made a total hash of the Mueller report,\n   undermining the very department he runs."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4951,
+        "content": "An illustration of Jeff Miller's face and a $100 bill."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 5006,
+        "content": "The Congressman Who Turned the VA into a Lobbying Free-For-All\n   Jeff Miller helped open up the VA to private contractors."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5130,
+        "content": "Now he's out\n   of office and lobbying for those businesses."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5194,
+        "content": "Joe Biden on stage before speaking at Syracuse University in 2015."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 5261,
+        "content": "Joe Biden Created the Culture He Is a Target Of\n   As vice president, Biden sought to remake the rules of sexual culture\n   on college campuses and beyond."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 5417,
+        "content": "He succeeded--and now is suffering for\n[126]Female donors organize to back the women running for president\n   By [127]Elena Schneider and [128]Maggie Severns\n   [130]A Jewish supporter of Donald Trump\n[131]Pro-Trump Republicans plan big-money play for the Jewish vote in 2020\n[134]Biden struggles to move past the controversy over his physical contact\n   By [135]Nolan D. McCaskill and [136]Caitlin Oprysko\n[138]Here's a Trump campaign strategy Democrats are eager to embrace\n[141]Stacey Abrams torn between running for president, Senate\n[144]Homeland Security chief Nielsen is out\n   Customs and Border Protection Commissioner Kevin McAleenan will become\n   By [145]Ted Hesson and [146]Eliana Johnson\n   [147]DHS Secretary Kirstjen Nielsen resigns\n     * [148]Notable departures from Trump's White House\n[150]Trump's border threats jam up Pence's trade tour\n     * [152]Trump says Mexico auto tariff threat supersedes new NAFTA pact\n[154]Trump lawyer urges denial of tax return request\n   [156]Trump: 'The correspondents' dinner is too negative'\n[157]Trump to skip WHCA dinner, will host rally instead\n[160]As Trump rages over border, Kushner quietly plans legal immigration\n[163]Manchin weighs bid for West Virginia governor in"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6647,
+        "content": "2020\n   \"I'll make a decision this fall sometime,\" the West Virginian said."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 6723,
+        "content": "[167]Former Sen. Ernest Hollings of South Carolina dead at 97\n[169]Congress' new Mueller fight: Do Dems need to begin impeachment to see\n   [171]Puerto Rican National Guard deliver food and water\n[172]Senators desperately try to sway Trump amid disaster aid debacle\n[175]Lack of security clearances hampers federal election panel\n   A massive backlog in security clearances applications raises questions\n   on whether federal advisers can effectively combat cyberattacks\n     * [178]Commerce Committee opens probe into FAA inspector training\n[180]Teach For America -- except for California\n[183]Democrats face minefield if they get Trump's tax returns\n[186]Health department suspends contracts with GOP-linked consultants\n   By [187]Dan Diamond and [188]Adam Cancryn\n[190]Appeals court narrows path for disclosure of grand jury info in Mueller\n[193]Barr's legacy on the line as Mueller team fumes\n     * [195]House Dems authorize subpoena for full Mueller report\n     * [196]Dems ratchet up pressure on Barr over Mueller probe\n[198]Trump lashes out at Mueller probe as release of report approaches\n[201]Prepare yourself -- the Mueller redaction wars are coming\n[206]Where do you draw the line between friendly grandpa and creepy uncle?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 7962,
+        "content": "What might have been seen as normal behavior in the past is not\n   welcomed in the present."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 8054,
+        "content": "How will Biden handle the change?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 8091,
+        "content": "By [207]Micaela Rodriguez, [208]Dave Shaw and [209]Scott Bland\n   [210]Anna Palmer, Terri Sewell and Veronica Escobar\n[212]What nobody tells you about being a woman in politics\n   Reps."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 8277,
+        "content": "Terri Sewell and Veronica Escobar talk about the obstacles faced\n[215]China's EU envoy to Europe: Plot your own path, not Washington's\n   Zhang Ming urges the EU to keep its markets open to Chinese companies\n   By Nicholas Vinocur and [216]Laurens Cerulus\n   [217]Chinese flag, Chinese national emblem\n[219]Italy's governing parties struggle to find path forward on vaccines\n[225]The world's left-wingers are feeling the Bern\n[228]Trump to Jewish Republicans: Democrats pushing 'extreme, anti-Semitic\n   By [229]Gabby Orr and [230]Alex Isenstadt\n[232]Barrage of setbacks spoils Trump's post-Mueller reset\n   By [233]Anita Kumar and [234]Andrew Restuccia\n[236]Trump claims he was never pushing for a health care vote before 2020\n     * [238]Trump punts health care until after 2020\n[240]Why not me?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 9075,
+        "content": "After Beto, House Dems pile into 2020 contest\n   By [241]Sarah Ferris, [242]Laura Barr\u00f3n-L\u00f3pez and [243]John Bresnahan\n[245]Republicans trigger `nuclear option' to speed Trump nominees\n[248]Gardner: Trump said he would sign pot bill\n[251]Trump budget cut turns out to be a boon for the Special Olympics\n[254]House rebukes Trump with vote ending U.S. support for Yemen war\n[257]Grassley schools Trump on `idiotic' wind turbines and cancer comment\n[260]Luj\u00e1n's move opens up Jeffries' path to speaker's chair\n   By [261]Heather Caygle and [262]John Bresnahan\n[264]House Dems ask Capital One for docs on Trump's sprawling businesses\n[267]Harris skips vote on California disaster aid to campaign for president\n   By [268]Marianne LeVine and [269]Christopher Cadelago\n[271]Reality bites Beto after high-flying kickoff\n[272]Stephen Miller pressuring Trump officials amid immigration shakeups\n[273]How Alexandria Ocasio-Cortez Broke All the Rules of New York Politics\n[274]House GOP calls on Dems to bring in Mueller to testify\n[275]Trump's health care brain trust says no thanks\n   6018310968001_6018305369001-vs.jpg?pubId=1155968404\" true\n   [280]Sen. Mike Lee mocks Green New"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 10250,
+        "content": "Deal\n   [282]Everything you need to know about impeachment\n[283]Everything you need to know about impeachment\n   By [284]Mary Newman and [285]Darren Samuelsohn\n   [288]A photo illustration of Mark Meadows, Jim Jordan and Donald Trump."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 10485,
+        "content": "[289]How Trump Conspired with the Freedom Caucus to Shut Down the Government\n   By [290]Jake Sherman and [291]Anna Palmer\n[293]Inside House Dems' move to seize Trump's tax returns\n   By [294]Aaron Lorenzo and [295]Heather Caygle\n[297]Teach For America -- except for California\n[300]Trump's border threats jam up Pence's trade tour\n   Contact POLITICO reporters and provide materials in an anonymous and\n   Exclusive news, intelligence and tools for professionals on the front"
+      }
+    }
+  ]
+}

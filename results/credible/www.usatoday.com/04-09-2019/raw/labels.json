@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9307223,
+          "topicality": 0.9307223
+        },
+        {
+          "description": "Product",
+          "mid": "/m/01jwgf",
+          "score": 0.9103113,
+          "topicality": 0.9103113
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.886483,
+          "topicality": 0.886483
+        },
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.8578767,
+          "topicality": 0.8578767
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.78258353,
+          "topicality": 0.78258353
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.6679962,
+          "topicality": 0.6679962
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.65468615,
+          "topicality": 0.65468615
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.5697955,
+          "topicality": 0.5697955
+        },
+        {
+          "description": "Business",
+          "mid": "/m/09s1f",
+          "score": 0.55512214,
+          "topicality": 0.55512214
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.5404296,
+          "topicality": 0.5404296
+        }
+      ]
+    }
+  ]
+}

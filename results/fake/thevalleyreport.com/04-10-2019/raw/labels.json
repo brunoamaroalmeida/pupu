@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.72398376,
+          "topicality": 0.72398376
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.64718574,
+          "topicality": 0.64718574
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.5925366,
+          "topicality": 0.5925366
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.53392184,
+          "topicality": 0.53392184
+        }
+      ]
+    }
+  ]
+}

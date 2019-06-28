@@ -1,0 +1,339 @@
+{
+  "documentSentiment": {
+    "magnitude": 16.8,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "This material may not be published, broadcast, rewritten, or\n   redistributed. \u00a92019 FOX News Network, LLC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 112,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 133,
+        "content": "All\n   [131]Macy's launches Story theme shops; good news for Cheerios lovers\n[133]Macy's launches Story theme shops; good news for Cheerios lovers\n   [134]Jeh Johnson reacts to Assange arrest, calls situation at southern\n   border a 'crisis by any measure' [135]9:36\n[137]Jeh Johnson reacts to Assange arrest, calls situation at southern border\n   [138]AOC claims unemployment is low because people have 2 jobs\n[141]AOC claims unemployment is low because people have 2 jobs\n   [142]Julian Assange arrested in London [143]0:57\n   [146]Graham: If Trump surveillance warrant was based on Steele dossier,\n[149]Graham: If Trump surveillance warrant was based on Steele dossier, it\n   [150]Is a quote from religious text considered hate speech on social\n[153]Is a quote from religious text considered hate speech on social media?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 960,
+        "content": "[154]We are inching closer to truth and justice [155]16:42\n[157]We are inching closer to truth and justice\n   [158]The Obama administration spied on Trump's presidential campaign\n[161]The Obama administration spied on Trump's presidential campaign\n   [163]WikiLeaks chief nabbed by British police moments after Ecuador\n[164]WikiLeaks chief nabbed by British police moments after Ecuador boots him\n     * [165]Pamela Anderson speaks out after Julian Assange arrest\n     * [166]Julian Assange's arrest draws fierce international reaction\n     * [167]Julian Assange not a `hero,' Obama DHS chief Jeh Johnson says\n     * [168]Who is Julian Assange?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 1605,
+        "content": "What to know about the WikiLeaks\n   [169]Boston Globe writer regrets not peeing on food, calls for\n[170]Boston Globe writer regrets not peeing on food, calls for blackball of\n     * [171]Media take issue with AG Barr for saying 'spying did occur' on\n   [172]Photo of scientist, 29, behind key algorithm in black hole image\n[173]Photo of scientist, 29, behind key algorithm in black hole image goes\n     * [174]First-ever black hole image revealed\n   [175]Fugitive's Facebook taunt of police backfires, leads to her\n[176]Fugitive's Facebook taunt of police backfires, leads to her capture\n   [177]SEE IT: Diddy apologizes to A-Rod after risqu\u00e9 comment below JLo\n[178]SEE IT: Diddy apologizes to A-Rod after risqu\u00e9 comment below JLo pic\n   [181]Macy's launches Story theme shops; good news for Cheerios lovers\n[183]Macy's launches Story theme shops; good news for Cheerios lovers\n   [184]Jeh Johnson reacts to Assange arrest, calls situation at southern\n   border a 'crisis by any measure' [185]9:36\n[187]Jeh Johnson reacts to Assange arrest, calls situation at southern border\n   [188]AOC claims unemployment is low because people have 2 jobs\n[191]AOC claims unemployment"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 2778,
+        "content": "is low because people have 2 jobs\n   [192]Julian Assange arrested in London [193]0:57\n   [196]Graham: If Trump surveillance warrant was based on Steele dossier,\n[199]Graham: If Trump surveillance warrant was based on Steele dossier, it\n   [200]Is a quote from religious text considered hate speech on social\n[203]Is a quote from religious text considered hate speech on social media?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 3165,
+        "content": "[204]We are inching closer to truth and justice [205]16:42\n[207]We are inching closer to truth and justice\n   [208]The Obama administration spied on Trump's presidential campaign\n[211]The Obama administration spied on Trump's presidential campaign\n   [213]Dems melt down after Barr vows to see if snooping on Team Trump\n[215]Dems melt down after Barr vows to see if snooping on Team Trump was\n   [216]Exotic cat on the loose in Virginia\n   [219]Harry Hamlin reveals the secret behind his lasting marriage\n[221]Harry Hamlin reveals the secret behind his lasting marriage\n   [222]Son of sheriff's deputy arrested in connection with historically\n[224]Son of sheriff's deputy arrested in connection with historically black\n   [225]Swimsuit model says she's '54 and proud of it' after sizzling\n[227]Swimsuit model says she's '54 and proud of it' after sizzling snaps\n   [228]Ex-NFL player, girlfriend arrested in death of abused girl, 5:\n[230]Ex-NFL player, girlfriend arrested in death of abused girl, 5: police\n   [231]Candace Owens: Hearing was a hoax, Dems want African-Americans to\n[233]Candace Owens: Hearing was a hoax, Dems want African-Americans to fail\n   ["
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 4327,
+        "content": "234]Legendary long-lost BMW supercar unearthed from London garage\n[236]Legendary long-lost BMW supercar unearthed from London garage\n   [237]Thousands of Amazon workers can hear your recordings on Alexa:\n[239]Thousands of Amazon workers can hear your recordings on Alexa: report\n   [240]Dog euthanized after sexually assaulted, man gets 60 days in jail\n[242]Dog euthanized after sexually assaulted, man gets 60 days in jail\n   [243]Pence hits back at 2020 Dem after criticism of beliefs\n[245]Pence hits back at 2020 Dem after criticism of beliefs\n   [246]'Bomb cyclone' slams heartland, cutting power and disrupting\n[248]'Bomb cyclone' slams heartland, cutting power and disrupting travel\n   [249]Treasury won't meet Dems' deadline to provide Trump tax returns\n[251]Treasury won't meet Dems' deadline to provide Trump tax returns after\n   [254]Pete Hegseth takes you places where cameras have never been\n   before, provides exclusive access in two-part special\n[256]Pete Hegseth takes you places where cameras have never been before,\nprovides exclusive access in two-part special\n[258]Hate-filled Dems can't handle the truth about the Trump campaign being\n[261]The left supports the character assassination of anyone who supports\n[264]Here"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 5566,
+        "content": "'s why we should all pay attention to Mayor Pete Buttigieg's\n[267]Heritage Foundation president unfairly targeted by Google\n[270]Trump is right to designate Iran's Revolutionary Guards terrorists\n[273]The fraying edges of universal health care\n[276]Who will see the full Mueller report?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 5853,
+        "content": "[279]Trump summit with South Korea president could bring progress in North's\n[282]Dems wrong to attack Barr for telling truth about fed spying on Trump\n[286]Flight forced to return to JFK after plane strikes 'object'\n[288]Denver cop docked pay after being caught in strip club while on duty:\n[290]Paul to Pompeo: You don't have permission to start war with Iran\n[292]NHL player scores 'facegoal' during playoff game before reported search\nGet the best of Fox News delivered to your inbox daily\n   Enter email address ____________________\n   [300]'I panicked, I never seen anything like it'\n   'I panicked, I never seen anything like it'\n   [302]Meghan breaks MAJOR royal protocol\n   [304]Star's daughter flaunts bikini bod\n   [307]Secrets of alien planet revealed?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 6621,
+        "content": "[308]Amazon workers are listening to Alexa recordings?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 6679,
+        "content": "Amazon workers are listening to Alexa recordings?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 6732,
+        "content": "[309]Meet the woman behind pic of the first black hole\n   Meet the woman behind pic of the first black hole\n   [312]Menounos: 'I wasn't listening to my body'\n   Menounos: 'I wasn't listening to my body'\n   [313]Loughlin's show to return without her\n   [315]Major flaw in 'stick-on' swimwear trend?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 7033,
+        "content": "Major flaw in 'stick-on' swimwear trend?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 7077,
+        "content": "[316]Cruise line closes ships' attractions amid lawsuit\n   Cruise line closes ships' attractions amid lawsuit\n   [319]World-famous stripper's kid tells all\n   [320]Liberal star: I'm a 'spoiled brat'\n   [321]Miller offers Huffman prison advice\n   [326]Howard Schultz: Democratic Party left me amid move to the extreme\n[328]Howard Schultz: Democratic Party left me amid move to the extreme left\n[330]US bank CEOs voice support for independent Fed, decline to discuss\n[332]New Yorkers want Amazon to reconsider its HQ2 pullout\n[334]Chase CEO Jamie Dimon defends bank's firearm policy\n[336]Discovery CEO: 'Fixer Upper' stars Chip, Joanna Gaines are America's\n[338]Ford plots future with latest leadership shakeup\n   [340]Julian Assange not a `hero,' Obama DHS chief Jeh Johnson says\n[342]Julian Assange not a `hero,' Obama DHS chief Jeh Johnson says\n[344]Boston Globe opinion writer wished he peed on Bill Kristol's dinner,\n[346]Paul to Pompeo: You don't have permission to start war with Iran\n[348]Black hole politics: Why no progress escapes DC's gravity\n[350]Sen. Cruz: None of us should be happy left-wing Silicon Valley\n[352]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 8203,
+        "content": "Dem 2020 candidate Andrew Yang stands by 'Freedom Dividend'\n   [354]The Latest: Snow, ice making Midwest travel dangerous\n[356]The Latest: Snow, ice making Midwest travel dangerous\n[358]Woman wanted in Pennsylvania caught after taunting authorities on `Most\n[360]HS baseball player allegedly bound and gagged in hazing incident\n[362]Exotic cat on the loose in Virginia, Animal Control working with owner\n[364]Barr feels backlash after saying Trump campaign was spied on;\n[366]Son of sheriff's deputy arrested in connection with historically black\n   [368]Who is Julian Assange?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 8781,
+        "content": "What to know about the WikiLeaks founder\n[370]Who is Julian Assange?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 8850,
+        "content": "What to know about the WikiLeaks founder\n[372]Officials say bad vent may have spread Bangkok mall fire\n[374]French plan to privatize Paris airports faces backlash\n[376]Pamela Anderson blasts Britain, US after Julian Assange arrest: 'How\n[378]Prince Harry and Meghan Markle announce birth plan for royal baby\n[380]Julian Assange's arrest draws fierce international reaction\n   [382]Laura Ingraham: The left supports the character assassination of\n   anyone who supports Trump -- even children\n[384]Laura Ingraham: The left supports the character assassination of anyone\n[386]Sean Hannity: Hate-filled Dems can't handle the truth about the Trump\n[388]Jason Nichols: Here's why we should all pay attention to Mayor Pete\n[390]Mike Gonzalez: Heritage Foundation president unfairly targeted by Google\n[392]Tucker Carlson: The Obama administration spied on the Trump campaign -\n[394]Cal Thomas: Trump is right to designate Iran's Revolutionary Guards\n   [396]Disneyland Star Wars park visitors will be given bathroom passes\n[398]Disneyland Star Wars park visitors will be given bathroom passes to use\n[400]Disneyland Paris walkway closed to guests after protesters litter Main\n[402]Paul Batura: Searching for Howard Johnson's\n[404]Dan Hoffman: My wife is the toughest person I know"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 10125,
+        "content": "[406]Girl's special doll honoring her deployed Army dad found, returned at\n[408]My father died two years ago."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 10235,
+        "content": "I'm still struggling to clean out his\n   [410]Los Angeles prepares to mourn en masse for slain rapper Nipsey\n[412]Los Angeles prepares to mourn en masse for slain rapper Nipsey Hussle\n[414]Pamela Anderson blasts Britain, US after Julian Assange arrest: 'How\n[416]Prince Harry and Meghan Markle announce birth plan for royal baby\n[418]JoJo Siwa talks befriending Kim Kardashian, achieving fame after `Dance\n[420]Kate Middleton is focusing on her future role as queen with `new\n[422]Harry Hamlin reveals the secret behind his lasting marriage to `Real\n   [424]McConnell: Full socialism on display from 2020 Democrats\n[427]McConnell: Full socialism on display from 2020 Democrats\n   [428]03:59[429]the story with martha maccallum\n[430]Bennett: Bill Barr says he has evidence Trump was spied on and we will\n[433]Ocasio-Cortez says climate change is the cause of the migrant crisis\n[436]Graham: If Trump surveillance warrant was based on Steele dossier, it\n[439]Candace Owens: Democrats want black people to fail\n[442]White House tells Congress to 'stop lying and start doing' when it comes\n   [444]Google's Wing kicks off first drone delivery service in Australia\n[446]Google's"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 11409,
+        "content": "Wing kicks off first drone delivery service in Australia\n[448]Air Force F-16 gets F-35 sensors, weapons and radar\n[450]C-130 gets new 'electronic propeller controls' to fly into 2030s\n[452]'Spaceplane' that flies 25 times faster than the speed of sound passes\n[454]Then and now: Split-screen video shows how car production has changed in\n[456]Researchers claim to have designed quieter airplane toilet, claim 'kids\nwon't think they're going to get sucked out'\n   [458]Pavelski's painful goal leads Sharks past Golden Knights 5-2\n[460]Pavelski's painful goal leads Sharks past Golden Knights 5-2\n[462]Rookie scores twice, Stars beat Preds for 1-0 series lead\n[464]Bozak's late goal lifts Blues over Jets 2-1 in Game 1\n[466]Bailey lifts Islanders past Penguins 4-3 in OT in Game 1\n[468]Blue Jackets rally from 3-goal deficit to beat Lightning 4-3\n[470]Ex-NFL player, girlfriend arrested in death of abused Las Vegas girl, 5,\n   [472]Who is Julian Assange?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 12363,
+        "content": "What to know about the WikiLeaks founder\n[474]Who is Julian Assange?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 12432,
+        "content": "What to know about the WikiLeaks founder\n[476]Mike Gonzalez: Heritage Foundation president unfairly targeted by Google\n[478]Sen. Cruz: None of us should be happy left-wing Silicon Valley\n[480]Thousands of Amazon workers listen to recordings from Alexa: reports\n[482]Ted Cruz, Twitter executive spar over alleged censorship, shadowbanning\n[484]Penny Nance: Shame on Google for dissolving its AI council over\n   [486]J Antonio del Marmol: Likening Che Guevara to Jesus is despicable.\n[488]J Antonio del Marmol: Likening Che Guevara to Jesus is despicable."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 12986,
+        "content": "I saw\n[490]J.R. Lee: Stop catching people and start catching people\n[492]Sen. Hawley: Yale Law School should be stripped of federal funding for\n[494]Chick-fil-A met with opposition at San Jose airport\n[496]Rich Lowry: The war on Chick-fil-A is chicken McCarthyism\n[498]Elisabeth Moss says 'The Handmaid's Tale' runs 'parallel' to her\n   [500]Legendary long-lost BMW M1 speed record supercar unearthed from\n[502]Legendary long-lost BMW M1 speed record supercar unearthed from London\n[504]Here's why NASCAR Bristol race had so many empty seats\n[506]Ford recalling 327k F-Series trucks for fire risk...again\n[508]Fulham soccer fan sues California DMV over `Come on You Whites' vanity\n[510]Biker beats 'The Wire' star Idris Elba's 'flying mile' speed record with\n[512]Instagram model Daria Radionova covered her Lamborghini Aventador in\n   [514]Florida Keys briefly without power after sailboat hits power line,\n[516]Florida Keys briefly without power after sailboat hits power line,\n[518]SEE IT: 8-foot alligator removed from South Florida pool\n[520]Environmental groups sue to restrict salmon fishing off West Coast\n[522]Golf legend Greg"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 14122,
+        "content": "Norman catches `monster' hammerhead shark after it eats\n[524]Surprised fisherman reels in World War II hand grenade\n[526]Fisherman in California hooks rare angel shark\n   [528]Instagram models using new app to exchange posts for free food,\n[530]Instagram models using new app to exchange posts for free food, beauty\n[532]Google's Wing kicks off first drone delivery service in Australia\n[534]Chick-fil-A met with opposition at San Jose airport\n[536]NYC restaurant getting backlash for advertising 'clean' American Chinese\n[538]Rich Lowry: The war on Chick-fil-A is chicken McCarthyism\n[540]Restaurant jokes after car crashes through dining room: 'Our new\n   [542]Tennessee K-9 bites, brings down carjacking suspect, cops say\n[544]Tennessee K-9 bites, brings down carjacking suspect, cops say\n[546]South Carolina firefighter adopts puppy he rescued from under pile of\n[548]Taya Kyle: The 'American Sniper' legacy continues\n[551]Tunnel to Towers honors military and first responders who make supreme\n[553]Missouri sheriff's deputy, veteran spotted on camera saving American\n[556]Missouri sheriff's deputy saves flag from touching ground, goes viral\n   [558]New York Democrats propose new bill cracking"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 15322,
+        "content": "down on Airbnb, other\n[560]New York Democrats propose new bill cracking down on Airbnb, other\n[562]California coastal city selling 0.01-acre property for $18G\n[564]Michael Corleone's house from 'The Godfather' selling for $1.37 million\n[566]But microwaves are OK: Bay Area rental agreements can come with 'no\n[568]Proposal for 60,000-square-foot NJ megamansion spooks neighbors: 'It's a\n[570]Homeowner sets up naked mannequins in yard to taunt neighbor following\n   [572]Woman who dodged flying ax in viral video to come back for lessons\n[574]Woman who dodged flying ax in viral video to come back for lessons with\n[576]Woman with 'world's smallest waist' shocks fans with post-pregnancy body\n[578]Travel blogger, 46, says people 'just assume' she's in her 20s, shares\n[580]Condom brand releases 'Consent Packs' that require four hands to open\n[582]Lawyer who lost nearly 200 pounds says she's now 'haunted' by loose\nskin: 'It looks like the body of Frankenstein's monster'\n[584]'Gymtimidation' prevents a percentage of Americans from exercising more\n   [586]Instagram models using new app to exchange posts for free food,\n[588]Instagram"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 16460,
+        "content": "models using new app to exchange posts for free food, beauty\n[590]Social media notices huge problem with 'stick-on' swimwear trend\n[592]Michelle Pfeiffer unveils gender-neutral fragrance line\n[594]Kourtney Kardashian's daughter wears nearly $400 Gucci shoes to school\n[596]Website called out for renting famous Chanel string bikini: 'Disgusting'\n[598]Woman with 'world's smallest waist' shocks fans with post-pregnancy body\n   [600]FDA reviews breast implant safety as women raise concerns\n[602]FDA reviews breast implant safety as women raise concerns\n[604]Dogs sniff out lung cancer from blood samples with 97 percent accuracy,\n[606]Nutrients from food, not vitamin supplements, reduces risk of early\n[608]E. coli outbreak in Kentucky, Ohio, other states sickens nearly 100, CDC\n[610]Pot legalization advocates exploiting public confusion about CBD and\n[612]Pediatricians urge recall of Fisher-Price 'Rock 'n Play' after infant\n   [614]American savers have lost roughly $500 billion because of low\n[616]American savers have lost roughly $500 billion because of low interest\n[618]Mansion once owned by oil heir William Getty sells for $27M\n[620]5 hotspots for newbie homebuyers on a budget\n[622]14 first-time homebuyer mistakes"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 17689,
+        "content": "to avoid\n[624]Retirement realities: What's in, and what's out\n[626]Here are taxpayers' odds of being audited this year\n   [628]Sister Mary Jo Sobieck, nun whose perfect first pitch went viral,\n[630]Sister Mary Jo Sobieck, nun whose perfect first pitch went viral, gets\n[632]California police officer saves baby's life in dramatic bodycamera video\n[634]Florida teenager gets perfect SAT score, says he 'freaked out'\n[636]'Burglary suspect' triggering emergency call was Roomba trapped in\n[638]Ohio 7-Eleven owner gives shoplifting teen food instead of calling\n[640]Young boy credits this Christian children's show with saving him from\n   [642]Fox News @ Night - Wednesday, April 10\n[645]Fox News @ Night - Wednesday, April 10\n[649]The Ingraham Angle - Wednesday, April 10\n[651]Tucker Carlson Tonight - Wednesday, April 10\n[653]The Story w/ Martha MacCallum - Wednesday, April 10\n[655]Special Report w/ Bret Baier - Wednesday, April 10\n   [657]Last WWII `Doolittle Raider' dies at 103\n[659]Last WWII `Doolittle Raider' dies at 103\n[661]New VA spinal injury center helps veterans heal\n[663]Operation Healing"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 18794,
+        "content": "Forces aids America's warriors\n[665]Missing in America Project buries 42 `unclaimed' veterans in Texas and\n[667]Tunnel to Towers continues to help families of first responders and\n[669]Cops seek sculpture stolen from Army vet's Minnesota home; thief seen on\n   [671]Mnuchin postpones decision on handing over Trump tax returns\n[673]Mnuchin postpones decision on handing over Trump tax returns\n[675]The Latest: Treasury to miss deadline for Trump tax returns\n[677]Elizabeth Warren, 2020 presidential hopeful, releases 2018 tax returns\n[679]IRS chief grilled over tax credit for low-income working families\n[681]Trump says he won't deliver tax returns to Congress\n[683]Here are taxpayers' odds of being audited this year\n   [685]WikiLeaks founder Julian Assange arrested after Ecuador withdraws\n[687]WikiLeaks founder Julian Assange arrested after Ecuador withdraws asylum\n[689]Ex-NFL player, girlfriend arrested in death of abused Las Vegas girl, 5,\n[691]Son of sheriff's deputy arrested in connection with historically black\n[693]Denver cop docked pay after being caught in strip club while on duty:\n[695]Man facing execution for pastor's sword-and-dagger slaying\n[697]Dallas mom tells 5 kids `I can't take care of y'all no more"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 20022,
+        "content": ",' before\n   [699]Florida driver accused of stopping for man to cross, then hitting\n[701]Florida driver accused of stopping for man to cross, then hitting him\n[703]Woman steals electric scooter from Walmart, drives it to Waffle House to\n[705]Canadian family drives home from Florida with dead body to avoid US\n[707]Florida man threatened to destroy town with army of turtles: police\n[709]'Burglary suspect' triggering emergency call was Roomba trapped in\n[711]Florida Keys briefly without power after sailboat hits power line,\n   This material may not be published, broadcast, rewritten, or\n   redistributed. \u00a92019 FOX News Network, LLC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20661,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20682,
+        "content": "All\n   2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 20692,
+        "content": "android-app://com.foxnews.android/http/www.foxnews.com/"
+      }
+    }
+  ]
+}

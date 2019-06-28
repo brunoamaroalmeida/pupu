@@ -1,0 +1,389 @@
+{
+  "documentSentiment": {
+    "magnitude": 13.7,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 4,
+        "content": "#[1]publisher [2]Burrard Street Journal \u00bb Feed [3]Burrard Street\n   Journal \u00bb Comments Feed [4]alternate [5]alternate\n   [tr?id=1607775099485632&ev=PageView&noscript=1]\n               o [11]Pokemon of Vancouver\n[23]Burrard Street Journal Burrard Street Journal\n   [24]Burrard Street Journal [25]Burrard Street Journal\n               o [31]Pokemon of Vancouver\n[43]Fox News Viewers Stunned As Station Broadcasts Real News For April Fools\n[44]Trump Admits Entire Presidency Just One Big April Fools\n[45]Trump Ends North Korean Talks Early After Kim Suggests Burger King Is\n[46]Doctors Warn Drinking A Shot Every Time Trump Lies During Speech Will\n[47]Trump Warns Of Canadian Migrant Caravans After Learning 90% Of Canadians\n   [48]Fox News Viewers Stunned As Station Broadcasts Real News For April\n   Fools"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 813,
+        "content": "Fox News real news controversy\n[50]Fox News Viewers Stunned As Station Broadcasts Real News For April Fools\n   [51]the Burrard Street Journal - Tuesday, April 2, 2019\n   [52]Trump Admits Entire Presidency Just One Big April Fools"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 1045,
+        "content": "Trump\n[54]Trump Admits Entire Presidency Just One Big April Fools\n   [55]Mike Pence Takes 4-Hour Shower After Meeting Irish PM And Boyfriend\n[57]Mike Pence Takes 4-Hour Shower After Meeting Irish PM And Boyfriend\n   [58]Trump Storrms out of North Korean Talks Early After Kim Suggests\n[60]Trump Ends North Korean Talks Early After Kim Suggests Burger King Is\n   [61]Petition Demanding Maroon 5, Patriots, Rams Never Appear At Super\n   Bowl Again Reaches 100m Signatures In 12 Hours\n[63]Petition Demanding Maroon 5, Patriots, Rams Never Appear At Super Bowl\nAgain Reaches 100m Signatures In 12 Hours\n   [82]Fox News Viewers Stunned As Station Broadcasts Real News For April\n   Fools"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 1729,
+        "content": "Fox News real news controversy\n[84]Fox News Viewers Stunned As Station Broadcasts Real News For April..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 1837,
+        "content": "[85]the Burrard Street Journal - Tuesday, April 2, 2019\n   THERE was no doubting who won April Fools Day 2019 after Fox News\n   dumbfounded their audience by publishing only real news for...\n   [87]Trump Admits Entire Presidency Just One Big April Fools"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2093,
+        "content": "Trump\n[88]Trump Admits Entire Presidency Just One Big April Fools\n   [89]Mike Pence Takes 4-Hour Shower After Meeting Irish PM And Boyfriend\n[90]Mike Pence Takes 4-Hour Shower After Meeting Irish PM And Boyfriend\n   [91]Trump Storrms out of North Korean Talks Early After Kim Suggests\n[92]Trump Ends North Korean Talks Early After Kim Suggests Burger King..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2455,
+        "content": "[93]Petition Demanding Maroon 5, Patriots, Rams Never Appear At Super\n   Bowl Again Reaches 100m Signatures In 12 Hours\n[94]Petition Demanding Maroon 5, Patriots, Rams Never Appear At Super Bowl..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 2653,
+        "content": "[113]YVR Outlet Mall under fire for its \"Finally a Reason to Visit Richmond\"\n   [114]the Burrard Street Journal - Friday, October 23, 2015\n   [115]\"Ratuccinos\" set to be Canada and Vancouver's first rat cafe"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 2862,
+        "content": "[116]Vancouver's First Rat Caf\u00e9 To Open Next Weekend\n   [117]the Burrard Street Journal - Thursday, August 4, 2016\n   [118]Reality TV Star Somehow Doesn't Become Leader Of Large North\n[119]Reality TV Star Somehow Doesn't Become Leader Of Large North American\n   [120]Georgia Viaduct To Be Demolished Early As Filming Of Deadpool 2\n[121]BREAKING: Georgia Viaduct To Be Demolished Early As Deadpool 2 Filming\n[122]Canadian Immigration Website Crashes For Some Strange Reason\n[123]Vancouver Canucks Promise To Appoint Fan As Head Coach If He Gets 8\n   [127]Fox News Viewers Stunned As Station Broadcasts Real News For April\n   Fools"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3495,
+        "content": "Fox News real news controversy\n[128]Fox News Viewers Stunned As Station Broadcasts Real News For April Fools\n   [129]the Burrard Street Journal - Tuesday, April 2, 2019\n   THERE was no doubting who won April Fools Day 2019 after Fox News\n   dumbfounded their audience by publishing only real news for...\n   [131]Trump Admits Entire Presidency Just One Big April Fools"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3865,
+        "content": "Trump\n[132]Trump Admits Entire Presidency Just One Big April Fools\n   [133]the Burrard Street Journal - Monday, April 1, 2019\n   WASHINGTON, DC--Donald Trump has officially confirmed that his entire\n   presidency has been one gigantic April Fools culminating in today."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4137,
+        "content": "[135]Mike Pence Takes 4-Hour Shower After Meeting Irish PM And\n   Boyfriend"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 4215,
+        "content": "Mike Pence Irish PM and Boyfriend\n[136]Mike Pence Takes 4-Hour Shower After Meeting Irish PM And Boyfriend\n   [137]the Burrard Street Journal - Friday, March 15, 2019\n   WASHINGTON, D.C.--Mike Pence took a 4-hour shower shortly after meeting\n   the Irish Taoiseach and his boyfriend at the White House on Thursday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 4533,
+        "content": "[139]Trump Storrms out of North Korean Talks Early After Kim Suggests\n[140]Trump Ends North Korean Talks Early After Kim Suggests Burger King Is\n   [141]the Burrard Street Journal - Thursday, February 28, 2019\n   HANOI, VIETNAM--New details have emerged suggesting President Trump\n   walked away from talks with Kim Jong Un after the North Korean leader\n   [143]Declan Rice Apologises For Singing 'Come Out Ye Black And Tans'\n[145]Declan Rice Apologises For Singing `Come Out Ye Black And Tans'...\n   [146]Burrard Street Football - Saturday, March 23, 2019\n   Declan Rice has again been forced to apologise after appearing to sing\n   'Come Out Ye Black and Tans' during England's win over..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 5228,
+        "content": "[148]Raheem Sterling STEALS Match Ball After GUNNING Down INNOCENT\n[149]Raheem Sterling STEALS Match Ball After GUNNING Down INNOCENT Czechs\n   [150]Ole Gunnar Solskjaer Offered New 25-Year Contact By Man Utd"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 5439,
+        "content": "Ole\n[151]Ole Gunnar Solskjaer Offered New 25-Year Contract By Man Utd\n   [152]Chelsea Recall 374 Players From Loan\n[153]BREAKING: Chelsea Recall 374 Players From Loan\n   [154]Chelsea Ask FIFA If Transfer Ban Also Applies To Managers\n[155]Chelsea Ask FIFA If Transfer Ban Also Applies To Managers\n[158]Neymar becomes last footballer on earth to be linked with Man...\n   [159]Burrard Street Football - Sunday, August 23, 2015\n   Barcelona star, Neymar Jr., has become the last professional footballer\n   on earth to be linked with a move to Manchester United this summer."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 6009,
+        "content": "[162]Hodgson on Jack Grealish: \"Ireland are welcome to have him."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 6074,
+        "content": "He's...\n   [163]Burrard Street Football - Thursday, June 18, 2015\n   Rep. of Ireland under 21 star Jack Grealish, appears to have ended his\n   hopes of an England call up, before they even began."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 6270,
+        "content": "The young Aston..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 6289,
+        "content": "[165]Falcao: \"I can be Chelsea's biggest flop yet\"\n[167]Raheem Sterling's Mother hands in `sick note' to Brendan Rodgers to...\n   [168]Rooney Defends Drink Driving Charge: 'You Try Living In Liverpool\n[169]Rooney Defends Drink Driving Charge: `You Try Being In Liverpool Sober'\n[171]Man United Agree To Rename Sir Alex Ferguson Stand After Paul..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 6640,
+        "content": "[172]Declan Rice Apologises For Singing 'Come Out Ye Black And Tans'\n[173]Declan Rice Apologises For Singing `Come Out Ye Black And Tans' During\n   [174]Burrard Street Football - Saturday, March 23, 2019\n   Declan Rice has again been forced to apologise after appearing to sing\n   'Come Out Ye Black and Tans' during England's win over..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 6982,
+        "content": "[176]Raheem Sterling STEALS Match Ball After GUNNING Down INNOCENT\n[177]Raheem Sterling STEALS Match Ball After GUNNING Down INNOCENT Czechs In\n   [178]Burrard Street Football - Friday, March 22, 2019\n   Manchester City and England STAR Raheem Sterling has GUNNED down as\n   many as 14 INNOCENT Czech players after going on a WILD..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 7319,
+        "content": "[180]Ole Gunnar Solskjaer Offered New 25-Year Contact By Man Utd"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 7386,
+        "content": "Ole\n[181]Ole Gunnar Solskjaer Offered New 25-Year Contract By Man Utd\n   [182]Burrard Street Football - Thursday, March 7, 2019\n   MANCHESTER United have rewarded Ole Gunnar Solskjaer for his excellent\n   start as caretaker manager by offering the norwegian a new 25-year\n   [184]Chelsea Recall 374 Players From Loan\n[185]BREAKING: Chelsea Recall 374 Players From Loan\n   [186]Burrard Street Football - Friday, February 22, 2019\n   CHELSEA Football Club have announced they have immediately recalled 374\n   players from loan, following their two-window transfer ban from FIFA."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 7966,
+        "content": "The Burrard Street Journal is based in Vancouver, British Columbia,\n   Canada."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 8045,
+        "content": "For more information about the Burrard Street Journal, please\n   see our about us page and disclaimer below."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 8154,
+        "content": "Please follow the BSJ\n   on [188]facebook and [189]twitter for more..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 8228,
+        "content": "[190]Fox News Viewers Stunned As Station Broadcasts Real News For April\n   Fools"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 8311,
+        "content": "Fox News real news controversy\n[192]Fox News Viewers Stunned As Station Broadcasts Real News For April..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 8420,
+        "content": "[193]the Burrard Street Journal - Tuesday, April 2, 2019\n   [195]Trump Admits Entire Presidency Just One Big April Fools"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 8543,
+        "content": "Trump\n[197]Trump Admits Entire Presidency Just One Big April Fools\n   [198]the Burrard Street Journal - Monday, April 1, 2019\n   [200]Declan Rice Apologises For Singing 'Come Out Ye Black And Tans'\n[202]Declan Rice Apologises For Singing `Come Out Ye Black And Tans'...\n   [203]Burrard Street Football - Saturday, March 23, 2019\n   [205]Raheem Sterling STEALS Match Ball After GUNNING Down INNOCENT\n[207]Raheem Sterling STEALS Match Ball After GUNNING Down INNOCENT Czechs\n   [208]Burrard Street Football - Friday, March 22, 2019\n   [210]Mike Pence Takes 4-Hour Shower After Meeting Irish PM And\n   Boyfriend"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 9154,
+        "content": "Mike Pence Irish PM and Boyfriend\n[212]Mike Pence Takes 4-Hour Shower After Meeting Irish PM And Boyfriend\n   [213]the Burrard Street Journal - Friday, March 15, 2019\n   [215]Ole Gunnar Solskjaer Offered New 25-Year Contact By Man Utd"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 9391,
+        "content": "Ole\n[217]Ole Gunnar Solskjaer Offered New 25-Year Contract By Man Utd\n   [218]Burrard Street Football - Thursday, March 7, 2019\n   [220]Trump Storrms out of North Korean Talks Early After Kim Suggests\n[222]Trump Ends North Korean Talks Early After Kim Suggests Burger King..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 9670,
+        "content": "[223]the Burrard Street Journal - Thursday, February 28, 2019\n   [225]Chelsea Recall 374 Players From Loan\n[227]BREAKING: Chelsea Recall 374 Players From Loan\n   [228]Burrard Street Football - Friday, February 22, 2019\n   [230]Chelsea Ask FIFA If Transfer Ban Also Applies To Managers\n[232]Chelsea Ask FIFA If Transfer Ban Also Applies To Managers\n   [233]Burrard Street Football - Friday, February 22, 2019\n   [235]Paul Ince Claims He Could Have Beaten PSG 5-0\n[237]Paul Ince Claims He Could Have Beaten PSG 5-0\n   [238]Burrard Street Football - Tuesday, February 12, 2019\n   \u00a9 Copyright 2017 - The Burrard Street Journal"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 10296,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 10320,
+        "content": "This website uses cookies to ensure you get the best experience\n   This website uses cookies to improve your experience."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 10441,
+        "content": "We'll assume\n   you're ok with this, but you can opt-out if you wish.[249]Accept Reject\n   Your email ____________________Recipient email ____________________\n   html,_______________________________________________________\n   body{_______________________________________________________\n     overflow-x: hidden;_______________________________________\n   }___________________________________________________________\n   Write CSS OR LESS and hit save."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 10891,
+        "content": "CTRL + SPACE for auto-complete."
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "documentSentiment": {
+    "magnitude": 8.0,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]Empire News \u00bb Feed [2]alternate [3]alternate\n   [11]Man Who Bought a Pair of Dentures on Shopping App WISH Can Suddenly\n   Man Who Bought a Pair of Dentures on Shopping App WISH Can Suddenly\n   [12]Man In Coma For 26 Years Wakes Up, Decides To Be Medically Induced\n   For An Extra Year So He'll Be Eligible For Retirement\n   Man In Coma For 26 Years Wakes Up, Decides To Be Medically Induced For\n   An Extra Year So He'll Be Eligible For Retirement\n   [13]Man Buys Over $10,000 Worth of Girl Scout Cookies, Dies Trying to\n   Man Buys Over $10,000 Worth of Girl Scout Cookies, Dies Trying to Eat\n   [14]For The First Time In The History of Man, No Babies Were Born and\n   No Living People Died On February 27th, 2019\n   For The First Time In The History of Man, No Babies Were Born and No\n   Living People Died On February 27th, 2019\n   [16]NFL's Carolina Panthers Officially Changes Their Name to Carolina\n   NFL's Carolina Panthers Officially Changes Their Name to Carolina Black\n   [17]World Cup Has Lowest Ratings in History as People Discover How Much\n   World Cup Has Lowest Ratings in History as People Discover How Much\n   [18]EA Sports To Make President Trump Cover Star of PGA Tour 2018\n   EA Sports To Make President"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 1235,
+        "content": "Trump Cover Star of PGA Tour 2018\n   [19]NFL Players Put In Protective Custody After Man Threatens To `Kill\n   NFL Players Put In Protective Custody After Man Threatens To `Kill All\n   [21]California Passes Law to Completely Ban Cigarette Sales\n   California Passes Law to Completely Ban Cigarette Sales\n   [22]Michelle Obama Says She Plans To Run Against Trump in 2020 - With\n   Michelle Obama Says She Plans To Run Against Trump in 2020 - With\n   [23]President Trump Readies Deportation of Melania After Huge Fight At\n   President Trump Readies Deportation of Melania After Huge Fight At\n   [24]After Record Number of Children Disappear, Man Arrested With 47\n   After Record Number of Children Disappear, Man Arrested With 47 Kids\n   [26]Trump Strikes Deal With Amazon, Netflix, and Others - No More\n   Trump Strikes Deal With Amazon, Netflix, and Others - No More Federal\n   [27]Planned Parenthood Announces They Will Stop Performing Abortions At\n   Planned Parenthood Announces They Will Stop Performing Abortions At All\n   [28]MTV Announces Drastic Programming Change - They're Going Back to\n   MTV Announces Drastic Programming Change - They're Going Back to Music\n   [29]Investor and TV Star Mark Cuban Files for Bankruptcy After Series\n   Investor and TV Star Mark Cuban Files for Bankruptcy After Series of\n   [31]Man Hospitalized After Getting Battery Stuck In His Anus, Says"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2621,
+        "content": "He\n   Thought It Would `Give Him More Energy'\n   Man Hospitalized After Getting Battery Stuck In His Anus, Says He\n   Thought It Would `Give Him More Energy'\n   [32]Man In Coma For 26 Years Wakes Up, Decides To Be Medically Induced\n   For An Extra Year So He'll Be Eligible For Retirement\n   Man In Coma For 26 Years Wakes Up, Decides To Be Medically Induced For\n   An Extra Year So He'll Be Eligible For Retirement\n   [33]Man Buys Over $10,000 Worth of Girl Scout Cookies, Dies Trying to\n   Man Buys Over $10,000 Worth of Girl Scout Cookies, Dies Trying to Eat\n   [34]Planned Parenthood Announces They Will Stop Performing Abortions At\n   Planned Parenthood Announces They Will Stop Performing Abortions At All\n   [36]Man Who Bought a Pair of Dentures on Shopping App WISH Can Suddenly\n   Man Who Bought a Pair of Dentures on Shopping App WISH Can Suddenly\n   [37]Nearly 1,000 People Have Gone Missing After Last Weekend's\n   Mysterious `Flying Object' Seen Throughout East Coast\n   Nearly 1,000 People Have Gone Missing After Last Weekend's Mysterious\n   `Flying Object' Seen Throughout East Coast\n   [38]New England Set To Be Hit By Three Massive, Back-To-Back\n   Nor'Easters; More Than 10 Feet of Snow Expected\n   New England Set To Be Hit By Three Massive, Back-To-Back Nor'Easters;"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 3912,
+        "content": "[39]Extensive 10-Year Study Shows That People Who Own Cats are Cat\n   Extensive 10-Year Study Shows That People Who Own Cats are Cat Owners\n   [41]Barack Obama Announces Plans To Get Elected As Italian Prime\n   Barack Obama Announces Plans To Get Elected As Italian Prime Minister\n   [42]Rocketman And Dotard Agree To Settle Diplomatic Issues In EPIC Rap\n   Rocketman And Dotard Agree To Settle Diplomatic Issues In EPIC Rap\n   [43]Lost City of Atlantis Uncovered In Mediterranean Sea\n   Lost City of Atlantis Uncovered In Mediterranean Sea\n   [44]Self-Professed `Fag Hater' Wants Scientists To `Get Rid Of\n   Self-Professed `Fag Hater' Wants Scientists To `Get Rid Of Rainbows'\n   [48]Go Ask Allison: My Grandma Bought Me Fake Diamonds - What A B****!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 4668,
+        "content": "Go Ask Allison: My Grandma Bought Me Fake Diamonds - What A B****!\n   [49]Go Ask Allison: I Think I Made A Mistake - Is He Really \"The One?!\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 4813,
+        "content": "Go Ask Allison: I Think I Made A Mistake - Is He Really \"The One?!\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 4884,
+        "content": "[50]Go Ask Allison: My Mother-in-Law Tried To Sleep With My Father At\n   Go Ask Allison: My Mother-in-Law Tried To Sleep With My Father At My\n   [51]Go Ask Allison: I Think My Boyfriend's Cheating."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5082,
+        "content": "Please Help!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 5098,
+        "content": "Go Ask Allison: I Think My Boyfriend's Cheating."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5147,
+        "content": "Please Help!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 5165,
+        "content": "* Pope Francis Tries To Curb Molestation In The Church, Declares That\n     * For The First Time In The History of Man, No Babies Were Born and\n       No Living People Died On February 27th, 2019\n     * President Trump Signs New Order To Remove Marijuana From Schedule-1\n     * Michelle Obama Says She Plans To Run Against Trump in 2020 - With\n     * President Trump Readies Deportation of Melania After Huge Fight At\n     * Pope Francis Tries To Curb Molestation In The Church, Declares That\n     * For The First Time In The History of Man, No Babies Were Born and\n       No Living People Died On February 27th, 2019\n     * President Trump Signs New Order To Remove Marijuana From Schedule-1\n     * Michelle Obama Says She Plans To Run Against Trump in 2020 - With\n     * President Trump Readies Deportation of Melania After Huge Fight At\n[56]Pope Francis Tries To Curb Molestation In The Church, Declares That\n   VATICAN CITY -  Pope Francis made a surprise announcement during his\n   weekly Sunday Mass in Vatican City, stunning the world when he said\n   that the church has decided that their priests would be allowed to wed,\n[57]Man Sues Apple After Trying to Take a Bite Out of His iPhone, Discovering\n   CARSON, Georgia - A Georgia man has filed suit against tech giant\n   Apple, saying that after purchasing the latest iPhone, he tried to \""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 6512,
+        "content": "eat\n   the device,\" and suffered severe damage to his mouth, teeth, and gums.\n[58]Man Hospitalized After Getting Battery Stuck In His Anus, Says He Thought\n   MIAMI, Florida -  A Florida man was taken to a Miami hospital after\n   reportedly getting a large, D-cell battery stuck in his anus."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6804,
+        "content": "The man\n   claimed that he thought that the battery might give him the ..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6879,
+        "content": "[59]Man Who Bought a Pair of Dentures on Shopping App WISH Can Suddenly Speak\n   BOSTON, Massachusetts -  A Boston man, Arnold Richardson, said he\n   didn't know what to do when his dentist told him that he was going to\n   need a new set of custom dentures to replace the ones ...\n[60]Man In Coma For 26 Years Wakes Up, Decides To Be Medically Induced For An\nExtra Year So He'll Be Eligible For Retirement\n   ATLANTA, Georgia -  Richard Atkins, 64, has been in a coma for the last\n   26 years, the result of a hit-and-run car accident that left him\n   hospitalized."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 7445,
+        "content": "Although doctors had told Atkins' wife, Miranda, that\n[61]Man Buys Over $10,000 Worth of Girl Scout Cookies, Dies Trying to Eat\n   EDGEWORTH, Florida -  A Florida man has died after he attempted to eat\n   over $10,000 worth of Girl Scout cookies, which is approximately 1500\n   boxes."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 7730,
+        "content": "John Richards, 43, died after his 87th box, when he suffered\n[62]For The First Time In The History of Man, No Babies Were Born and No\nLiving People Died On February 27th, 2019\n   WASHINGTON, D.C."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 7926,
+        "content": "- According to the US Department of Births and Deaths,\n   February 27th, 2019 was the first time in the recorded history of Man\n   that no one was born, and no one died."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 8096,
+        "content": "The phenomenon ..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 8118,
+        "content": "Amazon Unveils 'Amazon Crime' Service, Offers Black Market Products at\n[63]Trump Strikes Deal With Amazon, Netflix, and Others - No More Federal\n   WASHINGTON, D.C."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 8283,
+        "content": "-  In what most are calling a \"backroom deal,\"\n   President Trump has struck an arrangement with Amazon, Netflix, Disney,\n   Wayfair, and other major companies in the United States, where they\n   Design & Developed By [75]Open Source Technologies."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Games",
+          "mid": "/m/03bt1gh",
+          "score": 0.8858211,
+          "topicality": 0.8858211
+        },
+        {
+          "description": "Darts",
+          "mid": "/m/023hb6",
+          "score": 0.81122744,
+          "topicality": 0.81122744
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.6427465,
+          "topicality": 0.6427465
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.62537503,
+          "topicality": 0.62537503
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.5202584,
+          "topicality": 0.5202584
+        }
+      ]
+    }
+  ]
+}

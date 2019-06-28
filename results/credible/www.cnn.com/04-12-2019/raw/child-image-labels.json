@@ -1,0 +1,412 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9655209,
+          "topicality": 0.9655209
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9218415,
+          "topicality": 0.9218415
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6895343,
+          "topicality": 0.6895343
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.5870729,
+          "topicality": 0.5870729
+        },
+        {
+          "description": "Banner",
+          "mid": "/m/0m9cj",
+          "score": 0.5433466,
+          "topicality": 0.5433466
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.5196549,
+          "topicality": 0.5196549
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9511113,
+          "topicality": 0.9511113
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84106016,
+          "topicality": 0.84106016
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.74293774,
+          "topicality": 0.74293774
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.5714039,
+          "topicality": 0.5714039
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9703189,
+          "topicality": 0.9703189
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.95173645,
+          "topicality": 0.95173645
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.94689137,
+          "topicality": 0.94689137
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.85780877,
+          "topicality": 0.85780877
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.8086083,
+          "topicality": 0.8086083
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.6747993,
+          "topicality": 0.6747993
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.64411175,
+          "topicality": 0.64411175
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.96472514,
+          "topicality": 0.96472514
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9560712,
+          "topicality": 0.9560712
+        },
+        {
+          "description": "Circle",
+          "mid": "/m/01vkl",
+          "score": 0.84323984,
+          "topicality": 0.84323984
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.8403633,
+          "topicality": 0.8403633
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.8286462,
+          "topicality": 0.8286462
+        },
+        {
+          "description": "Black-and-white",
+          "mid": "/m/01g6gs",
+          "score": 0.8072261,
+          "topicality": 0.8072261
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.7476061,
+          "topicality": 0.7476061
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.7315383,
+          "topicality": 0.7315383
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6802748,
+          "topicality": 0.6802748
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6658512,
+          "topicality": 0.6658512
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9030672,
+          "topicality": 0.9030672
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8854239,
+          "topicality": 0.8854239
+        },
+        {
+          "description": "Black-and-white",
+          "mid": "/m/01g6gs",
+          "score": 0.7811979,
+          "topicality": 0.7811979
+        },
+        {
+          "description": "Monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.67593247,
+          "topicality": 0.67593247
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6249194,
+          "topicality": 0.6249194
+        },
+        {
+          "description": "Circle",
+          "mid": "/m/01vkl",
+          "score": 0.6238854,
+          "topicality": 0.6238854
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6125872,
+          "topicality": 0.6125872
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.5870729,
+          "topicality": 0.5870729
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.91995627,
+          "topicality": 0.91995627
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9030672,
+          "topicality": 0.9030672
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.7655165,
+          "topicality": 0.7655165
+        },
+        {
+          "description": "Black-and-white",
+          "mid": "/m/01g6gs",
+          "score": 0.6834213,
+          "topicality": 0.6834213
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.62020713,
+          "topicality": 0.62020713
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.6152764,
+          "topicality": 0.6152764
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.503658,
+          "topicality": 0.503658
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.96445,
+          "topicality": 0.96445
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.96246994,
+          "topicality": 0.96246994
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.7919161,
+          "topicality": 0.7919161
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.70772284,
+          "topicality": 0.70772284
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6941581,
+          "topicality": 0.6941581
+        },
+        {
+          "description": "Black-and-white",
+          "mid": "/m/01g6gs",
+          "score": 0.6834213,
+          "topicality": 0.6834213
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.61212593,
+          "topicality": 0.61212593
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.94299954,
+          "topicality": 0.94299954
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9245085,
+          "topicality": 0.9245085
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.88609034,
+          "topicality": 0.88609034
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8753489,
+          "topicality": 0.8753489
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        },
+        {
+          "description": "Material property",
+          "mid": "/m/0457gc6",
+          "score": 0.69919986,
+          "topicality": 0.69919986
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.6869037,
+          "topicality": 0.6869037
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.67943084,
+          "topicality": 0.67943084
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.651535,
+          "topicality": 0.651535
+        }
+      ]
+    }
+  ]
+}

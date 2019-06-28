@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "confidence": 0.86,
+      "name": "/News"
+    },
+    {
+      "confidence": 0.54,
+      "name": "/Arts & Entertainment/Celebrities & Entertainment News"
+    }
+  ]
+}

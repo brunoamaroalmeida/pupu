@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "display advertising"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.vidmy.com/landing/images/demo3.jpg"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/znews-news-website-template.jpg"
+          },
+          {
+            "url": "https://s.studiobinder.com/wp-content/uploads/2017/11/Casting-Websites-SAG-Website-StudioBinder.jpg?x81279&resolution=1440,1"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/voice-flat-design-wordpress-magazine-theme.jpg"
+          },
+          {
+            "url": "https://openscholar.harvard.edu/files/osharvard2/files/mobile-screens.png?m=1525201340"
+          },
+          {
+            "url": "https://i0.wp.com/itsfoss.com/wp-content/uploads/2018/01/wordpress-screenshot.jpg?resize=800%2C534&ssl=1"
+          },
+          {
+            "url": "https://static1.arlocdn.net/web/2019/02/20105111/2019-02-20-10_47_39-Upcoming-events-Demo-Company-1024x892.png"
+          },
+          {
+            "url": "http://www.theconnection2music.com/wp-content/uploads/2018/08/TMC-Orland-Park-3.png"
+          },
+          {
+            "url": "https://cms-assets.tutsplus.com/uploads/users/30/posts/26506/image/roundup-website-template-barcelona.jpg"
+          },
+          {
+            "url": "https://www.enthusiastinc.com/wp-content/uploads/2019/02/Hornet-Website.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.58606267
+          },
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.31863213
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.295
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.2767121
+          },
+          {
+            "description": "New media",
+            "entityId": "/m/01yl50",
+            "score": 0.2687903
+          },
+          {
+            "description": "Multimedia",
+            "entityId": "/m/0541p",
+            "score": 0.23752895
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.21678193
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.20243676
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1984
+          },
+          {
+            "description": "Media",
+            "entityId": "/m/03qh03g",
+            "score": 0.1888
+          }
+        ]
+      }
+    }
+  ]
+}

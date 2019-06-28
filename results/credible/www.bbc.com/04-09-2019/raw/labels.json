@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.8782048,
+          "topicality": 0.8782048
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84106016,
+          "topicality": 0.84106016
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.60031396,
+          "topicality": 0.60031396
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.56534505,
+          "topicality": 0.56534505
+        },
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.5372118,
+          "topicality": 0.5372118
+        }
+      ]
+    }
+  ]
+}

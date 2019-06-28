@@ -1,0 +1,79 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]next [2]The Poke \u00bb Feed [3]The Poke \u00bb Comments Feed\n   Having a bad day?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 82,
+        "content": "It could be worse, your kid could have just done this\n   Roald Dahl's shutdown of anti-vaxxers is even more relevant today than\n   This Jake Humphrey thread and the response it provoked is truly\n   Mark Francois wants another vote of no confidence in Theresa May - the\n   This tweet about BBC Science Focus mag is the truest thing you'll read\n   LBC's Brexit update was interrupted by the reporter's 4-year-old\n   There'll never be a better self-own gif than this one\n   Creepiest thing you'll see this week (and probably a lot longer than\n   This iconic Pulp Fiction scene is so much funnier with burgers\n   Turns out by changing the tense on Wikipedia things get very dystopian\n   23 times the customer really wasn't right and they're very funny and\n   Nigel Farage told people to ignore the World Health Organization - 11\n   We've watched this miss 5 times now and we still can't work out what\n   This Brexiter fruit farmer who relies on EU workers will have you\n   These 14 three-word sad stories will hit you where it hurts\n   This Tinder profile starts badly and gets far worse\n   The precision of this marching band's routine has to be seen to be\n   23 times the customer really wasn't right and they're very funny and\n   This post-match interview had viewers crying \"foul\"\n   This Tinder profile starts badly and gets far worse\n   33"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 1424,
+        "content": "celebrity marriages that would create some puntastic\n   Krishnan Guru-Murthy shutting down a lying Brexiter MP is this week's\n   This Jake Humphrey thread and the response it provoked is truly\n   15+ hilariously NSFW lost-in-translation signs\n   Nigel Farage told people to ignore the World Health Organization - 11\n   The strangest, most satisfying first question fail you'll see on Who\n   This Brexiter fruit farmer who relies on EU workers will have you\n   \u00a9 The Poke 2019"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1907,
+        "content": "[20]T&C's"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1923,
+        "content": "[21]Cookie Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1947,
+        "content": "[22]Privacy Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1971,
+        "content": "[23]Contact Us"
+      }
+    }
+  ]
+}

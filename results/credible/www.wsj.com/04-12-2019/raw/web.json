@@ -1,0 +1,58 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "wall street journal",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://image2.owler.com/491898-1423727618496.png"
+          },
+          {
+            "url": "http://jaiibexam.com/wp-content/uploads/2018/11/desperate-love-quotes-awesome-the-wall-street-journal-on-the-app-store-pics-of-desperate-love-quotes-420x270.jpg"
+          },
+          {
+            "url": "http://jaiibexam.com/wp-content/uploads/2018/11/desperate-love-quotes-awesome-the-wall-street-journal-on-the-app-store-pics-of-desperate-love-quotes-643x320.jpg"
+          },
+          {
+            "url": "http://jaiibexam.com/wp-content/uploads/2018/11/hood-quotes-and-sayings-inspirational-the-wall-street-journal-im-app-store-images-of-hood-quotes-and-sayings.jpg"
+          },
+          {
+            "url": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/a6/5b/8c/a65b8c8a-e0ec-c21e-1721-bf48ebd98fd0/mzl.jrtkefxe.jpg/750x750bb.jpeg"
+          },
+          {
+            "url": "http://a1.mzstatic.com/us/r30/Purple30/v4/6c/47/3a/6c473a42-0a8b-0de2-2257-1a06e1478c6c/screen520x924.jpeg"
+          },
+          {
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/26/d9/f9/26d9f902-bfa8-354e-8014-ed9895e47f2c/pr_source.png/300x0w.jpg"
+          },
+          {
+            "url": "http://a3.mzstatic.com/us/r30/Purple30/v4/0b/3c/3c/0b3c3c16-f54c-6f0f-340c-30c8737541a3/sc552x414.jpeg"
+          },
+          {
+            "url": "https://img.yumpu.com/40025864/1/358x447/content-guide-wall-street-journal-asia.jpg?quality=85"
+          },
+          {
+            "url": "http://media.148apps.com/screenshots/364387007/us-ipad-2-the-wall-street-journal.jpeg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.23422305
+          },
+          {
+            "description": "The Wall Street Journal",
+            "entityId": "/m/017b3j",
+            "score": 0.2103
+          }
+        ]
+      }
+    }
+  ]
+}

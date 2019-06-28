@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.83145446,
+          "topicality": 0.83145446
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.74572754,
+          "topicality": 0.74572754
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.69795144,
+          "topicality": 0.69795144
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.59408087,
+          "topicality": 0.59408087
+        },
+        {
+          "description": "Photo caption",
+          "mid": "/m/0b75wg4",
+          "score": 0.53150946,
+          "topicality": 0.53150946
+        }
+      ]
+    }
+  ]
+}

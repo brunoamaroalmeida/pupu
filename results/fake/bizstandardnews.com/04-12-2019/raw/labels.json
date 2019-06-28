@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.86929196,
+          "topicality": 0.86929196
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.72355586,
+          "topicality": 0.72355586
+        },
+        {
+          "description": "Flyer",
+          "mid": "/m/0218rg",
+          "score": 0.6456369,
+          "topicality": 0.6456369
+        },
+        {
+          "description": "Brochure",
+          "mid": "/m/05y_mz",
+          "score": 0.59114105,
+          "topicality": 0.59114105
+        },
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.5485688,
+          "topicality": 0.5485688
+        }
+      ]
+    }
+  ]
+}

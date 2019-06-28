@@ -1,0 +1,120 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flag",
+          "mid": "/m/03120",
+          "score": 0.987302,
+          "topicality": 0.987302
+        },
+        {
+          "description": "Flag of the united states",
+          "mid": "/m/0317s",
+          "score": 0.9126923,
+          "topicality": 0.9126923
+        },
+        {
+          "description": "Flag Day (USA)",
+          "mid": "/m/01t_7l",
+          "score": 0.8305482,
+          "topicality": 0.8305482
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.6704324,
+          "topicality": 0.6704324
+        },
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.65451187,
+          "topicality": 0.65451187
+        },
+        {
+          "description": "Veterans day",
+          "mid": "/m/016jhc",
+          "score": 0.61852,
+          "topicality": 0.61852
+        },
+        {
+          "description": "World",
+          "mid": "/m/09nm_",
+          "score": 0.6053323,
+          "topicality": 0.6053323
+        },
+        {
+          "description": "Holiday",
+          "mid": "/m/03gkl",
+          "score": 0.57103807,
+          "topicality": 0.57103807
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.8550754,
+          "topicality": 0.8550754
+        },
+        {
+          "description": "Games",
+          "mid": "/m/03bt1gh",
+          "score": 0.8287339,
+          "topicality": 0.8287339
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.59429896,
+          "topicality": 0.59429896
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.7326111,
+          "topicality": 0.7326111
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Team",
+          "mid": "/m/011l78",
+          "score": 0.6768946,
+          "topicality": 0.6768946
+        },
+        {
+          "description": "Adaptation",
+          "mid": "/m/03r_vp",
+          "score": 0.6696612,
+          "topicality": 0.6696612
+        },
+        {
+          "description": "Tourism",
+          "mid": "/m/07bxq",
+          "score": 0.5114329,
+          "topicality": 0.5114329
+        }
+      ]
+    }
+  ]
+}

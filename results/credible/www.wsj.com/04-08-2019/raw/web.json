@@ -1,0 +1,83 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "wall street journal",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://cbcdr.com/springfield/files/2016/03/Wall-Street-Jornal-2015.jpg"
+          },
+          {
+            "url": "https://www.yourwingman.com/wp-content/uploads/2013/05/WSJ-neverflysolo.png"
+          },
+          {
+            "url": "https://cdn.business2community.com/wp-content/uploads/2013/12/WSJ-DeloitteC12-20-13_zps908d1606.jpg"
+          },
+          {
+            "url": "http://www.eliteadvisers.com/files/Articles/Precious_Time/20120309_WallStreetJournal.jpg"
+          },
+          {
+            "url": "http://chertluedde.com/wp-content/uploads/2016/05/wall-street-journal-page-003.jpg"
+          },
+          {
+            "url": "https://d2vlcm61l7u1fs.cloudfront.net/media%2Fe8f%2Fe8f511cf-337d-472c-aae8-e8cd5a954cd4%2FphphA1MPV.png"
+          },
+          {
+            "url": "http://www.fanninsentinel.news/wp-content/uploads/2017/11/trump-wsj-poll-1-285x300.jpg"
+          },
+          {
+            "url": "http://www.inhabitat.com/wp-content/uploads/inhabitatwsj.jpg"
+          },
+          {
+            "url": "http://www.renaissanceurns.com/images/WSJpage1edited.jpg"
+          },
+          {
+            "url": "https://d2vlcm61l7u1fs.cloudfront.net/media%2Fff6%2Fff6f66ef-df76-4ed5-87e4-ed1d2630e5fc%2Fimage"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.43822068
+          },
+          {
+            "description": "Freedom from fear",
+            "entityId": "/m/0n47b46",
+            "score": 0.2544
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.2250397
+          },
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.22248314
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.2065217
+          },
+          {
+            "description": "The Wall Street Journal",
+            "entityId": "/m/017b3j",
+            "score": 0.1963
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1854
+          }
+        ]
+      }
+    }
+  ]
+}

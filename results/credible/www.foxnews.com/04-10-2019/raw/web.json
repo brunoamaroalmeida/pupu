@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://static.joomlart.com/images/ja-template/ja-teline-v/joomla-template-for-news-and-magazine-ja-teline-v.png"
+          },
+          {
+            "url": "http://www.victoriancorp.com/images/news/dda-1.JPG"
+          },
+          {
+            "url": "https://image.thum.io/get/maxAge/12/width/700/http://www.foxnews.com/"
+          },
+          {
+            "url": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e03f747-0f69-4d6a-9667-383a603c8c3b/timesonline.gif"
+          },
+          {
+            "url": "https://nordic.businessinsider.com/contentassets/28a0ae73a72f4412a9c9f51c393c506e/5b7c8c111982d820008b543e.png?preset=article-image"
+          },
+          {
+            "url": "http://styletil.es/img/example_1_4_fullsize.jpg"
+          },
+          {
+            "url": "https://eflip.com/assets/website_images/original/1459017612_www_foxnews_com__image.jpg"
+          },
+          {
+            "url": "https://image2.owler.com/125644-1499179506285.png"
+          },
+          {
+            "url": "https://noregretmedia.com/wp-content/uploads/2016/09/tmews.jpg"
+          },
+          {
+            "url": "https://i2.cdn.turner.com/money/2012/07/16/technology/microsoft-nbc-split/nbcnews.top.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.42712235
+          },
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.39133593
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.36488724
+          },
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.32418627
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2972
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.2726686
+          },
+          {
+            "description": "News",
+            "entityId": "/m/05jhg",
+            "score": 0.24978608
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1975
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.192
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1874
+          }
+        ]
+      }
+    }
+  ]
+}

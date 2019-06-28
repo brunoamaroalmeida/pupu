@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.89842594,
+          "topicality": 0.89842594
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.881139,
+          "topicality": 0.881139
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.85250396,
+          "topicality": 0.85250396
+        },
+        {
+          "description": "Mouth",
+          "mid": "/m/0283dt1",
+          "score": 0.78026944,
+          "topicality": 0.78026944
+        },
+        {
+          "description": "Human",
+          "mid": "/m/0dgw9r",
+          "score": 0.7467646,
+          "topicality": 0.7467646
+        },
+        {
+          "description": "Organism",
+          "mid": "/m/05nnm",
+          "score": 0.71515906,
+          "topicality": 0.71515906
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.67131054,
+          "topicality": 0.67131054
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.59907013,
+          "topicality": 0.59907013
+        },
+        {
+          "description": "Birth",
+          "mid": "/m/0lbzq",
+          "score": 0.5700499,
+          "topicality": 0.5700499
+        }
+      ]
+    }
+  ]
+}

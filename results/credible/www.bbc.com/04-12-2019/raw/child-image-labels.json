@@ -1,0 +1,728 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.95470667,
+          "topicality": 0.95470667
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90795594,
+          "topicality": 0.90795594
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.5870729,
+          "topicality": 0.5870729
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.57058036,
+          "topicality": 0.57058036
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.95836014,
+          "topicality": 0.95836014
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9516143,
+          "topicality": 0.9516143
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84902585,
+          "topicality": 0.84902585
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.83396286,
+          "topicality": 0.83396286
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.7655165,
+          "topicality": 0.7655165
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6679457,
+          "topicality": 0.6679457
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6004171,
+          "topicality": 0.6004171
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.58268887,
+          "topicality": 0.58268887
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.57505757,
+          "topicality": 0.57505757
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9705721,
+          "topicality": 0.9705721
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.6350517,
+          "topicality": 0.6350517
+        },
+        {
+          "description": "Circle",
+          "mid": "/m/01vkl",
+          "score": 0.5631338,
+          "topicality": 0.5631338
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.9922956,
+          "topicality": 0.9922956
+        },
+        {
+          "description": "Afterglow",
+          "mid": "/m/013vs",
+          "score": 0.98832625,
+          "topicality": 0.98832625
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.97635025,
+          "topicality": 0.97635025
+        },
+        {
+          "description": "Aurora",
+          "mid": "/m/0d61m",
+          "score": 0.9734372,
+          "topicality": 0.9734372
+        },
+        {
+          "description": "Horizon",
+          "mid": "/m/0d1n2",
+          "score": 0.97181386,
+          "topicality": 0.97181386
+        },
+        {
+          "description": "Red sky at morning",
+          "mid": "/m/080dk2h",
+          "score": 0.9640349,
+          "topicality": 0.9640349
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.962844,
+          "topicality": 0.962844
+        },
+        {
+          "description": "Dusk",
+          "mid": "/m/01b3l7",
+          "score": 0.9391908,
+          "topicality": 0.9391908
+        },
+        {
+          "description": "Atmospheric phenomenon",
+          "mid": "/m/07pw27b",
+          "score": 0.9221157,
+          "topicality": 0.9221157
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.9088238,
+          "topicality": 0.9088238
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.97372866,
+          "topicality": 0.97372866
+        },
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.90548736,
+          "topicality": 0.90548736
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9021002,
+          "topicality": 0.9021002
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.89017737,
+          "topicality": 0.89017737
+        },
+        {
+          "description": "Rose",
+          "mid": "/m/06m11",
+          "score": 0.87791115,
+          "topicality": 0.87791115
+        },
+        {
+          "description": "Plant",
+          "mid": "/m/05s2s",
+          "score": 0.8252991,
+          "topicality": 0.8252991
+        },
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.7994795,
+          "topicality": 0.7994795
+        },
+        {
+          "description": "Rose family",
+          "mid": "/m/06dmh",
+          "score": 0.7917476,
+          "topicality": 0.7917476
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.71118975,
+          "topicality": 0.71118975
+        },
+        {
+          "description": "Petal",
+          "mid": "/m/016q19",
+          "score": 0.69922215,
+          "topicality": 0.69922215
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.65451187,
+          "topicality": 0.65451187
+        },
+        {
+          "description": "Photography",
+          "mid": "/m/05wkw",
+          "score": 0.62422496,
+          "topicality": 0.62422496
+        },
+        {
+          "description": "Tourism",
+          "mid": "/m/07bxq",
+          "score": 0.608511,
+          "topicality": 0.608511
+        },
+        {
+          "description": "Panorama",
+          "mid": "/m/017rtb",
+          "score": 0.60378796,
+          "topicality": 0.60378796
+        },
+        {
+          "description": "Art",
+          "mid": "/m/0jjw",
+          "score": 0.5021872,
+          "topicality": 0.5021872
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Painting",
+          "mid": "/m/05qdh",
+          "score": 0.9164532,
+          "topicality": 0.9164532
+        },
+        {
+          "description": "Art",
+          "mid": "/m/0jjw",
+          "score": 0.85614747,
+          "topicality": 0.85614747
+        },
+        {
+          "description": "Community",
+          "mid": "/m/01qls",
+          "score": 0.83497226,
+          "topicality": 0.83497226
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.8118122,
+          "topicality": 0.8118122
+        },
+        {
+          "description": "Mural",
+          "mid": "/m/04rd7",
+          "score": 0.7551662,
+          "topicality": 0.7551662
+        },
+        {
+          "description": "Tourism",
+          "mid": "/m/07bxq",
+          "score": 0.56889546,
+          "topicality": 0.56889546
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.5618612,
+          "topicality": 0.5618612
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wave",
+          "mid": "/m/02p0sll",
+          "score": 0.9518884,
+          "topicality": 0.9518884
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.93864655,
+          "topicality": 0.93864655
+        },
+        {
+          "description": "Shore",
+          "mid": "/m/02fm9k",
+          "score": 0.9158188,
+          "topicality": 0.9158188
+        },
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.91002715,
+          "topicality": 0.91002715
+        },
+        {
+          "description": "Wind wave",
+          "mid": "/m/034srq",
+          "score": 0.9061314,
+          "topicality": 0.9061314
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.8929008,
+          "topicality": 0.8929008
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8847133,
+          "topicality": 0.8847133
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.8436258,
+          "topicality": 0.8436258
+        },
+        {
+          "description": "Tide",
+          "mid": "/m/07kc0",
+          "score": 0.8132823,
+          "topicality": 0.8132823
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.79327804,
+          "topicality": 0.79327804
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.915385,
+          "topicality": 0.915385
+        },
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.8884066,
+          "topicality": 0.8884066
+        },
+        {
+          "description": "Tree",
+          "mid": "/m/07j7r",
+          "score": 0.8866323,
+          "topicality": 0.8866323
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.8622455,
+          "topicality": 0.8622455
+        },
+        {
+          "description": "Building",
+          "mid": "/m/0cgh4",
+          "score": 0.8457702,
+          "topicality": 0.8457702
+        },
+        {
+          "description": "Photography",
+          "mid": "/m/05wkw",
+          "score": 0.7060428,
+          "topicality": 0.7060428
+        },
+        {
+          "description": "Church",
+          "mid": "/m/01wb7",
+          "score": 0.70492935,
+          "topicality": 0.70492935
+        },
+        {
+          "description": "House",
+          "mid": "/m/03jm5",
+          "score": 0.7015267,
+          "topicality": 0.7015267
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.6769536,
+          "topicality": 0.6769536
+        },
+        {
+          "description": "City",
+          "mid": "/m/01n32",
+          "score": 0.67357486,
+          "topicality": 0.67357486
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9642146,
+          "topicality": 0.9642146
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.81767076,
+          "topicality": 0.81767076
+        },
+        {
+          "description": "Protest",
+          "mid": "/m/01nd_n",
+          "score": 0.8094477,
+          "topicality": 0.8094477
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.6631902,
+          "topicality": 0.6631902
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.6410647,
+          "topicality": 0.6410647
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.85659605,
+          "topicality": 0.85659605
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.84248316,
+          "topicality": 0.84248316
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.7195399,
+          "topicality": 0.7195399
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.68709457,
+          "topicality": 0.68709457
+        },
+        {
+          "description": "Business",
+          "mid": "/m/09s1f",
+          "score": 0.67887676,
+          "topicality": 0.67887676
+        },
+        {
+          "description": "Collaboration",
+          "mid": "/m/01s560",
+          "score": 0.6784726,
+          "topicality": 0.6784726
+        },
+        {
+          "description": "Adaptation",
+          "mid": "/m/03r_vp",
+          "score": 0.6696612,
+          "topicality": 0.6696612
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.6605939,
+          "topicality": 0.6605939
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.63760847,
+          "topicality": 0.63760847
+        },
+        {
+          "description": "Employment",
+          "mid": "/m/01tqrk",
+          "score": 0.6233813,
+          "topicality": 0.6233813
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.9714808,
+          "topicality": 0.9714808
+        },
+        {
+          "description": "Headland",
+          "mid": "/m/04gv79h",
+          "score": 0.9507989,
+          "topicality": 0.9507989
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.9494228,
+          "topicality": 0.9494228
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.9127335,
+          "topicality": 0.9127335
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.9097991,
+          "topicality": 0.9097991
+        },
+        {
+          "description": "Promontory",
+          "mid": "/m/02r3_7_",
+          "score": 0.895805,
+          "topicality": 0.895805
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.8676231,
+          "topicality": 0.8676231
+        },
+        {
+          "description": "Nature reserve",
+          "mid": "/m/0swq_",
+          "score": 0.8341527,
+          "topicality": 0.8341527
+        },
+        {
+          "description": "Shore",
+          "mid": "/m/02fm9k",
+          "score": 0.8304687,
+          "topicality": 0.8304687
+        },
+        {
+          "description": "Cliff",
+          "mid": "/m/018vpr",
+          "score": 0.8057317,
+          "topicality": 0.8057317
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.96272266,
+          "topicality": 0.96272266
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9029945,
+          "topicality": 0.9029945
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.8975245,
+          "topicality": 0.8975245
+        },
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.8736514,
+          "topicality": 0.8736514
+        },
+        {
+          "description": "Supercar",
+          "mid": "/m/014f__",
+          "score": 0.8652386,
+          "topicality": 0.8652386
+        },
+        {
+          "description": "Automotive exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.8328198,
+          "topicality": 0.8328198
+        },
+        {
+          "description": "Taxi",
+          "mid": "/m/0pg52",
+          "score": 0.73352665,
+          "topicality": 0.73352665
+        },
+        {
+          "description": "Automotive lighting",
+          "mid": "/m/0768fx",
+          "score": 0.72698206,
+          "topicality": 0.72698206
+        },
+        {
+          "description": "Automotive design",
+          "mid": "/m/068mqj",
+          "score": 0.72283965,
+          "topicality": 0.72283965
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.6380994,
+          "topicality": 0.6380994
+        }
+      ]
+    }
+  ]
+}

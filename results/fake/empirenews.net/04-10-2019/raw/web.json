@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.rkaink.com/wp-content/uploads/2016/04/You-Dont-Want-Marie-Forleos-Website-2.jpg"
+          },
+          {
+            "url": "http://dzinetaste.com/wp-content/themes/dzinetaste/scripts/thumb.php?src=http://dzinetaste.com/wp-content/uploads/2013/03/Website-Models-Diversity.png&w=330&h=198&zc=1&q=100"
+          },
+          {
+            "url": "https://i1.wp.com/www.templates4all.com/wp-content/uploads/2011/06/Life-Journey-PhpBB3-Style-Template.jpg?resize=350%2C200"
+          },
+          {
+            "url": "http://healthy-websites.com/images/custom-website-developer/custom-website-design-42657-opencart-b.jpg"
+          },
+          {
+            "url": "http://socialdatingsoftware.com/img/3c0d5e00a342616b660f6cfd04181194.jpg"
+          },
+          {
+            "url": "https://ww1.prweb.com/prfiles/2014/01/31/11537546/Website.jpg"
+          },
+          {
+            "url": "http://www.joenyeinc.com/wp-content/uploads/2018/11/facebook-101-how-to-make-a-band-page-on-exotic-create-website-prodigous-1.png"
+          },
+          {
+            "url": "http://eeservices.co/wp-content/uploads/2019/02/dating-website-template-cupid-love-business-corporate-wordpress-by.jpg"
+          },
+          {
+            "url": "http://www.angelfire.com/colinfletcher/images/GalleryScreenshotSmall.jpg"
+          },
+          {
+            "url": "http://webdesignpractice.com/gallery/images/156/156-289_large.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.36593065
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.3351911
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2579
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.21730381
+          }
+        ]
+      }
+    }
+  ]
+}

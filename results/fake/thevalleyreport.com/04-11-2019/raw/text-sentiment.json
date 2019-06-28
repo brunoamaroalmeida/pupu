@@ -1,0 +1,59 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.6,
+    "score": -0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]next [2]The Valley Report \u00bb Feed [3]The Valley Report \u00bb Comments\n              _________________________________________________________\nIreland's economy collapses after McDonald's wages raised to $15/hr\nNew study proves marijuana more harmful than crack-cocaine\nWoman arrested for stinking up bathroom and closing down restaurant\nDonald Trump promises to deport all immigrants \"back to Alaska\"\n          + ____________________ (BUTTON)\n     * [20]Florida man dies in meth-lab explosion after lighting farts on\n     * [21]Woman arrested for defecating on boss' desk after winning the\n     * [22]Woman arrested for stinking up bathroom and closing down\n     * [23]Woman clubs boyfriend to death because he cheated on her in a\n     * [24]Woman stabs boyfriend for not liking Instagram selfie fast\n[25]Members of Darth Vader's estate ask Trump to stop playing `Imperial\n[26]Kanye allowed to speak in Oval Office despite failing `paper bag test'\n[27]Melania Trump releases `Billionaire Wife Bluez' album\n[28]New technology aids officers in randomly selecting `stop and frisk'\n   [29]Members of Darth Vader's estate ask Trump to stop playing `Imperial\n[31]Members of Darth Vader's estate ask Trump to stop playing `Imperial\n   WASHINGTON - The family of the late Darth Vader issued a statement\n     __________________________________________________________________"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 1374,
+        "content": "[32]daveweasel Dave Weasel October 19, 2018\n   [34]Kanye allowed to speak in Oval Office despite failing `paper bag\n[36]Kanye allowed to speak in Oval Office despite failing `paper bag test'\n   WASHINGTON - In a move that shattered racial barriers, Kanye was\n     __________________________________________________________________\n   [37]daveweasel Dave Weasel October 12, 2018\n   [38]Melania Trump releases `Billionaire Wife Bluez' album\n[40]Melania Trump releases `Billionaire Wife Bluez' album\n   WASHINGTON - After an interview where the first lady admitted her Be\n     __________________________________________________________________\n   [41]daveweasel Dave Weasel October 11, 2018\n   [42]New technology aids officers in randomly selecting `stop and frisk'\n[44]New technology aids officers in randomly selecting `stop and frisk'\n   CHICAGO - To help coax Chicago's police department into adapting the\n     __________________________________________________________________\n   [45]daveweasel Dave Weasel October 9, 2018\n   [46]Kavanaugh confirmed in death metal band to play Devil's Triangle\n[48]Kavanaugh confirmed in death metal band to play Devil's Triangle\n   WASHINGTON - In a move that divided the metal community, Brett\n     __________________________________________________________________\n   [49]daveweasel Dave Weasel October 7, 2018\n   [50]Susan Collins to 2020 voters: \"Fuck you, fuck you, you're cool,\n[52]Susan Collins to 2020 voters: \"Fuck you, fuck"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2845,
+        "content": "you, you're cool, fuck you\n   WASHINGTON - In a bridge burning show of fireworks, Senator Collins\n     __________________________________________________________________\n   [53]daveweasel Dave Weasel October 5, 2018\n   [54]Kavanaugh cleared of misconduct by FFFFFFBI\n[56]Kavanaugh cleared of misconduct by FFFFFFBI\n   WASHINGTON - The FFFFFFFBI concluded their investigation determining\n     __________________________________________________________________\n   [57]daveweasel Dave Weasel October 4, 2018\n   [58]`Presidential Alert' emergency message sent to 225 million US cell\n[60]`Presidential Alert' emergency message sent to 225 million US cell phones\n   WASHINGTON - A nationwide emergency text was sent out via the president\n     __________________________________________________________________\n   [61]daveweasel Dave Weasel October 3, 2018\n   [62]Trump brilliantly turns the tables on Cohen and owns the libs in\n[64]Trump brilliantly turns the tables on Cohen and owns the libs in one\n   WASHINGTON - The president finally responded to Michael Cohen's guilty\n     __________________________________________________________________\n   [65]daveweasel Dave Weasel August 22, 2018\n   [66]Town douche: Tolerance and acceptance aren't cool anymore now that\n[68]Town douche: Tolerance and acceptance aren't cool anymore now that\n   WOODLAND HILLS, CA - A local jackass took time out of his busy\n     __________________________________________________________________\n   [69]daveweasel Dave Weasel July 31, 2018\n   [70]Trump trains hard for Olympic backpedaling\n[72]Trump trains hard for Olympic backpedaling\n   WASHINGTON -"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4472,
+        "content": "As Republicans begin to hold President Trump accountable\n     __________________________________________________________________\n   [73]daveweasel Dave Weasel July 17, 2018\n   [74]#WalkAway bot becomes self-aware, falls in love with its programmer\n[76]#WalkAway bot becomes self-aware, falls in love with its programmer\n   MOSCOW - A robot designed to flood social media with computer generated\n     __________________________________________________________________\n   [77]daveweasel Dave Weasel July 16, 2018\n   [78]NRA: \"School shootings dramatically drop since summer vacation\n[80]NRA: \"School shootings dramatically drop since summer vacation started\"\n   FAIRFAX, VA - The NRA is touting a drop in the recent trend of...\n     __________________________________________________________________\n   [81]daveweasel Dave Weasel July 13, 2018\n   [82]Summer Camp Pals Reminisce About Sunset Views From Cages\n[84]Summer Camp Pals Reminisce About Sunset Views From Cages\n   EL PASO, TX - Two summer camp friends caught up with each other over..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 5519,
+        "content": "__________________________________________________________________\n   [85]daveweasel Dave Weasel June 20, 2018\n     __________________________________________________________________\n     __________________________________________________________________\n     * [90]Woman arrested for defecating on boss' desk after winning the\n       [91]Woman arrested for defecating on boss' desk after winning the\n     * [92]Florida man dies in meth-lab explosion after lighting farts on\n       [93]Florida man dies in meth-lab explosion after lighting farts on\n     * [94]Woman arrested for stinking up bathroom and closing down\n       [95]Woman arrested for stinking up bathroom and closing down\n     * [96]Woman clubs boyfriend to death because he cheated on her in a\n       [97]Woman clubs boyfriend to death because he cheated on her in a\n     * [98]Man shoots off his own penis taking selfies with gun\n       [99]Man shoots off his own penis taking selfies with gun"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.onextrapixel.com/wp-content/uploads/2011/06/incomediary.jpg"
+          },
+          {
+            "url": "https://images.template.net/wp-content/uploads/2016/01/06060054/High-School-WordPress-Website-Template.jpeg"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/colorlib_2018_blog_minimal.jpg"
+          },
+          {
+            "url": "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1537805699/finalsite/aevr6m3tjy7vulmenr6q/StJohns-feeds.png"
+          },
+          {
+            "url": "http://www.kennedyfox.com.au/images/website-design-melbourne-transitdata.jpg"
+          },
+          {
+            "url": "https://cdgwebdesign.com/wp-content/uploads/2016/08/shopify-blog-post-domain-name-generators.png"
+          },
+          {
+            "url": "https://images.template.net/wp-content/uploads/2014/07/19111518/Law-firm-website-template.jpeg"
+          },
+          {
+            "url": "https://www.authorsguild.net/images/slider/slider-anna-yaphe-levine.png"
+          },
+          {
+            "url": "https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/16124534/Infor-Feb-2010.png"
+          },
+          {
+            "url": "https://images.theconversation.com/files/234533/original/file-20180902-195316-tjqncn.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.34727988
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.33127224
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.32311255
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.20664339
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1942
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.19296688
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1878
+          }
+        ]
+      }
+    }
+  ]
+}

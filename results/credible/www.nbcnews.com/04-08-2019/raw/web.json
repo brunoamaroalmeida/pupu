@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "msnbc",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://pics.esmemes.com/2-mins-bo-rache-maddow-republicans-said-president-obamas-agenda-11218718.png"
+          },
+          {
+            "url": "https://pics.awwmemes.com/msnbc-com-sam-nunberg-i-expect-roger-stone-to-be-indicted-35174173.png"
+          },
+          {
+            "url": "https://pics.awwmemes.com/rita-panahi-ritapanahi-msnbc-dude-fails-to-mention-the-man-35635479.png"
+          },
+          {
+            "url": "https://www.journalism.org/wp-content/uploads/sites/8/2017/09/PJ_2017.10.02_Trump-First-100-Days_A-09.png"
+          },
+          {
+            "url": "https://pics.conservativememes.com/joy-reid-joyannreid-follow-a-point-just-made-by-katyturnbc-40244411.png"
+          },
+          {
+            "url": "http://www.politicalcartoonsdonaldtrump.com/wp-content/uploads/2018/02/msnbc-1.jpg"
+          },
+          {
+            "url": "https://pics.me.me/thebradfordfilem-following-thebradfordfile-cnn-and-msnbc-have-zero-articles-on-36222857.png"
+          },
+          {
+            "url": "https://pics.esmemes.com/secular-talk-kyle-kulinski-things-dems-blame-for-116-loss-11196642.png"
+          },
+          {
+            "url": "https://pics.ballmemes.com/mark-ruffalo-mark-ruffalo-sign-the-petition-tell-msnbc-nbcnews-22747255.png"
+          },
+          {
+            "url": "https://conservativenuke.files.wordpress.com/2018/09/kurt5.png?w=642&h=450&crop=1"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.37307718
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.24755903
+          },
+          {
+            "description": "Angle",
+            "entityId": "/m/0mwc",
+            "score": 0.24023975
+          },
+          {
+            "description": "MSNBC",
+            "entityId": "/m/0152x_",
+            "score": 0.1916
+          }
+        ]
+      }
+    }
+  ]
+}

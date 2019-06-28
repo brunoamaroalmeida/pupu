@@ -1,0 +1,72 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://images.blackmagicdesign.com/images/products/atem/software/switcher-audio-en.png?_v=1504239296"
+          },
+          {
+            "url": "https://s3.envato.com/files/115893648/11_flat_dark_layout.png"
+          },
+          {
+            "url": "https://cdn.appuals.com/wp-content/uploads/2017/07/Steam-Screenshot-Folder-4.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Discord_screenshot.png"
+          },
+          {
+            "url": "http://blog.idonethis.com/wp-content/uploads/2016/09/Screenshot-2016-09-01-11.02.50-1-1024x718.png"
+          },
+          {
+            "url": "https://git-scm.com/images/guis/gitblade@2x.png"
+          },
+          {
+            "url": "https://mycodestock.com/assets/img/screenshot-comments.jpg"
+          },
+          {
+            "url": "https://www.howtogeek.com/wp-content/uploads/2017/02/fps_3.png"
+          },
+          {
+            "url": "https://www.pluralsight.com/content/dam/pluralsight/blog/dt/wp-uploads/2014/04/Toon11.jpg"
+          },
+          {
+            "url": "https://images.blackmagicdesign.com/images/products/atemtelevisionstudio/software/labels_en-md.jpg?_v=1486097272"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.3241441
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.23185167
+          },
+          {
+            "description": "Presentation",
+            "entityId": "/m/02y3rj",
+            "score": 0.22083308
+          },
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.21698695
+          },
+          {
+            "description": "Multimedia",
+            "entityId": "/m/0541p",
+            "score": 0.19847086
+          }
+        ]
+      }
+    }
+  ]
+}

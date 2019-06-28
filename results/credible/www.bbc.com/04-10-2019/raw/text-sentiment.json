@@ -1,0 +1,209 @@
+{
+  "documentSentiment": {
+    "magnitude": 7.5,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]alternate [2]alternate [3]alternate [4]alternate\n   Search the BBC ____________________ (BUTTON) Search the BBC\n       Astronomers have taken the first ever image of a black hole, which\n       [32]First ever black hole image released\n[33]Why a long Brexit extension worries Europe\n       [35]Why a long Brexit extension worries Europe\n[36]How a young, gay mayor became a Democratic star\n       [38]How a young, gay mayor became a Democratic star\n[39]The farm trapped between two countries\n       [41]The farm trapped between two countries\n     * Milk going into cereal (Credit: Getty Images)\n[42]Does the milk we consume make stronger bones?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 656,
+        "content": "[44]Does the milk we consume make stronger bones?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 713,
+        "content": "Theresa May arrives in Brussels, joining other leaders as they\n       gather to discuss the UK's departure from the EU.\n       [48]Brexit: EU leaders arrive for summit\n[49]Trump urges investigation of FBI actions\n       The US attorney general meanwhile tells lawmakers he believes the\n       [51]Trump urges investigation of FBI actions\n       India is facing a crucial general election."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 1102,
+        "content": "In some ways, it's a\n       Harry Kane says he will \"come back stronger\" after an ankle injury\n       threatened to rule him out of the rest of the season."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 1265,
+        "content": "[58]Kane vows to 'come back stronger'\n       Rugby Australia describes an Israel Folau social media post, in\n       which the full-back says \"hell awaits\" gay people, as\n       [61]Folau anti-gay posts 'unacceptable'\n[62]'Porto were limited' - Lawrenson's analysis\n       Liverpool boss Jurgen Klopp has nothing to fear from Porto in the\n       second leg of their Champions League quarter-final, says ex-Reds\n       [64]'Porto were limited' - Lawrenson's analysis\n   The new home for amazing BBC video content\n     * An easy trick for making the most of your time asleep\nAn easy trick for making the most of your time asleep\n     * The strange fate of a person falling into a black hole\nThe strange fate of a person falling into a black hole\n     * The hidden consequences of major global catastrophes\n[70]How would nuclear war change humanity?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2118,
+        "content": "The hidden consequences of major global catastrophes\n       [72]How would nuclear war change humanity?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 2228,
+        "content": "From virtual collections to limitless creativity\n     * It's been home to buccaneers, explorers, shipwrecks and one very\n       It's been home to buccaneers, explorers, shipwrecks and one very\n       [78]South America's shipwreck island\n       When music calls, this man takes them to the cleaners\n       [81]The mobile laundry for rock stars\n     * Flights are taking longer and longer."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2616,
+        "content": "There's a reason behind it\n[82]Why airlines lengthen trips on purpose\n       Flights are taking longer and longer."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2731,
+        "content": "There's a reason behind it\n       [84]Why airlines lengthen trips on purpose\n     * Why we may never see anything like the fantasy epic again\n[85]What will be the next Game of Thrones?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 2923,
+        "content": "Why we may never see anything like the fantasy epic again\n       [87]What will be the next Game of Thrones?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 3031,
+        "content": "[88]One change in your diet to improve health\n       Nutrition specialists reveal their one bit of advice to become\n       [90]One change in your diet to improve health\nAvengers fans queue for hours for tickets\n[98]10 of the most epic song intros in pop history\n       [99]10 of the most epic song intros in pop history\n[102]Should cyber-security be more chameleon, less rhino?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3416,
+        "content": "[103]Should cyber-security be more chameleon, less rhino?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3474,
+        "content": "[104]Black hole picture 'a dream come true'\n   Astronomers have taken the first ever picture of a black hole at the\n   [106]Black hole picture 'a dream come true'\n[110]Black hole picture 'a dream come true'\n       [112]Black hole picture 'a dream come true'\n       [115]Fleabag fan theories answered\n[119]Jacinda Ardern gives emotional gun law speech\n       [121]Jacinda Ardern gives emotional gun law speech\n[122]Medical records left in abandoned nursing..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3940,
+        "content": "[124]Medical records left in abandoned nursing home\n     * The foreign secretary struggled to explain the PM would tackle\n       \"burning injustices\" in the criminal justice system and in\n[125]Boris Johnson struggles in interview\n       [127]Boris Johnson struggles in interview\n     * Solar eclipse to cross North America\n       [130]Ready for the total solar eclipse?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 4310,
+        "content": "[131]Koalas 'face extinction' in parts of...\n       [133]Koalas 'face extinction' in parts of Australia\n     * File image of Mosul's Great Mosque of al-Nuri and video purportedly\n       showing it being blown up on 21 June 2017\n[134]Video 'shows Mosul mosque's destruction'\n       [136]Video 'shows Mosul mosque's destruction'\n[137]Indonesia's female 'devil wheel' riders\n       [139]Indonesia's female 'devil wheel' riders\n[140]'It's good to see black men out there'\n       [142]'It's good to see black men out there'\n[143]'You can make any product in any location'\n       [145]'You can make any product in any location'\n     * Loreto Convent Valley Road Environmental club\n[149]'The more people we tell, the better'\n       [151]'The more people we tell, the better'\n[152]'My baby was born totally white and silent'\n       [154]'My baby was born totally white and silent'\n[157]Doctor finds four bees living in woman's eye\n       The sweat bees flew into her eyes and may have been drinking her\n       [159]Doctor finds four bees living in woman's eye\n     * Lakes that get too big will sometimes"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 5407,
+        "content": "be drained by local agencies\n       [162]Danger glacial lakes identified\n       [165]Darcey Bussell quits Strictly\n[166]First home drone delivery service takes off\n       [168]First home drone delivery service takes off\n[169]TV firm fined for maternity unit filming\n       [171]TV firm fined for maternity unit filming\n     * Mayor Bill de Blasio spells out the dangers\n       [174]NY mayor declares measles emergency\n[175]Why Diana Rigg 'loves being disliked'\n       [177]Why Diana Rigg 'loves being disliked'\n     * Facebook to use AI to respect the dead By Dave Lee\n     * Eight legal headaches for Donald Trump By Anthony Zurcher\n     * Brexit: Significant hurdles for cross-party talks By Laura\n     * EU keen to quiz May ahead of Brexit summit By Katya Adler\n     * London's ULEZ: How does it compare?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 6215,
+        "content": "By Matt McGrath\n     * Israel's election: Five things to know By Yolande Knell\n     * Germany's rising star eyes second Brexit referendum By Katya Adler\n     * When this eBook store closes, your books disappear too By Dave Lee\n[179]The man who created the perfect pop song\n       [181]The man who created the perfect pop song\n[183]'Why I quit as a barrister to follow my dream job'\n       [185]'Why I quit as a barrister to follow my dream job'\n     * Bangladeshi woman with face covered by green fabric\n     * Northern lights over Thornham in Norfolk\n[190]'My decade photographing a magical coast'\n       [192]'My decade photographing a magical coast'\n     * A collage by French artist JR in the courtyard of the Louvre,\n       [195]The best news photos of the week\n[196]'Painting-by-numbers literally saved my life'\n       [198]'Painting-by-numbers literally saved my life'\n     * Ako Iida of Japan competes during the women's 100m breaststroke\n       heats on day two of the Japan Swim at the Tokyo Tatsumi\n[199]World sport: 10 photos we liked this week\n       [201]World sport: 10 photos we liked this week\n       [204]\"Un absoluto monstruo\": as\u00ed es la primera foto de un agujero"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 7407,
+        "content": "negro, 3 millones de veces m\u00e1s grande que la Tierra\n       [206]s+l+ d+r+ a+r+a+n+: w+r+w+d+ snh+r+ a+h+w+a+z+ b+h+ z+r+ aMb+\n       [208]O que os primeiros 100 dias de Bolsonaro indicam sobre os\n   Copyright \u00a9 2019 BBC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 7630,
+        "content": "The BBC is not responsible for the content of\n   external sites."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 7695,
+        "content": "[265]Read about our approach to external linking."
+      }
+    }
+  ]
+}

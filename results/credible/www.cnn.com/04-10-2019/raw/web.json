@@ -1,0 +1,87 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "conversation"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://d3n8a8pro7vhmx.cloudfront.net/bobbrownfoundation/pages/1027/attachments/original/1490186536/ABC-RN.jpg?1490186536"
+          },
+          {
+            "url": "https://cloudfront.mediamatters.org/static/uploader/image/2017/10/04/YourNewsWire_FB_page1.png"
+          },
+          {
+            "url": "https://boygeniusreport.files.wordpress.com/2016/11/cnn-hillary-drunk.png?w=782"
+          },
+          {
+            "url": "https://img.buzzfeed.com/buzzfeed-static/static/2014-03/enhanced/webdr07/24/13/original-19004-1395681824-12.jpg?downsize=700:*&output-format=auto&output-quality=auto"
+          },
+          {
+            "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/CNN-Homepage9-6.jpg?ve=1&tl=1"
+          },
+          {
+            "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_rzHpjpT7xk/v0/977x-1.jpg"
+          },
+          {
+            "url": "http://www.ascrsmedia.com/sites/default/files/articles/2018ASCRS-Saturday.jpg"
+          },
+          {
+            "url": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/worldviews/files/2012/11/onion-kim.jpg&w=480"
+          },
+          {
+            "url": "https://www.reviewtrackers.com/wp-content/uploads/RT-Reviews-page-800x685.png"
+          },
+          {
+            "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2016/12/amp1-1-380x421.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.34024388
+          },
+          {
+            "description": "News",
+            "entityId": "/m/05jhg",
+            "score": 0.27391434
+          },
+          {
+            "description": "Product",
+            "entityId": "/m/01jwgf",
+            "score": 0.25821787
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.24948885
+          },
+          {
+            "description": "New media",
+            "entityId": "/m/01yl50",
+            "score": 0.24939382
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1916
+          },
+          {
+            "description": "Media",
+            "entityId": "/m/03qh03g",
+            "score": 0.1851
+          },
+          {
+            "description": "Entrepreneurship",
+            "entityId": "/m/02nwq",
+            "score": 0.1719
+          }
+        ]
+      }
+    }
+  ]
+}

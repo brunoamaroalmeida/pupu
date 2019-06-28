@@ -1,0 +1,179 @@
+{
+  "documentSentiment": {
+    "magnitude": 5.7,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Welcome to USA TODAY NETWORK'S EUROPEAN UNION EXPERIENCE\n   A handout photo provided by the European Southern Observatory on April\n   10, 2019 shows the first photograph of a black hole and its fiery halo,\n   released by Event Horizon Telescope astronomers (EHT), which is the\n   \"most direct proof of their existence,\" one of the project's lead\n   'We've now seen the unseeable': First-ever picture of a black hole\n   AG Barr says 'spying did occur' on Trump campaign\n   Attorney General William Barr arrives to testify before the House\n   Appropriation subcommittee on Commerce, Justice, Science, and Related\n   Agencies on Capitol Hill April 9, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 657,
+        "content": "1 person killed, others injured in N.C. building explosion\n   Smoke billows from the scene of an explosion and fire in downtown\n   What does 'white fragility mean?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 821,
+        "content": "New words in dictionaries focus on\n   FILE- In this Sunday, Aug. 29, 2010 file photo, an\n   Trump says he won't give his tax returns to Congress\n   'Fixer Upper' stars reveal big TV plans\n   Chip and Joanna Gaines just shared the cutest picture of baby Crew."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1083,
+        "content": "Man who reportedly bought $8M island charged with Kmart theft\n   In this April 6, 2019, photo made available by the Monroe County\n   Sheriff's Office, Fla., shows Andrew Lippi under arrest on a felony\n   Shawn Mendes addresses 'hurtful' sexuality rumors\n   Shawn Mendes performs on stage during his concert in\n   Severe storm in April could slam 200 million\n   A truck with a snow plow is stuck in a snow drift on Haines Avenue in\n   Rapid City, S.D., Thursday, March 14, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 1561,
+        "content": "All state offices are now\n   closed in South Dakota as blizzard conditions barrel into the Midwest."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1664,
+        "content": "AT&T turns on seven more 5G cities, total now 19\n   Ford Edge ST: Fast and fun until you hit corners\n   The 2019 Ford Edge ST has a 335-hp twin-turbo 2.7L V6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1826,
+        "content": "How do I file a tax extension for 2019?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1869,
+        "content": "April 15 date circled in red on calendar, with the words TAX DAY\n   written in red letters on that calendar square."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1988,
+        "content": "Man wins more than $110K, breaks 'Jeopardy!' record\n   This image made from video aired on \"Jeopardy!\" on Tuesday, April 9."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 2115,
+        "content": "2019, and provided by Jeopardy Productions, Inc. shows James Holzhauer."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 2190,
+        "content": "The 34-year-old professional sports gambler from Las Vegas won more\n   than $110,000 on \"Jeopardy!\" on Tuesday, breaking the record for\n   single-day cash winnings."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2355,
+        "content": "(Jeopardy Productions, Inc. via AP) ORG XMIT:\n   NFL draft's biggest busts: 100 worst in history\n   A look at the 100 biggest draft busts in NFL history."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 2512,
+        "content": "Southwest flight canceled?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 2539,
+        "content": "Here's why the airline won't book you on\n   Southwest Airlines Boeing 737 MAX aircraft are parked\n   'Modern Family' star asks for help during cousin's medical emergency\n   Actress Ariel Winter attends the grand opening of KAOS\n   Fan cited for allegedly pointing laser at Tom Brady\n   New England Patriots quarterback Tom Brady had 29 touchdown passes last\n   Nope, the iPhone doesn't have the best camera\n   The Riviera Mexican Grill in Redondo Beach, shot in super wide mode on\n   Lakers' mess of season ends with mess of finale\n   (Left to right): Lance Stephenson, LeBron James, Kyle Kuzma, Rajon\n   Rondo and Tyson Chandler of the Los Angeles Lakers react to a play\n   during a 104-101 loss to the Portland Trail Blazers at Staples Center\n   We tried cult beauty brand Glossier's new makeup line--is it worth it?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3361,
+        "content": "We tried cult beauty brand Glossier's new makeup line--is\n   Why Congress can and must see Trump tax returns\n   In front of the Trump Tower in New York in 2016."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 3525,
+        "content": "We must know if Trump has dementia: Psychologist\n   President Donald Trump at the Conservative Political Action Conference\n   Why I don't want Kavanaugh teaching at GMU\n   Democrats, don't fight Trump's border wall\n   President Donald Trump visits the border wall in Calexico, California,\n   Poll: Americans say Trump has made race relations worse\n   A counter-protester, left, confronts a professed supporter\n   Bob Dylan whiskey, fake eggs: News from around our 50 states\n   Bob Dylan and partners are opening a whiskey distillery\n   Parkland suicides show politics trumped healing\n   Alaina Petty in Parkland, Florida, in May 2016."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4163,
+        "content": "THE ROOKIE - \"The Checklist\" - Sergeant Gray informs"
+      }
+    }
+  ]
+}

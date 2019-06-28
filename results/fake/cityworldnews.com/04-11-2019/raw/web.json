@@ -1,0 +1,77 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://blogs.brighton.ac.uk/dle12/files/2016/05/Untitled-256o5t9.png"
+          },
+          {
+            "url": "https://wpdean.com/wp-content/uploads/2015/09/Ritz.jpg"
+          },
+          {
+            "url": "http://sofiemarien.com/wp-content/uploads/2017/05/thumbnail_qzzr-305x230.png"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/lfw-march252014-140418015814-phpapp02/95/lakme-fashion-week-social-media-report-18-638.jpg?cb=1397786505"
+          },
+          {
+            "url": "https://static.politifact.com/politifact/photos/fakenewsadnetworks.jpg"
+          },
+          {
+            "url": "https://www.itsguru.com/wp-content/uploads/2017/05/Colorlines.jpg"
+          },
+          {
+            "url": "http://www.shahtechnologies.in/img/project/32.jpg"
+          },
+          {
+            "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/ABC-Homepage9-6.jpg?ve=1&tl=1"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/574eb089d210b8cbb63643de/t/574ff06745ab56c0277ae10a/1464856741694/Screen-Shot-2015-10-21-at-7.23.25-am.png?format=750w"
+          },
+          {
+            "url": "https://www.bizwebs.com/resize/e/800/500/files/en/reference/flat/chefworkssk.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.28606287
+          },
+          {
+            "description": "Business",
+            "entityId": "/g/120y8l81",
+            "score": 0.2397
+          },
+          {
+            "description": "Suit",
+            "entityId": "/m/01xyhv",
+            "score": 0.21113059
+          },
+          {
+            "description": "Entrepreneurship",
+            "entityId": "/m/02nwq",
+            "score": 0.1874
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1859
+          },
+          {
+            "description": "Photograph",
+            "entityId": "/m/068jd",
+            "score": 0.17
+          }
+        ]
+      }
+    }
+  ]
+}

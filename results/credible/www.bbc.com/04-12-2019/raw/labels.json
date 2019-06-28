@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.87364465,
+          "topicality": 0.87364465
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.86929196,
+          "topicality": 0.86929196
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.83145446,
+          "topicality": 0.83145446
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.69547397,
+          "topicality": 0.69547397
+        },
+        {
+          "description": "Photography",
+          "mid": "/m/05wkw",
+          "score": 0.6778865,
+          "topicality": 0.6778865
+        }
+      ]
+    }
+  ]
+}

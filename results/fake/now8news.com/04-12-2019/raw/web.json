@@ -1,0 +1,57 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "jaw"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s.tmimgcdn.com/scr/58400/herber-accurate-organic-food-online-store-website-template_58411-original.jpg?width=400&height=400"
+          },
+          {
+            "url": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/56919809/original/1721a6d284fe0e6af9c949edd017c7481c3b0c17/create-a-wordpress-website.jpg"
+          },
+          {
+            "url": "https://www.makeworthymedia.com/wp-content/uploads/2019/01/portfolio-transfusion-news-320x210-1546807935.png"
+          },
+          {
+            "url": "http://designm.ag/wp-content/uploads/2013/11/013.jpg"
+          },
+          {
+            "url": "https://www.mooveagency.com/wp-content/themes/moove-2/casestudies/nacro_case_study/assets/img/slide-4/nacro-casestudy-ipad.png"
+          },
+          {
+            "url": "http://redflag.ie/wp-content/uploads/2013/05/irishlivingfoods-website-mobile-red-flag-ireland.png"
+          },
+          {
+            "url": "https://www.doseproductions.com/wp-content/uploads/2014/12/hawk-insurance-screen-1.jpg"
+          },
+          {
+            "url": "https://www.carocreative.uk/wp-content/uploads/2017/01/footworx-podiatrists-website-design-1-500x500.jpg"
+          },
+          {
+            "url": "http://www.junemedia.com/wp-content/themes/twentyten/images/project/r4l_big.jpg"
+          },
+          {
+            "url": "https://onestopnetworks.bm/wp-content/uploads/2019/01/Alexanders-website-1024x578.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Jaw",
+            "entityId": "/m/01k9lj",
+            "score": 0.24370974
+          },
+          {
+            "description": "Organism",
+            "entityId": "/m/05nnm",
+            "score": 0.20730002
+          }
+        ]
+      }
+    }
+  ]
+}

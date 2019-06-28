@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://vvpedulink.ac.in/wp-content/uploads/2014/06/2.png"
+          },
+          {
+            "url": "https://thumbs.dreamstime.com/x/home-repair-template-design-brochure-cd-cover-business-card-one-package-fully-editable-32722745.jpg"
+          },
+          {
+            "url": "http://www.tgraphics.ca/wp-content/gallery/brochures/brochures_5.jpg"
+          },
+          {
+            "url": "http://www.jemome.com/cdn/2013/06/community-health-care-brochure_1727886.jpg"
+          },
+          {
+            "url": "http://gexton.com/wp-content/uploads/2014/01/mobile.jpg"
+          },
+          {
+            "url": "http://www.lsam.ca/uploads/ck/images/BIO330_World%20Congress%20General%20Brochure%202015_v3_0.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/ac2146f5-214c-4ee9-87f2-f149a68edfa3-150827031134-lva1-app6891/95/the-3rd-pasa-premier-confex-2015-brochure-3-638.jpg?cb=1440645161"
+          },
+          {
+            "url": "http://www.himachaltreks.com/userfiles/TWIN-%20KAILASH-TREK-1.jpg"
+          },
+          {
+            "url": "http://www.nflame.com.au/data/files/img/portfolio-images/aquatots-brochure.jpg"
+          },
+          {
+            "url": "http://3.bp.blogspot.com/-JvwWmY9SswI/T5fyTqhsSqI/AAAAAAAAAEA/xuLpzftOXEQ/s1600/2.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.3572568
+          },
+          {
+            "description": "Henning Municipal Airport",
+            "entityId": "/m/0jk_byc",
+            "score": 0.30375
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2733
+          },
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.27022266
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.23604229
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.2225597
+          },
+          {
+            "description": "Organism",
+            "entityId": "/m/05nnm",
+            "score": 0.20651866
+          },
+          {
+            "description": "Brochure",
+            "entityId": "/g/121lmpw8",
+            "score": 0.2025
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1979
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.19098169
+          }
+        ]
+      }
+    }
+  ]
+}

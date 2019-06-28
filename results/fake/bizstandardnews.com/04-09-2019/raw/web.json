@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://images.slideplayer.com/25/7713809/slides/slide_3.jpg"
+          },
+          {
+            "url": "http://img.directindustry.com/pdf/repository_di/31849/style-600-casque-industriel-21003_1b.jpg"
+          },
+          {
+            "url": "https://static.seekingalpha.com/uploads/2016/12/8/3024641-14812114716122727_origin.png"
+          },
+          {
+            "url": "https://www.sec.gov/Archives/edgar/data/310568/000157104915009689/pg_22.jpg"
+          },
+          {
+            "url": "https://plgs.keio.ac.jp/wp2018/wp-content/uploads/2018/01/maki-dan-2.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/eoh4chapter04-100301062042-phpapp01/95/eoh4-chapter-04-1-728.jpg?cb=1267424463"
+          },
+          {
+            "url": "https://images.slideplayer.com/39/10855231/slides/slide_6.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/passagecloute.com/wp-content/uploads/Brochure-Passage-Clout%C3%A9-Printemps-page-8.jpg?ssl=1"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/part3cantseeitcantunderstandit-170123220809/95/webinar-series-public-engagement-education-and-outreach-for-ccs-part-3-cant-see-it-cant-understand-it-engaging-the-imagination-on-co2-storage-15-638.jpg?cb=1485209369"
+          },
+          {
+            "url": "http://www.themonroefoundation.org/images/sm_public-STABLE_Brochure-1.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.34879673
+          },
+          {
+            "description": "Henning Municipal Airport",
+            "entityId": "/m/0jk_byc",
+            "score": 0.3093
+          },
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.27996317
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2718
+          },
+          {
+            "description": "Logo",
+            "entityId": "/m/0dwx7",
+            "score": 0.24984202
+          },
+          {
+            "description": "Product",
+            "entityId": "/m/01jwgf",
+            "score": 0.2451
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.24083188
+          },
+          {
+            "description": "Brochure",
+            "entityId": "/g/121lmpw8",
+            "score": 0.2408
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.2249684
+          },
+          {
+            "description": "Technology",
+            "entityId": "/m/07c1v",
+            "score": 0.21981336
+          }
+        ]
+      }
+    }
+  ]
+}

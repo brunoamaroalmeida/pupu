@@ -1,0 +1,59 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "amendoeiras em flor 2011"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://img.yumpu.com/12750529/1/358x507/amendoeiras-em-flor-2011-campingcar-portugal.jpg?quality=85"
+          },
+          {
+            "url": "https://img.yumpu.com/12750529/6/120x193/amendoeiras-em-flor-2011-campingcar-portugal.jpg?quality=85"
+          },
+          {
+            "url": "https://img.yumpu.com/12750529/4/120x193/amendoeiras-em-flor-2011-campingcar-portugal.jpg?quality=85"
+          },
+          {
+            "url": "https://img.yumpu.com/12750529/5/120x193/amendoeiras-em-flor-2011-campingcar-portugal.jpg?quality=85"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.30826524
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.26446506
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.19868088
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1872
+          },
+          {
+            "description": "Almond",
+            "entityId": "/m/0m4v",
+            "score": 0.1803
+          },
+          {
+            "description": "Photograph",
+            "entityId": "/m/068jd",
+            "score": 0.1695
+          }
+        ]
+      }
+    }
+  ]
+}

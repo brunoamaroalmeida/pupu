@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "jaw"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.chreos.com/images/CLCWholesaleWebsite.jpg"
+          },
+          {
+            "url": "http://www.junemedia.com/wp-content/themes/twentyten/images/project/r4l_big.jpg"
+          },
+          {
+            "url": "https://www.insercorp.com/uploads/news/posts/fts_responsive-template.png"
+          },
+          {
+            "url": "http://blog.rhinosupport.com/wp-content/uploads/2016/06/Screenshot-435.png"
+          },
+          {
+            "url": "https://www.socialmediaexaminer.com/wp-content/uploads/2014/11/kj-linkedin-video.jpg"
+          },
+          {
+            "url": "http://www.memri.org/images/big_report/section2/BEHEAD%20SECTION%20II%20CLEAN_html_mcab72c0.jpg"
+          },
+          {
+            "url": "https://www.agentorange.co.za/case-studies/application/files/4914/8959/6156/Debt-Sage-Website-Design-Agent-Orange-Design-Case-Study.jpg"
+          },
+          {
+            "url": "http://talkerscode.com/reviews/images/eclincher-review-a-powerful-social-media-management-tool2.jpg"
+          },
+          {
+            "url": "https://static.wixstatic.com/media/b4d5b679b8c71997e854d18080548f8056c8db3f224c9d1a573633b02716daca.jpg"
+          },
+          {
+            "url": "http://chessrankings.com/wp-content/uploads/2018/06/blog-website-design-ideas-55-web-design-blogs-to-follow-in-2016-elegant-themes-blog-download.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2977414
+          },
+          {
+            "description": "Jaw",
+            "entityId": "/m/01k9lj",
+            "score": 0.24283497
+          },
+          {
+            "description": "Organism",
+            "entityId": "/m/05nnm",
+            "score": 0.2066722
+          }
+        ]
+      }
+    }
+  ]
+}

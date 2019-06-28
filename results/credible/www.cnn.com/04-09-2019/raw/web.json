@@ -1,0 +1,87 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "conversation"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://uit.stanford.edu/sites/default/files/cesta.png"
+          },
+          {
+            "url": "https://www.3-prime.com/wp-content/uploads/2016/08/sentext-homepage1_639x500.jpg"
+          },
+          {
+            "url": "http://comatica.com/wp-content/uploads/2014/03/ldc-website.jpg"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/colorlib_2018_blog_minimal.jpg"
+          },
+          {
+            "url": "https://www.service2client.com/sites/default/files/Addison350_270.jpg"
+          },
+          {
+            "url": "http://www.alexmourer.com/wp-content/uploads/2015/10/TSP-website-design1-836x1024.jpg"
+          },
+          {
+            "url": "https://dynamic.websimages.com/s/themes/magazine/v1.40/screenshots/thumb-white.png"
+          },
+          {
+            "url": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c472741-0cb5-431a-a0f8-6ef7deec5bf6/spyrestudios.jpg"
+          },
+          {
+            "url": "https://network9.biz/wp-content/uploads/2018/03/Website-Design-Wise-Process-page.jpg"
+          },
+          {
+            "url": "https://inkdesign.ca/wp-content/uploads/2017/01/wordpress-portfolio-therapypemberton-e1497460090495.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.34303936
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.32186544
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.31886813
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.23446244
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1936
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.19091292
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1886
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1876
+          }
+        ]
+      }
+    }
+  ]
+}

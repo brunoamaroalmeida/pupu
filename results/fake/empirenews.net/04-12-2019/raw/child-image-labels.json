@@ -1,0 +1,1244 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.94183975,
+          "topicality": 0.94183975
+        },
+        {
+          "description": "Bedding",
+          "mid": "/m/03mcr3",
+          "score": 0.87629503,
+          "topicality": 0.87629503
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.8593028,
+          "topicality": 0.8593028
+        },
+        {
+          "description": "Bed sheet",
+          "mid": "/m/04mygm",
+          "score": 0.85641336,
+          "topicality": 0.85641336
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.8288961,
+          "topicality": 0.8288961
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.7648831,
+          "topicality": 0.7648831
+        },
+        {
+          "description": "Linens",
+          "mid": "/m/06httj",
+          "score": 0.7600546,
+          "topicality": 0.7600546
+        },
+        {
+          "description": "Mattress",
+          "mid": "/m/03dg8j",
+          "score": 0.7477231,
+          "topicality": 0.7477231
+        },
+        {
+          "description": "Room",
+          "mid": "/m/06ht1",
+          "score": 0.7444316,
+          "topicality": 0.7444316
+        },
+        {
+          "description": "Bed",
+          "mid": "/m/03ssj5",
+          "score": 0.7403511,
+          "topicality": 0.7403511
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Games",
+          "mid": "/m/03bt1gh",
+          "score": 0.63133204,
+          "topicality": 0.63133204
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.50809586,
+          "topicality": 0.50809586
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Building",
+          "mid": "/m/0cgh4",
+          "score": 0.8450533,
+          "topicality": 0.8450533
+        },
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.78712916,
+          "topicality": 0.78712916
+        },
+        {
+          "description": "Facade",
+          "mid": "/m/01x314",
+          "score": 0.7005579,
+          "topicality": 0.7005579
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Real estate",
+          "mid": "/m/023907r",
+          "score": 0.6722732,
+          "topicality": 0.6722732
+        },
+        {
+          "description": "Window",
+          "mid": "/m/0d4v4",
+          "score": 0.6600298,
+          "topicality": 0.6600298
+        },
+        {
+          "description": "Restaurant",
+          "mid": "/m/06l8d",
+          "score": 0.63584673,
+          "topicality": 0.63584673
+        },
+        {
+          "description": "House",
+          "mid": "/m/03jm5",
+          "score": 0.59287196,
+          "topicality": 0.59287196
+        },
+        {
+          "description": "Signage",
+          "mid": "/m/0bkqqh",
+          "score": 0.57874966,
+          "topicality": 0.57874966
+        },
+        {
+          "description": "City",
+          "mid": "/m/01n32",
+          "score": 0.51347554,
+          "topicality": 0.51347554
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.98329926,
+          "topicality": 0.98329926
+        },
+        {
+          "description": "Mobile phone",
+          "mid": "/m/050k8",
+          "score": 0.96626645,
+          "topicality": 0.96626645
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.9365158,
+          "topicality": 0.9365158
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.93123543,
+          "topicality": 0.93123543
+        },
+        {
+          "description": "Smartphone",
+          "mid": "/m/0169zh",
+          "score": 0.9039074,
+          "topicality": 0.9039074
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.9030826,
+          "topicality": 0.9030826
+        },
+        {
+          "description": "Portable communications device",
+          "mid": "/m/020fsy",
+          "score": 0.9000536,
+          "topicality": 0.9000536
+        },
+        {
+          "description": "Feature phone",
+          "mid": "/m/0bxyyx_",
+          "score": 0.7397225,
+          "topicality": 0.7397225
+        },
+        {
+          "description": "Material property",
+          "mid": "/m/0457gc6",
+          "score": 0.7066209,
+          "topicality": 0.7066209
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.66002935,
+          "topicality": 0.66002935
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.94731003,
+          "topicality": 0.94731003
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.8955915,
+          "topicality": 0.8955915
+        },
+        {
+          "description": "Baby",
+          "mid": "/m/0jnvp",
+          "score": 0.8828382,
+          "topicality": 0.8828382
+        },
+        {
+          "description": "Teddy bear",
+          "mid": "/m/0kmg4",
+          "score": 0.87213486,
+          "topicality": 0.87213486
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.86992955,
+          "topicality": 0.86992955
+        },
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.7994795,
+          "topicality": 0.7994795
+        },
+        {
+          "description": "Stuffed toy",
+          "mid": "/m/021mh_",
+          "score": 0.76984316,
+          "topicality": 0.76984316
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.6944891,
+          "topicality": 0.6944891
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.68775845,
+          "topicality": 0.68775845
+        },
+        {
+          "description": "Mouth",
+          "mid": "/m/0283dt1",
+          "score": 0.67948616,
+          "topicality": 0.67948616
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9923644,
+          "topicality": 0.9923644
+        },
+        {
+          "description": "Baby",
+          "mid": "/m/0jnvp",
+          "score": 0.98291504,
+          "topicality": 0.98291504
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9059546,
+          "topicality": 0.9059546
+        },
+        {
+          "description": "Product",
+          "mid": "/m/01jwgf",
+          "score": 0.8828333,
+          "topicality": 0.8828333
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.84532297,
+          "topicality": 0.84532297
+        },
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.7994795,
+          "topicality": 0.7994795
+        },
+        {
+          "description": "Teddy bear",
+          "mid": "/m/0kmg4",
+          "score": 0.7660182,
+          "topicality": 0.7660182
+        },
+        {
+          "description": "Leg",
+          "mid": "/m/035r7c",
+          "score": 0.69203323,
+          "topicality": 0.69203323
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.6410647,
+          "topicality": 0.6410647
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.6077194,
+          "topicality": 0.6077194
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.8017052,
+          "topicality": 0.8017052
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.7885616,
+          "topicality": 0.7885616
+        },
+        {
+          "description": "Outerwear",
+          "mid": "/m/047vlmn",
+          "score": 0.6933347,
+          "topicality": 0.6933347
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.6410647,
+          "topicality": 0.6410647
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.82000065,
+          "topicality": 0.82000065
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.6634969,
+          "topicality": 0.6634969
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.6410647,
+          "topicality": 0.6410647
+        },
+        {
+          "description": "Premiere",
+          "mid": "/m/03n3f3",
+          "score": 0.58332753,
+          "topicality": 0.58332753
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.55751085,
+          "topicality": 0.55751085
+        },
+        {
+          "description": "Family pictures",
+          "mid": "/j/8skgys",
+          "score": 0.50915295,
+          "topicality": 0.50915295
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.98138064,
+          "topicality": 0.98138064
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94463587,
+          "topicality": 0.94463587
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.93827724,
+          "topicality": 0.93827724
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.8955915,
+          "topicality": 0.8955915
+        },
+        {
+          "description": "Mouth",
+          "mid": "/m/0283dt1",
+          "score": 0.8833028,
+          "topicality": 0.8833028
+        },
+        {
+          "description": "Organ",
+          "mid": "/m/013y0j",
+          "score": 0.8638398,
+          "topicality": 0.8638398
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8279902,
+          "topicality": 0.8279902
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.80423546,
+          "topicality": 0.80423546
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.77436006,
+          "topicality": 0.77436006
+        },
+        {
+          "description": "Dentures",
+          "mid": "/m/02zb48",
+          "score": 0.7332435,
+          "topicality": 0.7332435
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shopping",
+          "mid": "/m/0hhdb",
+          "score": 0.64584863,
+          "topicality": 0.64584863
+        },
+        {
+          "description": "Selling",
+          "mid": "/m/04f759m",
+          "score": 0.63782084,
+          "topicality": 0.63782084
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98540485,
+          "topicality": 0.98540485
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.9193323,
+          "topicality": 0.9193323
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9030672,
+          "topicality": 0.9030672
+        },
+        {
+          "description": "Cobalt blue",
+          "mid": "/m/04f62z",
+          "score": 0.8906847,
+          "topicality": 0.8906847
+        },
+        {
+          "description": "Azure",
+          "mid": "/m/03jn2m",
+          "score": 0.890585,
+          "topicality": 0.890585
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.88824093,
+          "topicality": 0.88824093
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7984547,
+          "topicality": 0.7984547
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.7979505,
+          "topicality": 0.7979505
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7656718,
+          "topicality": 0.7656718
+        },
+        {
+          "description": "Cross",
+          "mid": "/m/022ch",
+          "score": 0.70245147,
+          "topicality": 0.70245147
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98100984,
+          "topicality": 0.98100984
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.94583565,
+          "topicality": 0.94583565
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.882364,
+          "topicality": 0.882364
+        },
+        {
+          "description": "Azure",
+          "mid": "/m/03jn2m",
+          "score": 0.8800835,
+          "topicality": 0.8800835
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7984547,
+          "topicality": 0.7984547
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.74010366,
+          "topicality": 0.74010366
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.70318776,
+          "topicality": 0.70318776
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.65468615,
+          "topicality": 0.65468615
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.56190825,
+          "topicality": 0.56190825
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.5458273,
+          "topicality": 0.5458273
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9218225,
+          "topicality": 0.9218225
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84902585,
+          "topicality": 0.84902585
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.8091418,
+          "topicality": 0.8091418
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.653238,
+          "topicality": 0.653238
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.53888947,
+          "topicality": 0.53888947
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.973078,
+          "topicality": 0.973078
+        },
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.9635253,
+          "topicality": 0.9635253
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.90452296,
+          "topicality": 0.90452296
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.89842594,
+          "topicality": 0.89842594
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.85040087,
+          "topicality": 0.85040087
+        },
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.7994795,
+          "topicality": 0.7994795
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.7932717,
+          "topicality": 0.7932717
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.7822764,
+          "topicality": 0.7822764
+        },
+        {
+          "description": "Lip",
+          "mid": "/m/06pj2k",
+          "score": 0.75408006,
+          "topicality": 0.75408006
+        },
+        {
+          "description": "Iris",
+          "mid": "/m/0lxkm",
+          "score": 0.6387754,
+          "topicality": 0.6387754
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.9886015,
+          "topicality": 0.9886015
+        },
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9779427,
+          "topicality": 0.9779427
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.9415241,
+          "topicality": 0.9415241
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9161493,
+          "topicality": 0.9161493
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.90395635,
+          "topicality": 0.90395635
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.87524176,
+          "topicality": 0.87524176
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.870436,
+          "topicality": 0.870436
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.8629716,
+          "topicality": 0.8629716
+        },
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.8612985,
+          "topicality": 0.8612985
+        },
+        {
+          "description": "Lip",
+          "mid": "/m/06pj2k",
+          "score": 0.86088526,
+          "topicality": 0.86088526
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Radiography",
+          "mid": "/m/0nqm4",
+          "score": 0.9813041,
+          "topicality": 0.9813041
+        },
+        {
+          "description": "Medical imaging",
+          "mid": "/m/01j3br",
+          "score": 0.97176206,
+          "topicality": 0.97176206
+        },
+        {
+          "description": "X-ray",
+          "mid": "/m/087gx",
+          "score": 0.9669399,
+          "topicality": 0.9669399
+        },
+        {
+          "description": "Medical radiography",
+          "mid": "/m/0gsv4q",
+          "score": 0.96530944,
+          "topicality": 0.96530944
+        },
+        {
+          "description": "Radiology",
+          "mid": "/m/013x4m",
+          "score": 0.96158594,
+          "topicality": 0.96158594
+        },
+        {
+          "description": "Joint",
+          "mid": "/m/01dvt1",
+          "score": 0.9106719,
+          "topicality": 0.9106719
+        },
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.88090336,
+          "topicality": 0.88090336
+        },
+        {
+          "description": "Bone",
+          "mid": "/m/01b92",
+          "score": 0.7055577,
+          "topicality": 0.7055577
+        },
+        {
+          "description": "Rib",
+          "mid": "/m/0c4lp",
+          "score": 0.69036674,
+          "topicality": 0.69036674
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.68990904,
+          "topicality": 0.68990904
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pope",
+          "mid": "/m/05rd8",
+          "score": 0.942276,
+          "topicality": 0.942276
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.87623596,
+          "topicality": 0.87623596
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.86992955,
+          "topicality": 0.86992955
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.84609026,
+          "topicality": 0.84609026
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.67478096,
+          "topicality": 0.67478096
+        },
+        {
+          "description": "Elder",
+          "mid": "/m/027v9wk",
+          "score": 0.59849817,
+          "topicality": 0.59849817
+        },
+        {
+          "description": "Nuncio",
+          "mid": "/m/025s5lg",
+          "score": 0.5628822,
+          "topicality": 0.5628822
+        },
+        {
+          "description": "Public speaking",
+          "mid": "/m/068k4",
+          "score": 0.5421869,
+          "topicality": 0.5421869
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pope",
+          "mid": "/m/05rd8",
+          "score": 0.94824463,
+          "topicality": 0.94824463
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.7822764,
+          "topicality": 0.7822764
+        },
+        {
+          "description": "Nuncio",
+          "mid": "/m/025s5lg",
+          "score": 0.68906075,
+          "topicality": 0.68906075
+        },
+        {
+          "description": "Public speaking",
+          "mid": "/m/068k4",
+          "score": 0.6765656,
+          "topicality": 0.6765656
+        },
+        {
+          "description": "Orator",
+          "mid": "/m/0hpjt",
+          "score": 0.576913,
+          "topicality": 0.576913
+        },
+        {
+          "description": "Elder",
+          "mid": "/m/027v9wk",
+          "score": 0.57660776,
+          "topicality": 0.57660776
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.52185583,
+          "topicality": 0.52185583
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.9785284,
+          "topicality": 0.9785284
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94473374,
+          "topicality": 0.94473374
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.9088191,
+          "topicality": 0.9088191
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.8947408,
+          "topicality": 0.8947408
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.8868344,
+          "topicality": 0.8868344
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.84609026,
+          "topicality": 0.84609026
+        },
+        {
+          "description": "Human",
+          "mid": "/m/0dgw9r",
+          "score": 0.7467646,
+          "topicality": 0.7467646
+        },
+        {
+          "description": "Mouth",
+          "mid": "/m/0283dt1",
+          "score": 0.7148311,
+          "topicality": 0.7148311
+        },
+        {
+          "description": "Elder",
+          "mid": "/m/027v9wk",
+          "score": 0.69904155,
+          "topicality": 0.69904155
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.6795793,
+          "topicality": 0.6795793
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9445514,
+          "topicality": 0.9445514
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.82750785,
+          "topicality": 0.82750785
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.7822764,
+          "topicality": 0.7822764
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.63153833,
+          "topicality": 0.63153833
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.6195746,
+          "topicality": 0.6195746
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.55751085,
+          "topicality": 0.55751085
+        },
+        {
+          "description": "Pleased",
+          "mid": "/j/4kr7kk",
+          "score": 0.5317658,
+          "topicality": 0.5317658
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.5000404,
+          "topicality": 0.5000404
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9861575,
+          "topicality": 0.9861575
+        },
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.9724802,
+          "topicality": 0.9724802
+        },
+        {
+          "description": "Aqua",
+          "mid": "/m/084rsc",
+          "score": 0.9723554,
+          "topicality": 0.9723554
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.95338756,
+          "topicality": 0.95338756
+        },
+        {
+          "description": "Turquoise",
+          "mid": "/m/04f6rz",
+          "score": 0.94343317,
+          "topicality": 0.94343317
+        },
+        {
+          "description": "Azure",
+          "mid": "/m/03jn2m",
+          "score": 0.9319228,
+          "topicality": 0.9319228
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.92132545,
+          "topicality": 0.92132545
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.91577536,
+          "topicality": 0.91577536
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8753489,
+          "topicality": 0.8753489
+        },
+        {
+          "description": "Teal",
+          "mid": "/m/03jvv0",
+          "score": 0.8571053,
+          "topicality": 0.8571053
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.81951183,
+          "topicality": 0.81951183
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.7120629,
+          "topicality": 0.7120629
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.6098916,
+          "topicality": 0.6098916
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.54377306,
+          "topicality": 0.54377306
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.52791756,
+          "topicality": 0.52791756
+        }
+      ]
+    }
+  ]
+}

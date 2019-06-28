@@ -1,0 +1,79 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.1,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]next [2]The Poke \u00bb Feed [3]The Poke \u00bb Comments Feed\n   A guy said women can't analyse sport and this woman sports writer's\n   Roald Dahl's shutdown of anti-vaxxers is even more relevant today than\n   The imperial system of measurement just got owned by metric and it's\n   The precision of this dance routine is blowing people's minds\n   19 of the best jokes about Julian Assange after he was arrested at the\n   The new Article 50 extension ends at Halloween - 16 spirited reactions\n   James O'Brien described the effect of Brexit - and it's really ironic\n   This writer's attempt to describe a woman's body went viral and\n   Peter Hitchens did an Ed Balls - and we don't mean he appeared on\n   This dog may not win Britain's Got Talent but it has won the internet\n   An article about what turns men off women is getting the scorn it\n   15 hilarious guesses at what was making Angela Merkel and Theresa May\n   The story of this woman's journey home went viral because it's so\n   This brutal takedown of Imperial measures doesn't give an inch\n   We asked you what you'd do with Piers Morgan if you owned him - 17 of\n   Hairy Nuts Disco and 69 other genuine fungi names to make your day\n   An article about what turns men off women is getting the scorn it\n   This poster left in a"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 1287,
+        "content": "dentist's waiting room certainly sells the skills\n   This woman made a joke to some guy and he didn't get it and that made\n   The battle of the sexes just got messy."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1453,
+        "content": "Very messy indeed\n   19 of the best jokes about Julian Assange after he was arrested at the\n   This dog may not win Britain's Got Talent but it has won the internet\n   The story of this woman's journey home went viral because it's so\n   15 hilarious guesses at what was making Angela Merkel and Theresa May\n   The moment this guy realises he really needs the loo is an amazing TV\n   People are sharing their favourite insults - 14 scathing examples\n   \u00a9 The Poke 2019"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1928,
+        "content": "[20]T&C's"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1944,
+        "content": "[21]Cookie Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1968,
+        "content": "[22]Privacy Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1992,
+        "content": "[23]Contact Us"
+      }
+    }
+  ]
+}

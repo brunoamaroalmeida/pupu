@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "confidence": 0.58,
+      "name": "/News"
+    },
+    {
+      "confidence": 0.53,
+      "name": "/Business & Industrial"
+    }
+  ]
+}

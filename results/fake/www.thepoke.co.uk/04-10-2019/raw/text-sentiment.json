@@ -1,0 +1,79 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]next [2]The Poke \u00bb Feed [3]The Poke \u00bb Comments Feed\n   Roald Dahl's shutdown of anti-vaxxers is even more relevant today than\n   The story of this woman's journey home went viral because it's so\n   This brutal takedown of Imperial measures doesn't give an inch\n   We asked you what you'd do with Piers Morgan if you owned him - 17 of\n   Hairy Nuts Disco and 69 other genuine fungi names to make your day\n   Someone has matched photos of birds with vintage trainers and it's\n   This woman's one golden rule for hiring people got exactly the\n   People are sharing their favourite insults - 14 scathing examples\n   People love this good dog's unlikely change of career - the only 3\n   MI5's failure to spot this KGB spy hiding in plain sight is\n   Thread of the day (with an unexpected twist in its telling)\n   Joe Heenan's Yogi Bear/Withnail & I crossover is the finest mash-up\n   The moment this guy realises he really needs the loo is an amazing TV\n   The heart rate meme just about beats them all - the only 11 you need to\n   The battle of the sexes just got messy."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 1076,
+        "content": "Very messy indeed\n   The moment this guy realises he really needs the loo is an amazing TV\n   Mark Francois threatened the EU with Perfidious Albion and got owned -\n   People are sharing their favourite insults - 14 scathing examples\n   This woman's one golden rule for hiring people got exactly the\n   Guy tells woman she can buy `anything' with his credit card."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 1440,
+        "content": "Bad idea,\n   7 favourite takedowns of the guy who mansplained why women shouldn't\n   A writer shared the `invisible work' her friend did that her husband\n   never noticed and it's fair to say it struck a chord\n   This machine was invented to help shy men give sperm - the only 11\n   Daily Mail readers calling out the Queen as a traitor is today's best\n   Bryan contacts Tesco to report a robbery\n   \u00a9 The Poke 2019"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1863,
+        "content": "[20]T&C's"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1879,
+        "content": "[21]Cookie Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1903,
+        "content": "[22]Privacy Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1927,
+        "content": "[23]Contact Us"
+      }
+    }
+  ]
+}

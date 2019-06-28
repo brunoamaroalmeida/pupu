@@ -1,0 +1,194 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.8550754,
+          "topicality": 0.8550754
+        },
+        {
+          "description": "Games",
+          "mid": "/m/03bt1gh",
+          "score": 0.8287339,
+          "topicality": 0.8287339
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.59429896,
+          "topicality": 0.59429896
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.7977064,
+          "topicality": 0.7977064
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.77550215,
+          "topicality": 0.77550215
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.77152836,
+          "topicality": 0.77152836
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.76774484,
+          "topicality": 0.76774484
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.66909367,
+          "topicality": 0.66909367
+        },
+        {
+          "description": "Business",
+          "mid": "/m/09s1f",
+          "score": 0.651153,
+          "topicality": 0.651153
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.63049066,
+          "topicality": 0.63049066
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.5537464,
+          "topicality": 0.5537464
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.79165953,
+          "topicality": 0.79165953
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.6822785,
+          "topicality": 0.6822785
+        },
+        {
+          "description": "Adaptation",
+          "mid": "/m/03r_vp",
+          "score": 0.6696612,
+          "topicality": 0.6696612
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.6513649,
+          "topicality": 0.6513649
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.55956,
+          "topicality": 0.55956
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.52628326,
+          "topicality": 0.52628326
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Product",
+          "mid": "/m/01jwgf",
+          "score": 0.9252941,
+          "topicality": 0.9252941
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.85248786,
+          "topicality": 0.85248786
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.84496045,
+          "topicality": 0.84496045
+        },
+        {
+          "description": "Ribbon",
+          "mid": "/m/01s77c",
+          "score": 0.7835981,
+          "topicality": 0.7835981
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.77631533,
+          "topicality": 0.77631533
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.62774295,
+          "topicality": 0.62774295
+        },
+        {
+          "description": "Paper product",
+          "mid": "/m/0h8p59j",
+          "score": 0.5773124,
+          "topicality": 0.5773124
+        },
+        {
+          "description": "Fashion accessory",
+          "mid": "/m/0463sg",
+          "score": 0.5458008,
+          "topicality": 0.5458008
+        },
+        {
+          "description": "Magenta",
+          "mid": "/m/0ckc5",
+          "score": 0.5334161,
+          "topicality": 0.5334161
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.50809586,
+          "topicality": 0.50809586
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "confidence": 0.68,
+      "name": "/News"
+    },
+    {
+      "confidence": 0.54,
+      "name": "/Sensitive Subjects"
+    }
+  ]
+}

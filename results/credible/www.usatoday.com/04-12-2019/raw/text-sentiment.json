@@ -1,0 +1,129 @@
+{
+  "documentSentiment": {
+    "magnitude": 4.8,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Welcome to USA TODAY NETWORK'S EUROPEAN UNION EXPERIENCE\n   President Trump giving remarks at the Pentagon."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 111,
+        "content": "Trump considers placing migrants in 'sanctuary cities'\n   'Star Wars: Episode IX' gets a title - `The Rise of Skywalker'  - and a\n   Unlike Luke Skywalker, Rey doesn't have aspirations\n   Unruly flyer opens plane door, tries to jump onto the tarmac\n   American Airlines has joined Delta and United in offering basic economy\n   fares."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 445,
+        "content": "The republic American Airlines has joined Delta and United in\n   N.J. couple admit $4.5M food stamps fraud scheme\n   Tiger prowls near top of Masters leaderboard\n   'Game of Thrones': Every episode, ranked\n   Peter Dinklage as Tyrion Lannister in \"The Laws of Gods and Men\"\n   What's killing people at the Grand Canyon?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 765,
+        "content": "Falls, heat and murder\n   Sylvia Kadlubowski and Keanu Dirks descend along South\n   Mick Jagger shares photo after reported surgery\n   NANTERRE, FRANCE - OCTOBER 19: Mick Jagger of The Rolling Stones\n   performs live on stage at U Arena on October 19, 2017 in Nanterre,\n   France."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1046,
+        "content": "(Photo by Brian Rasic/WireImage) ORG XMIT: 775059905 ORIG FILE\n   NYC shop owner promotes 'clean' Chinese food\n   A New York City restaurant owner is under fire for comments she made\n   Clinton: Assange must 'answer' after arrest\n   Former Secretary of State and presidential candidate Hillary Clinton on\n   Stage during \"An Evening With The Clintons\" at Beacon Theatre on April\n   Bed Bath & Beyond to close at least 40 stores\n   At least 20 dead in Pakistan suicide bombing\n   Family members of the blast victims comfort each other outside a\n   mortuary in Quetta, Pakistan, Friday, April 12, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 1647,
+        "content": "A powerful bomb\n   went off at an open-air market in the southwestern city of Quetta on\n   Friday, police and hospital officials said."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 1785,
+        "content": "Explained: How laws are written by corps, groups\n   Fallon: Extradite Assange to set of 'Queer Eye'\n   Exclusive: Watch two 'Penguins' fall in love\n   The interactive guide to the 2020 presidential candidates\n   Spring blizzard wallops parts of Midwest with feet of snow."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2057,
+        "content": "And, it's\n   David Heinold walks his dog Max, a German Shepard lab mix, through the\n   snow Thursday, April 11, 2019 in Sioux Falls, S.D."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 2195,
+        "content": "Heinold said Max is\n   a very energetic dog and needs to be walked everyday despite what the\n   weather is like."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 2308,
+        "content": "He said Max loves the snow so he isn't phased by the\n   $33 billion oil deal: Chevron to buy Anadarko\n   How to fight `scary' superbugs?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 2445,
+        "content": "Special soap\n   Certified nursing assistant Cristina Zainos prepares a special wash\n   New York Post rips Rep. Omar's 9/11 comments\n   Rep. Ilhan Omar, D-Minn., speaks at a dinner banquet, part of a\n   fundraising event for the Council of American-Islamic Relations of\n   Greater Los Angeles at the Hilton hotel in Woodland Hills, California,\n   Nipsey Hussle's brother gives heartbreaking eulogy\n   Samiel Asghedom, the older brother of Nipsey Hussle, whose real name\n   was Ermias Asghedom, speaks at Nipsey Hussle: A Celebration of Life, a\n   three-hour memorial for the slain rapper at Staples Center on April 11,\n   Buttigieg on Ellen: VP should change his mind\n   In this photo released by Warner Bros., Pete Buttigieg appears during a\n   shoot for \"The Ellen DeGeneres Show\" in Los Angeles."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3246,
+        "content": "Investigator in death of S.C. fifth grader speaks out\n   A memorial at the sign of Forest Hills Elementary School in Walterboro,\n   S.C where Raniya Wright, the fifth-grader who died after a fight\n   Postpartum depression drug isn't all moms need\n   The author with her newborn son in Santa Barbara, California, in\n   Chronicling the incredible rise of Giannis\n   Giannis Antetokounmpo is comfortable flourishing in a small-market town\n   'Game of Thrones' Season 8: Your complete guide\n   We've missed seeing Jorah (Iain Glen) and Dany (Emilia Clarke)"
+      }
+    }
+  ]
+}

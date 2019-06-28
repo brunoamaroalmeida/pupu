@@ -1,0 +1,279 @@
+{
+  "documentSentiment": {
+    "magnitude": 9.8,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "[2]Skip to content[3]Skip to site index\n   Israel's election, through the eyes of a young Palestinian."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 109,
+        "content": "Native American women are facing a crisis."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 155,
+        "content": "Solve this bite-sized puzzle in just a few minutes."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 207,
+        "content": "Trump Says He Is Considering Releasing Migrants in `Sanctuary Cities'\n     * President Trump confirmed he is open to releasing immigrants\n       apprehended at the border into mostly Democratic \"sanctuary\n     * Mr. Trump's words come despite his administration's contention a\n       day earlier that the policy proposal was never seriously\n   Asylum seekers board a bus in San Antonio after being released by\n   Border Patrol agents."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 642,
+        "content": "Callaghan O'Hare for The New York Times\nHow Big Business Is Hedging Against the Apocalypse\n     * Investors are finally paying attention to climate change -- but not\n     * Lacking a coherent American strategy, opportunists are stepping in\nJulian Assange: A Foe of Secrecy Who Inspires Admiration and Fury\n     * From his beginnings as a teenage hacker in Australia to his arrest\n       this week in London, the WikiLeaks founder has been a deeply\n     * He has helped empower whistle-blowers and disgruntled insiders, but\n       has never been satisfied with the role of neutral provider of\nThe people need answers: What happened to Mr. Assange's cat?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1295,
+        "content": "Over 3 A.M."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 1307,
+        "content": "Dissent, Supreme Court Says Alabama Execution May Proceed\n     * A divided Supreme Court ruled that an Alabama death row inmate's\n       execution could proceed in a rare glimpse into ordinarily secret\n     * The majority said that the inmate had waited too long to raise a\n       claim that a lethal injection could subject him to excruciating\n   \"To proceed in this way calls into question the basic principles of\n   fairness that should underlie our criminal justice system,\" Justice\n   Stephen G. Breyer wrote in his dissent."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1837,
+        "content": "T.J."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 1842,
+        "content": "Kirkpatrick for The New\nDrivers Are Crucial to Uber's Success."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1905,
+        "content": "But Some Are Barely Getting By."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 1942,
+        "content": "* Uber relies on millions of low-paid workers who are not eligible\n       for benefits like paid vacations or stock options."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 2072,
+        "content": "* Its public offering will make many insiders remarkably rich."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2135,
+        "content": "But\nHere's how the rivals Uber and Lyft compare, in four charts."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2200,
+        "content": "`Clean' Chinese Food by White Restaurateur Prompts Outrage\n     * The uproar over a restaurant in Manhattan has become the latest\n       front in the debate over cultural appropriation."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2391,
+        "content": "* Arielle Haspel defended her concept and menu, while acknowledging\n   \"We were never trying to do something against the Chinese community,\"\n   said Arielle Haspel, a co-owner of Lucky Lee's."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2583,
+        "content": "Gabriella Angotti-Jones\n   The digital world is not designed to keep women safe."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2664,
+        "content": "New regulations\nDon't Waste Your Happiest News on Facebook\n   Before you post that baby bump or college acceptance letter online,\n   remember how much fun it used to be to share in person."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2853,
+        "content": "We Are the Most Share-Crazy Humans in the History of the World\nJoin Kara Swisher in a Chat About Privacy\nIs Assange's Arrest a Threat to the Free Press?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 3006,
+        "content": "Brexit Heads for That Riveting Black Hole\nPurity vs. Pragmatism, Environment vs. Health\n   An unlikely art festival blooms in no man's land, like Burning Man and\n   Coachella before it."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 3192,
+        "content": "But this one is different!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3219,
+        "content": "Maybe."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 3229,
+        "content": "Copenhagen Zoo's new enclosure in the shape of the yin and yang symbol\n   is expected to attract thousands of visitors."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 3349,
+        "content": "But critics say it\n   signals an overly cozy relationship with China."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 3419,
+        "content": "A Charity Accepts Uber Stock as Donations."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3462,
+        "content": "Then Uses It to Pay Staff Bonuses."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 3500,
+        "content": "Entrepreneurs who own stakes in private companies can donate some of\n   their equity to charity: water."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3604,
+        "content": "The proceeds will eventually be paid\n   We'd like your thoughts on the New York Times home page\n   experience.[55]Let us know what you think\n   Azqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x"
+      }
+    }
+  ]
+}

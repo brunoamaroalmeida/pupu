@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.84791327,
+          "topicality": 0.84791327
+        },
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.72398376,
+          "topicality": 0.72398376
+        },
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.7193515,
+          "topicality": 0.7193515
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.671158,
+          "topicality": 0.671158
+        },
+        {
+          "description": "Adaptation",
+          "mid": "/m/03r_vp",
+          "score": 0.6696612,
+          "topicality": 0.6696612
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.56961393,
+          "topicality": 0.56961393
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.5202584,
+          "topicality": 0.5202584
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.51161164,
+          "topicality": 0.51161164
+        },
+        {
+          "description": "Newspaper",
+          "mid": "/m/05jnl",
+          "score": 0.51084,
+          "topicality": 0.51084
+        }
+      ]
+    }
+  ]
+}

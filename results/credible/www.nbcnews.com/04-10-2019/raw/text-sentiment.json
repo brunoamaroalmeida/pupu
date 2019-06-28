@@ -1,0 +1,139 @@
+{
+  "documentSentiment": {
+    "magnitude": 4.9,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "[15]Barr says he thinks the government spied on the Trump campaign\n[17]Attorney General seems to embrace GOP talking points on Russia probe\n   William Barr appeared to endorse a widespread GOP view that the Mueller\n   probe may have involved inappropriate surveillance of Trump's campaign."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 290,
+        "content": "[19]Millions face severe weather as Midwest set for giant spring snowstorm\n[21]Rapper's brutal killing by police the latest incident in a city fed up\n[23]'So beautiful': Scientists unveil first-ever photo of a black hole\n[25]AOC's power comes from the relentless conservative obsession with her\n[27]Trump blasts Mueller investigation as 'attempted coup'\n[29]Israel's Netanyahu claims 'colossal victory,' appears set for 5th term\n[31]Trump 'Dark Knight Rises' video removed after Warner Bros. legal action\n[33]Woman lived to 99 with most organs on wrong side of body\n   Leslie Westbrook / The Advocate via AP\n[35]Did hate motivate 'suspicious' fires at black churches in Louisiana?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 971,
+        "content": "[37]Diplomats set to play 'good cop, bad cop' over Brexit delay\n[39]'I wanted to drop dead': Flight attendant spills drinks on airline CEO\n   Nicolas Armer / picture alliance via Getty Images file\n[41]Spread of fast-moving and drug-resistant deadly fungus spurs concern\n   Faith Ninivaggi / The Boston Herald via AP pool file\n[43]Wrongful death lawsuit against Michelle Carter dismissed\n[45]The new trailer for 'The Lion King' has arrived -- watch it now\n[47]Dark web monitoring: Useful way to fight identity theft or marketing\n[49]Uganda hits back at Trump over tourist kidnapping: 'We don't need his\n[50]ICYMI: Watch Rep. Maxine Waters and Secy."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1619,
+        "content": "Mnuchin's fiery exchange\n[54]Barr 'reviewing the conduct' of FBI's 2016 probe of Trump team Russia\n[56]Mnuchin: Lawyers spoke with Treasury Dept."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1765,
+        "content": "about request for Trump tax\n[58]Almost half of Homeland Security's senior leadership is in flux\n[60]GOP worried over Trump's shakeup at Homeland Security\n[62]Trump claims he is not considering reinstating child separation policy\n[64]U.S. Secret Service director is out, latest casualty in DHS shakeup\n[66]Trump's support of renewed child separation policy led to collision with\n[68]Barr says he thinks the government spied on the Trump campaign\n[71]Trump administration wants to make asylum harder by putting border agents\n[73]New York City declares health emergency amid measles outbreak in Brooklyn\n[75]Lori Loughlin among 16 indicted on new charges in college cheating scheme\n[77]North Carolina gas explosion kills at least 1, injures firefighter\n[79]Deputies with 'guns drawn' respond to report of intruder to find a Roomba\n[81]Feds take down $1B Medicare fraud targeting the elderly and disabled\n[83]Black church burnings in Louisiana has parishioners on edge\n[85]Lil Nas X hit 'Old Town Road' forces country music to reckon with its\n[86]Steve VladeckWhy Democrats' idea to expand the Supreme Court would\n[87]AOC's power comes from the relentless conservative obsession with her\n[88]Uber built a billion-dollar company on the work"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3001,
+        "content": "of drivers it won't\n[89]Daniel B. ShapiroBibi fatigue: How the Israeli election became a\n[93]Lawmakers held a hearing on white nationalism."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3141,
+        "content": "It was immediately\n   Patrick T. Fallon / Bloomberg via Getty Images file\n[95]Your next car may not allow you to speed on the highway\n[97]Lara Logan's new assignment signals Sinclair Broadcasting's national\n   Ryan McBride / AFP - Getty Images file\n[99]House passes net neutrality bill -- but it won't have a chance in the\n[101]'I wanted to drop dead': Flight attendant spills drinks on airline CEO\n[103]Boeing shareholders file class-action suit over 737 Max planes\n[105]Bank of America is raising its minimum wage for employees to $20 an hour\n[108]Diplomats set to play 'good cop, bad cop' over Brexit delay\n   Ariel Schalit / Pool via AFP - Getty Images\n[110]Israel's Netanyahu claims 'colossal victory,' appears set for 5th term\n[112]Red Cross regains access to Venezuela jails, military prisons\n[114]A high-stakes meeting will decide Brexit's fate -- and the U.K. won't be\n[116]Uganda hits back at Trump over U.S. tourist kidnapping: 'We don't need\n[118]A high-stakes meeting will decide Brexit's fate -- and the U.K. won't be\n[120]Uganda hits back at Trump over U.S. tourist kidnapping: 'We don't need\n[123]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 4254,
+        "content": "Red Cross regains access to Venezuela jails, military prisons\n   Leslie Westbrook / The Advocate via AP\n[125]Did hate motivate 'suspicious' fires at black churches in Louisiana?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 4432,
+        "content": "[127]Poll: Most Americans say Trump has made race relations worse\n[129]Help us nominate our 2019 NBC Out #Pride50 honorees\n[131]Texas Tech medical school reaches deal with Trump admin to stop using\n[133]'We've become the wild, Wild West': Residents of California city\n[135]Couple found dead in Dominican Republic thought to be missing NY pair\n[137]Dark web monitoring: Useful way to fight identity theft or marketing\n   Many consumers are confused about what `dark web monitoring' can really\n     * [138]5 DIY beauty recipes you can make at home\n     * [139]This simple kitchen tool will change the way you cook this\n     * [140]Beyond paper straws: More hacks for reducing plastic at home\n     * [141]Spring cleaning hack: 6 surprising uses for Windex\n[144]First-ever black hole photo gives humanity a long-anticipated glimpse of\n[146]See a black hole for the first time in image captured by Earth-size\n[148]Israeli space probe prepares for historic moon landing\n[150]SpaceX's Falcon Heavy rocket set for first commercial launch."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 5463,
+        "content": "Here's how\n[152]'Self-driving' spacecraft may help save Earth from deadly asteroid\n[154]SpaceX's Falcon Heavy rocket set for first commercial launch."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5613,
+        "content": "Here's how\n[156]'Self-driving' spacecraft may help save Earth from deadly asteroid\n[159]Hilaria Baldwin's miscarriage announcement highlights an often unspoken\n   Nicolas Armer / picture alliance via Getty Images file\n[161]Spread of fast-moving and drug-resistant deadly fungus spurs concern\n[163]Woman lived to 99 with most organs on wrong side of body\n[165]Doctors warn of high pollen counts this allergy season\n[168]New York City declares public health emergency over growing measles\n[171]Doctors warn of high pollen counts this allergy season\n[174]New York City declares public health emergency over growing measles\n   [4ce7f675fd9fa243cc9dc0c485ddb630.svg]\n     * We apologize, we were unable to find your local news."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6336,
+        "content": "Please try\n[177]Feeling 'preyed upon' by its police force, a community demands change\n   The page design helps me understand the news (BUTTON) no (BUTTON) yes\n   The page design helps me find the content I'm interested in (BUTTON) no\n   Rate your overall experience (BUTTON) 1 (BUTTON) 2 (BUTTON) 3 (BUTTON)\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n 192."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6906,
+        "content": "sms:?body=%20via%20NBC%20News%20-%20https%3A%2F%2Fwww.nbcnews.com%2F"
+      }
+    }
+  ]
+}

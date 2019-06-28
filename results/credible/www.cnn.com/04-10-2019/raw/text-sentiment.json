@@ -1,0 +1,59 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]alternate [2]alternate [3]alternate [4]alternate [5]publisher\n   Politics[10]Business[11]Entertainment[12]Sport[13]Travel[14]Style[15]He\n   ____________________ (BUTTON) Search \u00bb\n   (*) U.S. ( ) International (BUTTON) Confirm\n   (*) U.S. ( ) International (BUTTON) Confirm\n   [logo_cnn_nav_bottom.png] International\n   (*) U.S. ( ) International (BUTTON) Confirm\n   [112]Facebook[113]Twitter[114]Instagram\n   \u00a9 2019 Cable News Network."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 445,
+        "content": "[209]Turner Broadcasting System, Inc."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 486,
+        "content": "CNN Sans (TM) & \u00a9 2016 Cable News Network."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 533,
+        "content": "6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 536,
+        "content": "android-app://com.cnn.mobile.android.phone/http/edition.cnn.com"
+      }
+    }
+  ]
+}

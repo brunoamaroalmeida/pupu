@@ -1,0 +1,72 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://budgetvetsites.com/img/portfolio/veterinary-hospital-website-parsell.jpg"
+          },
+          {
+            "url": "http://wowslider.com/posts/data/upload/2016/04/mobile-website-builder7.jpg"
+          },
+          {
+            "url": "https://www.sapphireadvancedaesthetics.com/wp-content/uploads/2014/06/screenshot-mockup1.png"
+          },
+          {
+            "url": "https://forumbee.com/content/images/w_brand.png"
+          },
+          {
+            "url": "https://www.zeumic.com.au/wp-content/uploads/2010/11/design_ideas_design-template-15.jpg"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/123-reg-web-hosting-for-personal-website.jpg"
+          },
+          {
+            "url": "https://www.uspto.gov/blogdata/img/find-it-fast-demo.png"
+          },
+          {
+            "url": "http://www.bestweb.lk/wp-content/uploads/2018/06/cbsl.png"
+          },
+          {
+            "url": "https://www.designbyschultz.com/wp-content/uploads/duneland-beach-website-1-590x393.jpg"
+          },
+          {
+            "url": "http://blog.vendhq.com/wp-content/uploads/2015/06/Screenshot-2015-06-23-15.24.56-644x346.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.26007372
+          },
+          {
+            "description": "Technology",
+            "entityId": "/m/07c1v",
+            "score": 0.21616462
+          },
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.20477161
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.20091768
+          },
+          {
+            "description": "Multimedia",
+            "entityId": "/m/0541p",
+            "score": 0.18532223
+          }
+        ]
+      }
+    }
+  ]
+}

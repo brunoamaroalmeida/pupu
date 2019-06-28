@@ -1,0 +1,79 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.4,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]next [2]The Poke \u00bb Feed [3]The Poke \u00bb Comments Feed\n   Nigel Farage said his new Brexit party would `put the fear of God into\n   Roald Dahl's shutdown of anti-vaxxers is even more relevant today than\n   This exchange with a housemate late paying a bill will strike a chord\n   The Daily Telegraph's defence of Boris Johnson's false Brexit claim is\n   This maths teacher gives his pupils hilarious bonus questions and we\n   18 things being crushed by a hydraulic press is a dangerously addictive\n   Just a guy in a wheelchair being pulled by a dog\n   This room-for-rent is the best escape room ever - if you can get in\n   Turns out horses can grow moustaches and people's minds are being blown\n   That rare occasion when a golf miss is even more impressive than a hole\n   This offer to make people `free family portraits' had a picture perfect\n   A police operation to apprehend a \"burglar\" had a surprise ending\n   Hungarians hold an annual silly walk parade - and it looks very\n   Nigel Farage launched the Brexit Party but forgot to register the\n   website so someone else did and it's perfect\n   The story of this football coach from the dark ages has people\n   Someone said Game of Thrones was TV's best theme tune and it's the most\n   Nigel Farage launched the Brexit Party but forgot to register the"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 1317,
+        "content": "website so someone else did and it's perfect\n   Dani Dyer's book is a brilliant guide to the hilariously weird world of\n   People can't believe this unintentionally funny scene from Meet Joe\n   Dare You Gaze Upon The Worst Sofa In The World?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 1562,
+        "content": "These \"30s Starter Pack\" cartoons are simply too relatable\n   The story of this football coach from the dark ages has people\n   This room-for-rent is the best escape room ever - if you can get in\n   Nigel Farage said his new Brexit party would `put the fear of God into\n   This offer to make people `free family portraits' had a picture perfect\n   \u00a9 The Poke 2019"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1933,
+        "content": "[20]T&C's"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1949,
+        "content": "[21]Cookie Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1973,
+        "content": "[22]Privacy Policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1997,
+        "content": "[23]Contact Us"
+      }
+    }
+  ]
+}

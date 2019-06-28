@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://s3.amazonaws.com/ceblog/wp-content/uploads/2018/06/22181257/website-design-best-practices-21.png"
+          },
+          {
+            "url": "https://www.technojoy.co.nz/assets/Portfolio/_resampled/croppedtopWyIzNjAiLCIyMzAiXQ/HF-Signs-Screenshot.jpg"
+          },
+          {
+            "url": "https://static.filehorse.com/screenshots/video-software/wondershare-video-converter-screenshot-05.png"
+          },
+          {
+            "url": "https://www.osjoy.com/wp-content/uploads/2019/01/Firefox-take-a-screenshot.png"
+          },
+          {
+            "url": "https://ikimwolfe.com/wp-content/uploads/2018/04/sign-into-wealthy-affiliate-to-create-a-business-website.jpg"
+          },
+          {
+            "url": "https://dotretailer.com/media/1065/cms_services_800x600.png?anchor=center&mode=crop&width=400&height=300&rnd=131581079680000000"
+          },
+          {
+            "url": "https://www.overthetopseo.com/wp-content/uploads/2017/10/w3c.png"
+          },
+          {
+            "url": "https://whatpixel.com/images/glossary/hero-images/006-nick-reese-homepage-header-hero.jpg"
+          },
+          {
+            "url": "https://cdn.chrishardie.com/wp-content/uploads/2018/08/project-screenshot-kindarmy-300x292.jpg"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/foundry-multipurpose-multiconcept-wp-theme-CL.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.3216418
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2759121
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.19438815
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.1918449
+          }
+        ]
+      }
+    }
+  ]
+}

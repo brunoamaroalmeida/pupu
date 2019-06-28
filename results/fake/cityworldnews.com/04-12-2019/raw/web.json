@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "media"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://images.news18.com/ibnlive/uploads/2018/09/trending.jpg"
+          },
+          {
+            "url": "http://blogs.bbk.ac.uk/bbkcomments/files/2018/08/library-after.jpg"
+          },
+          {
+            "url": "https://images.news18.com/ibnlive/uploads/2018/09/comedy.jpg"
+          },
+          {
+            "url": "https://www.miamiherald.com/news/local/3xxp0t/picture201177344/alternates/FREE_1140/socialmedia"
+          },
+          {
+            "url": "http://b-i.forbesimg.com/meghancasserly/files/2013/10/best-websites-20131.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/lfw-march252014-140418015814-phpapp02/95/lakme-fashion-week-social-media-report-18-638.jpg?cb=1397786505"
+          },
+          {
+            "url": "https://i.imgur.com/y712Kj7.png"
+          },
+          {
+            "url": "https://www.wikihow.com/images/thumb/3/34/Enjoy-Online-Media-Step-2.jpg/aid213156-v4-728px-Enjoy-Online-Media-Step-2.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/mflnftengagingmilitaryfamiliesonsocialmedia091615-150917124918-lva1-app6891/95/mflnft-engaging-military-families-on-social-media-091615-16-638.jpg?cb=1442499850"
+          },
+          {
+            "url": "http://phoenixwebsolutions.net/wp-content/uploads/2015/05/Personal-or-Celebrity-Websites.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.28622586
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.20068598
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1853
+          },
+          {
+            "description": "Entrepreneurship",
+            "entityId": "/m/02nwq",
+            "score": 0.1714
+          }
+        ]
+      }
+    }
+  ]
+}

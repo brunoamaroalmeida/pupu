@@ -1,0 +1,77 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "daily mail",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://littleatoms.com/sites/default/files/dmcomments2.png"
+          },
+          {
+            "url": "https://i2-prod.mirror.co.uk/incoming/article12976367.ece/ALTERNATES/s615b/0_Screen-Shot-2018-07-25-at-091325.jpg"
+          },
+          {
+            "url": "https://cdn-images-1.medium.com/max/1600/1*NRW8ZPTVryJhs3LvMHzD2w.png"
+          },
+          {
+            "url": "https://ichef.bbci.co.uk/news/624/cpsprodpb/7D83/production/_92413123_7f85b308-1d53-49a4-a9b4-ed0b583c57c7.jpg"
+          },
+          {
+            "url": "https://tabloidcorrections.files.wordpress.com/2017/03/mail-pilot.jpg?w=660"
+          },
+          {
+            "url": "https://cdni.rt.com/files/2019.02/original/5c547f0cdda4c806038b456c.jpg"
+          },
+          {
+            "url": "https://www.unilad.co.uk/wp-content/uploads/2016/06/comment1.png"
+          },
+          {
+            "url": "https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2011/10/dailymail-amandaknox-a_l.jpg"
+          },
+          {
+            "url": "https://donstaniford.typepad.com/.a/6a016766faffa0970b01b8d2d48f8c970c-pi"
+          },
+          {
+            "url": "http://www.thecsuite.co.uk/CIO/images/daily-mail-online.JPG"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Daily Mail",
+            "entityId": "/m/0180v2",
+            "score": 0.3259
+          },
+          {
+            "description": "MailOnline",
+            "entityId": "/m/02z3n9c",
+            "score": 0.2682
+          },
+          {
+            "entityId": "/t/27v_vt2_tp0w6",
+            "score": 0.2682
+          },
+          {
+            "description": "Organization",
+            "entityId": "/m/0qb7t",
+            "score": 0.2674935
+          },
+          {
+            "description": "Document",
+            "entityId": "/m/015bv3",
+            "score": 0.24033989
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.22654328
+          }
+        ]
+      }
+    }
+  ]
+}

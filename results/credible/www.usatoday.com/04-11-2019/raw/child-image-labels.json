@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9561272,
+          "topicality": 0.9561272
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9483115,
+          "topicality": 0.9483115
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.9276169,
+          "topicality": 0.9276169
+        },
+        {
+          "description": "Azure",
+          "mid": "/m/03jn2m",
+          "score": 0.8102416,
+          "topicality": 0.8102416
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.8013487,
+          "topicality": 0.8013487
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.76923954,
+          "topicality": 0.76923954
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7132227,
+          "topicality": 0.7132227
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.70318776,
+          "topicality": 0.70318776
+        },
+        {
+          "description": "Company",
+          "mid": "/m/03bxgrp",
+          "score": 0.58361584,
+          "topicality": 0.58361584
+        }
+      ]
+    }
+  ]
+}

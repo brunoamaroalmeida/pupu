@@ -1,0 +1,78 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "corefri",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://pbs.twimg.com/media/DQYlEdLVwAAHQOr.jpg"
+          },
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2026125577447467"
+          },
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1770079673052060"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/DVd2cnmVAAERUmd.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/tB2EpMVuL90/hqdefault.jpg"
+          },
+          {
+            "url": "https://slideplayer.com/29/9489973/big_thumb.jpg"
+          },
+          {
+            "url": "http://pm1.narvii.com/6308/c923b6ebfb75e77f25ab9fb4fc922b42d03282c3_hq.jpg"
+          },
+          {
+            "url": "https://pm1.narvii.com/6218/56a517c1f2f8cf235a4d0e7fa8bfb39b128e83ff_00.jpg"
+          },
+          {
+            "url": "https://scontent-sea1-1.cdninstagram.com/vp/965eec76222cfab1092d4114c6091b6f/5C79F6A5/t51.2885-15/e35/22582230_148063592473871_5458215873376419840_n.jpg?se=8&ig_cache_key=MTYzMDA3MzM0Njg1NDg3NTM5OQ%3D%3D.2"
+          },
+          {
+            "url": "https://scontent-lax3-2.cdninstagram.com/vp/e8b6a193fc0e47500a754af2f70a1bf5/5C2895BC/t51.2885-15/e35/s480x480/22157653_913451618803921_1910164194972401664_n.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Portmeirion",
+            "entityId": "/m/0h5xv",
+            "score": 0.40155
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.365345
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.24578458
+          },
+          {
+            "description": "Technology",
+            "entityId": "/m/07c1v",
+            "score": 0.22430977
+          },
+          {
+            "description": "Contrucciones Refrigeradas",
+            "entityId": "/g/1th0yq0f",
+            "score": 0.1957
+          },
+          {
+            "description": "The Escapist",
+            "entityId": "/m/06dg9z",
+            "score": 0.1741
+          }
+        ]
+      }
+    }
+  ]
+}

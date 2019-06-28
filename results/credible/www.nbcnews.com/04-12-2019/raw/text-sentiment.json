@@ -1,0 +1,189 @@
+{
+  "documentSentiment": {
+    "magnitude": 5.6,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "[15]Retaliating against Democrats, Trump considering sending migrants to\n     * [16]EXCLUSIVE: Trump advisers discussed whether military could\n[18]After the embassy: What lies ahead for Julian Assange\n     * [19]Why Ecuador withdrew asylum for 'spoiled brat' Assange after\n[21]The wait is over: Here's your first look at the next 'Star Wars'\n   Elizabeth Robertson / Philadelphia Inquirer via AP file\n[23]Homeless man involved in $400K GoFundMe scam is sentenced to five years\n[25]Lobbyist sentenced to probation for funneling money to Trump inaugural\n[27]'Pollen tsunami': Why allergies seem to get worse every year\n[29]Stacey Abrams says not beating Trump, but 'winning America' is key to\n[31]Ohio couple made laxative cookies for striking school workers\n[33]Mick Jagger back on his feet after successful heart surgery\n[35]Behind the booklet that spread vaccine misinformation in Brooklyn\n[37]Foreign gov'ts are fed up with social media -- and threatening prison for\n[39]Trump's controversial transgender military policy goes into effect\n   Edmund D. Fountain / Pool via Reuters file\n[41]More than two dozen possible graves found at Florida reform school\n[43]What the smear campaign against Ilhan Omar says about America\n[45]Five minutes with Ned"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1249,
+        "content": "Stark: His 'Game of Thrones' predictions and\n[47]Ask an expert: Should I get a prenuptial agreement?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1350,
+        "content": "[48]When fear is holding you back, here's how to press forward\n   Tech."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1422,
+        "content": "Sgt."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 1427,
+        "content": "John Winn / U.S. Air National Guard\n[52]Air National Guard, Reserve pensions delayed for months due to IT issues\n   Lawrence K. Ho / LA Times via Getty Images file\n[54]Boycotting Israel is anti-Semitic, new Trump envoy says\n[56]Stacey Abrams says not beating Trump, but 'winning America' is key to\n[58]Post Mueller, newly emboldened Trump pushes the bounds of his power\n[60]Kentucky congressman's genius rep takes a hit after he challenges John\nKerry's Ivy League 'pseudoscience' degree\n[62]Former Obama White House counsel charged with lying to Justice Department\n[64]Herman Cain appears to lack the support for Senate confirmation to Fed\n[66]Comey on Barr's 'spying' claim: 'I don't know what the heck he's talking\n[69]Andrew Yang's 2020 bid has meme support -- and that's part of the problem\n[71]Disney+ will be available in November for $6.99 a month\n[73]Walmart and Amazon are having a smackdown over taxes and worker pay\n   Niall Carson / Press Association via AP\n[75]Foreign governments are fed up with social media -- and threatening\n[77]After the embassy: What lies ahead for Julian Assange\n[79]Southwest removes 737 Max from flight schedule until August\n[81]'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 2596,
+        "content": "Climate before cash': How young Norwegians are driving change in the\n[83]Rapper's brutal killing by police the latest incident in a city fed up\n     * [84]WATCH: After another fatal police shooting in Vallejo, Calif.,\n       this is how one community is fighting back\n[87]Nipsey Hussle remembered with tributes, musical guests and a letter from\n[89]Deputy's son faces charges in burning down three black churches in\n[91]Avenatti embezzled millions from paraplegic client, new 36-count\n[93]Coffee shop owner killed in North Carolina stayed behind before blast\n[95]Puerto Rico's power authority nears $9 billion debt restructuring deal\n[97]Homeless man involved in $400K GoFundMe scam is sentenced to five years\n[99]Nicky WoolfJulian Assange is difficult to defend."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3360,
+        "content": "But free press\n[100]What the smear campaign against Ilhan Omar says about America\n[101]Democrats know they can't trust AG Barr."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3488,
+        "content": "But they have a plan."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 3510,
+        "content": "[102]What is the best Stephen King movie?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3552,
+        "content": "'Pet Sematary' revives a classic\n[103]Bernie Sanders wants incarcerated people to vote."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3640,
+        "content": "Here's why he's right."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3663,
+        "content": "[107]After the embassy: What lies ahead for Julian Assange\n[109]Congo's Ebola outbreak might be declared global emergency\n[111]Sudan's president ousted by military after protests\n[113]6.8 magnitude earthquake off Indonesia coast prompts tsunami warnings\n[115]Bannon joins forces with ultra-conservatives aiming to shake up the\n[117]6.8 magnitude earthquake off Indonesia coast prompts tsunami warnings\n[119]Bannon joins forces with ultra-conservatives aiming to shake up the\n[122]Retaliating against Democrats, Trump says he's considering dumping\n[124]Puerto Rico's pot boom?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4239,
+        "content": "Medical marijuana industry touts growth, despite\n[126]Trump's controversial transgender military policy goes into effect\n[128]Lin-Manuel is 'in love' with the cast of new 'In The Heights' film\n[130]Trump advisers discussed whether military could build and run migrant\n[132]Buttigieg goes from cordial to critical of Pence on campaign\n[134]Georgetown students endorse slavery reparations fund in vote\n[136]Ask an expert: Should I get a prenuptial agreement?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4699,
+        "content": "Everything you ever wanted to know about pre-nups and post-nups (yep,\n     * [137]When fear is holding you back, here's how to press forward\n     * [138]I owed the IRS after making this rookie tax mistake\n     * [139]5 science-backed tips to help you shed winter weight\n     * [140]Dark web monitoring: Useful way to fight identity theft or\n[143]SpaceX's Falcon Heavy rocket launches on first commercial flight\n[145]'Pollen tsunami': Why allergies seem to get worse every year\n   SpaceIL and Israel Aerospace Industries / via AFP - Getty Images\n[147]Israel's Beresheet spacecraft crashes during historic moon landing\n[149]NASA twins study shows how spaceflight affects astronauts' bodies\n[151]Fossils of new human species discovered in Philippines cave\n[153]NASA twins study shows how spaceflight affects astronauts' bodies\n[155]Fossils of new human species discovered in Philippines cave\n[158]Congo's Ebola outbreak might be declared global emergency\n[160]Young kids going to the ER in droves over swallowed toys, coins and\n   Media for Medical / UIG via Getty Images\n[162]C-section risk is higher for older mothers, study finds\n[164]Herbal supplement kratom is tied to more U.S. deaths\n[168]Herbal supplement kratom is tied to more"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 5933,
+        "content": "U.S. deaths\n   [4ce7f675fd9fa243cc9dc0c485ddb630.svg]\n     * We apologize, we were unable to find your local news."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 6048,
+        "content": "Please try\n[172]What's behind the rise of the word 'incel'?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 6111,
+        "content": "The page design helps me understand the news (BUTTON) no (BUTTON) yes\n   The page design helps me find the content I'm interested in (BUTTON) no\n   Rate your overall experience (BUTTON) 1 (BUTTON) 2 (BUTTON) 3 (BUTTON)\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n 187."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6592,
+        "content": "sms:?body=%20via%20NBC%20News%20-%20https%3A%2F%2Fwww.nbcnews.com%2F"
+      }
+    }
+  ]
+}

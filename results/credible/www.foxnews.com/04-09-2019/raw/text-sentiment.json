@@ -1,0 +1,259 @@
+{
+  "documentSentiment": {
+    "magnitude": 12.3,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "This material may not be published, broadcast, rewritten, or\n   redistributed. \u00a92019 FOX News Network, LLC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 112,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 133,
+        "content": "All\n   [131]WATCH: IRS commissioner testifies before House panel Live\n[133]WATCH: IRS commissioner testifies before House panel\n   [134]Omar calls Stephen Miller `white nationalist' [135]0:41\n[136]Omar calls Stephen Miller `white nationalist'\n   [137]Trump says he's not looking to restart child separations [138]4:33\n[139]Trump says he's not looking to restart child separations\n   [140]Man accused of plotting ISIS-inspired attack at National Harbor\n[142]Man accused of plotting ISIS-inspired attack at National Harbor\n   [143]Declining voter turnout could hurt Netanyahu [144]1:26\n[145]Declining voter turnout could hurt Netanyahu\n   [146]9th Circuit deals another setback to immigration policy [147]1:33\n[148]9th Circuit deals another setback to immigration policy\n   [149]Rep explains why he's demanding Trump's tax returns [150]3:50\n[152]Rep explains why he's demanding Trump's tax returns\n   [153]Andy McCarthy: Barr gave bottom line of Mueller report [154]6:13\n[156]Andy McCarthy: Barr gave bottom line of Mueller report\n   [157]Woman at indoor entertainment center narrowly dodges ax [158]0:46\n[159]Woman at"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 1250,
+        "content": "indoor entertainment center narrowly dodges ax\n   [160]Chaffetz: Barr totally undercuts Dems on Mueller report [161]4:11\n[163]Chaffetz: Barr totally undercuts Dems on Mueller report\n   [165]Border Patrol official drops staggering stat about the\n   nationalities of illegal immigrants, asylum seekers\n[166]Border Patrol official drops staggering stat about the nationalities of\n     * [167]Trump says no plan to revive family separations, blames Obama\n     * [168]Dad of man killed by illegal immigrant blasts California gov's\n     * [169]BRETT VELICOVICH: Dems' open border fantasy is a lie - we have\n     * [170]Tucker Carlson: It is not racist to say what's true about\n   [171]Beto asked embarrassing question in men's room before rally\n[172]Beto asked embarrassing question in men's room before rally\n     * [173]Pelosi appears to mock Ocasio-Cortez over reliance on Twitter\n     * [174]2:05[175]Beto O'Rourke defends comparing the Trump\n   [176]Loughlin, hubby indicted on fraud, money laundering charges\n[177]Loughlin, hubby indicted on fraud, money laundering charges\n     * [178]Loughlin bonds with daughter Isabella after college scandal\n     * [179]Loughlin's Hallmark Channel co-star Erin Krakow posts cryptic\n   [180]Fans stunned as soccer star `abducted"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2515,
+        "content": ",' whisked away on chopper\n[181]Fans stunned as soccer star `abducted,' whisked away on chopper\n   [182]SCARY VIDEO: Woman barely dodges injury when ax-throw goes awry\n[183]SCARY VIDEO: Woman barely dodges injury when ax-throw goes awry\n   [186]WATCH: IRS commissioner testifies before House panel Live\n[188]WATCH: IRS commissioner testifies before House panel\n   [189]Omar calls Stephen Miller `white nationalist' [190]0:41\n[191]Omar calls Stephen Miller `white nationalist'\n   [192]Trump says he's not looking to restart child separations [193]4:33\n[194]Trump says he's not looking to restart child separations\n   [195]Man accused of plotting ISIS-inspired attack at National Harbor\n[197]Man accused of plotting ISIS-inspired attack at National Harbor\n   [198]Declining voter turnout could hurt Netanyahu [199]1:26\n[200]Declining voter turnout could hurt Netanyahu\n   [201]9th Circuit deals another setback to immigration policy [202]1:33\n[203]9th Circuit deals another setback to immigration policy\n   [204]Rep explains why he's demanding Trump's tax returns [205]3:50\n[207]Rep explains why he's demanding Trump's tax returns\n   ["
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 3648,
+        "content": "208]Andy McCarthy: Barr gave bottom line of Mueller report [209]6:13\n[211]Andy McCarthy: Barr gave bottom line of Mueller report\n   [212]Woman at indoor entertainment center narrowly dodges ax [213]0:46\n[214]Woman at indoor entertainment center narrowly dodges ax\n   [215]Chaffetz: Barr totally undercuts Dems on Mueller report [216]4:11\n[218]Chaffetz: Barr totally undercuts Dems on Mueller report\n   [220]Illegal immigrant charged in 5 deaths in Missouri, Kansas found\n[222]Illegal immigrant charged in 5 deaths in Missouri, Kansas found dead in\n   [223]Tennessee man accused of murdering mother asked co-workers to help\n[225]Tennessee man accused of murdering mother asked co-workers to help him\n   [226]Uber driver returns to burglarize home after dropping off\n[228]Uber driver returns to burglarize home after dropping off homeowner:\n   [229]Peppa Pig screening goes off horribly wrong, leaves kids terrified\n[231]Peppa Pig screening goes off horribly wrong, leaves kids terrified\n   [232]Mother gets year in jail after infant drowns in basement sewage\n[234]Mother gets year in jail after infant drowns in basement sewage\n   [235]WARNING - GRAPHIC PIC: Man develops odd lesion on eyeball\n[237]WARNING - GRAPHIC PIC:"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 4869,
+        "content": "Man develops odd lesion on eyeball\n   [238]How to plan for health-care costs during retirement\n[240]How to plan for health-care costs during retirement\n   [241]'Last Man Standing' reaches milestone\n[243]'Last Man Standing' reaches milestone\n   [244]Attorney general reviewing FBI conduct, 'all of the aspects' of\n[246]Attorney general reviewing FBI conduct, 'all of the aspects' of Russia\n   [247]The aftermath of Syria's chemical weapon attacks\n[249]The aftermath of Syria's chemical weapon attacks\n   [250]Scarlett Johansson taken to Los Angeles police station following\n   incident outside 'Jimmy Kimmel' studio\n[252]Scarlett Johansson taken to Los Angeles police station following\n   [253]`Bomb cyclone' takes aim at central US, threatens `significant'\n[255]`Bomb cyclone' takes aim at central US, threatens `significant' blizzard\n   [258]Supporters are idolizing Beto O'Rourke as Christ...Diamond and\n[260]Supporters are idolizing Beto O'Rourke as Christ...Diamond and Silk\n[262]THIS is what March Madness shows us about Easter\n[265]Assisted suicide bills highlight a society in conflict\n[268]Measles and the controversy shaking Rockland County\n[271]US/Mexico/Canada agreement strengthens American workers, competitiveness\n[274]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 6102,
+        "content": "The IRS should be a resource, not an adversary\n[277]Gutfeld on Chelsea Handler's brave admission about Trump\n[280]Democrats' extreme position on abortion, hostility toward people of\n[284]Manziel would now like you to address him as ..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 6338,
+        "content": "[286]He bought $8M home, then got busted in $300 shoplifting scam\n[288]Auburn senior gymnast retires from sport after devastating leg injury\nGet the best of Fox News delivered to your inbox daily\n   Enter email address ____________________\n   [295]'I am locked in my room the entire day'\n   'I am locked in my room the entire day'\n   [296]WATCH: Woman flashes plane passengers, gets booted\n   WATCH: Woman flashes plane passengers, gets booted\n   [300]Why didn't Loughlin plead guilty?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 6827,
+        "content": "[301]Norwegian Cruises to no longer provide THIS\n   Norwegian Cruises to no longer provide THIS\n   [303]Facebook 'morally bankrupt liars'?\n   [305]Greeting card messages cause controversy\n   Greeting card messages cause controversy\n   [308]'Barn find' Shelby frozen in time\n   [313]Woman behind 'glitter boobs' trend now millionaire\n   Woman behind 'glitter boobs' trend now millionaire\n   [314]'Game of Thrones' star SPILLS all\n   [320]Princess Beatrice's millionaire BF revealed\n   Princess Beatrice's millionaire BF revealed\n   [328]How artificial intelligence can make medicine more human\n[330]How artificial intelligence can make medicine more human\n[332]Twitter paid Jack Dorsey $1.40 in 2018, an ode to old character limit\n[334]Alexandria Ocasio-Cortez blasts billionaires as dishonest, narcissistic\n[336]US banks, in contrast to Wells Fargo, tout post-financial crisis\n[338]Walmart to roll out thousands more robots in stores\n[340]Independent beer distributors proud to 'serve' America\n   [342]Trump says no plan to revive family separations, blames Obama for\n[344]Trump says no plan to revive family separations, blames Obama for uproar\n[346]Kenneth Starr 'very proud' of William Barr's handling of Mueller report\n[348]Beto O'Rourke is asked by University of Iowa student if"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 8111,
+        "content": "he was at town\n[350]Barr says Muller-approved final report within a week\n[352]3 Bernie Sanders policies now embraced by the Democratic field\n[354]Former HP CEO Carly Fiorina says Dems will lose 2020 if they keep\n   [356]Illegal immigrant charged in 5 deaths in Missouri, Kansas found\n[358]Illegal immigrant charged in 5 deaths in Missouri, Kansas found dead in\n[360]Police: Man buys $8 million island then steals from Kmart\n[362]Tennessee man accused of murdering mother asked co-workers to help him\n[364]Cousin: Upstate NY burial likely for remains of WWII airman\n[366]Mother gets one year in jail after infant daughter drowns in basement\n[368]Veteran US firefighter, an 'American hero,' identified as one of three\n   [370]France's police officers are committing suicide at record highs,\n[372]France's police officers are committing suicide at record highs, reports\n[374]Slovak court considers banning parliamentary far right party\n[376]Putin says he may weigh pardon for Norwegian man after trial\n[378]The Latest: 21 rescued in English Channel, taken to France\n[380]The aftermath of Syria's chemical weapons attacks\n[382]Cyprus' British military bases 'eradicate' illegal gambling\n   [384]Brett Velicovich:"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 9320,
+        "content": "Democrats' open border fantasy vision is a lie -\n[386]Brett Velicovich: Democrats' open border fantasy vision is a lie - we\n[388]Gabriel Etzel: THIS is what March Madness shows us about Easter\n[390]Rabbi Avi Shafran: Assisted suicide bills highlight a society in\n[392]Dr. Marc Siegel on measles and the controversy shaking Rockland County\n[394]Rep. Mike Kelly: The IRS should be a resource, not an adversary\n[396]Heidi Heitkamp: US/Mexico/Canada agreement strengthens American workers\n   [398]Disneyland Star Wars park visitors will be given bathroom passes\n[400]Disneyland Star Wars park visitors will be given bathroom passes to use\n[402]Disneyland Paris walkway closed to guests after protesters litter Main\n[404]Paul Batura: Searching for Howard Johnson's\n[406]Dan Hoffman: My wife is the toughest person I know\n[408]Girl's special doll honoring her deployed Army dad found, returned at\n[410]My father died two years ago."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 10246,
+        "content": "I'm still struggling to clean out his\n   [412]Lori Loughlin's Hallmark Channel co-star Erin Krakow posts cryptic\n[414]Lori Loughlin's Hallmark Channel co-star Erin Krakow posts cryptic\n[416]Lori Loughlin, Mossimo Giannulli indicted on fraud and money laundering\n[418]Ellen DeGeneres has awkward moment with guest Jodie Comer of 'Killing\n[420]Whoopi Goldberg calls for Mike Pence and 2020 candidates to condemn hate\n[422]'Last Man Standing' to air its 150th episode\n[424]Rapper Boosie Badazz facing drug, gun charges in Georgia\n   [426]Trump making moves at DHS as immigration crisis heats up\n[429]Trump making moves at DHS as immigration crisis heats up\n[432]Carly Fiorina says 2020 Democrats' anti-capitalism message won't work\n[435]Baylor students try to shut down Matt Walsh speech on Christian values\n[438]Second lady Karen Pence and daughter Charlotte out with second Marlon\n[441]Meet the miracle survivor whose story is being told in the new movie\n[444]Son of late Supreme Court Justice Antonin Scalia reacts to Neil Gorsuch\n   [446]Air Force F-16 gets F-35 sensors, weapons and radar\n[448]Air Force F-16 gets F-35 sensors, weapons and radar\n[450]C-130 gets new 'electronic propeller controls"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 11444,
+        "content": "' to fly into 2030s\n[452]'Spaceplane' that flies 25 times faster than the speed of sound passes\n[454]Then and now: Split-screen video shows how car production has changed in\n[456]Researchers claim to have designed quieter airplane toilet, claim 'kids\nwon't think they're going to get sucked out'\n[458]Elon Musk explains reason for Tesla Model 3's mysterious cockpit camera\n   [460]Auburn University senior gymnast retires from sport, as details of\n[462]Auburn University senior gymnast retires from sport, as details of\n[464]University of Virginia coach's first words after winning school's first\n[466]Retiring Italian soccer player escorted from final match into helicopter\n[468]Ex-hockey player returns to ice more than 2 years after going into\ncardiac arrest before game, leg amputation\n[470]Chicago Cubs remove press box image that read 'No Women Admitted' after\n[472]Charles Barkley booed at Katy Perry concert after saying Minnesota\n   [474]Air Force F-16 gets F-35 sensors, weapons and radar\n[476]Air Force F-16 gets F-35 sensors, weapons and radar\n[478]Hacker blackmailed almost $1M from porn website users, spent proceeds on\n[480]New VA spinal injury center helps veterans heal"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 12631,
+        "content": "[482]Amazon Alexa adds detailed news reading option\n[484]3-year-old disables dad's iPad for 25 million minutes, or nearly half a\n[486]C-130 gets new 'electronic propeller controls' to fly into 2030s\n   [488]Whoopi Goldberg calls for Mike Pence and 2020 candidates to\n   condemn hate crimes, attacks on houses of worship\n[490]Whoopi Goldberg calls for Mike Pence and 2020 candidates to condemn hate\n[492]Gabriel Etzel: THIS is what March Madness shows us about Easter\n[494]University of Virginia coach's first words after winning school's first\n[496]Rabbi Avi Shafran: Assisted suicide bills highlight a society in\n[498]Young boy credits this Christian children's show with saving him from\n[500]Students at Baylor University try to shut down Matt Walsh's talk about\n   [502]What's the best day to buy gasoline?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 13441,
+        "content": "[504]What's the best day to buy gasoline?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 13483,
+        "content": "[506]Seattle couple survives Ford Edge SUV being crushed by utility pole\n[508]'Barn Find' 1968 Ford Mustang Shelby GT500 up for auction is frozen in\n[510]Jeep's 2-door pickups are ready to rock...crawl\n[512]Video captures bull running into motorcyclist at top speed\n[514]Takuma Sato wins Alabama Indycar race\n   [516]SEE IT: 8-foot alligator removed from South Florida pool\n[518]SEE IT: 8-foot alligator removed from South Florida pool\n[520]Environmental groups sue to restrict salmon fishing off West Coast\n[522]Golf legend Greg Norman catches `monster' hammerhead shark after it eats\n[524]Surprised fisherman reels in World War II hand grenade\n[526]Fisherman in California hooks rare angel shark\n[528]Poaching footage released of father and son in Alaska killing protected\n   [530]Friendly's closes up shop at 23 Northeast locations\n[532]Friendly's closes up shop at 23 Northeast locations\n[534]Bob Dylan's Nashville whiskey distillery to open in 2020 along with\n[536]McDonald's is taking these items off its late-night menu\n[537]More restaurants embrace trend of putting health care surcharges on\n[539]Minimum wage hikes trigger 'payroll tsunami,' as small businesses cut\n[541]McDonald"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 14671,
+        "content": "'s customers discover hack to get free hamburger\n   [543]Tennessee K-9 bites, brings down carjacking suspect, cops say\n[545]Tennessee K-9 bites, brings down carjacking suspect, cops say\n[547]South Carolina firefighter adopts puppy he rescued from under pile of\n[549]Taya Kyle: The 'American Sniper' legacy continues\n[552]Tunnel to Towers honors military and first responders who make supreme\n[554]Missouri sheriff's deputy, veteran spotted on camera saving American\n[557]Missouri sheriff's deputy saves flag from touching ground, goes viral\n   [559]California coastal city selling 0.01-acre property for $18G\n[561]California coastal city selling 0.01-acre property for $18G\n[563]Michael Corleone's house from 'The Godfather' selling for $1.37 million\n[565]But microwaves are OK: Bay Area rental agreements can come with 'no\n[567]Proposal for 60,000-square-foot NJ megamansion spooks neighbors: 'It's a\n[569]Homeowner sets up naked mannequins in yard to taunt neighbor following\n[571]The 5 most expensive home repair costs and what you can do to avoid them\n   [573]Woman at indoor entertainment center dodges flying ax in viral\n[575]Woman at indoor entertainment center dodges flying ax in viral video\n["
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 15873,
+        "content": "577]Woman with 'world's smallest waist' shocks fans with post-pregnancy body\n[579]Travel blogger, 46, says people 'just assume' she's in her 20s, shares\n[581]Condom brand releases 'Consent Packs' that require four hands to open\n[583]Lawyer who lost nearly 200 pounds says she's now 'haunted' by loose\nskin: 'It looks like the body of Frankenstein's monster'\n[585]'Gymtimidation' prevents a percentage of Americans from exercising more\n   [587]Kourtney Kardashian's daughter wears nearly $400 Gucci shoes to\n[589]Kourtney Kardashian's daughter wears nearly $400 Gucci shoes to school\n[591]Website called out for renting famous Chanel string bikini: 'Disgusting'\n[593]Woman with 'world's smallest waist' shocks fans with post-pregnancy body\n[595]Kim Kardashian blasted for cultural appropriation with head jewelry\n[597]Former Ed Hardy exec accused of sexually harassing teen who worked as au\n[599]Beyonc\u00e9 partners with Adidas to relaunch athleisure brand Ivy Park\n   [601]Man develops odd lesion on eyeball 2 years after cataract surgery\n[603]Man develops odd lesion on eyeball 2 years after cataract surgery\n[605]NYC orders mandatory vaccinations for areas of Brooklyn amid measles\n[607]Texas teen bitten by rattlesnake flown to Arizona after"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 17116,
+        "content": "allergic\n[609]New VA spinal injury center helps veterans heal\n[611]Butcher's leg reportedly swells to over 300 pounds after contracting\n[613]Deadly fungal 'superbug' spreads worldwide, alarming scientists\n[621]Independent beer distributors proud to 'serve' America\n[623]Tax season tips: How to file for an extension\n[625]10 cities in danger of a housing crash this year\n[627]A look at the average IRS refund this tax season\n   [629]Young boy credits this Christian children's show with saving him\n[631]Young boy credits this Christian children's show with saving him from\n[633]South Carolina firefighter adopts puppy he rescued from under pile of\n[635]Woman rescued from SUV dangling from Florida parking garage\n[637]Nurse adopts girl who had no visitors during hospital stay\n[639]Kentucky toddler beats stage 4 cancer, poses for photos\n[641]Scottish man is biking around the globe with stray cat by his side\n   [643]Fox News @ Night - Monday, April 8\n[650]The Ingraham Angle - Monday, April 8\n[652]Tucker Carlson Tonight - Monday, April 8\n[654]The Story w/ Martha MacCallum - Monday, April 8\n[656]Special Report w/ Bret Baier - Monday, April 8\n   ["
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 18265,
+        "content": "658]New VA spinal injury center helps veterans heal\n[660]New VA spinal injury center helps veterans heal\n[662]Operation Healing Forces aids America's warriors\n[664]Missing in America Project buries 42 `unclaimed' veterans in Texas and\n[666]Tunnel to Towers continues to help families of first responders and\n[668]Cops seek sculpture stolen from Army vet's Minnesota home; thief seen on\n[670]Plan to rename LA Memorial Coliseum in question after United Airlines\n   [672]Tax season tips: How to file for an extension\n[674]Tax season tips: How to file for an extension\n[676]Guilty college scam defendants to face IRS wrath: A look at potential\n[678]Investment in US economy surges amid smaller tax refunds, National\nTaxpayers Union executive vice president says\n[680]A look at the average IRS refund this tax season\n[684]Tax tricksters: How Americans say they cheated on their taxes\n   [686]Illegal immigrant charged in 5 deaths in Missouri, Kansas found\n[688]Illegal immigrant charged in 5 deaths in Missouri, Kansas found dead in\n[690]Police: Man buys $8 million island then steals from Kmart\n[692]Tennessee man accused of murdering mother asked co-workers to help him\n[694]Mother gets one year in jail after infant"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 19480,
+        "content": "daughter drowns in basement\n[696]France's police officers are committing suicide at record highs, reports\n[698]Whoopi Goldberg calls for Mike Pence and 2020 candidates to condemn hate\n   [700]Connecticut baseball field doused in gasoline, set ablaze to dry\n[702]Connecticut baseball field doused in gasoline, set ablaze to dry out for\n[704]Tennessee woman accused of stealing police car at car wash\n[706]Florida sheriff's office bloodhound renamed from 'Rommel' to 'Scout'\n[708]Texas man drowns while mowing lawn near river, investigators say\n[710]Person who claimed to be Timmothy Pitzen is not Timmothy Pitzen, FBI\n[712]Man claims Meghan Markle, Prince Harry took his Instagram name without\n   This material may not be published, broadcast, rewritten, or\n   redistributed. \u00a92019 FOX News Network, LLC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20285,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20306,
+        "content": "All\n   2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 20316,
+        "content": "android-app://com.foxnews.android/http/www.foxnews.com/"
+      }
+    }
+  ]
+}

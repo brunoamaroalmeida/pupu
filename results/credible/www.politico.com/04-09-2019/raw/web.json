@@ -1,0 +1,105 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "conversation"
+          }
+        ],
+        "fullMatchingImages": [
+          {
+            "url": "https://dime.jp/genre/files/2018/01/geek2621.jpg"
+          },
+          {
+            "url": "https://www.cancilleria.gov.co/sites/default/files/21_eje21_venezolanos_que_transitan_frecuentemente_tarjeta.jpg"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.metropolia.fi/fileadmin/user_upload/Tekniikka_ja_liikenne/Tuotantotalous/Industrial_management/Karri_Heinonen__FIN__-_FULL_text-for_WEB-site__title_-Z.PNG"
+          },
+          {
+            "url": "https://songsaacollective.com/files_press/2015/11nov/_300xAUTO_crop_center-center_85/TODAY-Online-Singapore-19-Nov-2015.jpg"
+          },
+          {
+            "url": "https://www.conferenceboard.ca/images/default-source/public-images/cbi_innovation-success_cover.png"
+          },
+          {
+            "url": "http://citizensformilford.com/wp-content/uploads/2015/09/Conversation-Event-Sept-2015-Flyer-IMAGE.jpg"
+          },
+          {
+            "url": "http://mydkna.com/m/2010-Five-Star-Wealth-Managers.png"
+          },
+          {
+            "url": "https://www.dhanbank.com/common/images/media/Kerala_kaumudi_22_04_16.jpg"
+          },
+          {
+            "url": "http://metropolitancollege.lk/images/diploma%20in%20international%20business596x887.jpg?crc=4293588609"
+          },
+          {
+            "url": "https://www.ferrarolaw.com/images/news/Asbestos-Claim.png"
+          },
+          {
+            "url": "http://www.icapital.my/files/images/icap.biz-englsih/aug9.jpg"
+          },
+          {
+            "url": "https://www.hanoversheriff.com/ImageRepository/Document?documentID=838&&thumbnailSize=AspectPreserved_Thumb100X100"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.33342353
+          },
+          {
+            "description": "Entrepreneur",
+            "entityId": "/g/12hhh4stc",
+            "score": 0.2848
+          },
+          {
+            "description": "Conversation",
+            "entityId": "/m/01h8n0",
+            "score": 0.27574837
+          },
+          {
+            "description": "Business",
+            "entityId": "/g/120y8l81",
+            "score": 0.2507
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.24326454
+          },
+          {
+            "description": "Text",
+            "entityId": "/m/07s6nbt",
+            "score": 0.24041955
+          },
+          {
+            "description": "2017",
+            "entityId": "/g/11b77qrp3k",
+            "score": 0.2203
+          },
+          {
+            "description": "Professional",
+            "entityId": "/m/01qkbx",
+            "score": 0.20512901
+          },
+          {
+            "description": "Entrepreneur",
+            "entityId": "/m/07p3x0",
+            "score": 0.204
+          },
+          {
+            "description": "April",
+            "entityId": "/m/0lkm",
+            "score": 0.1994
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Organ",
+          "mid": "/m/013y0j",
+          "score": 0.8284279,
+          "topicality": 0.8284279
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.7984724,
+          "topicality": 0.7984724
+        },
+        {
+          "description": "Mouth",
+          "mid": "/m/0283dt1",
+          "score": 0.7148311,
+          "topicality": 0.7148311
+        },
+        {
+          "description": "Ear",
+          "mid": "/m/039xj_",
+          "score": 0.5822066,
+          "topicality": 0.5822066
+        }
+      ]
+    }
+  ]
+}

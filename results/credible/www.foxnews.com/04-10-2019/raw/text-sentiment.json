@@ -1,0 +1,279 @@
+{
+  "documentSentiment": {
+    "magnitude": 12.0,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "This material may not be published, broadcast, rewritten, or\n   redistributed. \u00a92019 FOX News Network, LLC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 112,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 133,
+        "content": "All\n   [131]WATCH: VP Pence at UN Security Council Live Now[132]Live\n[133]WATCH: VP Pence at UN Security Council\n   [134]Major bank CEOs testify at a House Financial Services Committee\n[136]Major bank CEOs testify at a House Financial Services Committee hearing\n   [137]Ari Fleischer: Mueller owes it to nation to weigh in on report\n[140]Ari Fleischer: Mueller owes it to nation to weigh in on report\n   [141]Uber shares its Wall Street goals; Delta profits take off\n[143]Uber shares its Wall Street goals; Delta profits take off\n   [144]Trump inner circle questioned in hush money probe: WSJ [145]0:55\n[146]Trump inner circle questioned in hush money probe: WSJ\n   [147]American Chinese restaurant, called its dishes `clean,' and is\n   getting major backlash for it [148]0:47\n[149]American Chinese restaurant, called its dishes `clean,' and is getting\n   [151]Barr vows to find out what started Russia probe as focus shifts to\n[152]Barr vows to find out what started Russia probe as focus shifts to\n     * [153]Dershowitz praises Barr's testimony before Congress, says he's\n       working hard to 'depoliticize' DOJ\n     * [154]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 1262,
+        "content": "Limbaugh: Barr blew up Dems' 'contrived conspiracy,' but they\n     * [155]'A growling bear with a brain': Bill Bennett says AG Barr\n     * [156]Mnuchin has fiery exchange with Rep. Maxine Waters during\n   [157]GOP trolls `Georgia' Dem with delivery to Tennessee home\n[158]GOP trolls `Georgia' Dem with delivery to Tennessee home\n     * [159]Candace Owens explodes at Dem mid-hearing after he plays short\n     * [160]Crenshaw calls out Omar for describing 9/11 attacks as 'some\n   [161]AOC's constituents ticked at her over blown Amazon HQ deal: poll\n[162]AOC's constituents ticked at her over blown Amazon HQ deal: poll\n     * [163]LESLIE MARSHALL: Pelosi and Ocasio-Cortez are in a power\n     * [164]Twitter CEO eats once a day, takes 3 ice baths\n     * [165]New Yorkers want Amazon to reconsider pullout\n   [166]Woman claims MLB team's T-shirt cannon shattered hand\n[167]Woman claims MLB team's T-shirt cannon shattered hand\n   [168]Remains of 430 million-year-old 'sea monster' with extra-long arms\n[169]Remains of 430 million-year-old 'sea monster' with extra-long arms found\n   [172]WATCH: VP Pence"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 2366,
+        "content": "at UN Security Council Live Now[173]Live\n[174]WATCH: VP Pence at UN Security Council\n   [175]Major bank CEOs testify at a House Financial Services Committee\n[177]Major bank CEOs testify at a House Financial Services Committee hearing\n   [178]Ari Fleischer: Mueller owes it to nation to weigh in on report\n[181]Ari Fleischer: Mueller owes it to nation to weigh in on report\n   [182]Uber shares its Wall Street goals; Delta profits take off\n[184]Uber shares its Wall Street goals; Delta profits take off\n   [185]Trump inner circle questioned in hush money probe: WSJ [186]0:55\n[187]Trump inner circle questioned in hush money probe: WSJ\n   [188]American Chinese restaurant, called its dishes `clean,' and is\n   getting major backlash for it [189]0:47\n[190]American Chinese restaurant, called its dishes `clean,' and is getting\n   [192]JFK Jr. turned down by Madonna, Princess Di to appear in George\n[194]JFK Jr. turned down by Madonna, Princess Di to appear in George mag\n   [195]Arkansas student discovers human remains on high school campus\n[197]Arkansas student discovers human remains on high school campus\n   [198]Teen gets perfect SAT score,"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 3512,
+        "content": "says he 'freaked out'\n[200]Teen gets perfect SAT score, says he 'freaked out'\n   [201]Lori Loughlin's 'When Calls The Heart' will return without her:\n[203]Lori Loughlin's 'When Calls The Heart' will return without her: report\n   [204]White House rips Omar for calling Stephen Miller a `white\n[206]White House rips Omar for calling Stephen Miller a `white nationalist'\n   [207]Bodies of vanished couple found in Dominican Republic\n[209]Bodies of vanished couple found in Dominican Republic\n   [210]Another nabbed in Senate data theft 'doxxing' scheme\n[212]Another nabbed in Senate data theft 'doxxing' scheme\n   [213]Royal Caribbean 'temporarily' closes attraction at center of $10\n[215]Royal Caribbean 'temporarily' closes attraction at center of $10 million\n   [216]Jennifer Lopez slams Jose Canseco amid cheating allegations\n[218]Jennifer Lopez slams Jose Canseco amid cheating allegations\n   [219]Bernie Sanders unveils new Medicare-for-all bill\n[221]Bernie Sanders unveils new Medicare-for-all bill\n   [222]Actress reveals she is one year sober: 'Let's do this'\n[224]Actress reveals she is one year sober: 'Let's do this'\n   [225]Magazine slammed"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 4663,
+        "content": "over Ilhan Omar cover and article\n[227]Magazine slammed over Ilhan Omar cover and article\n   [228]Kris Osborn: What happened when I fired my first 'sniper shot'\n[230]Kris Osborn: What happened when I fired my first 'sniper shot'\n   [233]Why can't some on the left handle the fact that Trump is\n[235]Why can't some on the left handle the fact that Trump is president?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 5030,
+        "content": "Tomi\n[237]Don't expect a 'Smollett' resolution in the college cheating scandal\n[243]The war on Chick-fil-A is chicken McCarthyism\n[246]The collusion lie came at a tremendous cost\n[249]Voters must choose between Trump's mindful persistence and Dems'\n[252]Washington would rather help Morocco than protect us at border\n[255]Will bacon and French fries kill you?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5390,
+        "content": "How to not get fooled by health\n[259]Couple shocked by baby after seeking kidney stone treatment\n[261]NHL suspends defenseman for 2019-20 season for domestic violence\n[263]Mansion once owned by oil heir William Getty sells for $27M\nGet the best of Fox News delivered to your inbox daily\n   Enter email address ____________________\n   [270]Major flaw in 'stick-on' swimwear trend?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5773,
+        "content": "Major flaw in 'stick-on' swimwear trend?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5817,
+        "content": "[271]GRAPHIC PICS: Spider bite leaves hole in boy's leg\n   GRAPHIC PICS: Spider bite leaves hole in boy's leg\n   [272]Miller offers Huffman prison advice\n   [273]World-famous stripper's kid tells all\n   [275]Liberal star: I'm a 'spoiled brat'\n   [276]Baggage handler caught in the act\n   [277]Grisly discovery in Egyptian tomb\n   [282]Lori could now face up to 40 years\n   [283]Star broke the rules -- and almost paid dearly for it\n   Star broke the rules -- and almost paid dearly for it\n   [286]'Not a drill' warning scares passengers\n   'Not a drill' warning scares passengers\n   [288]Facebook to FINALLY stop this horrible practice\n   Facebook to FINALLY stop this horrible practice\n   [291]WATCH: Woman flashes plane passengers, gets booted\n   WATCH: Woman flashes plane passengers, gets booted\n   [293]'I am locked in my room the entire day'\n   'I am locked in my room the entire day'\n   [295]Woman behind 'glitter boobs' trend now millionaire\n   Woman behind 'glitter boobs' trend now millionaire\n   [297]Macy spotted for first time after wife's guilty plea\n   Macy spotted for first time after wife's guilty plea\n   [299]Norwegian Cruises to no longer provide THIS\n   Norwegian Cruises to no"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 7017,
+        "content": "longer provide THIS\n   [303]New Yorkers want Amazon to reconsider its HQ2 pullout\n[305]New Yorkers want Amazon to reconsider its HQ2 pullout\n[307]Chase CEO Jamie Dimon defends bank's firearm policy\n[309]Discovery CEO: 'Fixer Upper' stars Chip, Joanna Gaines are America's\n[311]Ford plots future with latest leadership shakeup\n[313]Elon Musk calls Amazon CEO Jeff Bezos a copycat in billionaire space\n[315]Wall Street CEOs called to Capitol Hill, here's the list\n   [317]Bernie Sanders unveils Medicare for All proposal, says role of\n   health care insurers would be reduced to 'nose jobs'\n[319]Bernie Sanders unveils Medicare for All proposal, says role of health\ncare insurers would be reduced to 'nose jobs'\n[321]White House rips Omar for calling Stephen Miller a `white nationalist,'\nhighlights her 'history of anti-Semitic comments'\n[323]Kellyanne Conway: Congress needs to 'stop denying' border crisis and act\n[325]Sen. Hawley: Yale Law School should be stripped of federal funding for\n[327]Another Dem Capitol staffer implicated in Senate data theft 'doxxing'\n[329]Alexandria Ocasio-Cortez: Kirstjen Nielsen `oversaw one of the\nlargest-scale human rights violations in history'\n   [331]Florida teenager gets"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 8231,
+        "content": "perfect SAT score, says he 'freaked out'\n[333]Florida teenager gets perfect SAT score, says he 'freaked out'\n[335]Arkansas student discovers human remains on high school campus, may have\n[337]US consumer prices rose 0.4% in March on higher gas costs\n[339]Family hopes to prove man's innocence, even after his death\n[341]School bus, tractor-trailer crash leaves at least 1 dead, several\n[343]Bodycam footage may be shown at Minneapolis officer's trial\n   [345]Western banks help Saudis raise $12 billion in bonds\n[347]Western banks help Saudis raise $12 billion in bonds\n[349]Memorial marks 1 month since Ethiopian Airlines crash\n[351]John F. Kennedy Jr. was turned down by Madonna and Princess Diana to\n[353]Afghan government says talks with Taliban delayed 5 days\n[355]Google's Wing kicks off first drone delivery service in Australia\n[357]Kellyanne Conway: Congress needs to 'stop denying' border crisis and act\n   [359]Robert Bianchi: Don't expect a \"Smollett\" resolution in the\n[361]Robert Bianchi: Don't expect a \"Smollett\" resolution in the college\n[363]Mohammad al-Issa: My advice to Rashida Tlaib and Ilhan Omar\n[367]Rich Lowry:"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 9368,
+        "content": "The war on Chick-fil-A is chicken McCarthyism\n[369]Laura Ingraham: Voters must choose between Trump's mindful persistence\n[371]Janice Dean: Kids with cancer are real-life superheroes\n   [373]Disneyland Star Wars park visitors will be given bathroom passes\n[375]Disneyland Star Wars park visitors will be given bathroom passes to use\n[377]Disneyland Paris walkway closed to guests after protesters litter Main\n[379]Paul Batura: Searching for Howard Johnson's\n[381]Dan Hoffman: My wife is the toughest person I know\n[383]Girl's special doll honoring her deployed Army dad found, returned at\n[385]My father died two years ago."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 9992,
+        "content": "I'm still struggling to clean out his\n   [387]Felicity Huffman to plead guilty next month in college admissions\n[389]Felicity Huffman to plead guilty next month in college admissions\n[391]Lori Loughlin's 'When Calls The Heart' will return next month without\n[393]Charles Van Doren, figure in game show scandals, dead at 93\n[395]Nipsey Hussle has Los Angeles intersection renamed after him, city\n[397]John F. Kennedy Jr. was turned down by Madonna and Princess Diana to\n[399]Stephen Colbert slams Trump for saying Obama separated children from\n   [401]White House tells Congress to 'stop lying and start doing' when it\n[404]White House tells Congress to 'stop lying and start doing' when it comes\n[407]Rep. Nunes praises Barr for reviewing origins of Russia probe, defends\n[410]California considering legislation to restrict police use of deadly\n[413]Sen. Hawley suggests Yale be stripped of federal funding if 'religious\n[416]Border Patrol officials plead with Congress to act on border crisis\n[419]Shanahan: The best possibility for peace in Afghanistan is at hand\n   [421]Google's Wing kicks off first drone delivery service in Australia\n[423]Google's Wing kicks off first drone delivery service in Australia\n[425]Air Force F"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 11219,
+        "content": "-16 gets F-35 sensors, weapons and radar\n[427]C-130 gets new 'electronic propeller controls' to fly into 2030s\n[429]'Spaceplane' that flies 25 times faster than the speed of sound passes\n[431]Then and now: Split-screen video shows how car production has changed in\n[433]Researchers claim to have designed quieter airplane toilet, claim 'kids\nwon't think they're going to get sucked out'\n   [435]Houston Astros mascot's T-shirt cannon 'shattered' woman's finger,\n[437]Houston Astros mascot's T-shirt cannon 'shattered' woman's finger,\n[439]Jennifer Lopez slams Jose Canseco amid Alex Rodriguez cheating\nallegations: 'I know what our relationship is'\n[441]NHL suspends ex-Los Angeles Kings defenseman Slava Voynov for 2019-20\n[443]Tiger Woods says fifth Masters Tournament title within reach\n[445]Dirk Nowitzki, after final Dallas Mavericks home game, announces\n[447]AR-15, guns, cash stolen from home of Atlanta Braves outfielder: cops\n   [449]Google's Wing kicks off first drone delivery service in Australia\n[451]Google's Wing kicks off first drone delivery service in Australia\n[453]Amazon Go stores to accept cash, report says\n[455]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 12354,
+        "content": "Pete Davidson returns to Instagram months after sharing cryptic post\n[457]Twitter CEO Jack Dorsey's bizarre health regimen sees him eat just once\na day and take three ice baths before work\n[459]Illegally downloaded 'Game of Thrones' episodes expose you to viruses\n[461]What happened when I fired my first 'sniper shot'\n   [463]Sen. Hawley: Yale Law School should be stripped of federal funding\n[465]Sen. Hawley: Yale Law School should be stripped of federal funding for\n[467]Chick-fil-A met with opposition at San Jose airport\n[469]Rich Lowry: The war on Chick-fil-A is chicken McCarthyism\n[471]Elisabeth Moss says 'The Handmaid's Tale' runs 'parallel' to her\n[473]Nuns sexually abusing minors could become next Catholic Church scandal,\n[475]Whoopi Goldberg calls for Mike Pence and 2020 candidates to condemn hate\n   [477]Biker beats 'The Wire' star Idris Elba's 'flying mile' speed\n[479]Biker beats 'The Wire' star Idris Elba's 'flying mile' speed record with\n[481]Instagram model Daria Radionova covered her Lamborghini Aventador in\n[483]A rare 2012 Ford Mustang Boss 302 driven just 42 miles is up for auction\n[485]What's the best day"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 13493,
+        "content": "to buy gasoline?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 13510,
+        "content": "[487]Seattle couple survives Ford Edge SUV being crushed by utility pole\n[489]'Barn Find' 1968 Ford Mustang Shelby GT500 up for auction is frozen in\n   [491]Florida Keys briefly without power after sailboat hits power line,\n[493]Florida Keys briefly without power after sailboat hits power line,\n[495]SEE IT: 8-foot alligator removed from South Florida pool\n[497]Environmental groups sue to restrict salmon fishing off West Coast\n[499]Golf legend Greg Norman catches `monster' hammerhead shark after it eats\n[501]Surprised fisherman reels in World War II hand grenade\n[503]Fisherman in California hooks rare angel shark\n   [505]Google's Wing kicks off first drone delivery service in Australia\n[507]Google's Wing kicks off first drone delivery service in Australia\n[509]Chick-fil-A met with opposition at San Jose airport\n[511]NYC restaurant getting backlash for advertising 'clean' American Chinese\n[513]Rich Lowry: The war on Chick-fil-A is chicken McCarthyism\n[515]Restaurant jokes after car crashes through dining room: 'Our new\n[517]UK grocery store Waitrose pulls its Easter chocolate duckling trio amid\n   [519]Tennessee K-9 bites, brings down carjacking suspect, cops say\n[521]Tennessee K"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 14706,
+        "content": "-9 bites, brings down carjacking suspect, cops say\n[523]South Carolina firefighter adopts puppy he rescued from under pile of\n[525]Taya Kyle: The 'American Sniper' legacy continues\n[528]Tunnel to Towers honors military and first responders who make supreme\n[530]Missouri sheriff's deputy, veteran spotted on camera saving American\n[533]Missouri sheriff's deputy saves flag from touching ground, goes viral\n   [535]New York Democrats propose new bill cracking down on Airbnb, other\n[537]New York Democrats propose new bill cracking down on Airbnb, other\n[539]California coastal city selling 0.01-acre property for $18G\n[541]Michael Corleone's house from 'The Godfather' selling for $1.37 million\n[543]But microwaves are OK: Bay Area rental agreements can come with 'no\n[545]Proposal for 60,000-square-foot NJ megamansion spooks neighbors: 'It's a\n[547]Homeowner sets up naked mannequins in yard to taunt neighbor following\n   [549]Woman who dodged flying ax in viral video to come back for lessons\n[551]Woman who dodged flying ax in viral video to come back for lessons with\n[553]Woman with 'world's smallest waist' shocks fans with post-pregnancy body\n[555]Travel blogger, 46, says people"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 15895,
+        "content": "'just assume' she's in her 20s, shares\n[557]Condom brand releases 'Consent Packs' that require four hands to open\n[559]Lawyer who lost nearly 200 pounds says she's now 'haunted' by loose\nskin: 'It looks like the body of Frankenstein's monster'\n[561]'Gymtimidation' prevents a percentage of Americans from exercising more\n   [563]Social media notices huge problem with 'stick-on' swimwear trend\n[565]Social media notices huge problem with 'stick-on' swimwear trend\n[567]Michelle Pfeiffer unveils gender-neutral fragrance line\n[569]Kourtney Kardashian's daughter wears nearly $400 Gucci shoes to school\n[571]Website called out for renting famous Chanel string bikini: 'Disgusting'\n[573]Woman with 'world's smallest waist' shocks fans with post-pregnancy body\n[575]Kim Kardashian blasted for cultural appropriation with head jewelry\n   [577]E. coli outbreak in Kentucky, Ohio, other states sickens nearly\n[579]E. coli outbreak in Kentucky, Ohio, other states sickens nearly 100, CDC\n[581]Pot legalization advocates exploiting public confusion about CBD and\n[583]Pediatricians urge recall of Fisher-Price 'Rock 'n Play' after infant\n[585]Couple shocked by surprise baby after going to hospital for '"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 17090,
+        "content": "kidney\n[587]Mom claims spider bite left son with gaping hole in leg\n[589]4 bees found feeding on woman's tears inside her eyelid in Taiwan\n   [591]American savers have lost roughly $500 billion because of low\n[593]American savers have lost roughly $500 billion because of low interest\n[595]Mansion once owned by oil heir William Getty sells for $27M\n[597]5 hotspots for newbie homebuyers on a budget\n[599]14 first-time homebuyer mistakes to avoid\n[601]Retirement realities: What's in, and what's out\n[603]Here are taxpayers' odds of being audited this year\n   [605]Florida teenager gets perfect SAT score, says he 'freaked out'\n[607]Florida teenager gets perfect SAT score, says he 'freaked out'\n[609]'Burglary suspect' triggering emergency call was Roomba trapped in\n[611]Ohio 7-Eleven owner gives shoplifting teen food instead of calling\n[613]Young boy credits this Christian children's show with saving him from\n[615]South Carolina firefighter adopts puppy he rescued from under pile of\n[617]Woman rescued from SUV dangling from Florida parking garage\n   [619]Fox News @ Night - Tuesday, April 9\n[626]The Ingraham Angle - Tuesday, April 9\n[628]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 18237,
+        "content": "Tucker Carlson Tonight - Tuesday, April 9\n[630]The Story w/ Martha MacCallum - Tuesday, April 9\n[632]Special Report w/ Bret Baier - Tuesday, April 9\n   [634]Last WWII `Doolittle Raider' dies at 103\n[636]Last WWII `Doolittle Raider' dies at 103\n[638]New VA spinal injury center helps veterans heal\n[640]Operation Healing Forces aids America's warriors\n[642]Missing in America Project buries 42 `unclaimed' veterans in Texas and\n[644]Tunnel to Towers continues to help families of first responders and\n[646]Cops seek sculpture stolen from Army vet's Minnesota home; thief seen on\n   [648]Trump says he won't deliver tax returns to Congress\n[650]Trump says he won't deliver tax returns to Congress\n[652]Here are taxpayers' odds of being audited this year\n[654]Guilty college scam defendants to face IRS wrath: A look at potential\n[656]Tax season tips: How to file for an extension\n[658]Investment in US economy surges amid smaller tax refunds, National\nTaxpayers Union executive vice president says\n[660]A look at the average IRS refund this tax season\n   [662]Pot legalization advocates exploiting public confusion about CBD\n[664]Pot legalization advocates exploiting public confusion about"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 19426,
+        "content": "CBD and\n[666]Another Dem Capitol staffer implicated in Senate data theft 'doxxing'\n[668]Family hopes to prove man's innocence, even after his death\n[670]School bus, tractor-trailer crash leaves at least 1 dead, several\n[672]Bodycam footage may be shown at Minneapolis officer's trial\n[674]Wrongful death lawsuit in texting suicide case resolved\n   [676]Canadian family drives home from Florida with dead body to avoid\n[678]Canadian family drives home from Florida with dead body to avoid US\n[680]Florida man threatened to destroy town with army of turtles: police\n[682]'Burglary suspect' triggering emergency call was Roomba trapped in\n[684]Florida Keys briefly without power after sailboat hits power line,\n[686]Connecticut baseball field doused in gasoline, set ablaze to dry out for\n[688]Tennessee woman accused of stealing police car at car wash\n   This material may not be published, broadcast, rewritten, or\n   redistributed. \u00a92019 FOX News Network, LLC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20388,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20409,
+        "content": "All\n   2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 20419,
+        "content": "android-app://com.foxnews.android/http/www.foxnews.com/"
+      }
+    }
+  ]
+}

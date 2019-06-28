@@ -1,0 +1,880 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9642146,
+          "topicality": 0.9642146
+        },
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.9538267,
+          "topicality": 0.9538267
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9445514,
+          "topicality": 0.9445514
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.87623596,
+          "topicality": 0.87623596
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8701412,
+          "topicality": 0.8701412
+        },
+        {
+          "description": "Standing",
+          "mid": "/m/02wzbmj",
+          "score": 0.7958224,
+          "topicality": 0.7958224
+        },
+        {
+          "description": "Photography",
+          "mid": "/m/05wkw",
+          "score": 0.7060428,
+          "topicality": 0.7060428
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7039424,
+          "topicality": 0.7039424
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.6704324,
+          "topicality": 0.6704324
+        },
+        {
+          "description": "Outerwear",
+          "mid": "/m/047vlmn",
+          "score": 0.6577929,
+          "topicality": 0.6577929
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flag",
+          "mid": "/m/03120",
+          "score": 0.96359515,
+          "topicality": 0.96359515
+        },
+        {
+          "description": "Flag of the united states",
+          "mid": "/m/0317s",
+          "score": 0.79977,
+          "topicality": 0.79977
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.5676403,
+          "topicality": 0.5676403
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.517318,
+          "topicality": 0.517318
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Protest",
+          "mid": "/m/01nd_n",
+          "score": 0.9748164,
+          "topicality": 0.9748164
+        },
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.93434614,
+          "topicality": 0.93434614
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.83169156,
+          "topicality": 0.83169156
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.7228018,
+          "topicality": 0.7228018
+        },
+        {
+          "description": "Demonstration",
+          "mid": "/m/026yq0z",
+          "score": 0.71973526,
+          "topicality": 0.71973526
+        },
+        {
+          "description": "Rebellion",
+          "mid": "/m/02k88w",
+          "score": 0.54778475,
+          "topicality": 0.54778475
+        },
+        {
+          "description": "Social work",
+          "mid": "/m/012qgt",
+          "score": 0.52608013,
+          "topicality": 0.52608013
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.5069608,
+          "topicality": 0.5069608
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.98912907,
+          "topicality": 0.98912907
+        },
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.9887532,
+          "topicality": 0.9887532
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.942669,
+          "topicality": 0.942669
+        },
+        {
+          "description": "Lip",
+          "mid": "/m/06pj2k",
+          "score": 0.93991935,
+          "topicality": 0.93991935
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9325853,
+          "topicality": 0.9325853
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.9235385,
+          "topicality": 0.9235385
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9116893,
+          "topicality": 0.9116893
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.8984002,
+          "topicality": 0.8984002
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.89329076,
+          "topicality": 0.89329076
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.88938713,
+          "topicality": 0.88938713
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.59907013,
+          "topicality": 0.59907013
+        },
+        {
+          "description": "Black hair",
+          "mid": "/m/0fc1fy",
+          "score": 0.5165854,
+          "topicality": 0.5165854
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.97626835,
+          "topicality": 0.97626835
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.95398486,
+          "topicality": 0.95398486
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.71058357,
+          "topicality": 0.71058357
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6301223,
+          "topicality": 0.6301223
+        },
+        {
+          "description": "Black-and-white",
+          "mid": "/m/01g6gs",
+          "score": 0.564079,
+          "topicality": 0.564079
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5272959,
+          "topicality": 0.5272959
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9736677,
+          "topicality": 0.9736677
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.94841564,
+          "topicality": 0.94841564
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.98494256,
+          "topicality": 0.98494256
+        },
+        {
+          "description": "Darkness",
+          "mid": "/m/01kyr8",
+          "score": 0.9714442,
+          "topicality": 0.9714442
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96545076,
+          "topicality": 0.96545076
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.92810863,
+          "topicality": 0.92810863
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9153682,
+          "topicality": 0.9153682
+        },
+        {
+          "description": "Light",
+          "mid": "/m/04k84",
+          "score": 0.91493964,
+          "topicality": 0.91493964
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90795594,
+          "topicality": 0.90795594
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.8910659,
+          "topicality": 0.8910659
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8557852,
+          "topicality": 0.8557852
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.8249122,
+          "topicality": 0.8249122
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.98494256,
+          "topicality": 0.98494256
+        },
+        {
+          "description": "Darkness",
+          "mid": "/m/01kyr8",
+          "score": 0.9714442,
+          "topicality": 0.9714442
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96545076,
+          "topicality": 0.96545076
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.92810863,
+          "topicality": 0.92810863
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9153682,
+          "topicality": 0.9153682
+        },
+        {
+          "description": "Light",
+          "mid": "/m/04k84",
+          "score": 0.91493964,
+          "topicality": 0.91493964
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90795594,
+          "topicality": 0.90795594
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.8910659,
+          "topicality": 0.8910659
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8557852,
+          "topicality": 0.8557852
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.8249122,
+          "topicality": 0.8249122
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9642146,
+          "topicality": 0.9642146
+        },
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.9538267,
+          "topicality": 0.9538267
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9445514,
+          "topicality": 0.9445514
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.87623596,
+          "topicality": 0.87623596
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8701412,
+          "topicality": 0.8701412
+        },
+        {
+          "description": "Standing",
+          "mid": "/m/02wzbmj",
+          "score": 0.7958224,
+          "topicality": 0.7958224
+        },
+        {
+          "description": "Photography",
+          "mid": "/m/05wkw",
+          "score": 0.7060428,
+          "topicality": 0.7060428
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7039424,
+          "topicality": 0.7039424
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.6704324,
+          "topicality": 0.6704324
+        },
+        {
+          "description": "Outerwear",
+          "mid": "/m/047vlmn",
+          "score": 0.6577929,
+          "topicality": 0.6577929
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flag",
+          "mid": "/m/03120",
+          "score": 0.96359515,
+          "topicality": 0.96359515
+        },
+        {
+          "description": "Flag of the united states",
+          "mid": "/m/0317s",
+          "score": 0.79977,
+          "topicality": 0.79977
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.5676403,
+          "topicality": 0.5676403
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.517318,
+          "topicality": 0.517318
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Protest",
+          "mid": "/m/01nd_n",
+          "score": 0.9748164,
+          "topicality": 0.9748164
+        },
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.93434614,
+          "topicality": 0.93434614
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.83169156,
+          "topicality": 0.83169156
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.7228018,
+          "topicality": 0.7228018
+        },
+        {
+          "description": "Demonstration",
+          "mid": "/m/026yq0z",
+          "score": 0.71973526,
+          "topicality": 0.71973526
+        },
+        {
+          "description": "Rebellion",
+          "mid": "/m/02k88w",
+          "score": 0.54778475,
+          "topicality": 0.54778475
+        },
+        {
+          "description": "Social work",
+          "mid": "/m/012qgt",
+          "score": 0.52608013,
+          "topicality": 0.52608013
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.5069608,
+          "topicality": 0.5069608
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.98912907,
+          "topicality": 0.98912907
+        },
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.9887532,
+          "topicality": 0.9887532
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.942669,
+          "topicality": 0.942669
+        },
+        {
+          "description": "Lip",
+          "mid": "/m/06pj2k",
+          "score": 0.93991935,
+          "topicality": 0.93991935
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9325853,
+          "topicality": 0.9325853
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.9235385,
+          "topicality": 0.9235385
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9116893,
+          "topicality": 0.9116893
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.8984002,
+          "topicality": 0.8984002
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.89329076,
+          "topicality": 0.89329076
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.88938713,
+          "topicality": 0.88938713
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.97626835,
+          "topicality": 0.97626835
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.95398486,
+          "topicality": 0.95398486
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.71058357,
+          "topicality": 0.71058357
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6301223,
+          "topicality": 0.6301223
+        },
+        {
+          "description": "Black-and-white",
+          "mid": "/m/01g6gs",
+          "score": 0.564079,
+          "topicality": 0.564079
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5272959,
+          "topicality": 0.5272959
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9736677,
+          "topicality": 0.9736677
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.94841564,
+          "topicality": 0.94841564
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.98494256,
+          "topicality": 0.98494256
+        },
+        {
+          "description": "Darkness",
+          "mid": "/m/01kyr8",
+          "score": 0.9714442,
+          "topicality": 0.9714442
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96545076,
+          "topicality": 0.96545076
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.92810863,
+          "topicality": 0.92810863
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9153682,
+          "topicality": 0.9153682
+        },
+        {
+          "description": "Light",
+          "mid": "/m/04k84",
+          "score": 0.91493964,
+          "topicality": 0.91493964
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90795594,
+          "topicality": 0.90795594
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.8910659,
+          "topicality": 0.8910659
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8557852,
+          "topicality": 0.8557852
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.8249122,
+          "topicality": 0.8249122
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.98494256,
+          "topicality": 0.98494256
+        },
+        {
+          "description": "Darkness",
+          "mid": "/m/01kyr8",
+          "score": 0.9714442,
+          "topicality": 0.9714442
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96545076,
+          "topicality": 0.96545076
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.92810863,
+          "topicality": 0.92810863
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9153682,
+          "topicality": 0.9153682
+        },
+        {
+          "description": "Light",
+          "mid": "/m/04k84",
+          "score": 0.91493964,
+          "topicality": 0.91493964
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90795594,
+          "topicality": 0.90795594
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.8910659,
+          "topicality": 0.8910659
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8557852,
+          "topicality": 0.8557852
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.8249122,
+          "topicality": 0.8249122
+        }
+      ]
+    }
+  ]
+}

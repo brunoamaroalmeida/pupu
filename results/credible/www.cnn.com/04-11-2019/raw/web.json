@@ -1,0 +1,83 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "cnn",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://jmsc.hku.hk/revamp/wp-content/uploads/2013/06/Georgia.CNN_.Screenshot.jpg"
+          },
+          {
+            "url": "https://www.newscaststudio.com/wp-content/uploads/2013/04/cnn_homepage.png"
+          },
+          {
+            "url": "http://blog.therisetothetop.com/wp-content/uploads/2010/02/CNN10.png"
+          },
+          {
+            "url": "https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2013/04/CNNHomeUp1.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/livex.poynter.org/wp-content/uploads/2012/04/cnn609pm.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/52462db8e4b0b724ccf67238/t/5248cd03e4b03b8157cdc2a4/1380502791950/hp.jpg"
+          },
+          {
+            "url": "http://blog.thoughtpick.com/wp-content/uploads/2009/11/CNN.gif"
+          },
+          {
+            "url": "http://bretthoebel.com/wp-content/uploads/2013/08/CNN-Health2.jpg"
+          },
+          {
+            "url": "https://farm3.static.flickr.com/2642/4158505476_a4f8869dc8_o.png"
+          },
+          {
+            "url": "https://www.cjrarchive.org/img/posts/cnn.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.3705647
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.3582407
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.2770293
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2507
+          },
+          {
+            "description": "CNN",
+            "entityId": "/m/0gsgr",
+            "score": 0.1913
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1883
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1863
+          }
+        ]
+      }
+    }
+  ]
+}

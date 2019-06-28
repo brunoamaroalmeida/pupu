@@ -1,0 +1,77 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://docs.bolt.cm/files/screenshots/screenshot-9.png"
+          },
+          {
+            "url": "https://docs.bolt.cm/files/screenshots/screenshot-3.png"
+          },
+          {
+            "url": "https://kryptronic.com/media/cms/kscreenshotslg/screen-kryptronicdemo.jpg"
+          },
+          {
+            "url": "https://www.gearboxcomputers.com/images/snappyfox-home.gif"
+          },
+          {
+            "url": "https://software-advice.imgix.net/managed/products/screenshots/screenshot_180789.png?auto=format&w=600&h=450"
+          },
+          {
+            "url": "http://www.bestcodersw.com/sites/default/files/about.jpg"
+          },
+          {
+            "url": "https://www.bitrix24.com/images/content_en/external_call.png"
+          },
+          {
+            "url": "http://jessieand.co/wp-content/uploads/2018/02/cardiology-emr-software-software-detail-page-template-for-elementor.jpg"
+          },
+          {
+            "url": "https://searchengineland.com/figz/wp-content/seloads/2014/06/meta-seo-inspector-screenshot.png"
+          },
+          {
+            "url": "http://www.qcc.cuny.edu/it/images/swimage1.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.37053892
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.24962449
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.2239965
+          },
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.21256419
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1884
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.188
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "daily telegraph",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://i.guim.co.uk/img/media/ce0a6a14907543000e134b215af9ca4ce60de68c/0_25_990_868/master/990.jpg?width=300&quality=85&auto=format&fit=max&s=75aabe380399973cd9f0a289589fe381"
+          },
+          {
+            "url": "https://static.guim.co.uk/sys-images/Media/Pix/pictures/2011/2/22/1298380482871/Telegraph.co.uk-006.jpg"
+          },
+          {
+            "url": "http://stephentall.org/wp-content/uploads/2006/01/telegraph-2006.png"
+          },
+          {
+            "url": "http://coolspotters.com/files/photos/537512/natalie-dormer-and-the-daily-telegraph-gallery.jpg"
+          },
+          {
+            "url": "http://www.livingindubai.org/wp-content/uploads/2014/02/Telegraph-Expat.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/www.bookwormroom.com/wp-content/uploads/2010/08/Telegraph.co_.uk-news-business-sport-the-Daily-Telegraph-newspaper-Sunday-Telegraph-Telegraph-Mozilla-Firefox-8312010-32914-PM.bmp.jpg"
+          },
+          {
+            "url": "https://secure.i.telegraph.co.uk/multimedia/archive/01757/portal_1757764c.jpg"
+          },
+          {
+            "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/public-news-171930-DailyTelegraph--default--958.jpg"
+          },
+          {
+            "url": "https://media-assets-02.thedrum.com/cache/images/thedrum-prod/public-news-171930-DailyTelegraph--2x1--940.jpg"
+          },
+          {
+            "url": "https://www.journalism.co.uk/assets/130/Telegraph.1.jpg_resized_460_.jpeg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.3215938
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.31703776
+          },
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.2914965
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2829
+          },
+          {
+            "description": "New media",
+            "entityId": "/m/01yl50",
+            "score": 0.27751955
+          },
+          {
+            "description": "Multimedia",
+            "entityId": "/m/0541p",
+            "score": 0.23746637
+          },
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.20744619
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.20090942
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1995
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1944
+          }
+        ]
+      }
+    }
+  ]
+}

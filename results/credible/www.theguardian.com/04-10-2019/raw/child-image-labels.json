@@ -1,0 +1,474 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.8220895,
+          "topicality": 0.8220895
+        },
+        {
+          "description": "Human",
+          "mid": "/m/0dgw9r",
+          "score": 0.7832198,
+          "topicality": 0.7832198
+        },
+        {
+          "description": "World",
+          "mid": "/m/09nm_",
+          "score": 0.5313754,
+          "topicality": 0.5313754
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flag",
+          "mid": "/m/03120",
+          "score": 0.93033725,
+          "topicality": 0.93033725
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9153682,
+          "topicality": 0.9153682
+        },
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9118428,
+          "topicality": 0.9118428
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.79107654,
+          "topicality": 0.79107654
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.710556,
+          "topicality": 0.710556
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.70318776,
+          "topicality": 0.70318776
+        },
+        {
+          "description": "Speech",
+          "mid": "/m/09x0r",
+          "score": 0.69129044,
+          "topicality": 0.69129044
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.63618493,
+          "topicality": 0.63618493
+        },
+        {
+          "description": "World",
+          "mid": "/m/09nm_",
+          "score": 0.5313754,
+          "topicality": 0.5313754
+        },
+        {
+          "description": "Speaker",
+          "mid": "/m/02079p",
+          "score": 0.5288047,
+          "topicality": 0.5288047
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Urban area",
+          "mid": "/m/039jbq",
+          "score": 0.7801249,
+          "topicality": 0.7801249
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.62000173,
+          "topicality": 0.62000173
+        },
+        {
+          "description": "Police",
+          "mid": "/m/05ws7",
+          "score": 0.6150152,
+          "topicality": 0.6150152
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.5265395,
+          "topicality": 0.5265395
+        },
+        {
+          "description": "City",
+          "mid": "/m/01n32",
+          "score": 0.51347554,
+          "topicality": 0.51347554
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.9961627,
+          "topicality": 0.9961627
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.99030316,
+          "topicality": 0.99030316
+        },
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.98701257,
+          "topicality": 0.98701257
+        },
+        {
+          "description": "Luxury vehicle",
+          "mid": "/m/01lcwm",
+          "score": 0.98610586,
+          "topicality": 0.98610586
+        },
+        {
+          "description": "Automotive design",
+          "mid": "/m/068mqj",
+          "score": 0.88666,
+          "topicality": 0.88666
+        },
+        {
+          "description": "Street fashion",
+          "mid": "/m/0408t8_",
+          "score": 0.8116139,
+          "topicality": 0.8116139
+        },
+        {
+          "description": "Sedan",
+          "mid": "/m/021mp2",
+          "score": 0.7649058,
+          "topicality": 0.7649058
+        },
+        {
+          "description": "Personal luxury car",
+          "mid": "/m/01w71f",
+          "score": 0.76233315,
+          "topicality": 0.76233315
+        },
+        {
+          "description": "Mid-size car",
+          "mid": "/m/03vnt4",
+          "score": 0.717026,
+          "topicality": 0.717026
+        },
+        {
+          "description": "Bentley mulsanne",
+          "mid": "/m/076l_7",
+          "score": 0.6265783,
+          "topicality": 0.6265783
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9867611,
+          "topicality": 0.9867611
+        },
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.97460717,
+          "topicality": 0.97460717
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94473374,
+          "topicality": 0.94473374
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.91766334,
+          "topicality": 0.91766334
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9137958,
+          "topicality": 0.9137958
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.89891255,
+          "topicality": 0.89891255
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.89324903,
+          "topicality": 0.89324903
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.88320714,
+          "topicality": 0.88320714
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.87623596,
+          "topicality": 0.87623596
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.8755422,
+          "topicality": 0.8755422
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.97626835,
+          "topicality": 0.97626835
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.95398486,
+          "topicality": 0.95398486
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.71058357,
+          "topicality": 0.71058357
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6301223,
+          "topicality": 0.6301223
+        },
+        {
+          "description": "Black-and-white",
+          "mid": "/m/01g6gs",
+          "score": 0.564079,
+          "topicality": 0.564079
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5272959,
+          "topicality": 0.5272959
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9736677,
+          "topicality": 0.9736677
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.94841564,
+          "topicality": 0.94841564
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.98494256,
+          "topicality": 0.98494256
+        },
+        {
+          "description": "Darkness",
+          "mid": "/m/01kyr8",
+          "score": 0.9714442,
+          "topicality": 0.9714442
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96545076,
+          "topicality": 0.96545076
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.92810863,
+          "topicality": 0.92810863
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9153682,
+          "topicality": 0.9153682
+        },
+        {
+          "description": "Light",
+          "mid": "/m/04k84",
+          "score": 0.91493964,
+          "topicality": 0.91493964
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90795594,
+          "topicality": 0.90795594
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.8910659,
+          "topicality": 0.8910659
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8557852,
+          "topicality": 0.8557852
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.8249122,
+          "topicality": 0.8249122
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.98494256,
+          "topicality": 0.98494256
+        },
+        {
+          "description": "Darkness",
+          "mid": "/m/01kyr8",
+          "score": 0.9714442,
+          "topicality": 0.9714442
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96545076,
+          "topicality": 0.96545076
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.92810863,
+          "topicality": 0.92810863
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9153682,
+          "topicality": 0.9153682
+        },
+        {
+          "description": "Light",
+          "mid": "/m/04k84",
+          "score": 0.91493964,
+          "topicality": 0.91493964
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90795594,
+          "topicality": 0.90795594
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.8910659,
+          "topicality": 0.8910659
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8557852,
+          "topicality": 0.8557852
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.8249122,
+          "topicality": 0.8249122
+        }
+      ]
+    }
+  ]
+}

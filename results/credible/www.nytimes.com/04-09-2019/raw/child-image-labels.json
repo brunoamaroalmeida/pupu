@@ -1,0 +1,224 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9449374,
+          "topicality": 0.9449374
+        },
+        {
+          "description": "Product",
+          "mid": "/m/01jwgf",
+          "score": 0.9103113,
+          "topicality": 0.9103113
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84106016,
+          "topicality": 0.84106016
+        },
+        {
+          "description": "Book cover",
+          "mid": "/m/09xbm8",
+          "score": 0.76476145,
+          "topicality": 0.76476145
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.658343,
+          "topicality": 0.658343
+        },
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.5307499,
+          "topicality": 0.5307499
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9649977,
+          "topicality": 0.9649977
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.95917094,
+          "topicality": 0.95917094
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.94623995,
+          "topicality": 0.94623995
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.9420715,
+          "topicality": 0.9420715
+        },
+        {
+          "description": "Azure",
+          "mid": "/m/03jn2m",
+          "score": 0.8751225,
+          "topicality": 0.8751225
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.86344,
+          "topicality": 0.86344
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.77602386,
+          "topicality": 0.77602386
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.7247075,
+          "topicality": 0.7247075
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.64796704,
+          "topicality": 0.64796704
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6091187,
+          "topicality": 0.6091187
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9449374,
+          "topicality": 0.9449374
+        },
+        {
+          "description": "Product",
+          "mid": "/m/01jwgf",
+          "score": 0.9103113,
+          "topicality": 0.9103113
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84106016,
+          "topicality": 0.84106016
+        },
+        {
+          "description": "Book cover",
+          "mid": "/m/09xbm8",
+          "score": 0.76476145,
+          "topicality": 0.76476145
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.658343,
+          "topicality": 0.658343
+        },
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.5307499,
+          "topicality": 0.5307499
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9649977,
+          "topicality": 0.9649977
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.95917094,
+          "topicality": 0.95917094
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.94623995,
+          "topicality": 0.94623995
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.9420715,
+          "topicality": 0.9420715
+        },
+        {
+          "description": "Azure",
+          "mid": "/m/03jn2m",
+          "score": 0.8751225,
+          "topicality": 0.8751225
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.86344,
+          "topicality": 0.86344
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.77602386,
+          "topicality": 0.77602386
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.7247075,
+          "topicality": 0.7247075
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.64796704,
+          "topicality": 0.64796704
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6091187,
+          "topicality": 0.6091187
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3009 @@
+{
+  "documentSentiment": {
+    "magnitude": 125.9,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]Mail Online Search [2]publisher [3]Mail Online Home RSS feed\n   [4]Latest Stories RSS feed [5]alternate [6]alternate [7]alternate\n   [10]MailOnline - news, sport, celebrity, science and health stories\n   [11][USEMAP:gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEA\n   Thursday, Apr 11th 2019[40] 2PM 3\u00b0C 5PM 3\u00b0C 5-Day Forecast\n[42]Police carry ranting Wikileaks founder Julian Assange out of the\nEcuadorian Embassy in London as he is ARRESTED following US extradition\nrequest - seven years after he was given refuge\n   [964x580_JPG-SINGLE_6419095511707305025.jpg]\n   Julian Assange has been arrested by British police today after Ecuador\n   dramatically withdrew his political asylum seven years after he was\n   given refuge in the country's London embassy."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 778,
+        "content": "The Wikileaks founder,\n   sporting a scruffy beard and unkempt hair (left and top right), was\n   dragged out of the building head-first in handcuffs by a group of seven\n   men as stunned supporters watched on as he screamed out 'the UK must\n   resist'."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 1031,
+        "content": "Ecuador's president Lenin Moreno said the decision to withdraw\n   Assange's asylum status followed his 'discourteous and aggressive\n   behaviour' in continuing to work with WikiLeaks while housed at the\n   embassy."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 1246,
+        "content": "Assange, 47, has not left Ecuador's diplomatic soil since\n   2012, when the country offered diplomatic protection from allegations\n   of sexual assault in Sweden, a case which prosecutors revealed could\n   now be reinvestigated following his surprise arrest."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1505,
+        "content": "Assange has always\n   feared extradition to the US, where his lawyers have claimed he could\n   face the death penalty for the leaking of highly-classified documents."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1674,
+        "content": "It was accidentally revealed last year that Assange had been secretly\n   indicted by the US Justice Department on unknown charges."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1805,
+        "content": "[46]Pamela Anderson condemns Assange arrest and says Britain is 'America's\nb**ch' and 'needed a diversion from your idiotic Brexit bulls***'\n   Pamela Anderson has attacked the UK after Julian Assange was arrested\n   at the Ecuadorian embassy in London after spending seven years\n[49]Lawyer for Julian Assange's alleged Swedish rape victim says 'we will do\nall we can to make prosecutors reopen investigation'\n   The Lawyer of Assange's alleged rape victim says 'we will do all we can\n   to make prosecutors reopen investigation'."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 2336,
+        "content": "The Wikileaks founder was\n     * [52]9 shares Lawyer of Assange's alleged rape victim says `we will\n[53]Edward Snowden warns Assange's arrest marks 'a dark day for press\nfreedom' and says images of the Wikileaks founder being carried away will\n   [54]The former FBI systems analyst is himself accused of leaking\n   classified information and is currently in hiding in Russia The former\n   FBI systems analyst is himself accused of leaking classified\n   information and is currently in hiding in Russia\n   WikiLeaks founder Assange, 47, was arrested by police in London this\n   morning after Ecuador dramatically withdrew his political asylum seven\n   years after he first entered the embassy.\n     * [57]1k shares Julian Assange arrest 'dark moment for press\n[58]May faces the music: Exhausted PM returns home to be mauled by MPs after\nEU forces her to accept a Brexit 'flextension' until October 31 - as furious\nSpartan Brexiteers launch new plot to oust her\n   [59]Brexit: May faces mauling after EU forces her to accept new delay\n   Brexit: May faces mauling after EU forces her to accept new delay\n   The Prime Minister is set to face a bruising in the Commons at\n   lunchtime after EU leaders shoved Britain towards humiliating Halloween\n   Brexit at a crunch Brussels summit that ended at 2am today."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 3642,
+        "content": "European\n   Council president Donald Tusk gave Mrs May a glimmer of hope that the\n   UK could leave before October, saying the 'course of action is entirely\n   in the UK's hands' - but urged them: 'Don't waste this time'."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 3864,
+        "content": "Mrs May\n   had begged them to postpone Britain's departure until June 30 while she\n   talks to Jeremy Corbyn - but this was rejected, leaving the PM in a\n   precarious position having repeatedly said she could not 'countenance'\n   Britain staying in the EU after that date."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4143,
+        "content": "* [62]Hilarious Brexit memes flood the internet as Britons mock new\n       Halloween deadline that 'sums up the horror story so far'\n   [63]Kim stuns as her children make their VOGUE debut\n     * [64]JLo reveals flirty ex Diddy apologised to Alex over pic Lopez\n     * [65]Kim stuns as her children make their VOGUE debut Kardashian\n     * [66]Tana, 44, makes first public outing with baby Oscar Ramsay\n     * [67]Pregnant Abbey cradles her growing baby bump Clancy\n     * [68]JLo reveals flirty ex Diddy apologised to Alex over pic Lopez\n     * [69]Kim stuns as her children make their VOGUE debut Kardashian\n[72]Tory support free-falls as new poll shows a TEN-point plunge in support\n   Two successive polls showing dramatic falls in support will deeply\n   alarm Tory HQ ahead of local elections on May 2 and likely European\n     * [74]20 shares Tory support free falls as new poll shows a TEN point\n[75]Will May now resign... and will Britain EVER leave the EU?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 5108,
+        "content": "Your essential\n   The Prime Minster has broken her promise of just three weeks ago not to\n   countenance delay beyond June 30 - and yet looks likely to fight on\n     * [78]15 shares Will May resign over delaying Brexit to Halloween?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 5341,
+        "content": "[79]May IS 'willing' to negotiate a customs union with Labour after delaying\nBrexit until Halloween, admits minister as talks restart today\n   Scottish Secretary David Mundell said his party was 'certainly willing'\n   to discuss the softer Brexit deal in talks with Jeremy Corbyn's party -\n   a move that will leave Brexiteers apoplectic.\n     * [81]2 shares May 'willing' to negotiate a customs union with\n[82]Harry and Meghan WON'T announce the birth of their baby: Royal couple reveal\nthey will keep news of the arrival of their child private until they have\n   [83]Harry and Meghan baby plans will be private, Kensington Palace says\n   Harry and Meghan baby plans will be private, Kensington Palace says\n   The Duke and Duchess of Sussex will only announce the birth of their\n   baby once they have 'had an opportunity to celebrate privately as a new\n   family', Kensington Palace revealed today."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6242,
+        "content": "Meghan is expected to have a\n   midwife-led home birth at Frogmore Cottage in Windsor, the new home she\n   shares with Prince Harry on the Berkshire estate."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 6399,
+        "content": "She wants to follow\n   in the footsteps of the Queen, who was born at the Mayfair home of her\n   grandparents and gave birth to all four of her children at either\n   Buckingham Palace or Clarence House."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6602,
+        "content": "Sources stressed earlier this week\n   that Harry and Meghan, who are expecting their first child within\n   weeks, have not ruled out a hospital delivery."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6756,
+        "content": "Pictured: Meghan at\n   Buckingham Palace on March 5 (left) and with Harry at New Zealand House\n[86]It's royal baby fever!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 6878,
+        "content": "Shoppers splash out on memorabilia including mugs,\ncushions and phone covers - as the countdown to the birth of Meghan and\n   Canny retailers are cashing in on royal baby fever by offering\n   souvenirs to mark the birth of Harry and Meghan's first child,\n   including a \u00a315 Royal Baby Watch mug and a \u00a319 vest top."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 7200,
+        "content": "* [89]2 shares Shoppers are snapping up royal baby goods ahead of\n[90]Princess Eugenie is trolled for telling Beatrice 'your the best' in a\nsweet Instagram post - with some claiming the grammar mistake 'reflects badly\n   The royal, 29, who is ninth in line to the throne, took to her profile\n   on Thursday in aid of National Sibling's Day to post a tribute to her\n   sister Beatrice, 30, but was trolled for confusing 'you're' with\n     * [93]98 shares Princess Eugenie is trolled over grammar mistake\n[94]British woman, 22, found dead in Swiss hotel room 'after sex game went\nwrong' was discovered covered in cuts on bathroom floor before 'agitated'\n   [95]British woman found dead in Swiss hotel room died during a 'sex\n   game gone wrong' British woman found dead in Swiss hotel room died\n   British holidaymaker Anna Florence Reed was discovered on Tuesday\n   morning in a hotel bathroom after shouting was heard coming from her\n   room, according to Swiss media."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 8169,
+        "content": "The 22-year-old had been staying at\n   Ramada La Palma au Lac (pictured) in Locarno, Switzerland, when she had\n   a row with her 29-year-old German boyfriend."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 8328,
+        "content": "He reportedly told police\n   she died in a 'sex game gone wrong'."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 8394,
+        "content": "Swiss prosecutors said they are\n     * [97]1.4k shares British woman died during a 'sex game gone wrong'\n[98]Alexa IS listening to your conversations: Web giant ADMITS clips are\nanalysed by Amazon workers - including your most intimate moments\n   As many as 1,000 clips are reviewed by staff members per shift in\n   outposts in Boston, India and Romania."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 8749,
+        "content": "In a report, staff members have\n   said that the recordings can contain distressing content."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 8842,
+        "content": "[101]What's REALLY in your food?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 8875,
+        "content": "Shocking video reveals dozens of mites,\nworms, midges and other creepy crawlies that lurk in your fresh vegetables\n   Biomedicine student Martin Kaae Kristiansen, 28, from Denmark, used a\n   microscope to film the abundance of organisms on vegetables from the\n[104]Entire British football team is hauled off flight to Spain by police\nupon landing in Alicante for being 'drunk and disruptive'\n   Civil Guard officers were called to march 25 members of the team off\n   the flight at Alicante airport on Saturday after it landed amid reports\n   the entire team were being 'drunk and disorderly'.\n[106]'Charming' opera singer, 48, is found guilty of cheating wealthy widow\nout of more than \u00a3100,000 intended for a children's charity and spending it\n   Andrew Amdur (pictured outside Southwark Crown Court in south-east\n   London) told Elizabeth Shaheen, 66, he'd use some of the cash to throw\n     * [108]share Opera singer cheated wealthy widow out of more than\n[109]Four severely neglected 'Mowgli' children with poorly developed speech are\nfound living in a hellhole flat in Moscow with no food, toilets or beds\n   [110]Four severely neglected 'Mowgli' children are found living in a\n   hellhole flat in Moscow Four severely neglected 'Mowgli' children are\n   found living in a hellhole flat in Moscow\n   The children (inset"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 10200,
+        "content": "top) lived in a flat full of rotting garbage in\n   'socially dangerous conditions', according to the authorities in\n   Mytishchi, north of Moscow (inset bottom)."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 10362,
+        "content": "The three boys and one girl,\n   all under nine, were said to have survived on mildewed bread collected\n   from local rubbish bins, according to reports, and were exhausted and\n   dirty' when authorities found them."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 10577,
+        "content": "None of the boys, who are believed\n   to be aged six, four and two, had been registered at birth and had\n   never seen a doctor or attended school."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 10725,
+        "content": "[113]Mike Tindall reveals how his father has 'deteriorated' during\n   Mike Tindall today told Good Morning Britain that his father has\n   'deteriorated' in recent months battling Parkinson's as he called for\n   greater awareness about the disease and its symptoms."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 10995,
+        "content": "* [116]16 shares Mike Tindall tells how his father 'deteriorated'\n[117]Primary school gives its 300 pupils Friday afternoons off because the\ntired children 'lack focus' by the end of the week\n   Neylands Community School in Milford Haven, Pembrokeshire, has said it\n   will let pupils get their weekends started early by allowing them to\n   leave at 12.25pm on Friday from September."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 11384,
+        "content": "* [119]6 shares Primary school gives its 300 pupils Friday afternoons\n[120]British student, 21, who 'chiselled off and stole 20 floor tiles at\nPompeii' vows to clear her name and insists she was only 'inspecting them'\n   Caprice Arnold (pictured), from Turnbridge Wells, Kent, was celebrating\n   her birthday in Italy with family when she was arrested after climbing\n   over a rail around the 2,000-year-old mosaic.\n     * [122]19 shares British student who 'stole floor tiles at Pompeii'\n[123]Morrison's shopper with crippling arthritis and lung condition is\nbranded a 'lazy slob' in an angry note pinned to her car in disabled bay\n   The woman was parked in a disabled bay of a Morrison's supermarket\n   store in Canvey Island, Essex, on Tuesday morning when she discovered\n     * [125]2 shares Shopper with crippling arthritis is branded 'lazy\n[126]'I'm just so happy I'm coming home': British mother arrested in Dubai for\nbranding her ex-husband's new wife a 'horse' on Facebook is released with a \u00a3600\nfine after being convicted of insulting behaviour\n   [127]British mother facing jail in Dubai for branding woman a 'horse'\n   on Facebook weeps in British mother facing jail in Dubai for branding\n   EXCLUSIVE: A judge ruled that"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 12621,
+        "content": "even though Laleh Shahravesh had been\n   convicted, she was free to leave the country and has ordered that her\n   passport be returned."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 12757,
+        "content": "The single mum, who wrote insulting Facebook\n   posts about her husband's ex wife (inset), was convicted of a\n   misdemeanour under Dubai's cyber crime laws."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 12915,
+        "content": "The 55 year old, who had\n   earlier collapsed outside court (right) after being told her case was\n   being adjourned for a week, was left virtually speechless by the\n   decision."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 13094,
+        "content": "Weeping tears of joy she said: 'I am just so happy and\n   relieved that this terrible ordeal is over and I can go home."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 13214,
+        "content": "Last\n   night, the single mother's daughter Paris (left), speaking back in the\n   UK, spoke of her hope that the case would be dropped, adding: 'Every\n[130]Couple who failed to raffle off their 'Mega Home' amid claims\nparticipants were 'cheated' put the six-bedroom property on sale for \u00a32.5m\n   Mark and Sharon Beresford launched the competition last year for their\n   six-bedroom home in Hampshire to be won be a lucky member of the\n     * [132]2 shares Couple who failed to raffle their 'Mega Home' put\n[133]Millionaire German financier and his estranged wife are embroiled in a\nLondon divorce court battle over access to top secret information found on a\ncomputer flash drive at a Swiss banks' deposit box\n   Catja Thum, 48, says Oliver Thum, 47, has defied a judge's order to\n   provide documents which were contained on the flash drive found in a\n     * [135]share Couple in court battle over access to top secret info on\n[136]French bulldog drowns in Chinese pet shop exercise pool as unwitting\nowner films the struggling dog's last breaths\n   The pet owner in China thought she was filming her dog 'paddling' in a\n   pool without realising it was actually drowning."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 14389,
+        "content": "She suspected the dog\n   couldn't swim and called for help, but staff failed to react."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 14481,
+        "content": "* [139]20 shares Dog drowns in exercise pool as unwitting owner films\n[140]Man gags on mystery 'slab of hair' after biting into Morrisons breakfast\nbap - and is offered a crate of beer to say sorry\n   Alex Savvides, 25, had to take two days off work after falling ill when\n   he bit into a breakfast bap at Morrisons in Boreham Wood and found\n   himself chewing on a mouthful of matted hair."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 14873,
+        "content": "[142]Travelling couple are slammed for 'dangerous' stunt after posting\n'life-threatening' photo on edge of infinity pool\n   [143]Travelling couple Kelly and Kody slammed for 'dangerous' Instagram\n   stunt Travelling couple Kelly and Kody slammed for 'dangerous'\n   A couple has come under fire online for posing on the edge of an\n   infinity pool to capture the perfect photo for Instagram."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 15264,
+        "content": "American\n   travel bloggers Kelly and Kody, who are based in Bali, shared a\n   snapshot of themselves posing in Ubud on April 3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 15393,
+        "content": "The photograph shows\n   Kelly bravely hanging off the edge of the swimming pool while kissing\n   her boyfriend Kody who was standing in the water while holding her."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 15558,
+        "content": "The\n   adventurous pair insisted they were 'super slow and cautious' when they\n   took the picture of the stunt because they are 'full of trust for each\n[146]Mel B pays \u00a31.8million out-of-court settlement to former nanny she\n   Mel B, 43, has settled her defamation trial, brought on by her former\n   nanny Lorraine Gilles, for \u00a31.8million."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 15906,
+        "content": "* [149]7 shares Mel B makes a \u00a31.8 million out of court payout to\n[150]'Remind me never to eat in Preston!': Eyes roll as Nando's is voted\ncity's favourite restaurant and Wetherspoon its best pub at awards bash meant\n   Nando's and Wetherspoon topped an awards bash that was supposed to\n   promote local businesses in Preston, Lancashire, sparking fury among\n[152]SUSANNAH CONSTANTINE: At last!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 16302,
+        "content": "I've turned my gnarled old gnashers into\n   Susannah Constantine hated her discoloured teeth but transformed them\n   by having a London-based dentist paint layers of a composite over them\n   to give her a 'nice, natural, set of teeth.'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 16543,
+        "content": "* [155]32 shares At last!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 16569,
+        "content": "I've turned my gnarled old gnashers into\n[156]Mother, 28, is left with a wonky B and D-sized chest after getting\nbotched implants in Turkey that she saw advertised on Instagram\n   Holly McCulloch, 28, of Greasby, Wirral, always felt down about her\n   B-cup chest, particularly as she got older."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 16864,
+        "content": "She therefore booked\n   herself into a clinic that charged \u00a32,700 for a five-day, all-inclusive\n     * [159]1 share Mother, 28, reveals she nearly died after TWO botched\n[160]Mob of up to 30 squatters face eviction after setting up home in shipping\ncontainers and a double-decker bus on a city centre roundabout\n   [161]Up to 30 squatters living in shipping containers on Bristol\n   landmark are resisting Up to 30 squatters living in shipping containers\n   Thirty squatters who have spent three weeks living in shipping\n   containers and a bus in Bristol face eviction."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 17436,
+        "content": "The temporary\n   structures, owned by the city council, on and around the Bearpit\n   roundabout used to be independent cafes."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 17562,
+        "content": "Squatters claim their presence\n   has reduced anti-social behaviour and want the space to be 'for\n   everyone'."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 17674,
+        "content": "But the council says lawlessness has increased since they\n   took up residence, and has court order to turf them out to regenerate\n   the area into a space for 40 firms, which they say will create 160\n   jobs."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 17884,
+        "content": "Pictured clockwise from top right: the public space on the St\n   James Barton roundabout known at the Bearpit; a squatter called\n   Midnite; the double decker bus which serves as a kitchen; a recovering\n   heroin addict in the squat."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 18118,
+        "content": "Centre: squatters' signs."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 18149,
+        "content": "* [163]1 share Squatters in Bristol shipping containers resisting\n[164]Michael Jackson's British goddaughter, 27, breaks her life-long silence\nto reveal she believes he is innocent of sex abuse claims made against him\n   Lucy Lester, 27, of Gloucestershire, who is daughter of Oliver!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 18434,
+        "content": "star\n   Mark Lester, said her godfather Michael Jackson was a 'lovely family\n   man' and claims he is innocent of sex abuse claims."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 18571,
+        "content": "* [167]30 shares Michael Jackson's British goddaughter says he is\n[168]Woman who married a MURDERER after meeting when he was on day release\ninsists he's 'one of the kindest people she's ever met' - and says his past\n   Sammy Mellor, 29, from Preston, married Stephen."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 18840,
+        "content": "41, despite his\n   violent past."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 18873,
+        "content": "She believes everyone deserves a second chance and\n   insists he's an amazing dad to their children."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 18979,
+        "content": "* [170]2 shares Woman who married a murderer insists she 'isn't\n[171]Pictured: Horrific injuries of girlfriend who was beaten with an iron bar,\nforced to EAT paint and battered with two mirrors in traumatic ordeal at hands\nof footballer boyfriend - as he is jailed for at least three years\n   [172]Horrific injuries of girlfriend who was beaten with an iron bar\n   and forced to eat paint Horrific injuries of girlfriend who was beaten\n   with an iron bar and forced to eat paint\n   League 2 footballer Reece Thompson (left and inset) abused and\n   humiliated his partner in a devastating series of attacks which left\n   her with a broken jaw."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 19623,
+        "content": "She suffered horrific bruising on her body and\n   her face and backside were blackened after the attack (right), which\n   went on for three days."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 19769,
+        "content": "The woman said Thompson rubbed glass into her\n   back and threatened to make her run down the street naked."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 19877,
+        "content": "She feared\n   he would kill her when he picked up a mirror to smash it over her head."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 19966,
+        "content": "Thompson has played for York City (left) in League Two and North\n   Ferriby United in the National League."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 20073,
+        "content": "[174]Home births are hell, Harry... for us chaps!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20123,
+        "content": "Meghan wants to have her\nbaby at Frogmore Cottage."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 20174,
+        "content": "But here a veteran of three home deliveries risks\n   Tom Rawstorne is a veteran of three home births and has offered tips to\n   Prince Harry after it emerged that he and Meghan might be considering a\n     * [177]25 shares Father risks wife's wrath to say home births are\n[178]We don't want Meghan on our maternity ward!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 20494,
+        "content": "Mothers set to give birth at\nFrimley Park Hospital fear the Duchess might nab the best suite - which\noffers aromatherapy, a vegan menu and a luxury birthing pool\n   Frimley Park Hospital is half an hour's drive from Prince Harry and\n   Meghan Markle's new home."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 20756,
+        "content": "Local mothers have revealed what it's like to\n   give birth at the 'swankiest hospital in the area.'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20857,
+        "content": "[181]'Too bad that Europe is being so tough on the UK': Trump weighs in on\nBrexit and slams EU for being 'brutal trading partner with the US', as he\nprepares $11bn in tariffs on EU cheese and wine\n   Trump tweeted the EU was 'being so tough' on the United Kingdom and\n   Brexit on Wednesday night."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 21155,
+        "content": "He also threatened that the US and EU's\n   trading relationship would soon change."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 21243,
+        "content": "* [184]99 shares Trump weighs in on Brexit, says EU is 'brutal\n[185]Macron's hardman act wears thin: 'Enfant terrible' French President\nclaims HE is responsible for forcing Halloween Brexit date on UK - hours\nafter alienating ALL of his EU allies with his feet-stamping antics\n   The French President's climbdown came after six hours of dramatic talks\n   in which he fought against giving the UK the long extension favoured by\n     * [188]58 shares How Macron was 'isolated' by EU leaders as he tried\n[189]Hilarious Brexit memes flood the internet as Britons mock new Halloween\ndeadline that 'sums up the horror story so far'\n   [190]Brexit memes flood the internet as Britons mock Halloween deadline\n   Brexit memes flood the internet as Britons mock Halloween deadline\n   With the UK heading for a Halloween Brexit, references to the political\n   nightmare that has engulfed the country in recent months were all too\n   easy to make today."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 22185,
+        "content": "And Britons have made the most of news of the\n   October 31 date given by the remaining 27 EU nations by posting a\n   series of tongue-in-cheek memes on Twitter."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 22347,
+        "content": "Among them was Simon\n   Williams from Wales, who posted a Beetlejuice meme, saying: 'Brexit\n   delayed until Halloween... satire really does write itself these days.'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 22517,
+        "content": "Other Twitter users said it 'sums up the horror story it has been so\n   far', the day was 'so relevant' and pointed out that the EU has 'one\n   hell of a sense of humour'."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 22689,
+        "content": "The second extension to the Brexit process\n   - initially intended to conclude on March 29 - definitively stopped the\n   clock on a No Deal withdrawal this Friday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 22853,
+        "content": "[193]MPs cheer as their 12-day Easter holiday is reinstalled... hours after\nDonald Tusk tells them not to 'waste' the Brexit delay and find a solution\n   Leader of the Commons Andrea Leadsom also grinned as she announced a\n   12-day break starting at the end of today until Tuesday, April 23."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 23146,
+        "content": "[196]STEPHEN GLOVER: Uncontrolled immigration helped trigger Brexit - How\nironic our self obsessed MPs have forgotten it\n   STEPHEN GLOVER: On Tuesday an estimate crept out of the Office for\n   National Statistics (ONS) which suggests immigration is likely to\n   continue at a high rate for the foreseeable future."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 23466,
+        "content": "* [199]313 shares STEPHEN GLOVER: Uncontrolled immigration helped\n[200]The toll of Brexit: Photos reveal strain Theresa May has been put under\nafter three years of trying and failing to get a deal done to leave the EU\n   [201]Photos reveal strain of Theresa May after three years of Brexit\n   Photos reveal strain of Theresa May after three years of Brexit\n   Since becoming Britain's prime minister nearly three years ago, Theresa\n   May has overseen some of the most chaotic political times in UK\n   history."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 23977,
+        "content": "And these photographs show the strain that the turmoil has put\n   the Sussex-born politician under since she took over from David Cameron\n   in July 2016."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 24132,
+        "content": "Mrs May took over as PM a month after the Brexit vote\n   after serving as home secretary, party chairman, minister for women and\n   in various shadow positions."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 24293,
+        "content": "She admitted in 2013 before she was even\n   PM to sleeping for just five or six hours a night - almost as little as\n   Margaret Thatcher, who famously needed only four."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 24462,
+        "content": "Today, the\n   62-year-old is facing MPs in the House of Commons after the EU offered\n   the UK a six-month Brexit delay, pushing the withdrawal date to\n     * [203]share Photos reveal strain of Theresa May after three years of\n[204]So THAT's what they were laughing at!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 24732,
+        "content": "Aides reveal what tickled May and\nMerkel as they pored over iPad before EU summit began..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 24823,
+        "content": "a picture of them\n   Aides revealed it was a TV still of the duo speaking in the Commons and\n   the Bundestag at the same time yesterday morning before flying to\n     * [207]4 shares Merkel and May's aides reveal what had tickled the\n[208]Pound holds its ground after Theresa May agrees 'flextension' with the\n   The pound rose slightly soon after the deal in Brussels but the\n   reprieve was only brief with the late-night agreement causing further\n     * [211]2 shares Pound holds its ground after Theresa May agrees\n[212]Millionaire businessman, 67, who chopped down 11 century-old protected\ntrees outside his \u00a31.4 million home in a bid to increase its value is ordered to\n   [213]Millionaire businessman, 67, who chopped down 11 century-old\n   protected trees ordered to Millionaire businessman, 67, who chopped\n   down 11 century-old protected trees ordered to\n   David Matthews, 67, will have to pay \u00a3170,000 after felling\n   100-year-old protected trees at his home in an affluent area of\n   Wimborne, Dorset."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 25842,
+        "content": "Their removal added an estimated \u00a3137,500 to his\n   property that he built on a five acre plot of land."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 25947,
+        "content": "The trees, which\n   included a mature oak, beech and sweet chestnut, were protected by a\n   2001 order from Poole Borough Council."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 26078,
+        "content": "Southampton Crown Court heard\n   that he hacked down the plants to increase the amount of light his back\n   garden."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 26194,
+        "content": "The previous director of a \u00a32 million scrap metal business also\n   he chopped the trees down in February because he was worried their\n   branches would fall on his grandchildren."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 26379,
+        "content": "* [215]4 shares Millionaire, 67, ordered to pay \u00a3170,000 after\n[216]Rise of the 'splinternet': Experts warn the world wide web will break up\nand fragment as governments set their own rules to filter and restrict\n   [217]More countries are seeking to crack down on online hate speech and\n   abuse, moves which critics say could threaten free expression and the\n   unified internet More countries are seeking to crack down on online\n   hate speech and abuse, moves which critics say could threaten free\n   Plans to restrict online content put forward by governments worldwide\n   threaten to fragment the internet, a number of experts in the fields of\n   law, civil rights and censorship have warned."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 27083,
+        "content": "* [220]2 shares Government regulations could KILL the world wide web,\n[221]'Totalitarian-style' new online code that could block websites and fine\nthem \u00a320million for 'harmful' content will NOT limit press freedom, Culture\n   In a letter to the Society of Editors, Jeremy Wright (pictured) vowed\n   that 'journalistic or editorial content would not be affected' by the\n     * [224]45 shares 'Totalitarian-style' new online code 'will not limit\n[225]Philosopher Roger Scruton is SACKED as a government advisor for his\n'white supremacist' views after claiming Islamophobia is a propaganda\ninvention, all Chinese people are 'replicas' and George Soros has an empire\n   Academic Sir Roger Scruton was fired from his role advising the\n   Government on housing policy after making a series of controversial\n   comments in a New Statesman interview."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 27932,
+        "content": "* [227]89 shares May faces racism storm over adviser Roger Scruton\n[228]NHS will stop serving Weetabix and Bran Flakes in UK hospitals after\nBrexit price rise forces health chiefs to cancel contract\n   The NHS Supply Chain team sent out the internal announcement last week."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 28209,
+        "content": "Weetabix, Bran Flakes, and Alpen cereal bars will no longer be\n     * [230]56 shares NHS will stop serving WEETABIX in UK hospitals after\n[231]Speedboat victim's tearful family tell of their 'relief' as 'cowardly'\nkiller Jack Shepherd FINALLY begins six-year manslaughter sentence after judge\nhands him an extra six months for going on the run to Georgia\n   [232]Speedboat killer Jack Shepherd pleads guilty to breaching bail\n   Speedboat killer Jack Shepherd pleads guilty to breaching bail\n   Speedboat killer Jack Shepherd (bottom right), 31, was handed an extra\n   six months in jail at the Old Bailey in London today on top of a\n   six-year sentence for the manslaughter of Charlotte Brown (inset), 24."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 28920,
+        "content": "Her tearful family spoke afterwards of their 'relief' at finally\n   getting justice over Miss Brown's death and said the father-of-one\n   'continued to astound them' by displaying 'no remorse or\n   responsibility' over the fatal boat crash on the River Thames in 2015."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 29192,
+        "content": "Shepherd fled the UK last year and has spent the past 10 months in\n   Georgia."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 29271,
+        "content": "He refused to look at the family in court today (pictured in a\n   court sketch bottom left) for the entire hearing."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 29387,
+        "content": "Pictured top, from\n   left, are Miss Brown's mother Roz Wickens, sisters Vicky and Katie and\n     * [235]16 shares Speedboat killer Jack Shepherd is to appear in court\n[236]The D-Day intel that 'made the difference between life and death':\nUnsung heroes and heroines who decoded thousands of Nazi Enigma messages are\ncelebrated at Bletchley Park exhibition 75 years on\n   The remarkable work of 10,000 staff at Bletchley in cracking the Nazi\n   Enigma code will be celebrated in an exhibition that reveals how their\n   work was key to victory at Normandy on D-Day."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 29957,
+        "content": "* [238]3 shares The D-Day intel that 'made the difference between\n[239]Scientists dismantle cancer piece-by-piece to reveal its weak spots...\nand they find 600 genes that could offer hope to millions by stopping tumours\n   Scientists led by the Wellcome Sanger Institute looked at 30 cancer\n   types including ones which are difficult to treat."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 30302,
+        "content": "The large study has\n   been described as 'powerful' by Cancer Research UK."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 30382,
+        "content": "* [242]1k shares Scientists dismantle cancer piece-by-piece to reveal\n[243]Incredible images capture terrifying moment an 11ft great white shark\n   [244]Terrifying moment huge great white shark charges at an underwater\n   photographer in Terrifying moment huge great white shark charges at an\n   An underwater photographer has captured terrifying pictures of a\n   massive great white shark charging towards him."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 30794,
+        "content": "Kane Overall, 32, took\n   the stunning photos from inside a shark cage off the Neptune Islands in\n   South Australia."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 30912,
+        "content": "Mr Overall said he was unsure if he had captured the\n   fearsome scene until he checked his camera."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 31012,
+        "content": "'When I got up on the boat\n   everyone crowded around the camera in the housing for a quick look and\n[247]Woolly mammoths and Neanderthals shared the same DNA to grow thick hair,\nstore fat and generate heat to allow them to survive cold weather\n   A study from the University of Tel Aviv comparing genes from ancient\n   humans and woolly mammoths have found shared traits that allowed them\n   to adapt to the same harsh environments\n     * [250]4 shares Woolly mammoths and Neanderthals shared some of the\n[251]Metal detectorist unearths stunning \u00a315,000 gold hat pin from 1485 which\n   An amateur metal detectorist has unearthed a precious jewel that could\n   have belonged to Edward IV or one of his inner circle."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 31729,
+        "content": "It was\n   discovered by Lisa Grace in a field in Lincolnshire.\n     * [253]11 shares Metal detectorist unearths gold hat pin thought to\n[254]Former Pope Benedict blames Catholic Church sex abuse crisis on 1960s\nsexual revolution and 'collapse in morality'\n   Pope Benedict, in a letter published in German, said a move away from\n   strict moral codes towards 'relative moral judgements' during the 1960s\n   had led to priests losing their sense of right and wrong."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 32199,
+        "content": "* [256]60 shares Ex-Pope Benedict blames Catholic Church sex abuse on\n[257]Italian court rules physical appearance is 'irrelevant' in rape cases\nafter two men were cleared of sexual assault because they did not find the\n   Judges at Rome's supreme Court of Cassation made the ruling as they\n   ordered the two 22-year-old men to return to the appeals court in\n     * [259]7 shares Italian court rules physical appearance is\n[260]Power cut strikes opening of world's biggest Primark with shoppers left\ntrawling the aisles in the dark and stuck on escalators\n   [261]Primark Birmingham shoppers queue up to check out the megastore\n   Primark Birmingham shoppers queue up to check out the megastore\n   Thousands have descended on the new flagship branch in Birmingham city\n   centre today, eager to get the first glimpse of the enormous shop which\n   features three restaurants, two coffee kiosks, a 'Primarket' and the\n   widely-anticipated Disney cafe."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 33151,
+        "content": "But the grand launch suffered a setback\n   as a technical glitch left punters fumbling around the bargain store\n   amid a brief blackout."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 33289,
+        "content": "Fortunately, the power outage was only temporary\n   and the lights have now been switched back on to the relief of large\n[264]Girl, four, dies after being locked in her father's hot car for NINE\nHOURS because he was 'playing on his phone' and forgot to let her out\n   The four-year-old girl was found unconscious in the back footwell of\n   his father's SUV on Monday in south China's Hunan province."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 33689,
+        "content": "She was\n   rushed to hospital where doctors declared that she had suffocated.\n     * [266]942 shares Girl, four, dies after being locked in father's hot\n[267]Trump celebrates Netanyahu's election win with 'VICTORY' tweet about\nhimself - a photo showing an Israeli waving his 'Make America Great Again'\n   'Trump flags being waived at the Bibi @Netanyahu VICTORY celebration\n   last night!'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 34079,
+        "content": "the president wrote on Twitter."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 34111,
+        "content": "He later called his\n   Israeli counterpart 'a great ally' and 'a friend.'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 34190,
+        "content": "* [270]1.8k shares Trump marks Netanyahu victory with picture of\n[271]Woman shares a rave review for Jeffree Star lipstick which was still\nflawless after she was in a CAR CRASH - leaving just a slight smudge on the\n   Taryn Elise, from Chicago, tweeted after being in an accident in her\n   Mini Cooper."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 34493,
+        "content": "She shared a selfie showing her Jeffree Star lipstick\n   still perfectly in place - with a smudge on the airbag that deployed."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 34625,
+        "content": "* [274]10 shares Woman shares flawless lipstick selfie following a\n[275]Waitrose's \u00a331.50 dry gin is the BEST in the UK, according to Good\nHousekeeping's blind taste test - while rival supermarkets Tesco and Asda\n   A \u00a331.50 gin from Waitrose came first in Good HouseKeeping's blind\n   taste test."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 34925,
+        "content": "The dry gin came before 117 other gins that were tested,\n   scoring 88 out 100 for great taste and aroma.\n[278]'Watching in disbelief...': Graduate, 29, who created the algorithm that\ncaptured the first EVER direct image of a black hole, posts a VERY humble post\n   [279]MIT graduate Dr. Katie Bouman: the computer scientist behind the\n   first ever image of a MIT graduate Dr. Katie Bouman: the computer\n   scientist behind the first ever image of a\n     * [280]Seeing the unseeable: Scientists unveil the first EVER direct\n       image of a black hole captured by global 'virtual telescope'\n   Three years ago Dr. Katie Bouman (right, watching the image being\n   created), now 29, created an algorithm that collects data from\n   telescopes across the world to stitch together a photograph of the\n   phenomenon which is 55million light years away from Earth (left)."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 35792,
+        "content": "Her\n   work, which essentially turned Earth into a virtual telescope, has been\n   praised across the political spectrum by First Daughter Ivanka Trump\n   (bottom inset), Kamala Harris and Alexandria Ocasio-Cortez, and by\n   A-listers including Sophia Bush and Olivia Munn."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 36065,
+        "content": "Despite helping a team\n   of scientists at Event Horizon Telescope make the impossible possible,\n   the electrical engineering and computer science graduate hasn't let the\n   grand feat go to her head."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 36267,
+        "content": "Sharing her achievement on Facebook (top\n   inset), Bouman wrote: 'Watching in disbelief as the first image I ever\n   made of a black hole was in the process of being reconstructed.'\n     * [283]99 shares MIT graduate Katie Bouman helped capture the first\n[284]It's 3 million Earths wide and 55 million light years away."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 36588,
+        "content": "And this\nblack hole - the first ever to be photographed - is on a mission to suck up\n   Scientist have discovered and taken a picture of first supermassive\n   black hole."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 36759,
+        "content": "It's three million Earths wide and 55m light years away."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 36819,
+        "content": "Announcement was made in Washington DC in the US yesterday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 36884,
+        "content": "* [287]1.3k shares The hole that could eat the universe\n[288]Geoffrey Rush wins defamation case against a 'recklessly irresponsible'\nAustralian Daily Telegraph for portraying him as a sexual predator\n   The 67-year-old actor had sued the Daily Telegraph's publisher over two\n   stories published in late 2017."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 37194,
+        "content": "In Sydney's Federal Court on Thursday,\n   Justice Michael Wigney found Rush had been defamed.\n     * [291]73 shares Actor Geoffrey Rush wins defamation case\n[292]Woman who suffered SEVEN miscarriages and delivered a stillborn baby\ntold her husband to leave her for someone who could give him children -\n   Jayne Hook, 42, from Berkshire, tried to get pregnant for ten years."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 37572,
+        "content": "Due to a rare chromosome abnormality, she suffered seven miscarriages\n     * [294]64 shares Mother suffered seven miscarriages, a stillbirth and\n[295]Dementia-stricken husband who does not speak holds his 74-year-old\nwife's hand while listening to their love song as she credits a 'music memory\nbox' for helping his remember their lives\n   The box filled with memorabilia plays songs that are personal to the\n   person with dementia."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 38006,
+        "content": "Steve Garrity, 82, hasn't spoken to his wife,\n     * [298]share Dementia man able to reconnect with his wife using\n[299]Farmer shoots dead millionaire hedge fund manager's two dogs and then dumps\ntheir bodies on lawn of his mansion after they escape and savage his sheep\n   [300]Farmer shoots millionaire hedge fund manager's two dogs dead\n   Farmer shoots millionaire hedge fund manager's two dogs dead\n   When he arrived at the scene in his field near Hastings East, Sussex\n   last month Frank Langrish (inset), the alsatian and an akita cross were\n   still on their loose after killing his sheep."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 38606,
+        "content": "He then dumped their\n   bodies on the lawn at nearby Gothic mansion Fairlight Hall owned by\n   American David Kowitz who was the dog's master, before demanding to\n   speak to him."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 38786,
+        "content": "Mr Langrish said he had taken the dead dogs to Fairlight\n   Hall (left) because he was returning Mr Kowitz's property and also\n   wanted to send him a message."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 38946,
+        "content": "Farmers in the area say they have been\n   living in fear of the millionaire's dogs for years.The farmers accuse\n   Mr Kowitz of failing to take sufficient steps to control his dog."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 39127,
+        "content": "In\n   2015 Mr Kowitz's wife, Sarah (pictured right with her husband and\n   children), was photographed with three of the family's dogs."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 39268,
+        "content": "* [302]298 shares Farmer shoots millionaire hedge fund manager's two\n[303]Sudan 'coup' as military force President Omar al-Bashir to step down\nfollowing huge protests against his 30-year rule\n   Omar al-Bashir, who has ruled Sudan as a dictator since a coup in 1989,\n   was under house arrest on Thursday morning after the military staged a\n     * [305]793 shares Sudan 'coup' as military force President Omar\n[306]The biggest general election in the world begins in India, where 900\nMILLION people will spend the next six weeks voting - as rival supporters are\n   Voting took place in 17 Indian states and two Union Territories\n   Thursday in the first of a seven-phase election staged over six weeks\n   which people see as a referendum on Prime Minister Modi.\n     * [308]3 shares The biggest general election in the world begins in\n[309]North Korea has two female fortune tellers shot dead in public execution\nwith tens of thousands of people forced to watch\n   North Korea carried out the executions in the northern city of Chongjin\n   back in March to make an example of fortune tellers amid fears that the\n   superstition has become too widespread."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 40428,
+        "content": "* [311]10 shares North Korea has two female fortune tellers shot dead\n[312]Toddler born with a tongue 'TWICE the size it should be' undergoes\nlife-changing surgery to help him eat, talk and breathe easier\n   Baker Roth's parents, from Jenks in Oklahoma, hope the procedure will\n   help him eat and breathe easier, and allow him to make sounds so he can\n     * [315]5 shares Toddler born with a tongue 'TWICE the size it should\n   Police carry ranting Wikileaks founder Julian Assange out of the\n   Ecuadorian Embassy in London as he is ARRESTED following US extradition\n   request - seven years after he was given refuge\n   Alexa IS listening to your conversations: Web giant ADMITS clips are\n   analysed by Amazon workers - including your most intimate moments\n   Fleabag's 'Sexy Priest' Andrew Scott reveals he first met Phoebe\n   Waller-Bridge TEN years before they won hearts with their on-screen\n   Harry and Meghan WON'T announce the birth of their baby: Royal couple\n   reveal they will keep plans on arrival of their child private until\n   Pamela Anderson condemns Assange arrest and says Britain is 'America's\n   b**ch' and 'needed a diversion from your idiotic Brexit bulls**t'\n   [317]  Polar bear cubs nestle up with mom after fun in the snow\n   (*) Site ( ) Web"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 41703,
+        "content": "Enter search term: ____________________ (BUTTON)\n     * [318]Kim Kardashian stuns in curve-enhancing slip as her children\n       North, five, Saint, three, and Chicago, 13 months, make their joint\n     * [319]Tana Ramsay, 44, boasts the new mum glow as she emerges with\n       baby Oscar for first time alongside doting twins Jack and Holly\n     * [320]Abbey Clancy cradles her burgeoning bump in a stylish black\n       bikini as she enjoys a relaxing babymoon with husband Peter Crouch\n     * [321]Emmerdale EXCLUSIVE: Shila Iqbal is FIRED from role as Aiesha\n       Richards after using the N-word in a series of historic racist\n     * [322]Harry and Meghan WON'T announce the birth of their baby: Royal\n       couple will keep arrival of their child private until they have\n     * [323]'Young people don't just open up to anybody': Kimberley Walsh\n       reveals why she is proud to be a fan of the Young Carers Caf\u00e9 Ad\n     * [324]Kate Wright cuddles up to fianc\u00e9 Rio Ferdinand as she\n       celebrates being reunited after 10 days apart Back together\n     * [325]Princess Eugenie is trolled for telling Beatrice 'your the\n       best' in Instagram post - with some claiming bad grammar 'reflects\n     * [326]Katie Price poses up a storm in a bandeau bikini and string\n       vest"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 42990,
+        "content": "as she shoots sexy calendar in Ibiza Oozed confidence on racy\n     * [327]Strictly pro Oti Mabuse becomes hot favourite to replace\n       Darcey Bussell on the judging panel as speculation mounts amid\n     * [328]Pregnant Laura Jackson shows off her beautiful baby bump as\n       she poses completely nude in the shower Shared the snap on\n     * [329] Emma Bunton sets the record straight about Spice Girls 'feud'\n       as she insists Mel B and Geri Horner have moved on from lesbian\n     * [330]Jennifer Lopez clears up ex Diddy's comment on her sizzling\n       snap and reveals rapper APOLOGIZED to Alex Rodriguez after posting\n     * [331]Kim Kardashian reveals she discovered a hidden room filled\n       with OJ Simpson evidence in her late father Robert Kardashian's\n     * [332]Why DO smells unlock memories?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 43806,
+        "content": "We reveal how certain scents\n       can bring back special moments (and which are YOUR favourite\n     * [333]Emily Atack bemoans being 'treated like a tart' as star admits\n       she was SCARED of being ridiculed on panel shows for being a\n     * [334]Zoe Hardman displays her taut abs in a frilly white bikini as\n       she enjoys a day at the beach with her family in Dubai Looked\n     * [335]Jacqueline Jossa advises fans to 'forgive someone you know is\n       sorry' as she promotes mental health after latest Dan Osborne\n     * [336]Olivia Buckland sets pulses racing in a tiny cut-out white\n       dress as she does shots with husband Alex Bowen at boohooMAN event\n     * [337]Love Island's Samira Mighty stuns in swimwear while Zara\n       McDermott and Ellie Brown go topless as the girls relax in style on\n     * [338]Gordon Ramsay's son Oscar hilariously wears a bib with\n       three-Michelin-stars on it as his Instagram account shares new\n     * [339]Louis Tomlinson discusses coping with grief after his mother's\n       passing death... in an interview recorded five days before his\n     * [340]Moment Brad Pitt's speech is cut off by LA county official for\n       going over time as he and Diane Keaton plead for $117.5million in\n     * [341]Eminem's daughter Hailie Scott Mathers, 23,"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 45107,
+        "content": "looks like a\n       bikini model in Hawaii much to the delight of her 1.5m Instagram\n     * [342]Playboy model Carla Howe suffers an EPIC fake tan fail as she\n       bronzes just half her leg while putting on a racy display at glitzy\n     * [343]Married At First Sight UK: Fans proclaim that 'love is dead'\n       as Jonathan sends Stephanie divorce papers... and Jack DUMPS\n     * [344]Elton John looks glum as he reveals he is temporarily\n       wheelchair-bound while recovering from a sprained ankle Shared a\n     * [345]Geordie Shore's Chloe Ferry shows off her curves in a sheer\n       lace bodysuit and eye-wateringly tight mini skirt on dinner date\n     * [346]Louise Redknapp goes under the radar in sunglasses and ripped\n       jeans after admitting her very public divorce from ex-husband Jamie\n     * [347]Mel B makes a \u00a31.8 million out of court payout to the former\n       nanny she labelled a 'prostitute' two years on from defamation\n     * [348]Scarlett Johansson cuts a chic figure in purple floral shirt\n       dress as she attends Avengers: Endgame photocall Seasonal style\n     * [349]Vogue Williams looks effortlessly chic in a green\n       floral pliss\u00e9 mini dress as she joins Ashley Roberts at make-up\n     * [350]Helen Mirren, 73, cuts a regal figure as Catherine The Great\n       in striking new images"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 46438,
+        "content": "from upcoming Sky Atlantic drama Looks\n     * [351]Claire Foy and Kaya Scodelario ooze gothic glamour in black\n       ensembles as they join sizzling Eiza Gonz\u00e1lez in leading the stars\n     * [352]Lucy Boynton wows in frothy Victoriana-inspired tulle gown as\n       she cosies up to beau Rami Malek at Cartier party in Paris\n     * [353]Stranger Things couple Natalia Dyer and Charlie Heaton enjoy\n       an elegant date night at star-studded Clash de Cartier launch in\n     * [354]Annabelle Wallis is the belle of the ball in a plunging\n       semi-sheer gown as she dazzles at star-studded Clash de Cartier\n     * [355]Monica Bellucci, 54, cosies up to boyfriend Nicolas Lefebre,\n       36, at Cartier event in Paris..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 47161,
+        "content": "after revealing she's taking\n       things slowly due to her two divorces\n     * [356]La La Anthony puts on a busty display as she dazzles in a\n       plunging sequined jumpsuit at Dwyane Wade's 70s-inspired retirement\n     * [357]Gabrielle Union looks every inch the 70s disco queen as she\n       joins NBA star husband Dwyane Wade at his retirement party in NYC\n     * [358]Farrah Abraham flaunts her newly enhanced derriere in fierce\n       fuchsia bikini as she soaks in the sun in Mexico Hard to miss\n     * [359]'Is it wrong to say I'd tap that?'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 47714,
+        "content": "Blake Lively shares cheeky\n       comment about husband Ryan Reynolds' new character Detective\n     * [360]Good Morning Britain viewers hit out at show's presenters for\n       'reverse racism' as hosts relentlessly mock Richard Madeley for\n     * [361]Fleabag's 'Sexy Priest' Andrew Scott reveals he first met\n       Phoebe Waller-Bridge TEN years before they won hearts with their\n     * [362]Saweetie puts on a VERY busty display in a plunging neon\n       blazer as she supports boyfriend Quavo at his BoohooMAN launch\n     * [363]Georgia Steel's new mystery beau identified as jailed\n       fraudster who funded lavish lifestyle by impersonating ex Chelsea\n     * [364]Alex Jones EXCLUSIVE: Star discusses her 'horrible' baby blues\n       after birth of Teddy, two and admits she's 'terrified' about\n     * [365]Jodie Comer balances sultry and chic as she slips into sexy\n       velvet jumpsuit for Late Night With Seth Meyers She's the cunning\n     * [366]Mark Wahlberg puts Liam Payne through his paces in intense\n       work-out session..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 48760,
+        "content": "after raising eyebrows with his daily 3.40AM\n     * [367]Olivia Munn SLAMS troll who claimed her post celebrating\n       female MIT grad student responsible for Event Horizon image was\n     * [368]Scarlett Johansson wows in a VERY daring jumpsuit as she joins\n       her co-stars at the Avengers: Endgame fan event in London Leading\n     * [369]Lily Collins talks her incredible Les Miserables\n       transformation on Tonight Show Starring Jimmy Fallon: 'Rough day at\n     * [370]Killing Eve star Sandra Oh attends a glitzy salon opening as\n       the assassin drama is renewed for a third series Stepping out\n     * [371]Kourtney Kardashian rocks a two-tone coat and ripped denim as\n       she picks up her son Mason from art class Sported a fashionable\n     * [372]Winnie Harlow flaunts her abs in a crop top and microscopic\n       Daisy Dukes for fun shopping spree with a male friend Commanded\n     * [373]Jennifer Aniston, 50, looks radiant as she gets to work on the\n       set of her new Apple TV series The Morning Show Busy girl\n     * [374]'It has been a privilege': Darcey Bussell QUITS Strictly Come\n       Dancing after seven years on the panel... and insists it's without\n     * [375]Strictly Come Dancing judge Shirley Ballas leads tributes to\n       'incredible friend' Darcey Bussell... after the former ballerina\n     * [376]The"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 50108,
+        "content": "CURSE of EastEnders strikes again: As a former actress\n       dies, we reveal the actors plagued by real-life horror after\n     * [377]Hollyoaks fans are left in TEARS as Lily McQueen tragically\n       dies of sepsis on a toilet floor after self-harm struggles\n     * [378]Danielle Armstrong flaunts her toned abs in a skimpy\n       asymmetrical bandeau top and ripped jeans as she leads the stars\n     * [379]TOWIE's Chloe Sims sets pulses racing in a plunging top and\n       suspender-style shorts as she enjoys glamorous London night out\n     * [380]Gemma Collins and beau James 'Arg' Argent 'set to launch\n       exciting new pop career at Jog On To Cancer fundraiser'\n     * [381]Mila Kunis knocks back shots and mimics Ellen DeGeneres'\n       sitting-down gag as she fills in as guest host on star's eponymous\n     * [382]Sylvester Stallone enjoys a swanky night out in Beverly Hills\n       with his wife Jennifer Flavin and his three daughters Dined out in\n     * [383]'It's been really hard': Heidi Montag responds after\n       sister-in-law Stephanie Pratt brands her 'toxic' and a 'gold\n     * [384]Comedian Bobby Davro is battered in restaurant car park after\n       trying to calm a clash between his ex-wife and a woman\n     * [385]Paris Jackson goes hippie chic during"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 51391,
+        "content": "sunny Los Angeles\n       dog-walk with boyfriend Gabriel Glenn After Leaving Neverland\n     * [386]Michael Jackson's British goddaughter, 27, breaks her\n       life-long silence to reveal she believes he is innocent of sex\n     * [387]Ariel Winter shows off her slimmed down figure as she hits the\n       gym after revealing switching anti-depressants led to her weight\n     * [388]Lily Collins commands attention in low-cut beaded look as she\n       heads for a spot on The Tonight Show\n     * [389]Ellie Goulding puts on a stylish display in a blue\n       asymmetrical shirt and black jeans as she enjoys an outing in New\n     * [390]Rihanna and Donald Glover tease mysterious Guava Island film\n       and reveal release date New clip sparked further speculation over\n     * [391]Salma Hayek shows off her famous curves in a plunging bodysuit\n       as Samuel L. Jackson wraps his arms around her filming The Hitman's\n     * [392]Nipsey Hussle's friends and relatives congregate for private\n       ceremony ahead of downtown LA memorial service Sad day\n     * [393]Katy Perry rocks purple patterned pants and duster jacket as\n       she arrives solo to take in a performance of Wicked on Broadway\n     * [394]Chantel Jeffries goes braless beneath tiny blue crop top as\n       she catches up with Jocelyn Chew Stepped out in Los Angeles\n     * [395]Emily Ratajkowski goes for corporate chic in"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 52786,
+        "content": "camel trouser\n       suit during stroll with pals in New York City She means business\n     * [396]Charlotte McKinney styles out her voluminous hair as she slips\n       into a strapless plaid minidress for glitzy salon opening\n     * [397]Dakota Fanning shows off her toned abs in a red crop top and\n       skintight leggings as she works up a sweat at yoga class  Fit and\n     * [398]Busy Oprah delivers speech at Women In The World Summit in\n       NYC  before making her debut appearance on The Daily Show Centre\n     * [399]Sienna Miller wears a South Sydney Rabbitohs beanie after\n       forming a friendship with Russell Crowe on set of biopic The\n     * [400]Danielle Lloyd jets to the Maldives for her honeymoon with\n       husband Michael O'Neill..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 53544,
+        "content": "after stunning fans with secret Dubai\n     * [401]Mummy Diaries: Billie Faiers reveals she wants to try for a\n       baby in a year but admits husband Greg doesn't want to because of\n     * [402]Darcey Bussell quit Strictly because she was 'fed up of sleazy\n       soap opera dramas, stars falling victim to the curse and wanted a\n     * [403]Kim Kardashian gets soaked in sheer dress and bra for her\n       latest Vogue cover..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 53974,
+        "content": "five years on from her controversial wedding\n     * [404]Inside Billie Faiers and Greg Shepherd's idyllic Dubai\n       holiday: Happy couple continue newly wed bliss as they jet on\n       fun-filled holiday with two kids and nanny Sue\n     * [405]Elizabeth Hurley, 53, flaunts her figure in revealing black\n       one-piece as she continues sun-soaked Indian getaway\n     * [406]Gordon Ramsay returns to work hosting an intimate preview\n       dinner for his new restaurant just days after bringing home his\n     * [407]Louise Redknapp leaves West End theatre following another\n       successful performance of to 9 to 5: The Musical..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 54611,
+        "content": "after\n     * [408]Sienna Miller cuts a stylish figure as she treats herself to\n       ice cream during a stroll through New York City Pulled off a look\n     * [409]Jessica Biel looks giddy as she strolls hand in hand with\n       husband Justin Timberlake after cosy dinner date Tied the knot in\n     * [410]Justin Bieber is already returning to music after his short\n       lived 'break' as a track with Lil Dicky expected to drop soon\n     * [411]Love Island's Montana Brown puts on a brave face as she joins\n       Laura Anderson for her swimwear launch... after late friend Mike\n     * [412]Mark Wright is joined by glam sister Jessica and his proud\n       family as he celebrates ambassador role with Matalan... but there's\n     * [413]Gabrielle Union kisses hubby Dwyane Wade and cheers him on\n       during his final NBA game before retirement The actress cheered him\n     * [414]Sex Education's Emma Mackey oozes glamour in a semi-sheer\n       dress as she attends International Series Festival at Cannes with\n     * [415]Karlie Kloss don's 'it's all good in the sisterhood' shirt as\n       she leads stars at Lower Eastside Girl's Club Spring Fling Gala in\n     * [416]Kate Mara keeps her baby bump hidden under denim jacket while\n       running errands  The House Of Cards actress made a low-key\n     * [417]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 55928,
+        "content": "Ben Affleck spends time with kids Seraphina and Samuel in\n       LA... as ex Jennifer Garner spotted in NYC\n     * [418]Amy Adams erupts in laughter while birthday cake shopping with\n       her husband Darren Le Gallo in Los Angeles Out in Beverly Hills on\n     * [419]Angelina Jolie's Maleficent will lock horns with Michelle\n       Pfeiffer's Queen in sequel Mistress Of Evil Disney offers a small\n     * [420]Zoe Saldana reveals her own mother confuses her for Thandie\n       Newton: 'My mom still thinks that I'm in Westworld' Opening up\n     * [421]Salma Hayek angrily points her finger in a heated scene with\n       Samuel L. Jackson while filming The Hitman's Wife's Bodyguard in\n     * [422]Chris Evans grabs a snack as he takes a break from filming his\n       new Apple series Defending Jacob In Massachusetts on Wednesday\n     * [423]Kate Upton gives back to older sister by completely renovating\n       dream home: 'I always looked up to her' Appeared on an episode of\n     * [424]Jonah Hill stays connected with AirPods as he takes a break\n       from producing Beastie Boys Story in NYC The show ended on\n     * [425]Christie Brinkley, 65, gets playful in Las Vegas in sheer mini\n       dress in return to stage as Roxie Hart in musical classic Chicago\n     * [426]Courteney Cox is stylish in silky black blouse"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 57253,
+        "content": "and skinny\n       jeans for dinner at Hollywood hotspot Was seen arriving with a\n     * [427]Padma Lakshmi shows off her hourglass figure in a spring-ready\n       floral print dress at the 2019 Women In The World summit\n     * [428]Olivia Palermo and La La Anthony turn up the glam factor at\n       Dress For Success Live Vibrantly Gala at Cipriani Wall Street\n     * [429]Vicky Pattison wows in tiny black bikini as she jokes that she\n       had to 'breathe in' to take the sizzling Instagram snap Former\n     * [430]Tom Ellis is shirtless in trailer for his Netflix show\n       Lucifer... as ex-wife Tamzin Outhwaite vows to 'surround herself\n       with positivity' amid his new marriage\n     * [431]Why HAS Darcey waltzed off Strictly?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 57993,
+        "content": "Bussell's decision to\n       quit as judge stuns fans amid rumours of a clash with rival Shirley\n     * [432]Glastonbury founder Michael Eavis hints Paul McCartney WILL\n       headline the festival's 50th anniversary in 2020 Music legend\n     * [433]Megan Barton Hanson EXCLUSIVE: Love Island star rushed to\n       hospital in the early hours after suffering a reaction to\n     * [434]Alessandra Ambrosio manages to flaunt her famous figure as she\n       trades in the bikini for a casual ensemble during seaside frolic\n     * [435]Vanessa Hudgens is stunning as she plugs Cosmic Dreams nail\n       polish at a carnival-themed soiree in NYC Getting into the spirit\n     * [436]Kylie Jenner and Khloe Kardashian arrive to Kris Jenner's\n       office in matching Mercedes G-Wagons Sisters who know how to arrive\n     * [437]Lizzie McGuire's Lalaine Vergara-Paras says she was 'forced to\n       look as 'white' as possible' growing up Wasn't true to her East\n     * [438]Makeup-free Drew Barrymore, 44, shows off her youthful\n       complexion as she jets into Sydney to promote her cruelty-free\n     * [439]Bridget Moynahan dazzles in floral print dress at NYC launch\n       event for her book Our Shoes, Our Selves Caught the eye during\n     * [440]Louise Redknapp discusses 'tough' public divorce from Jamie\n       Redknapp after sharing cryptic quote..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 59348,
+        "content": "as her ex-husband is\n     * [441]Kate McKinnon makes the move to TV drama to play disgraced\n       Theranos founder Elizabeth Holmes on Hulu\n     * [442]Chris Pratt and Katherine Schwarzenegger plan on having\n       'intimate' wedding with just 'close loved ones' in attendance\n     * [443]EastEnders star Brittany Papple, 20, stuns fans with her\n       incredible transformation..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 59731,
+        "content": "nine years after playing Louise\n     * [444]The Lion King first look: Simba is confronted in the elephant\n       graveyard as Scar makes first appearance in full trailer for live\n     * [445]GMB's Richard Madeley, 62, is likened to Donald Trump, an\n       Oompa Loompa and Ross from Friends as he displays 'RIDICULOUS tan'\n     * [446]Khloe Kardashian's ex Tristan Thompson shares rare stylish\n       portrait on the one year anniversary of when his cheating was\n     * [447]Mike 'The Situation' Sorrentino, Fyre Festival's Billy\n       McFarland and Jennifer Lawrence's nude leaker play scrabble in\n     * [448]Wendy Williams dons leggings and leopard print puffer jacket\n       in NYC... after talk show host blames her 'eye pop' on Graves'\n     * [449]Lilly Becker, 42, shows off her svelte figure in wild animal\n       print bikini as she enjoys a relaxing break in Miami\n     * [450]Kelly Brook accentuates her curves in a sheer jumper and\n       figure-hugging skinny jeans on her way to Heart Radio\n     * [451]Sofia Richie soaks up the sun in an electric green bikini\n       before slipping into a yellow bodycon dress while on beach holiday\n     * [452]Kim Kardashian says husband Kanye West always believed in her\n       'dream' of covering Vogue as she shares BTS looks from the shoot\n     * [453"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 61038,
+        "content": "]Geri Horner enjoys spring walk with son Monty, two, before\n       unleashing her inner child on slide... as she moves on from Mel B\n     * [454]Rita Ora surprises 400 schoolchildren back home in her native\n       Kosovo to support Soccer Aid for UNICEF 2019\n     * [455]Jodie Kidd, 40, shows off her age-defying physique in scanty\n       bikini as she cosies up to beau Joseph Bates during Barbados break\n     * [456]Avicii's new song SOS is released ahead of his forthcoming\n       posthumous album TIM Unveiled a year after the Swedish musician's\n     * [457]Jess Wright EXCLUSIVE: Reality star shows off her figure in a\n       series of bright swimsuits as she launches new \u00a31 beauty range\n     * [458]Charles and Camilla share a touching portrait to mark their\n       14th wedding anniversary taken by Harry and Meghan's wedding\n     * [459]The Jonas Brothers invite fans to Miami beach party in video\n       for new song Cool... which even has a Game of Thrones reference\n     * [460]Jennifer Hudson's custody battle heats up as she issues a\n       blistering 'no' to ex David Otunga's request to pay for his home\n     * [461]RHOBH's Camille Grammer apologizes for rude jokes about Lisa\n       Vanderpump's teeth: 'It was in poor taste' Puppygate has brought\n     * [462]Bachelor in Paradise"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 62336,
+        "content": "'s Krystal Nielson says 2018 was 'the year\n       of breakdowns and rebuilds' Referring to her stint on the hit US\n     * [463]The Brady Bunch kids reunite to promote HGTV renovation show\n       about their sitcom house It's been 50 years since the iconic ABC\n     * [464]Khloe Kardashian gives True her first modeling gig as the star\n       of Good American's summer campaign ahead of her daughter's first\n     * [465]'We want to see models NOT reality stars!'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 62798,
+        "content": "Vogue faces brutal\n       criticism for putting Kim Kardashian on the cover of its May issue\n     * [466]CHRISTOPHER STEVENS reviews last night's TV: Gregg in a\n       wetsuit?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 62975,
+        "content": "He looked like a basketball stuck in a welly boot\n     * [467]Caitlyn Jenner, 69, rocks stripes while Sophia Hutchins, 23,\n       shines in gold dress in Malibu... before the Olympian hops on a\n     * [468]Avengers spinoff miniseries focused on Jeremy Renner's Hawkeye\n     * [469]Teresa Giudice's brother says she's 'going through a very\n       tough time' as husband Joe remains in ICE custody\n     * [470]Rhian Sugden shares hilarious fashion faux-pas after buying a\n       dress online that was so small it left her underwear fully exposed\n     * [471]CLAUDIA CONNELL: Oh how we'll miss Darcey... and those tense\n     * [472]William H. Macy hits the road on his motorcycle after wife\n       Felicity Huffman agrees to plead guilty in college admissions\n     * [473]Bill Hader's HBO series Barry gets renewed for a third season\n     * [474]Mark Ruffalo reveals he was forced to film FIVE endings for\n       Avengers: Endgame because directors were so worried he would ruin\n     * [475]'Lord have mercy': Kim Zolciak admires Kroy's VERY smooth\n       physique as it appears former NFL player has fully waxed his body\n     * [476]Crown Princess Mary of Denmark and Queen Margrethe look\n       effortlessly chic as they attend the opening of a new panda\n     * [477]Blake Shelton distraught over"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 64271,
+        "content": "the death of country star and\n       close pal Earl Thomas Conley: 'My heart is absolutely destroyed\n     * [478] Jesy Nelson and Chris Hughes hold hands on a low-key cinema\n       date... after she joked he was paying more attention to the\n     * [479]Jackie Chan says Rush Hour 4 isn't happening..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 64572,
+        "content": "days after\n       Chris Tucker said the sequel was in the works Production company\n     * [480]The Weeknd buys a stake in one of Canada's biggest gaming\n       franchises The company has teams in League of Legends\n     * [481]Gwyneth Paltrow shows off her fit figure in a white shirt and\n       tight grey leggings while on a hike with husband Brad Falchuk in\n     * [482]'I know what the truth is': Jennifer Lopez finally addresses\n       Jose Conseco's A-Rod cheating accusations one month on Response\n     * [483]Gwen Van Meir, who was discovered at a Justin Bieber concert,\n       sizzles in a bikini top for new summer 2019 Guess campaign\n     * [484]SUSANNAH CONSTANTINE: At last!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 65259,
+        "content": "I've turned my gnarled old\n     * [485]Kim Kardashian says she wore Jackie Kennedy's Cartier watch to\n       meet with President Trump at the White House because it 'gave her\n     * [486]Kim Kardashian Kim Kardashian Kim Kardashian was 'brought to\n       tears' when husband Kanye West wore Trump's MAGA hat and reveals he\n       doesn't take medication for bipolar disorder\n     * [487]Tulisa flashes her abs in a white crop top and casual jeans as\n       she steps out in London after making music comeback Returning to\n     * [488]Watch What Happens Live: Andy Cohen sticks up for Kyle\n       Richards after Lisa Vanderpump kicked her out of the house for\n     * [489]Watch What Happens Live: Bethenny Frankel calls Ramona\n       Singer's comments on her 'fairly despicable' Reflecting on her\n     * [490]Michelle Heaton reflects on her changing body, 'scars' and\n       'bigger bum' as she shares sweet snaps from tropical family getaway\n     * [491]Ashley Graham breaks the supermodel stereotype by noshing on a\n       bag of 380 calorie Cheetos as she poses in an 'itty bitty' bikini\n     * [492]Lily Allen shares rare video of her daughters Ethel, seven,\n       and Marnie, six, as they enjoy relaxing Easter break in Dorset\n     * [493]Jameela Jamil SLAMS Chloe Ferry for using the gender pay gap"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 66571,
+        "content": "to promote diet supplements..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 66602,
+        "content": "saying she 'smells of irony and\n     * [494]Ryan Murphy unveils first teaser for American Horror Story:\n       1984 a celebration of the slasher genre showing masked man with\n     * [495]Julianne Hough flaunts her gym-honed figure as she heads home\n       from workout wearing sports bra and body hugging leggings\n     * [496]Eric Nam EXC: K-Pop star didn't think he 'had a choice' but to\n       move to South Korea to become a singer as US labels 'aren't ready\n     * [497]Amanda Holden, 48, does archery in her bikini and shows off\n       her 'ball skills' as she continues swimsuit parade on family\n       Julian Assange arrested by police at Ecuadorian embassy after\n       Wife caught with husband's good friend after he accidentally left\n       'Wrong house buster!'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 67375,
+        "content": "Unfazed homeowner fends off armed intruder\n       The late John McCain and family members play fetch with his dog\n       Bride was left in shock as groom's ex-partner shows up at party in\n       Russian man decides against world-first head transplant after\n       Speaker John Bercow explains the difference between 'Ordah!' and\n       Four severely neglected 'Mowgli' kids found living inside a\n       'We need to press on': Prime Minister Theresa May continues with\n       Married at First Sight UK: All I want for Christmas is an annulment\n[511]The High Street clothes size LOTTERY: Astonishingly, all the skirts here\nare a size 10."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 68011,
+        "content": "But, as our test shows, the true size varies dramatically - so\nwhich store is the best match for your figure?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 68124,
+        "content": "[512]The High Street clothes size lottery: Which store is the best\n   match for your figure?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 68217,
+        "content": "The High Street clothes size lottery: Which\n   store is the best match for your figure?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 68308,
+        "content": "Sarah Rainey experimented with a selection of staple items from High\n   Street stores (pictured) to uncover which shop is best to shop for your\n   body shape."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 68467,
+        "content": "She discovered French Connection offers the most space in\n   the waist of their trousers in comparison with the likes of M&S, H&M,\n   Jaeger and Topshop."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 68621,
+        "content": "Sarah advises those with hourglass figures to\n   invest in blazers from Jaeger, due to their narrow shoulders and space\n[515]Full beam ahead for the weekend!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 68779,
+        "content": "Six of the best lighthouse holiday\n   Just over 20 years ago marked the day Britain's last lighthouse keeper\n   retired."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 68900,
+        "content": "Many keeper's cottages have been turned into holiday rentals.\n     * [517]3 shares Full beam ahead!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 69000,
+        "content": "Six of the best lighthouse holiday\n[518]Having very low cholesterol DOUBLES the risk of hemorrhagic strokes in\n   A new study from Brigham and Women's Hospital in Boston, Massachusetts,\n   has found that women with cholesterol 70 mg/dL were twice as likely to\n   have a stroke compared to women with 100 mg/dL.\n     * [520]66 shares Having low cholesterol DOUBLES risk of hemorrhagic\n[521]US budget airline JetBlue announces new cheap flights to London from\nBoston and New York saying current prices 'are enough to make you blush'\n   London will become the first European destination served by US budget\n   airline JetBlue."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 69624,
+        "content": "The US budget airline will fly to the capital from New\n     * [524]571 shares JetBlue announces London-US East Coast route\n[525]Virgin Trains 'to vanish from UK rail network' as their operating\npartner Stagecoach is barred from bidding for the West Coast Mainline\n   Transport Secretary Chris Grayling said passengers will benefit from a\n   new fleet of trains and an 80 per cent increase in the number of\n   morning peak-time seats available on trains to certain stations."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 70103,
+        "content": "* [528]193 shares Stagecoach barred from three rail franchise bids by\n[529]Britain's forgotten serial killer: UK's longest-serving inmate who\nbrutally murdered 11 people - including his own grandmother and a priest - is\nsecretly moved to an open prison... and could soon walk FREE\n   Patrick 'Pyscho' Mackay is one of the UK's longest-serving inmates who\n   confessed murdering up to eleven people, including a four-year-old boy."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 70538,
+        "content": "* [532]232 shares UK's longest-serving inmate could soon walk FREE\n[533]University dropout, 20, 'attacked four police officers with a large\nkitchen knife before blaming it on the strong CANNABIS he smoked'\n   Alex Traykov, 20, made a bogus 999 call under the alias 'Solomon' to\n   report a fictitious fight in Islington, north London, on the evening of\n     * [535]112 shares Man blames strong cannabis for attacking police\n[536]Leading osteopath, 62, who used a treatment room at his \u00a31.3m Highgate\nhome to carry out a sexual relationship with a 'vulnerable' patient is struck\n   Michael Kern, from Highgate, London, was a renowned physical therapist\n   and had previously penned a book about the importance of maintaining\n     * [538]1 share Osteopath who used treatment room for sex with patient\n[539]Richard Madeley, 62, is likened to Donald Trump, an Oompa Loompa and\nRoss from Friends after overdoing his fake tan as he admits he 'looks like a\npumpkin' - before desperately trying to wipe it off\n   The 62-year-old hosting veteran caused outrage on Twitter as viewers\n   humorously likened him to a host of famous tan fans\n     * [542]435 shares GMB's Richard Madeley, 62,displays 'RIDICULOUS\n[543]South Korea"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 71755,
+        "content": "to scrap its ban on abortions after court ruled the 1953 law\n   South Korea's Constitutional Court said on Thursday a law criminalising\n   abortion which was first imposed after the Korean War in 1953 was\n     * [545]260 shares South Korea to scrap its ban on abortions after\n[546]Mapping Armageddon: FORTY volcanoes around the world are potential 'Anak\nKrakatoa' eruptions and threaten millions with devastating tsunamis\n   Studying the eruption of Anak Krakatau, new simulations are helping\n   researchers to better understand how the island's explosion in 2018 set\n     * [548]share 40 volcanoes around the world are potential 'Anak\n[549]We come in piece(s): Shocked passenger films UFO from his plane window\nbefore the mysterious object splits into six parts and flies off\n   [550][yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]\n   [636x382_JPG-SINGLE_6830595910898304049.jpg]\n   Lucas Kim was jetting to Thailand from his home in Seoul, South Korea,\n   when he spotted what he thought was another flight from the window of\n   his Jeju Air plane."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 72792,
+        "content": "When I looked closely, it was not a plane - it was\n   six individual vehicles."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 72871,
+        "content": "It was like a pulsating greenish-yellowish\n   light,' he said."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 72934,
+        "content": "In the footage, the UFO is first visible as a distant,\n   white dot beyond the wing."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 73019,
+        "content": "But as he zooms in, it quickly becomes\n   apparent that there are several points of light, moving in formation\n   like no regular aircraft can."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 73163,
+        "content": "Moments later, they split into pairs and\n     * [553]13 shares UFO is filmed from plane window by passenger flying\n[554]YouTube to take on Netflix with Bandersnatch-style choose-your-own\nadventure programmes on the video sharing website\n   US streaming giants Netflix and YouTube are set to go head-to-head in a\n   battle for interactive content following the success of Bandersnatch.\n     * [557]2 shares YouTube to create choose-your-own adventure\n[558]Would you get a 'sleep divorce'?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 73651,
+        "content": "Why more couples than ever are sleeping\nin separate beds to help their relationships\n   Sleep-deprived Australian couples are now spending their nights apart\n   in separate beds - as experts reveal why a growing number of people are\n     * [561]66 shares The rise of 'sleep divorce': Why couples are\n[562]Damage to crumbling Hammersmith Bridge is laid bare in photographs taken\nas work begins to repair the historic Thames crossing after it was CLOSED\nindefinitely to vehicles when dangerous cracks were found in the structure\n   The 'indefinite' closure of London's iconic Hammersmith Bridge has\n   stretched into its second day as engineers swoop in to assess the\n   damage to the Grade II-listed river crossing."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 74371,
+        "content": "* [565]339 shares London's Hammersmith Bridge is CLOSED indefinitely\n[566]Shocking moment thieving window cleaner, 33, creeps into an 86-year-old\ndementia patient's home and rummages through her handbag as he is jailed for\n   Matthew Benjamin Lewis, 33, was jailed for five years at Merthyr Crown\n   Court, Wales, after he was caught on CCTV rifling through a dementia\n   patient's purse."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 74760,
+        "content": "He initially denied the crime."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 74796,
+        "content": "* [569]7 shares Moment thieving window cleaner, 33, steals from a\n[570]Record breaking 302.37 carat emerald cut diamond 'which is the largest,\nhighest clarity, highest colour ever graded' goes up for sale... and is so\nexpensive they have not put a price tag on it\n   Laurence Graff, pictured with the Graff Lesedi La Rona  diamond said\n   'this diamond, our diamond is beyond words'."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 75180,
+        "content": "His London-based company\n   paid $53 million for the original rough stone."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 75260,
+        "content": "* [573]872 shares Record breaking 302.37 carat emerald cut diamond up\n[574]Is this the death knell for the middle class?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 75381,
+        "content": "Those earning between\n\u00a320,670 and \u00a355,120 are experiencing stagnation and face a 'rocky' future,\n   According to the Organisation for Economic Co-operation and Development\n   the middle class is like 'a boat on rocky waters,' as salaries have\n   stagnated and costs of living have increased."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 75680,
+        "content": "* [576]46 shares Is this the death knell for the middle class?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 75743,
+        "content": "[577]Child rapist, 60, who almost escaped punishment by tricking a judge into\nthinking he was severely disabled is jailed for 26 years after he was caught\ndriving a camper van and eating at Burger King\n   George Stephenson, 60, of Sunderland, pretended he could not speak,\n   made unintelligible noises in consultations, needed to be pushed in a\n   wheelchair by his wife and was incontinent.\n     * [580]11 shares Child rapist who pretended to be severely disabled\n[581]Comedian Bobby Davro is battered in restaurant car park after trying to\ncalm a clash between his ex-wife and a woman\n   Comedian Bobby Davro was knocked to the ground and kicked in the\n   stomach at the Ivy Brasserie in Cobham, Surrey.\n     * [583]77 shares Comedian Bobby Davro is battered in restaurant car\n[584]Will the last Homeland Security official NOT fired by Trump turn off the\nlights?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 76609,
+        "content": "Kirstjen Nielsen is surrounded by ousted aides as she dedicates US\ndepartment's new headquarters where NONE of them will work\n   Departing Homeland Security Secretary Kirstjen Nielsen was joined by\n   outgoing aides and 'acting' officials at a ribbon cutting ceremony for\n   a new building facility she won't get to occupy Wednesday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 76948,
+        "content": "* [587]12 shares Kirstjen Nielsen is surrounded by ousted aides as\n[588]US officials seize $4.5million private jet belonging to Stormy's lawyer\nMichael Avenatti amid tax scandal - but the embattled attorney brushes it\noff, saying: 'I haven't used it in almost a year'\n   Avenatti's Honda HA-420 twin-engine jet was seized at the Santa Barbara\n   Airport on Wednesday morning and flown to Chino Municipal Airport,\n   where it is being held by Threshold Aviation."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 77415,
+        "content": "* [591]356 shares Feds seize Michael Avenatti's $4.5million private\n[592]The Old Pretender: Face of Bonnie Prince Charlie at the end of his life\naged 67 is revealed after forensic artist creates digital portrait from his\n   [593]Face of Bonnie Prince Charlie revealed after artist creates\n   digital portrait from his Face of Bonnie Prince Charlie revealed after\n   artist creates digital portrait from his\n   A romantic hero of art and literature, Prince Charles Edward Stuart\n   (right), known as the Young Pretender, led the French-backed Jacobite\n   Rising of 1745."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 77985,
+        "content": "His army, aiming to reclaim his father's throne, was\n   defeated by government forces at the Battle of Culloden, near\n   Inverness, on April 16, 1746, and he died, aged 67, while living in\n   Rome."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 78183,
+        "content": "He is often depicted as a charming young man in paintings, but\n   the new image (left) is said to be a faithful portrayal of him in his\n   older years."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 78335,
+        "content": "Forensic artist Hew Morrison explained how he created the\n   image using a death mask at the West Highland Museum, Fort William, and\n   a photo of another copy of the mask at Inverness Museum."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 78533,
+        "content": "* [596]5 shares Face of Bonnie Prince Charlie at the end of his life\n[597]'Highly valued' female RAF medic, 33, who grabbed a colleague's breasts\nas part of a 'grossly misjudged' office prank is fined \u00a3800 after being\n   Senior Aircraftwoman Katie Wilson, who is based at RAF Odiham,\n   Hampshire, had hoped to become a paramedic but now cannot due to the\n     * [599]7 shares RAF medic is fined \u00a3800 after being convicted of\n[600]Free at last!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 78980,
+        "content": "In the heart-warming final part of his memoir, Sgt\nAlexander Blackman wrongly jailed for killing a dying Taliban soldier,\nrelives the moment the Mail won him justice\n   SERGEANT ALEXANDER BLACKMAN: Arriving at Lincoln Prison to begin my\n   life sentence, I had no battle plan except to try to keep myself to\n   myself."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 79299,
+        "content": "I kept my head down when I collected my meals\n     * [603]22 shares FREE AT LAST..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 79383,
+        "content": "Sgt Alexander Blackman recalls his\n[604]Traffic-related air pollution is causing FOUR MILLION new cases of\nasthma each year (so how many is toxic air to blame for in your country?)"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 79567,
+        "content": "The global research, published in a prestigious medical journal, ranked\n   the UK the 29th worst out of 194 countries for the rate of children\n   developing asthma from traffic pollution."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 79760,
+        "content": "* [607]18 shares Traffic-related air pollution causes 4MILLION asthma\n[608]Britain forked out \u00a31 for every \u00a38 spent on foreign aid for 29 countries\nlast year, taking annual total to \u00a314.5bn\n   Britain is the only G7 nation to hit target of spending 0.7 per cent of\n     * [610]34 shares Britain forked out \u00a31 by every \u00a38 spent on foreign\n[611]Hayfever season starts three weeks early after warm weather in February,\n   Allergy expert Dr Emberlin said pollen counts could soar during the\n   Easter holidays if the UK gets a spell of dry and windy weather - the\n   'perfect storm' for pollen to be released into the air."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 80389,
+        "content": "* [613]1.6k shares Hayfever season starts three weeks early after\n[614]How The Big O can help you look younger: Walk in a forest, tuck into\nartichokes and harness the blissful benefits of sex to reverse the effects of\n   Jayney Goddard explored the secret to slowing the ageing process and\n   reversing your biological clock."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 80715,
+        "content": "One expert says a good sex life is\n   directly linked to maintaining a youthful appearance."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 80812,
+        "content": "* [616]71 shares How The Big O can help you look younger\n[617]'Style Sisters' with a long list of famous clients reveal how their \u00a31K\ndetoxes turn cluttered celebrity closets into enviable walk-in wardrobes\n   [618]'Style Sisters' reveal how \u00a31K detoxes turn cluttered closets into\n   enviable walk-in 'Style Sisters' reveal how \u00a31K detoxes turn cluttered\n   Style Sisters - Gemma Lilly (inset left) 31, and Charlotte Reddington\n   (inset right) 32, from Essex charge from \u00a3250 to more than \u00a31,000 for\n   wardrobe 'detoxes' - and have worked with many celebrities."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 81382,
+        "content": "The best\n   friends, who have more than 15 years' experience in the fashion and\n   interior industry, are given unrivaled access to busy stars' homes,\n   which can often be cluttered, with wardrobes that are bursting at the\n   seams, and bags over the floor."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 81641,
+        "content": "Alexandra Burke's cluttered wardrobe\n   (left) and the singers clean and tidy wardrobe after (right) the women\n     * [620]share Style Sisters reveal \u00a31K celebrity wardrobe detoxes\n[621]He didn't bet on that!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 81851,
+        "content": "Gambler rips his shirt off to attack another man\nin a casino, but is sent crashing to the floor by his opponent's slick\n   The video of the fight, which was later posted on Facebook, shows the\n   gamblers in a heated discussion before one of them rips his shirt off\n   and hits the other man before grabbing him by the throat."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 82183,
+        "content": "* [624]1 share Gambler rips shirt off in WWE-style casino fight\n[625]Now THAT'S the high life: The world's highest settlements revealed, from\nthe Peak District and the Rockies to a town in Peru at a lung-busting\n   Here MailOnline Travel reveals, in ascending order, the world's highest\n   hamlets, towns and cities."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 82500,
+        "content": "Many are just too remote for visitors..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 82546,
+        "content": "* [627]23 shares The world's highest settlements revealed\n[628]New mother, 32, slams motorist who left her an angry note accusing her\nof misusing a parent and baby parking space outside Tesco 'because there was\n   Chloe Connolly, 32, of Stockport, Greater Manchester, was shopping with\n   her aunt Sandra, who was driving while she continues to recover from\n     * [630]22 shares Motorist accuses mother of misusing a parent and\n[631]Co-op cooks up a very PC gender-neutral 'gingerbread person' and asks\ncustomers to help come up with a suitable name\n   [632]The Co-op\u00b4s gingerbread person (Co-op/PA) The Co-op\u00b4s gingerbread\n   The sweet treat is set to make its debut across UK stores in September,\n   with the company having released a sneak peak of one of its possible\n     * [634]1.1k shares Co-op to release gender-neutral gingerbread person\n[635]'Brexit remains a major drag on the property market': Prices remain\nsluggish, buyer enquiries are down and few homes coming up for sale, say\n   A closely-watched survey of estate agents compiled by the Rics revealed\n   that new enquiries from buyers in every part of the country fell for\n   the eighth consecutive month in March."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 83735,
+        "content": "* [637]6 shares 'Brexit remains a major drag on activity in the\n[638]Perfect your online profile for future employers: Eight crucial steps to\noptimising your LinkedIn presence (with some hidden features) and finding\n   Millions of us have them - but making the most out of your online\n   LinkedIn profile takes time and effort."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 84063,
+        "content": "In this 'cheat sheet', you can\n   follow eight steps to enhance your profile and land your dream job."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 84170,
+        "content": "* [640]1 share Eight steps to optimising your LinkedIn profile and\n[641]Bailiffs could be forced to wear body-cams when they visit homes and\nbusiness as MPs bid to crack down on rogue operators\n   The Government should introduce new regulation for the bailiff industry\n   'to stop unfit enforcement agents and companies from practising', MPs\n     * [643]4 shares MPs call for better regulation of the bailiff\n[644]Stonehenge's neighbour Avebury started life 4,500 years as monument to\nhonour people living in a humble HOUSE on the site\n   Avebury henge sits 20 miles from its more famous neighbour, Stonehenge,\n   and boasts the world's largest stone circle."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 84829,
+        "content": "But, research suggests its\n   origins were simpler than one might expect."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 84908,
+        "content": "* [647]102 shares Avebury started life 4,500 years as monument to a\n[648]That's one way to pass the time!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 85014,
+        "content": "US flight attendant hilariously\nrecreates Britney Spears' iconic Toxic music video during a layover in\n   [649][yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]\n   [636x382_JPG-SINGLE_2023647865969618955.jpg]\n   A clip of a flight attendant recreating Britney Spears' Toxic music\n   video is going viral on social media."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 85320,
+        "content": "The footage shows Endeavor Air\n   employee Marcus Gindrow, 28, sauntering down the aisle of a plane just\n   as the pop icon did when she played a stewardess in her 2003 film\n   clip."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 85504,
+        "content": "Gindrow recorded the reenactment during a layover in Atlanta\n   last month, and told Storyful that Spears inspired his career in the\n     * [652]21 shares Flight attendant recreates Britney Spears' Toxic\n[653]Liverpool fan Sean Cox speaks in public for first time since sustaining\nserious brain injury in attack by Roma fan during Champions League clash last\n   The life-long Reds fan, 54, suffered major head trauma when he was\n   struck in a random assault by a masked AS Roma supporter outside\n     * [655]21 shares Liverpool fan Sean Cox speaks for first time since\n[656]Charles and Camilla share a touching portrait to mark their 14th wedding\nanniversary taken by Harry and Meghan's wedding photographer\n   Shared to the Clarence House Instagram account , and shot for Vanity\n   Fair, the black and white photograph sees Prince Charles, 70, smiling\n   at Camilla, 71, taken by Alexi Lubomirski.\n     * [659]369 shares Prince Charles and Camilla share touching black and\n[660]National Enquirer is put up for sale: American Media Inc looks to\noffload scandal-hit tabloid amid Jeff Bezos' extortion claims\n   National Enquirer owner David Pecker said Wednesday it was considering\n   selling the magazine, as 'future opportunities with tabloids can be\n   best exploited by a different ownership'.\n     * [663]20 shares American Media Inc trying to SELL National Enquirer\n["
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 86877,
+        "content": "664]Mourning the loss of a loved one or being told you have cancer 'could\nincrease your risk of heart disease by 64%'\n   A study by the University of Iceland and the Karolinska Institute found\n   people who suffer from disorders like PTSD are considerably more at\n   risk of heart failure within the first of a traumatic event."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 87210,
+        "content": "* [666]13 shares Mourning a loved one could increase your risk of\n[667]Single mum left with \u00a31,318 bill after pumping hundreds of pounds into a\n'no deposit' tenancy scheme - what is it and why does it exist?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 87422,
+        "content": "When moving house, Claire (pictured) opted into a scheme which let her\n   pay a monthly fee instead of an upfront tenancy deposit."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 87553,
+        "content": "When her\n   tenancy ended however, she was handed a massive bill."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 87624,
+        "content": "* [669]2 shares Letting agents are charging tenants for damages\n[670]Shocked Tui customer refused refund after finding Tenerife hotel she\nbooked had a sickness outbreak - leaving her over \u00a31,000 out of pocket\n   Rachel told This is Money she became aware of a thread on TripAdvisor\n   two days before she was due to fly which warned of multiple people\n   getting severely ill when staying there."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 88026,
+        "content": "* [672]7 shares Tui customer refused refund despite hotel having\n[673]Rwanda's First Lady takes evasive action as bumbling Jean-Claude Juncker\nalmost sets fire to her FACE during flame-lighting ceremony to commemorate\n   [674][yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]\n   [636x382_JPG-SINGLE_5637448748209884380.jpg]\n   The European Commission President was among dignitaries at the Kigali\n   Genocide Memorial Center to commemorate the 25th anniversary of the\n   genocide that left 800,000 people dead."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 88521,
+        "content": "Holding his lit torch, Juncker\n   slowly turns around and almost burns Jeannette Kagame (in grey), 56, in\n   the face, while her husband, Rwandan President Paul Kagame, stands next\n   to her also clasping a burning torch."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 88743,
+        "content": "It appears that Juncker intended\n   to hand the torch to an attendant, who moves forward to assist him -\n   but the First Lady remains within reach of his flame and narrowly\n     * [677]90 shares Jean-Claude Juncker almost sets fire to face of\n[678]Japan is hit by powerful 6.1-magnitude earthquake\n   The tremors hit the east of Honshu, Japan's largest island, according\n   to the United States Geological Service."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 89164,
+        "content": "* [681]15k shares Japan is hit by powerful 6.1-magnitude earthquake\n[682]Al Capone's family home in Chicago sells for DOUBLE the asking price\nafter more than 80 offers - but still only fetches $226,000\n   A house (pictured) that was once home to mobster Al Capone (inset) has\n   sold for $226,000."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 89462,
+        "content": "Capone purchased the Chicago property for $5,000 and\n   his mother lived there until her death in 1952."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 89571,
+        "content": "* [685]116 shares Al Capone's family home sells for DOUBLE the asking\n[686]Brain scans of former NFL players show toxic build-up of protein thought\nto cause degenerative brain disease CTE in breakthrough that could allow\ndoctors to diagnose the condition before athletes die\n   [687]This image provided by The New England Journal of Medicine in\n   April 2019 shows an illustration based on brain scans from former NFL\n   players."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 90001,
+        "content": "As a group, they were found to have higher levels of an\n   abnormal protein than a comparison group of healthy men, indicated by\n   red patches."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 90146,
+        "content": "The protein is a hallmark of a degenerative brain disease\n   that's been linked to repeated head blows."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 90250,
+        "content": "(The New England Journal of\n   Medicine via AP) This image provided by The New England Journal of\n   Medicine in April 2019 shows an illustration based on brain scans from\n   former NFL players."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 90445,
+        "content": "As a group, they were found to have higher levels\n   of an abnormal protein than a comparison group of healthy men,\n   indicated by red patches."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 90590,
+        "content": "The protein is a hallmark of a degenerative\n   brain disease that's been linked to repeated head blows."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 90694,
+        "content": "(The New\n   Currently doctors are only able to diagnose the disorder, which struck\n   former New England Patriots player Aaron Hernandez, after death through\n     * [689]5 shares Brain scans may reveal signs of CTE in living NFL\n[690]Woman, 99, born with her organs BACK-TO-FRONT beat 1 in 50,000,000 odds\n   Rose Marie Bentley, of Molalla in northwest Oregon, had situs inversus\n   with levocardia, which caused her liver, stomach and pancreas to\n   develop on her right rather than in their normal 'left' position."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 91216,
+        "content": "* [692]1.1k shares The 'totally backwards' woman died with her organs\n[693]Mysterious inscriptions discovered in an Alabama cave are FINALLY decoded,\nrevealing details of a sacred lacrosse-like game carved into 'talking stones'\n   [694]Cherokee `talking stones' reveal details of sacred lacrosse-like\n   game played 200 years ago Cherokee `talking stones' reveal details of\n   sacred lacrosse-like game played 200 years ago\n   In a rare discovery in Alabama, scientists have stumbled upon a set of\n   cave inscriptions that are thought to be written in the ancient\n   Cherokee language."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 91803,
+        "content": "The inscriptions, which likely back to 1828, were\n   found deep in Fort Payne, Alabama's Mantiou Cave and describe sacred\n   rituals like the sport of stickball in amazingly rich detail."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 91990,
+        "content": "Scholars\n   published their translations today in the journal Antiquity , which\n   they believe were left by the spiritual leader of a team playing a game\n   of stickball, often referred to as 'the little brother of war,' that's\n     * [697]47 shares Cherokee `talking stones' reveal lacrosse-like game\n[698]'Ruthless' texting service will ruin Game of Thrones for your friends by\nanonymously sending them spoilers from each episode\n   Maliciously spoiling 'Game of Thrones' for your friends - or enemies -\n   just got a lot easier with a new app that automatically texts details\n   of new episodes to a victim of your choice."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 92622,
+        "content": "* [701]842 shares 'Ruthless' service ruins Game of Thrones by texting\n[702]Eating six rashers of bacon, three sausages or a seven ounce steak every\n   A study by the University of Eastern Finland found those who eat more\n   than 200g (7oz) of meat a day over 20 years may be 23 per cent more\n     * [705]10k shares Eating 200g of meat a day may raise your risk of an\n[706]Couple put their relationship to the test by each dating someone else\nfor one night only - so, will they choose to stay or chance their luck with\n   New BBC3 reality show Just One Night gives couples the 'ultimate free\n   pass'."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 93223,
+        "content": "Bonnie, 22, and Stevie, 23, of north London, have been together\n   four years and want to test relationship."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 93337,
+        "content": "* [709]18 shares Couple test relationship by dating someone else for\n[710]Horrific moment a tractor-trailer plows into a car and crushes it\n   The crash, which happened yesterday at around 6.30am, occurred at the\n   Branch Avenue and Surratts Road intersection, in the Clinton area of\n     * [712]share Car driver is killed as truck crushes car against\n[713]Mail's Great British Spring Clean is declared 'the biggest war on litter\nthe UK has ever seen', after one million hours are pledged by readers\n   The vast army of 'litter heroes' on the Mail's Great British Spring\n   Clean is equivalent to the entire population of Liverpool or\n   Manchester."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 93988,
+        "content": "Across the UK, the volunteers have made a huge impact."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 94048,
+        "content": "* [715]48 shares Mail's Great British Spring Clean is 'the biggest\n[716]National Union of Students elects a new leader, 23, who made comments\nabout an 'Islamic takeover' and said she would like to 'oppress white people'\n   Zamzam Ibrahim, 23, previously head of the students' union at Salford,\n   has since said she made the comments as a 16-year-old who was 'working\n   out who I was' and she no longer holds those views."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 94476,
+        "content": "* [719]5k shares New leader of the National Union of Students is\n[720]Brainteaser challenges puzzlers to spot TWO missing wedding rings in this\nbusy party scene - but can you find the misplaced jewellery in 30 seconds?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 94698,
+        "content": "[721]Brainteaser challenges puzzlers to spot TWO missing wedding rings\n   in busy party scene Brainteaser challenges puzzlers to spot TWO missing\n   A new brainteaser challenge is testing the nation to help two wedding\n   parties uncover their lost rings in order to save the wedding."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 94983,
+        "content": "But with\n   just 30 seconds to do it, and a busy chaotic party filled with guests,\n   confused brides and grooms and a group of misbehaving dogs, it's one of\n     * [724]share Brainteaser challenges puzzlers to find two rings in\n[725]'Greedy' insurance company salesmen are selling customers policies they\n   Families are overcharged by salesmen and wrongly encouraged to buy\n   products they do not need, according to the UK Financial Conduct\n     * [727]6 shares Greedy insurance salesman selling customers policies\n[728]Talking therapy could cure IBS better than drugs, study reveals after\npatients who had CBT over the phone or online experienced less symptoms\n   A study of more than 500 patients by the University of Southampton\n   found that counselling over the phone or online greatly reduced painful\n   symptoms associated with irritable bowel syndrome."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 95852,
+        "content": "* [730]13 shares Talking therapy could cure IBS better than drugs,\n     * HOME BIRTHS ARE HELL HARRY: [731]Veteran of three home deliveries\n       risks his wife's wrath to deliver his verdict\n     * THE BLISSFUL BENEFITS OF SEX: [732]Concluding our landmark series\n       on reversing ageing - How The Big O can help you look younger\n     * PARENTS, IT'S TIME FOR YOUR REVISION!: [733]Want to help your\n       children with exam hell?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 96288,
+        "content": "You need our expert's cut-out-and-keep\n     * YES YOU CAN BE GOOD ENOUGH: [734]What Michelle Obama has taught so\nYou appear to have an ad-blocker running which will prevent this page from\nfunctioning as intended."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 96501,
+        "content": "Please disable your ad-blocker or set an exception\n       Flourish in florals like Vogue wearing The Silk Lemon\n       Catch a tan in style wearing Elizabeth's own collection swimsuit\n       Be a city slicker in Louise's sweater by Anine Bing\n       Turn heads in tulle like Lucy in Marc Jacobs\n[735]He's a mini-Mercury marvel!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 96829,
+        "content": "Blind boy, seven, goes viral with his\nincredible piano rendition of Queen's Bohemian Rhapsody\n   [736][yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]\n   [636x382_JPG-SINGLE_3796382607349729133.jpg]\n   Avett Ray Maness, from Centerville, Ohio, is seen sitting on his little\n   piano stool and exclaiming: 'Hello guys."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 97132,
+        "content": "Today, I'm going to be playing\n   you Bohemian Rhapsody, and it goes like this.'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 97213,
+        "content": "And then, looking like a\n   mini Elton John in his glasses, he begins his 6 minute 45 second\n   musical odyssey - his head barely peeping over the piano keys."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 97372,
+        "content": "Avett\n   Ray, who is blind in his left eye, and has limited vision in his right,\n   works his way effortlessly through every section of the classic Queen\n   song, which appeared on the band's 1975 album A Night At The Opera."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 97602,
+        "content": "* [738]22 shares Blind boy, 7, goes viral with piano rendition of\n[739]Unsettling footage captured in the Gulf of Mexico shows giant isopods\nthe size of FOOTBALLS devouring an alligator carcass\n   While alligators may be apex predators during their lifetime, when they\n   die, many return to the watery depths to become just another part of\n     * [742]73 shares Unsettling footage shows GIANT isopods devouring an\n[743]Adorable moment a Southwest flight attendant picks up passenger's fussy\nbaby to give her exhausted mom a break as the delighted little one waves and\n   A mother has captured the heartwarming moment a Southwest flight\n   attendant helped tend to her 19-month-old daughter before their plane\n     * [746]64 shares Adorable moment Southwest flight attendant dotes on\n[747]PAUL THOMAS on..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 98409,
+        "content": "PM's Brussels showdown\n   [748]PAUL THOMAS on..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 98458,
+        "content": "PM's Brussels showdown  PAUL THOMAS on..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 98500,
+        "content": "PM's\n     * [750]8 shares PAUL THOMAS on..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 98544,
+        "content": "PM's Brussels showdown\n[751]Dog groomer defends dyeing her poodle and chihuahua's fur to match the\nseasons - insisting they 'lap up the attention' they get for their vibrant coats\n   [752]Ohio dog groomer defends dying her poodle's and chihuahua's fur\n   and painting their nails Ohio dog groomer defends dying her poodle's\n   and chihuahua's fur and painting their nails\n   Haley Bennett, 21, from Ohio dyes her poodle Opal and her chihuahua,\n   Stella's fur and says they love having a vibrant look, which she\n   changes for occasions such as Easter and Christmas."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 99111,
+        "content": "Left to right:\n   Haley with Opal and Stella and her Chihuahua- Dachshund cross, Lilah."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 99202,
+        "content": "Opal with her candy corn design and ready for Christmas."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 99259,
+        "content": "Inset: Stella\n     * [754]43 shares Dog groomer defends dying poodle's fur as 'she loves\n     * [755]Louise Redknapp shows appreciation for model with rippling abs\n       as she 'likes' his smouldering shirtless snaps Single girl\n     * [756]Jacqueline Jossa steps out in a chic mustard yellow jacket\n       while her husband Dan Osborne leaves for the gym on a quad bike\n     * [757]Ferne McCann shows off her sartorial flair in a silk green\n       shirt and skintight high waisted jeans as she leaves ITV studios\n     * [758]Sex Education star Emma Mackey cuts an effortlessly chic\n       figure as she enjoys romantic stroll with boyfriend Dan Whitlam in\n     * [759]Gemma Collins displays her curves in a white swimsuit in\n       throwback snap... after confessing Dancing On Ice fall RUINED her\n     * [760]Roxanne Pallett pays tribute to her best friend as she shares\n       powerful Instagram post about suicide and encourages her struggling\n     * [761]Priyanka Chopra turns heads in a green menswear dress for\n       Italian dinner with husband Nick Jonas and her family Newlyweds\n     * [762]Bobby Flay's ex-wife Stephanie March wears daring dress to NYC\n       museum gala... almost three years after having her breast implants\n     * [763]North West and Penelope Disick take over the red carpet at\n       JoJo Siwa's Sweet 16th Birthday Party as the cute cousins pose with\n     * ["
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 100652,
+        "content": "764]Hollyoaks star Nikki Sanderson is spring chic in frilly white\n       dress as she joins her cast mates for a glam photoshoot\n     * [765]'I miss being pregnant': Ferne McCann yearns for her bump and\n       reveals her baby pangs..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 100888,
+        "content": "18 months after giving birth to daughter\n     * [766]Jamie Redknapp's 'secret new girlfriend' is identified as\n       stunning British model Lizzie Bowden Pictured out with model at the\n     * [767]Khloe Kardashian confirms she will be producing new show about\n       extreme obsessive love and jealousy on the ID network\n     * [768]Kim Kardashian reveals she plans on taking the bar exam in\n       2022: 'I had to think long and hard about this' Wants to pursue a\n     * [769]Peru Two's Michaella McCollum opts for a casual look as she's\n       joined by a male pal for lunch - before checking out properties at\n     * [770]Hilaria Baldwin posts selfie with Alec DURING D&C appointment\n       as she continues to share updates about her miscarriage, days after\n     * [771]Lori Loughlin steps out for a doctor's appointment in LA after\n       it's revealed she rejected a plea deal before being hit with new\n     * [772]Lena Dunham celebrates one year of sobriety from prescription\n       drugs with cookies and dog cuddles Milestone\n     * [773]Farrah Abraham poses in a white lace onesie while sipping rose\n       wine during a spa treatment at an 'adults only' hotel in Mexico\n     * [774]Khloe Kardashian and Tristan Thompson: It's been one year\n       since it was revealed the athlete was cheating with multiple woman\n     * [775"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 102225,
+        "content": "]Sushi is alive!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 102242,
+        "content": "North West pictured with dog in Kim\n       Kardashian's Vogue spread after speculation the Pomeranian died\n     * [776]Rebel Wilson used to have difficulty finding dresses in her\n       size but now she has a 'wardrobe full of custom Givenchy'\n     * [777]Angelina Jolie's life as a single mum: The 'softie' parent\n       'indulges' all 6 kids but makes sure they travel, learn about\n     * [778]She has her hands full!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 102662,
+        "content": "Pippa Middleton looks effortlessly\n       stylish in jeans and a grey coat as she takes baby Arthur and her\n     * [779]Prince Harry announces he has partnered with Oprah Winfrey on\n       mental health documentary which they have been working on for\n     * [780]Oprah Winfrey praises her 'graceful, warm and loving' friend\n       Meghan Markle and reveals the pregnant royal does not read ANY of\n     * [781]Jeff Brazier admits his sons were 'all over the place' when\n       Jade Goody told them she was dying as he shoots emotional life\n     * [782]'I'm totally inspired by him': Kim Kardashian credits husband\n       Kanye for her fashion evolution as she says rapper 'introduced me\n     * [783]Nigel Slater sobbed in Nigella Lawson's arms over a scene\n       depicting death of his mother when he was nine in a stage\n     * [784]Jermaine Pennant squirms as he's roasted for 'forgetting he\n       was married' to Alice Goodwin... and admits he used to PAY friends\n     * [785]Downton Abbey's creator Julian Fellowes' new ITV show\n       Belgravia starts filming with cast Philip Glenister, Ella Purnell\n       and James Fleet travelling across UK\n     * [786]Coronation Street SPOILER: Alison King films devastating\n       scenes as Carla Connor hits rock bottom after winning British Soap\n     * [787]Brooklyn Beckham and Hana Cross put on a very"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 104013,
+        "content": "cosy display at\n       A-list hotspot as the model joins his family in Los Angeles  Night\n     * [788]Dawn French brushes up on her lines and shares a joke with\n       crew while on location for new ITV drama Glass Houses on Dartmoor\n     * [789]Ariel Winter lost weight after finding the right 'combination\n       of medicine' and admits she's 'doing pretty good' while discussing\n     * [790]Lizzie Cundy, 50, displays her honed physique in lacy purple\n       lingerie while undertaking some housework Age-defying figure\n     * [791]Kate Moss appears in VERY good spirits as she flashes a grin\n       and enjoys a cigarette with friends in Notting Hill   Enjoyed the\n     * [792]Cara Delevingne and girlfriend Ashley Benson are in high\n       spirits as they enjoy the glitz and glamour of the Moulin Rouge in\n     * [793]Lily Collins puts on a very leggy display in white mini dress\n       with thigh-high split while promoting Les Miserables in New York\n     * [794]Lottie Moss shows off her flat stomach in a white bralet and\n       sportswear trousers as she enjoys night out in Los Angeles Partying\n     * [795]Denise Van Outen catches the eye in a floral and bird\n       embroidered pea mint jacket as she steps out in Soho Was a sight to\n     * [796]Stephen Mulhern is left gobsmacked after he is asked whether\n       he would '"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 105350,
+        "content": "accept a lift' from pal Ant McPartlin following\n     * [797]Liam Payne reveals he auditioned for a role in Steven\n       Spielberg's West Side Story remake but failed to win a part Made an\n     * [798]Stacey Solomon reveals her son, five, 'damaged his body' after\n       anxiety prevented him using school toilets... amid teachers' row\n     * [799]Kim Woodburn, 77, makes raunchy confession about her bedroom\n       antics with her 'beast' husband Peter, 79 Candid revelation\n     * [800]EXCLUSIVE: Real Housewives of Atlanta star Porsha Williams\n       owes the IRS $240K in unpaid taxes spanning  eight-year period and\n     * [801]Mummy Diaries EXC: Nelly is scolded for calling Billie\n       'Bill'... as the family risk missing Maldives wedding after\n       'forgetting' to renew their passports\n     * [802]Rochelle Humes puts on a stylish display in a polo top as she\n       films Ninja Warrior UK alongside her co-hosts Ben Shephard and\n     * [803]Scarlett Johansson and five costars appear as Avengers:\n       Endgame characters on collectible EW covers The film hits UK\n     * [804]Halsey is set to receive the Hal David Starlight Award at the\n       Songwriters Hall of Fame Gala... after showing off her body in\n     * [805]Jennifer Garner looks fresh-faced as she steps out in casual\n       jeans and grey"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 106669,
+        "content": "jumper during visit to New York City Make-up free\n     * [806]James Gandolfini's son Michael transforms into a young Tony\n       Soprano as he is seen for the first time on the set of prequel The\n     * [807]Gal Gadot puts on a glamorous display in a black pleated dress\n       as she attends phone launch event in Toronto At the Canadian launch\n     * [808]Love Island star Zara Holland sizzles in a daring red\n       halterneck bikini as she enjoys a day on the beach in Barbados Fun\n     * [809]Gloria Estefan Gloria Estefan Gloria Estefan, 61, insists\n       'there's no secret' to her 40-year marriage to Emilio, 66, (who she\n       mistook for being NAKED when they first met)\n     * [810]Game of Thrones fans brand Kit Harington's clean shaven look\n       an 'utter travesty' after he makes TV appearances without his\n     * [811]Queen Letizia is glowing in green as she dons the same\n       designer dress she wore last year - but mixes up the look with a\n     * [812]Harry and Meghan 'chatted for hours over chilled ros\u00e9' on\n       their second date after her Soho House director pal organised a\n       'discreet table', new book reveals\n     * [813]Meghan's bold home birth plan: Duchess wants to follow in the\n       Queen's footsteps by"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 107919,
+        "content": "having her baby at home in new Windsor\n     * [814]John Lennon's piano, Paul McCartney's signed Ed Sullivan show\n       guitar and a handwritten set-list: Beatles memorabilia goes up for\n     * [815]Claudia Winkleman showcases her signature style as she wears\n       her trademark black eyeliner and nude lip to launch her partnership\n     * [816]Ashley Roberts looks in high spirits as she blows kisses at\n       Caroline Flack while enjoying a girls' night out They recently\n     * [817]Ellie Goulding looks chic in plunging satin blouse as she\n       cosies up to fianc\u00e9 Caspar Jopling at glittering NYC party  Looked\n     * [818]Delilah Hamlin suffers a fashion faux pas as she inadvertently\n       exposes too much in sheer black cycling shorts Watch out\n     * [819]Kim Kardashian screamed to 'call 911' and jumped over the\n       table 'like a hurdle' after son Saint, three, suffered a nasty\n     * [820]Charles Van Doren, the rigged Twenty-One quiz show winner of\n       the late 1950s, dies from natural causes aged 93 Passed away on\n     * [821]Kiernan Shipka, 19, cosies up to Gary Oldman's son Charlie,\n       20, at premiere after-party in LA... as the new couple go Instagram\n     * [822]Chloe Madeley hits back at trolls who brand her gym-honed\n       figure 'gross"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 109201,
+        "content": "' as she proudly flexes her muscles in a VERY racy\n     * [823]Rihanna keeps a low profile in a white cap and baggy coat as\n       she leaves a business meeting in London Was once again flying under\n     * [824]Chris Hemsworth feared of his photos from Liam's secret\n       wedding to Miley Cyrus would be leaked after they were accidentally\n     * [825]Gigi Hadid reveals plans to buy family compound with her\n       siblings where their 'kids can hang out' Once they all settle down\n     * [826]Anne Hegerty reveals she was almost SUSPENDED from The Chase\n       after calling a troll a 'sad c**t' Hit out on Twitter earlier this\n     * [827]Dani Dyer reveals she was badly bullied at school and wanted\n       cosmetic surgery after a boy cruelly called her 'carrot nose'\n     * [828]Malin Andersson reveals she felt 'lost and alone' after\n       leaving the Love Island villa and fell into a 'pitfall' of drinking\n       and partying with the 'wrong crowd'\n     * [829]EastEnders: Fans share their 'disappointment' after bosses\n       fail to dedicate episode to Sandy Ratcliff... two days after her\n     * [830]Derry Girls: Fans left in 'uncontrollable TEARS' by finale as\n       James decides to stay in Ireland... and bosses confirm the show\n     * [831]Rachel McCord"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 110475,
+        "content": "showcases her sensational figure in a plunging\n       lace bodysuit on sultry photoshoot Drew attention to her incredible\n     * [832]Victoria Beckham receives surprise gift from unlikely pal\n       Kourtney Kardashian..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 110697,
+        "content": "after the pair struck up an online\n     * [833]Imogen Thomas closes swimwear brand Chasing Summer as she\n       admits 'the past 11 months have been the most challenging time of\n     * [834]Dani Dyer reveals her MOTHER Joanne Mas waxes her intimate\n       area because 'she thinks she can do it better than anyone else'\n     * [835]Seann Walsh puts on a VERY cosy display with Strictly boss\n       Stefania Alexsander amid claims they 'have grown close'... six\n     * [836]Jamie Foxx and Katie Holmes EXCLUSIVE: Couple prove romance is\n       more serious than ever as they hold hands during first outing with\n     * [837]Hilaria Baldwin confirms that she had a miscarriage and lost\n       her baby as she posts a heartwarming picture of husband Alec and\n     * [838]Mel B reveals she and Geri Horner would drive down the\n       motorway NAKED in unearthed autobiography extract following lesbian\n     * [839]Sharon Osbourne updates fans on husband Ozzy's health as she\n       reveals a fall saw him dislodge 'all of the metal rods' in his back\n     * [840]Ellie Bamber transforms into a Sixties siren embroiled in the\n       Profumo Affair... as she films The Trial Of Christine Keeler with\n     * [841]Georgia Toffolo looks chic in an 80s style pink minidress as\n       she joins abs-flashing Ashley James for a girls' night out at"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 112031,
+        "content": "Sushi\n     * [842]Tallia Storm commands attention in VERY bizarre fake chaps as\n       she makes head-turning arrival at BUILD studios All eyes on her\n     * [843]Scarlett Johansson looks casual in a pair of pink trousers and\n       a bomber jacket as she touches down in London amid Avengers:\n     * [844]Drake and Usain Bolt appear in good spirits as they arrive at\n       Tape nightclub in London for a lads' night out after rapper's show\n     * [845]The Crown The Crown Meet the new Diana: Newcomer Emma Corrin\n       lands role of the young Princess in The Crown as bosses confirm\n       fourth series will begin filming later this year\n     * [846]Paris Hilton opts for daytime glam in a blue lace maxi as she\n       house hunts on Malibu beachfront with her pooch Stylish\n     * [847]Pixie Lott rocks a denim boilersuit as she goes arm-in-arm\n       with fianc\u00e9 Oliver Cheshire after dinner date Enjoyed a night out\n     * [848]Diane Kruger demonstrates a flair for drama at the Whitney\n       Museum's Gala + Studio Party with models Devon Windsor and Hilary\n     * [849]Devon Windsor turns heads in a plunging sequinned jumpsuit at\n       Whitney Museum gala event  Accustomed to turning heads\n     * [850]Bella Thorne sizzles in a scarlet suit as she joins leggy Nina\n       Agdal at the grand opening of the Moxy Hotel Chelsea"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 113370,
+        "content": "Ensured she\n     * [851]Kiernan Shipka cuts a cool figure in black leather jacket as\n       she joins Jodie Foster at Be Natural: The Untold Story of\n     * [852]Stranger Things star David Harbour and girlfriend Alison Sudol\n       match in red as they hit Hellboy screening in New York Special\n     * [853]Elle Fanning celebrates 21st birthday at West Hollywood\n       hotspot with rumored boyfriend Max Minghella Wore a very low-cut\n     * [854]William H. Macy cracks a smile as he shops for garden items a\n       day after wife Felicity Huffman pleads guilty in college admissions\n     * [855]Supermodel Gemma Ward, 31, sobs as she details the emotional\n       toll of being 'publicly shamed' for her weight in a poignant video\n     * [856]'I've been a pretty open book!'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 114145,
+        "content": "Denise Richards insists Real\n       Housewives Of Beverly Hills isn't scripted and reveals NOTHING is\n     * [857]Elisabeth Moss gives rare statement on her Scientology roots\n       laid against her role on The Handmaid's Tale: 'It's a complicated\n     * [858]Taylor Swift sends note and flowers to fan injured in auto\n       accident: 'Soon we'll all be bopping at shows together again'\n     * [859]Elizabeth Hurley, 53, slips into a tiny turquoise bikini as\n       she spends time with her lookalike son Damian, 17, during Indian\n     * [860]Charlie Sheen looks happy and healthy as he makes a VERY\n       cheeky quip about his nanny ex and urges fans to 'enjoy every\n     * [861]Katya and Neil Jones put on a cosy display as they enjoy\n       performance of Strictly co-star Joe McFadden's play The House on\n     * [862]'Sit tight."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 114980,
+        "content": "We will not miss Australia!'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 115009,
+        "content": "The Backstreet Boys\n       promise their DNA world tour will head Down Under  Coming soon\n     * [863]Game Of Thrones star Nikolaj Coster-Waldau arrives at Jimmy\n       Kimmel Live... as HBO exec hints at high body count for show's\n     * [864]David Beckham turns heads as he goes for a spin in his flashy\n       McLaren sports car after gruelling workout session in Los Angeles\n     * [865]Jude Law, 46, displays his ripped physique in some VERY unholy\n       white trunks while frolicking in the ocean with naked extras for\n     * [866]Love Island's Ellie Brown posts topless snap with a pair of\n       coconuts during trip to Bali... after ex Charlie Brake 'is seen\n     * [867]Love Island's Samira Mighty commands attention in tiny yellow\n       bikini on a girls' getaway to Bali with Zara McDermott and Ellie\n     * [868]Coronation Street star Amanda Barrie, 83, reveals she\n       'electrocuted' herself in her flat as she poses with 'hero'\n       paramedics Soap star said she 'lit up the West End'\n     * [869]Killing Eve star Jodie Comer has VERY awkward encounter with\n       Ellen DeGeneres as host accidentally bad-mouths her acting skills\n     * [870]Emmerdale's Liam Fox reveals he is engaged to actress love Jo\n       Hudson ..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 116254,
+        "content": "four years after split from Hollyoaks star Nicole\n     * [871]Bake Off stars reunite for fan favourite Martha Collison's\n       wedding - and they all made showstoppers for the incredible cake\n     * [872]Meghan Markle AND her royal baby will be liable for US taxes -\n       plus non-earned income over $2,100 will have to be reported until\n       the prince or princess is at least 18\n     * [873]Love Island's Gabby Allen flaunts her trim and toned figure in\n       a racy electric blue bikini after hiking to the top of Runyon\n     * [874]Ariel Winter receives pushback from fans after promoting\n       ailing cousin's $15K GoFundMe after co-star Sarah Hyland was in\n     * [875]Eva Longoria pokes fun at her petite 5ft2 height as she stands\n       on APPLE BOXES to watch a camera feed  Shared a hilarious Instagram\n     * [876]Alessandra Ambrosio looks effortlessly chic in a white denim\n       playsuit as she steps out in California after celebrating her 38th\n     * [877]Michael Douglas spotted with Emily Osment as they film The\n       Kominsky Method Season 2 in Los Angeles Hard at work\n     * [878]Fleabag's Sian Clifford reveals Phoebe Waller-Bridge 'fought\n       hard' to get her the role of Claire after the friends made a pact\n       to 'back each other' at drama school\n     * [879]Margot Robbie stuffs a stolen cheeseburger down her shirt\n       while"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 117625,
+        "content": "being chased by police as she reprises her role as Harley\n     * [880]Gabrielle Union cradles baby daughter Kaavia as she shares\n       passionate smooch with husband Dwyane Wade after his emotional\n     * [881]New hair, don't care!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 117858,
+        "content": "Glowing Rebel Wilson debuts her fresh\n       blonde locks as she steps out of a trendy LA salon in a tropical\n     * [882]Jordyn Woods showcases her famous curves in plunging tee and\n       skintight leggings as she goes for a coffee run  Stepping out\n     * [883]Chris Hemsworth admits he made epic parental mistake by\n       sneaking his daughter on to a Disneyland ride... that almost had\n     * [884]CHRISTOPHER STEVENS reviews last night's TV: It's grim down\n       South but there's still buckets of laughs by the sea\n     * [885] Grease prequel Summer Loving is in the works 41 years on:\n       1978 rom-com is being re-booted and will FINALLY tell Danny and\n     * [886]Lauren Goodger looks in high spirits as she makes an animated\n       exit after enjoying a boozy dinner with pals She's always been a\n     * [887]Charlotte Crosby makes a bleary-eyed exit in red checked mini\n       dress as she wraps her arm around a pal during raucous night out in\n     * [888]Ashley James celebrates being single with stunning holiday\n       snap and reveals she 'won't be pitied or patronised' for her\n     * [889]Pregnant Alex Jones covers up her growing baby bump in a cosy\n       black jumper as she leaves The One Show after revealing she's 'on\n     * [890] Megan McKenna continues her work commitments"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 119163,
+        "content": "in Nashville\n       after returning to social media for the first time since ex Mike\n     * [891]Katherine Schwarzenegger is spotted leaving a bridal store\n       with a wardrobe bag... as date for her wedding with Chris Pratt is\n     * [892]Justin Bieber shares a snap of his wife Hailey Bieber as pop\n       star says he 'married a belieber'... after penning love poem\n     * [893]Michelle Williams talks playing Broadway legend Gwen Verdon:\n       'I was gonna say they're big shoes to fill, but actually we're the\n     * [894]Milla Jovovich stuns in black pvc mini dress and neon green\n       coat at Hellboy screening in NYC The Ukrainian star showed off her\n     * [895]Nicollette Sheridan flaunts her enviable curves during\n       romantic afternoon with beau and beloved pooch Oliver in Malibu\n     * [896]Richard Madden insists there's now too much pressure on male\n       actors to look the part and fears he's projecting an 'unrealistic\n     * [897]Glenn Close and Sandra Bernhard lead the stars on display at\n       special performance of The Prom in New York Caught the eye on the\n     * [898]Jude Law's papal makeover revealed: Star, 46, sports dyed\n       silver locks, covered up tattoos and even has his body hair trimmed\n     * [899]Rob Lowe, 55, proves he's a perennial hunk while"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 120463,
+        "content": "working out\n       shirtless on Instagram  The actor showed off his toned torso and\n     * [900]An heir of spring!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 120578,
+        "content": "Charles and Camilla take a sunny stroll in\n       the gardens at Hillsborough Castle ahead of its reopening after a\n     * [901]Coronation Street's Katie McGlynn cuts a stylish figure in a\n       black mini dress as she leads star-studded arrivals for the opening\n     * [902] Inside Lily James' 30th birthday bash: Actress parties with\n       showbiz pals as she is entertained by fire-breathers after arriving\n     * [903]Fleabag secret scene revealed as Phoebe Waller-Bridge pays\n       sweet tribute to show's editor in THAT bus stop scene... as fans\n     * [904]Here comes the bride!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 121167,
+        "content": "Jennifer Lawrence and fianc\u00e9 Cooke\n       Maroney visit two elite New York City hotels amid claims they have\n     * [905]Geri Horner heads out on a family outing with daughter\n       Bluebell and son Monty as her Mel B lesbian fling drama rumbles on\n     * [906]Ant McPartlin cuts a casual figure as he strolls with his\n       beloved dog Hurley... after emotional Britain's Got Talent return\n     * [907]Sandra Bullock pays a visit to the dentist in Beverly Hills\n       after listing her $6.5 million Georgia home Made a low-key\n     * [908]Courteney Cox  runs errands in LA casually dressed in a blue\n       t-shirt tucked into blue skinny jeans Looked relaxed as she stepped\n     * [909]Love Island's Rosie Williams shares secret heartache over\n       death of twin sister who she thinks about 'every single day' Posted\n       poignant photo of baby with angel wings\n     * [910]Nipsey Hussle free tickets for memorial service at Staples\n       Center went so quickly SCALPERS are selling them for upwards of\n     * [911]Madonna faces backlash for controversial upcoming performance\n       at Eurovision Song Contest in Israel as fans call to BOYCOTT show\n     * [912]Sophie Turner reveals she began to 'distrust' Game of Thrones\n       after her on-screen father Ned Stark was killed off in season one\n     * [913]Kit Harington reveals he was forced to spend \u00a3150"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 122538,
+        "content": "on wife Rose\n       Leslie's favourite almond milk when his April Fools' Day joke\n     * [914]Tanya Bardsley EXC: Star insists cannabis oil helped cure her\n       BROKEN BACK... and is so sold on CBD perks that she's started\n     * [915]Lori Lori Lori Loughlin now facing 40 YEARS in prison after\n       grand jury indicts her on charges of fraud and money laundering in\n     * [916]Harper Beckham beams with happiness as she enjoys an outing\n       with her doting dad David around sunny Los Angeles\n     * [917]Louise Redknapp looks chic as she leaves 9 to 5 show... as\n       ex-husband Jamie's 'secret girlfriend' revealed as stunning model\n     * [918]Khloe Kardashian, 34, takes a dig at love rat Tristan, 28, by\n       saying 'you will always find love draining if you date people you\n     * [919]Coronation Street star Alan Halsall splashes the cash on \u00a3100k\n       red Mercedes..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 123429,
+        "content": "as he shares lavish lifestyle with fans Expensive\n     * [920]'A dream come true': Victoria's Secret model Shanina Shaik\n       sets pulses racing as she goes TOPLESS on the cover of US Maxim\n     * [921]Game Of Thrones star 'The Mountain' Hafthor Julius Bjornsson\n       uses his 6ft 9in height and 425 lbs weight to win Europe's\n     * [922]JANET STREET-PORTER: If Meghan is REALLY going to grow her own\n       fruit and veg she'd better get ready to fight dirty with nature\n     * [923]Sex Education star Emma Mackey cuts a glamorous figure in a\n       yellow floral dress as she attends International Series Festival at\n     * [924]Lori Loughlin's daughter Olivia Jade's trademark applications\n       are APPROVED after initially being rejected over 'poor punctuation'\n     * [925]Millie Mackintosh takes the plunge in a flirty red frock as\n       she poses up a storm at glam fashion event in Madrid Leggy display\n     * [926]Michelle Williams makes a stylish appearance at The Late Show\n       with Stephen Colbert in patterned mini dress and trench coat\n     * [927]Emma Stone cuts a chic figure in heather coat as she steps out\n       with boyfriend Dave McCary in NYC Headed to a local restaurant\n     * [928]Amy Adams is all business in stylish black shirt and skinny\n       blue jeans as she leaves a studio in LA"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 124754,
+        "content": "Will soon play the lead in\n     * [929]Sarah Hyland puts her flawless figure on display in teeny\n       flirty red floral mini dress with cut-out detailing  as she gets\n     * [930]Chrissy Teigen describes photo showing Dwyane Wade landing on\n       her and husband John Legend while court side as 'a renaissance\n     * [931]Kristin Chenoweth, 50, stuns in black gown while Linda Perry,\n       53, opts for rocker-cool at Grammys On The Hill Awards in DC\n     * [932]Survivor couple Joe Anglim and Sierra Dawn Thomas get engaged:\n       'I had no idea it was coming' Broke the news after a year of dating\n     * [933]British Soap Awards: Coronation Street's Bhavna Limbachia and\n       Hollyoaks' Stephanie Davis lead the nominations as voting opens\n     * [934]Hollyoaks: Sinead's abuse and Sienna's harassment take centre\n       stage in dark spring trailer... but who dies in the car crash?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 125655,
+        "content": "Married at First Sight UK: All I want for Christmas is an annulment\n       Louis Tomlinson talks about how grief has influenced his music\n       Jennifer Lopez says Diddy apologized to Alex Rodriguez for his\n       Hollyoaks: Lily McQueen dies & her body is found by family in\n       Kim Kardashian confronts Kanye West on sudden push to move to\n       Good Morning Britain hosts relentlessly mock Richard Madeley for\n       Eminem's daughter Hailie Scott Mathers shows off her bikini on\n       Farrah Abraham sips a coconut in a bright pink bikini by the ocean\n       Hilarious moment Mark Francis asks Richard Madeley if he's been to\n       Scarlett Johansson glitters in gem covered mini dress as she\n[948]From colourful canes to slick wheelchair selfies, fashionistas with\ndisabilities are sharing their stylish snaps under the empowering hashtag\n   [949]Disabled women are sharing their stylish snaps with the empowering\n   hashtag Disabled women are sharing their stylish snaps with the\n   Fashionistas from across the world are sharing their empowering\n   colourful pictures with the hashtag #ThisIsMyDisabledStyle."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 126778,
+        "content": "The\n   beautiful and bold photographs show how many intregate their assistive\n   devices into their cool outfits and personal style."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 126911,
+        "content": "It was started by\n   disability activist Maryangel Garc\u00eda-Ramos (inset)."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 126985,
+        "content": "Photos include an\n   Australian woman posing with one leg, supported by crutches (left), a\n   woman taking a selfie from a wheelchair and a fashionista with a\n     * [952]7 shares Disabled women share stylish snaps under hashtag\n[953]Scientists discover fossil of horrifying 'Cthulhu' sea creature with 45\nTENTACLES that crawled the ocean floor 430 million years ago in Herefordshire\n   According to scientists, a creature similar to H.P."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 127424,
+        "content": "Lovecraft's\n   fictional and monstrous sea beast, Cthulhu, did exist at one point -\n   the only difference is it was about 3 cm wide."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 127563,
+        "content": "* [955]88 shares Scientists find 'Cthulhu' fossil of scary creature\n[956]Stunning aerial footage captures the moment a pod of friendly dolphins\n   A team of surfers riding the waves off the Australian coast had a\n   surprise when they were joined by a pod of dolphins showing off their\n   skills."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 127860,
+        "content": "The stunning moment was captured via drone.\n     * [959]48 shares Surfers shocked as they are joined by a pod of\n[960]Macallan whisky ad featuring a man leaping off a mountain has been\n   [961][yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]\n   [636x382_JPG-SINGLE_1823478426604976036.jpg]\n   The Macallan commercial which first aired in December received\n   complaints for linking alcohol with daring, toughness or irresponsible\n   behaviour."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 128289,
+        "content": "It shows a man throwing himself from a mountain and then\n   growing wings as he hurtles through the air."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 128394,
+        "content": "While dramatic music\n   reverberates, a banner appears, asking: 'Would you risk falling for the\n   chance to fly?'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 128509,
+        "content": "The Advertising Standards Authority said the scenes\n   were reminiscent of the extreme sport of base-jumping, and the act of\n   jumping off the cliff was dangerous, potentially fatal and consisted of\n     * [964]8 shares Whisky ad with man leaping off mountain banned for\n     * [965]Pogba's relationship with Solskjaer 'slowly fading' as he\n       pushes to leave Manchester United for Real Madrid Angling for\n       summer move away from Old Trafford\n     * [966]Pogba refuses to quell Real Madrid rumours after defeat by\n       Barcelona Paul Pogba refused to answer questions over his\n     * [967]MASTERS LIVE: All the action from round one at Augusta The\n       long wait is over: it's time for the Masters."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 129222,
+        "content": "The golfing world is\n       gathered for the year's first major\n     * [968]'You are an unreal player, but a f*****g misinformed bigot':\n       Australia SACK Folau for homophobic posts as Haskell leads stars to\n     * [969]New footage emerges of moment McGregor smashes a fan's phone\n       as Irish MMA star pleads not guilty to strong-arm robbery and\n     * [970]McGregor claims he'd broken his foot just THREE weeks before\n       losing to Khabib The 30-year-old made his return to the octagon in\n     * [971]Costa given EIGHT-game ban for expletive-laden rant at referee\n       in Barcelona loss Throws his Atletico career into jeopardy with\n     * [972]Bale 'not in Real Madrid's plans' as Zidane prepares to let\n       \u00a3430MILLION worth of stars leave Sporting director has met with\n     * [973]'Thank you': Liverpool supporter Sean Cox addresses public for\n       first time since suffering serious brain injury in attack by Roma\n     * [974] Premiership Rugby to investigate Saracens over salary cap\n       breach, but club insist it is only 'a minor oversight'  SPORTSMAIL\n     * [975]Lord Coe cleared as IAAF Ethics Board closes investigation\n       into whether president misled MPs in 2015 Coe has been cleared of\n     * [980]Watch video [video-12021028-123_636x358."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 130502,
+        "content": "jpg]\n       Robbers use digger to rip ATM out of wall\n            Couple in hysterics over crisp-less bag\n            Friendly dog fetches bundle of grass\n            Fireball after BMW crashes head-on with car\n            Deer knocks motorcyclist off bike\n            Monkey's fun mode of transport\n            Toddler suprised after trying lemon\n            HUGE dust cloud inches closer to city\n            Flamingo disrupts passengers on the runway\n            Wingsuit pilots fly alongside plane\n            A man smashed wine bar windows before being..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 131074,
+        "content": "Baby elephant looks like Dumbo\n            Corgi cottons on to owner's food trick\n            Labrador in tense standoff with cougar\n            Tourists take selfies on Thai beach\n            Shepherdess walks through thick snow - in..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 131324,
+        "content": "Diver survives shark bite in the Red Sea\n            People fail to climb out of of 'ice prison'\n            Cutest moment adorable lambs are caught..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 131488,
+        "content": "Smiling robot passes CAPTCHA check\n            Expert uses hoover to remove 22,000 bees\n            Cyclist floored after road rage in Cheshire\n            Cute rescued penguin heads back to the sea\n            'Idiot' football fan runs down middle of..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 131755,
+        "content": "Parent stops on motorway for toilet break\n            Pampered pug enjoys head massage\n            20 foot 'Ice wall' appears on farm\n            Doorbell films woman stealing bike on drive\n            Motorcyclist narrowly avoids being crushed..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 132006,
+        "content": "[1009]TUI discount codes [1010]Groupon discount code [1011]Travelodge\n   [1012]Boden discount code [1013]Very discount code [1014]Debenhams\n   [1032]Sitemap [1033]Archive [1034]Video Archive [1035]Topics Index\n   [1036]Mobile Apps [1037]Screensaver [1038]RSS [1039]Text-based site\n   [1040]Reader Prints [1041]Our Papers [1042]Top of page\n   [1043]Daily Mail [1044]Mail on Sunday [1045]This is Money\n   [1046]Metro [1047]Jobsite [1048]Mail Travel [1049]Zoopla.co.uk\n   [1050]Prime Location [1051]Discount Codes [1052]Betting\n   Published by Associated Newspapers Ltd\n   Part of the Daily Mail, The Mail on Sunday & Metro Media Group\n   [1053]\u00a9 dmg media [1054]Contact us [1055]How to complain\n   [1056]Leadership Team [1057]Advertise with us [1058]Contributors\n   [1059]Terms [1060]Privacy policy & cookies [1061]Cookie regulation logo"
+      }
+    }
+  ]
+}

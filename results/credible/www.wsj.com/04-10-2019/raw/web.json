@@ -1,0 +1,58 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "wall street journal",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://wendybrandes.com/blog/wp-content/uploads/2014/09/museum1resize.jpg"
+          },
+          {
+            "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/95/88/76/958876c7-ba87-e6e8-b45d-51f4be851a1c/source/576x768bb.jpg"
+          },
+          {
+            "url": "http://jaiibexam.com/wp-content/uploads/2018/11/desperate-love-quotes-awesome-the-wall-street-journal-on-the-app-store-pics-of-desperate-love-quotes-420x270.jpg"
+          },
+          {
+            "url": "http://a1.mzstatic.com/us/r30/Purple30/v4/6c/47/3a/6c473a42-0a8b-0de2-2257-1a06e1478c6c/screen520x924.jpeg"
+          },
+          {
+            "url": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/a6/5b/8c/a65b8c8a-e0ec-c21e-1721-bf48ebd98fd0/mzl.jrtkefxe.jpg/750x750bb.jpeg"
+          },
+          {
+            "url": "http://designinginterfaces.com/wp-content/images/sitemap-footer-wsj.png"
+          },
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/71nvCBggFAL.jpg"
+          },
+          {
+            "url": "http://a3.mzstatic.com/us/r30/Purple30/v4/0b/3c/3c/0b3c3c16-f54c-6f0f-340c-30c8737541a3/sc552x414.jpeg"
+          },
+          {
+            "url": "https://img.yumpu.com/40025864/1/358x447/content-guide-wall-street-journal-asia.jpg?quality=85"
+          },
+          {
+            "url": "https://www.georgianbaygroup.com/wp-content/uploads/2018/09/global-wallstreet-journal.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.23349108
+          },
+          {
+            "description": "The Wall Street Journal",
+            "entityId": "/m/017b3j",
+            "score": 0.2103
+          }
+        ]
+      }
+    }
+  ]
+}

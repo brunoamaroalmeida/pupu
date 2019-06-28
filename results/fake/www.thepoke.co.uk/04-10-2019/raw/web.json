@@ -1,0 +1,77 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "screenshot"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://makeavideohub.com/wp-content/uploads/2018/07/imovie-green-screen4.jpg"
+          },
+          {
+            "url": "https://images.wondershare.com/filmora/article-images/drag-video-timeline-min.JPG"
+          },
+          {
+            "url": "https://assets.rocketstock.com/uploads/2017/02/FCPX-EXPORTING-FINAL.gif"
+          },
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/c8/c3/ab/c8c3ab0c-4024-0aba-57ed-1518571be419/mzl.niglaxqr.png/643x0w.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Discord_screenshot.png/300px-Discord_screenshot.png"
+          },
+          {
+            "url": "https://www.lifewire.com/thmb/B6FZITbk3FXWdNuJicISaiMf7xU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot-2014-02-24-12.17.08-56a249993df78cf772741a19.png"
+          },
+          {
+            "url": "https://s3.envato.com/files/217131281/07-PAGE-WITH-PLAYER.jpg"
+          },
+          {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6d/52/30/6d5230f4-88b4-defd-90c2-04b7d0918adb/pr_source.png/643x0w.jpg"
+          },
+          {
+            "url": "https://www.fonepaw.com/images/video-converter/imovie-import-video.png"
+          },
+          {
+            "url": "https://images.wondershare.com/filmora/article-images/filmora9-import-options.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.33895275
+          },
+          {
+            "description": "M",
+            "entityId": "/m/0hjsp",
+            "score": 0.2841
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.27310708
+          },
+          {
+            "description": "Video",
+            "entityId": "/m/07z4p",
+            "score": 0.20404346
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.19600217
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.19483484
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "documentSentiment": {
+    "magnitude": 11.1,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "This material may not be published, broadcast, rewritten, or\n   redistributed. \u00a92019 FOX News Network, LLC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 112,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 133,
+        "content": "All\n   [131]Rep. Brady: I hope Democrats don't get Trump's tax returns\n[134]Rep. Brady: I hope Democrats don't get Trump's tax returns\n   [135]Democrats seize on Department of Homeland Security shakeup\n[138]Democrats seize on Department of Homeland Security shakeup\n   [139]Felicity Huffman pleads guilty in college admissions scam\n[141]Felicity Huffman pleads guilty in college admissions scam\n   [142]Howard Kurtz: Why the President feels he must solve the border\n[144]Howard Kurtz: Why the President feels he must solve the border crisis at\n   [145]Duke 'looking into' Avenatti claim that Nike paid bribe money to\n[147]Duke 'looking into' Avenatti claim that Nike paid bribe money to\n   [148]US troops killed in Afghanistan roadside bomb blast [149]0:29\n[151]US troops killed in Afghanistan roadside bomb blast\n   [152]Delta tops annual airline ranking; Beyonc\u00e9 fans celebrate\n[154]Delta tops annual airline ranking; Beyonc\u00e9 fans celebrate\n   [155]Man charged in plot to run over people with a truck at National\n[158]Man charged in plot to run over people with a truck at National Harbor\n   [159]US designates Iran's Revolutionary Guard as a foreign terrorist\n[161]US designates Iran's Revolutionary Guard as a"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1349,
+        "content": "foreign terrorist\n   [163]Minimum wage hikes trigger 'payroll tsunami,' as small businesses\n[164]Minimum wage hikes trigger 'payroll tsunami,' as small businesses cut\n     * [165]1:09[166] McDonald's stops lobbying against minimum wage hikes\n     * [167]3:29[168]The states hiking the minimum wage for 2019\n   [169]Maryland man accused of plotting to run van into crowd at tourist\n[170]Maryland man accused of plotting to run van into crowd at tourist\n     * [171]Teen pleads guilty to plotting terror attack at Texas mall\n   [172]Woman arrested at resort had cash, signal detector in room:\n[173]Woman arrested at resort had cash, signal detector in room: prosecutors\n     * [174]Secret Service director to step down, on heels of Nielsen\n   [175]Cory Booker introduces slavery reparations bill in Senate\n[176]Cory Booker introduces slavery reparations bill in Senate\n   [177]UCLA speaker compares guerrilla leader Che Guevara to Jesus Christ\n[178]UCLA speaker compares guerrilla leader Che Guevara to Jesus Christ\n   [181]Rep. Brady: I hope Democrats don't get Trump's tax returns\n[184]Rep. Brady: I hope Democrats don't get Trump's tax returns\n   [185]Democrats seize on Department of Homeland Security shakeup"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2561,
+        "content": "[188]Democrats seize on Department of Homeland Security shakeup\n   [189]Felicity Huffman pleads guilty in college admissions scam\n[191]Felicity Huffman pleads guilty in college admissions scam\n   [192]Howard Kurtz: Why the President feels he must solve the border\n[194]Howard Kurtz: Why the President feels he must solve the border crisis at\n   [195]Duke 'looking into' Avenatti claim that Nike paid bribe money to\n[197]Duke 'looking into' Avenatti claim that Nike paid bribe money to\n   [198]US troops killed in Afghanistan roadside bomb blast [199]0:29\n[201]US troops killed in Afghanistan roadside bomb blast\n   [202]Delta tops annual airline ranking; Beyonc\u00e9 fans celebrate\n[204]Delta tops annual airline ranking; Beyonc\u00e9 fans celebrate\n   [205]Man charged in plot to run over people with a truck at National\n[208]Man charged in plot to run over people with a truck at National Harbor\n   [209]US designates Iran's Revolutionary Guard as a foreign terrorist\n[211]US designates Iran's Revolutionary Guard as a foreign terrorist\n   [213]'Barn Find' 1968 Ford Mustang Shelby GT500 up for auction is\n[215]'Barn Find' 1968 Ford Mustang Shelby GT500 up for auction is frozen in\n   [216]Meghan McCain lashes out at"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 3774,
+        "content": "Joy Behar on 'The View' for refusing\n[218]Meghan McCain lashes out at Joy Behar on 'The View' for refusing to\n   [219]NYC teacher set up estranged husband with new girlfriend before\n   duo allegedly murdered her, friends say\n[221]NYC teacher set up estranged husband with new girlfriend before duo\n   [222]Actress Felicity Huffman apologizes to daughter, academic\n   community in letter agreeing to guilty plea\n[224]Actress Felicity Huffman apologizes to daughter, academic community in\n   [225]California judge blocks Trump's policy forcing asylum-seekers to\n[227]California judge blocks Trump's policy forcing asylum-seekers to stay in\n   [228]McDonald's customers discover hack to get free hamburger\n[230]McDonald's customers discover hack to get free hamburger\n   [231]A century after the Lusitania was sunk by a U-boat, an unusual\n[233]A century after the Lusitania was sunk by a U-boat, an unusual item from\n   [234]Secret Service director follows Nielsen out the door as DHS\n[236]Secret Service director follows Nielsen out the door as DHS shakeup\n   [237]American tourists vanish after leaving Dominican Republic hotel\n[239]American tourists vanish after leaving Dominican Republic hotel\n   [240]Shark circles Hawaii waters, pulls down body as rescuers scramble\n[242]Shark circles Hawaii waters"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5076,
+        "content": ", pulls down body as rescuers scramble\n   [243]White House cancels Major League Baseball's Cuba deal\n[245]White House cancels Major League Baseball's Cuba deal\n   [246]ACM Awards: Kelly Clarkson reveals she was mistaken for a seat\n[248]ACM Awards: Kelly Clarkson reveals she was mistaken for a seat filler\n   [249]Website called out for renting famous Chanel string bikini:\n[251]Website called out for renting famous Chanel string bikini: 'Disgusting'\n   [252]Tourists could face execution for taking photos on beach near\n[254]Tourists could face execution for taking photos on beach near airport\n   [255]Florida man with tattoo-covered face arrested in 2001 cold case\n[257]Florida man with tattoo-covered face arrested in 2001 cold case murder\n   [258]10 cities in danger of a housing crash this year\n[260]10 cities in danger of a housing crash this year\n   [263]Watch Steve Hilton and Tomi Lahren debate America's immigration\n[265]Watch Steve Hilton and Tomi Lahren debate America's immigration system\n[270]Seeking the president's tax returns as 'oversight' is unprecedented --\n[273]Designation of Iran's IRGC as a terror group is long overdue\n[279]Thank you, Sen. Ernest 'Fritz' Hollings, for your service and"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 6289,
+        "content": "leadership\n[282]If Trump critics think DHS resignation will change his mind on the\n[285]One truthful Democrat emerges to call out party's 'delusions'\n[288]Joe Biden's biggest challenge in 2020 is ...\n[291]Hypocritical Democrats ignore the biggest threat to black and brown\n[295]Three US troops, 1 contractor killed in Afghanistan IED blast, Pentagon\n[297]Julianna Margulies refuses to guest star on 'The Good Fight'\n[299]A look at the average IRS refund this tax season\n[301]Operation Healing Forces aids America's warriors\nGet the best of Fox News delivered to your inbox daily\n   Enter email address ____________________\n   [308]What to know about cancer 'vaccine'\n   [310]Star pleads guilty in sex cult case\n   [312]Singer considered prostitution before fame\n   Singer considered prostitution before fame\n   [313]Woman with 'smallest waist' shocks\n   [314]'Spaceplane' flies 25x speed of sound\n   [315]Air Force sets sights on C-130 boost\n   [327]Spirit Airlines no longer worst, says study\n   Spirit Airlines no longer worst, says study\n   [332]Meghan's best friend exposes HUGE secret\n   Meghan's best friend exposes HUGE secret\n   [335]Tourists could be in BIG TROUBLE for it\n   Tourists could be in BIG TROUBLE for it\n   [336]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 7522,
+        "content": "Kardashian in trouble for Sunday Service outfit\n   Kardashian in trouble for Sunday Service outfit\n   [337]How boy survived internal decapitation\n   How boy survived internal decapitation\n   [341]Investment in US space industry reaches record levels in 2018\n[343]Investment in US space industry reaches record levels in 2018\n[345]Tesla trims in-store sales staff amid shift to online\n[347]Warren Buffett says Wells Fargo needs to look outside Wall Street for\n[349]Lawyer for Nissan's ex-chair Ghosn clarifies bail conditions\n[351]Trump's World Bank pick Malpass wins election\n[353]Apple CEO Tim Cook says sports are 'a great unifier,' talks NCAA\n   [355]California judge blocks Trump's policy forcing asylum-seekers to\n[357]California judge blocks Trump's policy forcing asylum-seekers to stay in\n[359]White House cancels Major League Baseball's Cuba deal\n[361]Klobuchar's 2020 haul: $5.2 million in seven weeks\n[363]National Border Patrol Council VP: McAleenan has a 'tough job' ahead\n[365]New York Democrats launch fresh bid to dig up Trump's tax returns\n[367]GOP names Marcia Lee Kelly as president of 2020 Republican National\n   [369]Teen pleads guilty to plotting terror attack at Texas mall\n[371]Teen pleads guilty to plotting terror attack at Texas"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 8778,
+        "content": "mall\n[373]Trump avoids 'you're hired' with acting appointments\n[375]US labels elite Iran force a foreign terrorist organization\n[377]Oldest US reform school's license revoked over abuse claims\n[379]Operation Healing Forces aids America's warriors\n[381]Stanford University tosses out student involved in admissions bribery\n   [383]White House cancels Major League Baseball's Cuba deal\n[385]White House cancels Major League Baseball's Cuba deal\n[387]Russia agrees to free nearly 100 orcas, belugas kept in 'whale prison'\n[389]Ecuador removes official over close Assange relationship\n[391]New report sheds light on alleged UNHCR bribes for refugee resettlement\n[393]Three US troops, 1 contractor killed in Afghanistan IED blast, Pentagon\n[395]Trolls accuse Meghan Markle of faking pregnancy\n   [397]Antjuan Seawright: Thank you, Sen. Ernest 'Fritz' Hollings, for\n[399]Antjuan Seawright: Thank you, Sen. Ernest 'Fritz' Hollings, for your\n[401]Robert Charles: Seeking the president's tax returns as 'oversight' is\n[405]Brett Velicovich: Designation of Iran's IRGC as a terror group is long\n[407]James Jay Carafano: If Trump critics think DHS resignation will change\n[409]New York Post: Don't buy the attacks on"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 9984,
+        "content": "Trump's Fed picks\n   [411]Disneyland Star Wars park visitors will be given bathroom passes\n[413]Disneyland Star Wars park visitors will be given bathroom passes to use\n[415]Disneyland Paris walkway closed to guests after protesters litter Main\n[417]Paul Batura: Searching for Howard Johnson's\n[419]Dan Hoffman: My wife is the toughest person I know\n[421]Girl's special doll honoring her deployed Army dad found, returned at\n[423]My father died two years ago."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 10443,
+        "content": "I'm still struggling to clean out his\n   [425]ACM Awards: Kelly Clarkson reveals she was mistaken for a seat\n[427]ACM Awards: Kelly Clarkson reveals she was mistaken for a seat filler\n[429]Playboy model Shanna Moakler says tummy tuck made her more `confident'\n[431]Felicity Huffman's guilty plea in college admissions scandal, apology,\n[433]Felicity Huffman to plead guilty in college admissions scandal: 'I am\n[435]Alec Baldwin tweets 'beating Trump would be so easy' if he ran for\n[437]Trolls accuse Meghan Markle of faking pregnancy\n   [439]US designates Iran's Revolutionary Guard as a foreign terrorist\n[442]US designates Iran's Revolutionary Guard as a foreign terrorist\n[445]Who is Kevin McAleenan, the new acting Homeland Security secretary?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 11193,
+        "content": "[448]2020 Democrats slam Kirstjen Nielsen following resignation\n[451]Ted Cruz takes a stand for conservatives on campus\n[454]Sen. Grassley on Nunes sending criminal referrals to DOJ and Democrats'\n[456]NY county considering next steps amid measles outbreak after judge rules\n   [458]C-130 gets new 'electronic propeller controls' to fly into 2030s\n[460]C-130 gets new 'electronic propeller controls' to fly into 2030s\n[462]'Spaceplane' that flies 25 times faster than the speed of sound passes\n[464]Then and now: Split-screen video shows how car production has changed in\n[466]Researchers claim to have designed quieter airplane toilet, claim 'kids\nwon't think they're going to get sucked out'\n[468]Elon Musk explains reason for Tesla Model 3's mysterious cockpit camera\n[470]Amazon Alexa earbuds to compete with AirPods, report says\n   [472]Baylor defeats Notre Dame in classic NCAA women's basketball final\n[474]Baylor defeats Notre Dame in classic NCAA women's basketball final\n[476]Michigan State's Final Four loss brings unruly crowds to streets, 23\n[478]Pro golfer Arie Irawan found dead in hotel room at 28\n[480]Auburn University senior gymnast suffers devastating leg injury during\n[482]Police use tear"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 12404,
+        "content": "gas as Texas Tech basketball victory sparks\n[484]Last-second foul lifts Virginia over Auburn; Texas Tech tops Michigan\n   [486]C-130 gets new 'electronic propeller controls' to fly into 2030s\n[488]C-130 gets new 'electronic propeller controls' to fly into 2030s\n[490]Facebook, Google in crosshairs of new UK policy to control tech giants\n[492]Facebook blasted as 'morally bankrupt liars' by New Zealand privacy\n[494]FBI investigating Ukrainian oligarch Kolomoisky over alleged financial\n[496]British woman faces jail time in Dubai for `insulting' post about\n[498]Self-driving spacecraft may save Earth from doomsday\n   [500]Illinois billboard touts 'safe, legal abortion' in hit against\n[502]Illinois billboard touts 'safe, legal abortion' in hit against\n[504]Gary Sinise, KJ Apa will star in faith-based film 'I Still Believe'\n[508]John Mayer sings hymn 'How Great Thou Art' in touching Christchurch\n[510]Bill to force college campuses to provide `abortion pills' advances in\n[512]Yale Law School policy may discriminate against Christian groups, Sen.\n   [514]'Barn Find' 1968 Ford Mustang Shelby GT500 up for auction is\n[516]'Barn Find' 1968 Ford Mustang Shelby"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 13568,
+        "content": "GT500 up for auction is frozen in\n[518]Jeep's 2-door pickups are ready to rock...crawl\n[520]Video captures bull running into motorcyclist at top speed\n[522]Takuma Sato wins Alabama Indycar race\n[524]Busch brothers take top 2 spots at Bristol NASCAR race as Kyle picks up\n[526]Car hidden from Nazis in shed in 1940 rolled out for museum exhibit\n   [528]Environmental groups sue to restrict salmon fishing off West Coast\n[530]Environmental groups sue to restrict salmon fishing off West Coast\n[532]Golf legend Greg Norman catches `monster' hammerhead shark after it eats\n[534]Surprised fisherman reels in World War II hand grenade\n[536]Fisherman in California hooks rare angel shark\n[538]Poaching footage released of father and son in Alaska killing protected\n[540]Remarkable photo of bear surrounded by elk at New Mexico ranch goes\n   [542]More restaurants embrace trend of putting health care surcharges\n[544]More restaurants embrace trend of putting health care surcharges on\n[546]Minimum wage hikes trigger 'payroll tsunami,' as small businesses cut\n[548]McDonald's customers discover hack to get free hamburger\n[550]Domino's delivery man helps cops nab thief, still manages to 'honor the\n30-minute delivery guarantee,' police say\n["
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 14802,
+        "content": "552]Chicken nugget sales are reportedly down - here's possibly why\n[554]Burger King slammed on social media over ad featuring chopsticks: 'It's\n   [556]Tennessee K-9 bites, brings down carjacking suspect, cops say\n[558]Tennessee K-9 bites, brings down carjacking suspect, cops say\n[560]South Carolina firefighter adopts puppy he rescued from under pile of\n[562]Taya Kyle: The 'American Sniper' legacy continues\n[565]Tunnel to Towers honors military and first responders who make supreme\n[567]Missouri sheriff's deputy, veteran spotted on camera saving American\n[570]Missouri sheriff's deputy saves flag from touching ground, goes viral\n   [572]California coastal city selling 0.01-acre property for $18G\n[574]California coastal city selling 0.01-acre property for $18G\n[576]Michael Corleone's house from 'The Godfather' selling for $1.37 million\n[578]But microwaves are OK: Bay Area rental agreements can come with 'no\n[580]Proposal for 60,000-square-foot NJ megamansion spooks neighbors: 'It's a\n[582]Homeowner sets up naked mannequins in yard to taunt neighbor following\n[584]The 5 most expensive home repair costs and what you can do to avoid them\n   [586]Woman with '"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 15973,
+        "content": "world's smallest waist' shocks fans with\n[588]Woman with 'world's smallest waist' shocks fans with post-pregnancy body\n[590]Travel blogger, 46, says people 'just assume' she's in her 20s, shares\n[592]Condom brand releases 'Consent Packs' that require four hands to open\n[594]Lawyer who lost nearly 200 pounds says she's now 'haunted' by loose\nskin: 'It looks like the body of Frankenstein's monster'\n[596]'Gymtimidation' prevents a percentage of Americans from exercising more\n[598]Woman with tanning 'obsession' claims people accuse her of trying to\n   [600]Website called out for renting famous Chanel string bikini:\n[602]Website called out for renting famous Chanel string bikini: 'Disgusting'\n[604]Woman with 'world's smallest waist' shocks fans with post-pregnancy body\n[606]Kim Kardashian blasted for cultural appropriation with head jewelry\n[608]Former Ed Hardy exec accused of sexually harassing teen who worked as au\n[610]Beyonc\u00e9 partners with Adidas to relaunch athleisure brand Ivy Park\n[612]Kim Kardashian marketed her eyewear line with strange Kim Kardashian\n   [614]How new cancer 'vaccine' fights tumors throughout the body\n[616]How new cancer 'vaccine' fights tumors throughout the body\n["
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 17178,
+        "content": "618]Brain zaps boost memory in people over 60, study finds\n[620]Woman who died at 99 unknowingly lived with organs in wrong places\n[622]NY county considers next steps after judge rules against emergency order\n[624]Dog has 5 golf balls removed from stomach after swallowing them on walks\n[626]Hospital staff errors with gowns and gloves spread antibiotic-resistant\n   [628]10 cities in danger of a housing crash this year\n[630]10 cities in danger of a housing crash this year\n[632]A look at the average IRS refund this tax season\n[636]Short credit history?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 17734,
+        "content": "How you can still earn a score of 800\n[638]This is now the best state for job seekers\n   [642]South Carolina firefighter adopts puppy he rescued from under pile\n[644]South Carolina firefighter adopts puppy he rescued from under pile of\n[646]Woman rescued from SUV dangling from Florida parking garage\n[648]Nurse adopts girl who had no visitors during hospital stay\n[650]Kentucky toddler beats stage 4 cancer, poses for photos\n[652]Scottish man is biking around the globe with stray cat by his side\n[654]Texas family finds cat that vanished over 10 years ago\n   [656]Life, Liberty & Levin - Sunday, April 7\n[659]Life, Liberty & Levin - Sunday, April 7\n[665]The Next Revolution w/ Steve Hilton - Sunday, April 7\n[669]Sunday Morning Futures - Sunday, April 7\n   [671]Operation Healing Forces aids America's warriors\n[673]Operation Healing Forces aids America's warriors\n[675]Missing in America Project buries 42 `unclaimed' veterans in Texas and\n[677]Tunnel to Towers continues to help families of first responders and\n[679]Cops seek sculpture stolen from Army vet's Minnesota home; thief seen on\n[681]Plan to rename LA Memorial Coliseum in question after United Airlines\n[683"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 18907,
+        "content": "]Huge ghost town next door clouds Iowa city's future\n   [685]Guilty college scam defendants to face IRS wrath: A look at\n[687]Guilty college scam defendants to face IRS wrath: A look at potential\n[689]Investment in US economy surges amid smaller tax refunds, National\nTaxpayers Union executive vice president says\n[691]A look at the average IRS refund this tax season\n[695]Tax tricksters: How Americans say they cheated on their taxes\n[697]Modern retirement: What 'snowbirds' should know before buying a second\n   [699]Teen pleads guilty to plotting terror attack at Texas mall\n[701]Teen pleads guilty to plotting terror attack at Texas mall\n[703]Oldest US reform school's license revoked over abuse claims\n[705]Woman arrested at Mar-A-Lago had cash, signal detector in hotel room,\n[707]Maryland man accused of plotting to run van into National Harbor crowd,\n[709]Jury selected to hear murder trial of ex-Minneapolis officer\n[711]NYC teacher set up estranged husband with new girlfriend before duo\n   [713]Tennessee woman accused of stealing police car at car wash\n[715]Tennessee woman accused of stealing police car at car wash\n[717]Florida sheriff's office bloodhound renamed from 'Rommel' to 'Scout'\n[719]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 20115,
+        "content": "Texas man drowns while mowing lawn near river, investigators say\n[721]Person who claimed to be Timmothy Pitzen is not Timmothy Pitzen, FBI\n[723]Man claims Meghan Markle, Prince Harry took his Instagram name without\n[725]San Francisco suburb says 'Yabba Dabba Don't' to Flintstones house,\n   This material may not be published, broadcast, rewritten, or\n   redistributed. \u00a92019 FOX News Network, LLC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20515,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20536,
+        "content": "All\n   2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 20546,
+        "content": "android-app://com.foxnews.android/http/www.foxnews.com/"
+      }
+    }
+  ]
+}

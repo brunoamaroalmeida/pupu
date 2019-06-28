@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9324977,
+          "topicality": 0.9324977
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8753489,
+          "topicality": 0.8753489
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7547606,
+          "topicality": 0.7547606
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.6238202,
+          "topicality": 0.6238202
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.57505757,
+          "topicality": 0.57505757
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.5714039,
+          "topicality": 0.5714039
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.5202584,
+          "topicality": 0.5202584
+        }
+      ]
+    }
+  ]
+}

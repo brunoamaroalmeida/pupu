@@ -1,0 +1,179 @@
+{
+  "documentSentiment": {
+    "magnitude": 6.0,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Welcome to USA TODAY NETWORK'S EUROPEAN UNION EXPERIENCE\n   Wikileaks founder Julian Assange arrives at the Supreme Court in London\n   in February 2012."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 153,
+        "content": "Assange was arrested at the Ecuadorian Embassy in\n   WikiLeaks founder Julian Assange arrested on US extradition request,\n   Pence responds Pete Buttigieg's criticism: 'He knows me'\n   United States Vice President Mike Pence holds a news briefing after\n   addressing the United Nations Security Council on Venezuela, Wednesday\n   Harry, Meghan will keep baby's birth 'private'\n   Prince Harry and Duchess Meghan of Sussex at a Commonwealth Day Service\n   at Westminster Abbey on March 11, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 651,
+        "content": "No phones allowed at the Masters: Focus on golf\n   Jack Nicklaus walks to the final hole during the Par 3 Contest at\n   'Lizzie McGuire' star: I was 'forced' to look white\n   Actress Lalaine arrives at Warner Music Group's 2007 Grammy Party on\n   February 11, 2007 in Los Angeles, California."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 947,
+        "content": "'I know what the truth is': JLo responds to cheating allegations\n   Alex Rodriguez, left, and Jennifer Lopez arrive at the Oscars in Los\n   Governor blames coach for NCAA tournament loss\n   Kentucky Gov. Matt Bevin speaks about the upcoming legislative session\n   at the Kentucky Chamber Day Dinner in Lexington, Ky., Thursday, Jan.\n   10, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 1293,
+        "content": "(AP Photo/Timothy D. Easley)\n   Loughlin's Hallmark show returns without her May 5\n   Actress Lori Loughlin, front, and husband, clothing\n   Trump signs orders to push oil, gas projects\n   President Donald Trump talks with union workers before delivering\n   remarks on executive orders on energy and infrastructure at the\n   International Union of Operating Engineers International Training and\n   Education Center in Crosby, Texas, on April 10, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 1748,
+        "content": "Sexy Easter mannequin display ruined, neighbor charged\n   A Clifton dentist, Dr. Wayne Gangi, has placed no trespassing signs on\n   his Grove Street property after a neighbor took down his admittedly\n   Suspect arrested in Louisiana church fires\n   Mt."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 2001,
+        "content": "Pleasant Baptist Church in St. Landry Parish damaged in a fire\n   Treasury misses deadline to provide Trump's tax returns\n   President Trump speaks to the media in the lobby of\n   Sudanese officials say army forced president to step down\n   In this file photo taken on Oct. 29, 2015 Sudan's President Omar\n   al-Bashir reacts after addressing the India-Africa Forum Summit in New\n   Sex trafficking sting at Final Four nets 58 arrests\n   Minneapolis played host to the 2019 NCAA men's basketball Final Four."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2512,
+        "content": "Why Augusta chairman chose amateur event over LPGA\n   Jennifer Kupcho celebrates her victory at the Augusta National Women's\n   This woman made the black hole picture possible\n   Katie Bouman, a 2007 West Lafayette High School graduate, played a\n   pivotal role in the first-ever photo of a black hole, revealed\n   Wednesday, April 10, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 2854,
+        "content": "This is the status she posted on Facebook:\n   \"Watching in disbelief as the first image I ever made of a black hole\n   was in the process of being reconstructed.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3020,
+        "content": "School nurses often out as kids' needs grow\n   Cahleana Wright, 14, visits with Melissa McCray, APRN-CNP nurse\n   practitioner, at Children's Hospitals' clinic at South Avondale School\n   in Cincinnati, Ohio, on Thursday, April 4, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 3257,
+        "content": "Cahleana had run out\n   of her ADHD prescription and was in to see the doctor for her checkup."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3355,
+        "content": "Oklahoma general lost job over charge of affair\n   Retired Brig. Gen. Robbie Asher, former adjutant general of Oklahoma\n   GOP's PENCIL resolution aims to oust Schiff\n   Rep. Matt Gaetz, R-Fla., speaks during the House Judiciary Committee\n   hearing on gun violence, at Capitol Hill in Washington, Feb. 6, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3670,
+        "content": "What does 'white fragility mean?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 3703,
+        "content": "New words in dictionaries focus on\n   FILE- In this Sunday, Aug. 29, 2010 file photo, an\n   Weaken Trump with tough 2020 primary challenge\n   Easter Playboy bunnies, Roomba burglar: News from around our 50 states\n   The home at the corner of Robin Hood Rd. and Grove\n   High school principal dies after bone marrow donation\n   Westfield High School Principal Dr. Derrick Nelson."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 4085,
+        "content": "'If We Must Die': 100 years after Red Summer\n   One Time Use National Guardsmen, called in by Mayor 'Big Bill' Thompson\n   after three days of rioting, question an African American man in\n   Chicago, 1919."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4291,
+        "content": "The National Guard was able to restore order to the\n   riot-torn city."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 4362,
+        "content": "(Photo by Jun Fujita/Chicago History Museum/Getty\n   Noah: Swalwell presidential bid changes everything"
+      }
+    }
+  ]
+}

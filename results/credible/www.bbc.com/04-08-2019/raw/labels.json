@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.8220895,
+          "topicality": 0.8220895
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.78258353,
+          "topicality": 0.78258353
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.7550978,
+          "topicality": 0.7550978
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.7483336,
+          "topicality": 0.7483336
+        },
+        {
+          "description": "Photography",
+          "mid": "/m/05wkw",
+          "score": 0.6778865,
+          "topicality": 0.6778865
+        },
+        {
+          "description": "Multimedia",
+          "mid": "/m/0541p",
+          "score": 0.5823066,
+          "topicality": 0.5823066
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.skytest.com/backend/datei/snews_1307.jpg"
+          },
+          {
+            "url": "https://www.gearboxcomputers.com/images/snappyfox-home.gif"
+          },
+          {
+            "url": "https://www.thebalancesmb.com/thmb/05QB23fsTOxOuDN0LwDIN1wMZc8=/691x375/filters:no_upscale()/goals-on-track-56a831a15f9b58b7d0f171cd.jpg"
+          },
+          {
+            "url": "https://www.bitrix24.com/images/content_en/external_call.png"
+          },
+          {
+            "url": "https://www.skytest.com/backend/datei/snews_1319.jpg"
+          },
+          {
+            "url": "https://www.datadoctor.biz/images/data-dctr-scr-l.png"
+          },
+          {
+            "url": "https://www.emrfinder.com/wp-content/uploads/2016/07/4-1.jpg"
+          },
+          {
+            "url": "https://www.softwareadvice.com/resources/wp-content/uploads/TFUjPVWQ823OJu9UezO10MCTThZXrF5hP3EnzLZzzHuyEy1bg1oYyrx4t74g_44QWJC8NmjFX5WQzqfp1SHXrj0s5ogJWYgYv8HJqnDCbH6xe-1chr1o3_7nmi6KXiJ4oQpmBfNl.jpg"
+          },
+          {
+            "url": "https://kryptronic.com/media/cms/kscreenshotslg/screen-kryptronicdemo.jpg"
+          },
+          {
+            "url": "http://zilicus.com/tour/Project-Collaboration/Shared-webfolders-files.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.37590498
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.25253034
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.22622454
+          },
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.21290205
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1913
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1878
+          }
+        ]
+      }
+    }
+  ]
+}

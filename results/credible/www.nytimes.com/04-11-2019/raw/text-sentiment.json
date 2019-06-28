@@ -1,0 +1,239 @@
+{
+  "documentSentiment": {
+    "magnitude": 7.8,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "[2]Skip to content[3]Skip to site index\n   Benjamin Netanyahu won."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 70,
+        "content": "The two-state solution lost."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 102,
+        "content": "Abby Wambach's leadership lessons: Be the wolf."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 153,
+        "content": "Adam Higginbotham talks about his new history of the Chernobyl\nJulian Assange Arrested on U.S. Extradition Warrant, London Police Say\n     * The WikiLeaks founder was arrested at the Ecuadorean Embassy in\n       London, where he had lived since 2012."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 409,
+        "content": "* The U.S. warrant raises the possibility that Mr. Assange could be\n       sent there for trial on charges related to the publication of reams\nFrom the archives: This is how the Trump administration stepped up its\n   The WikiLeaks founder Julian Assange in 2017 on the balcony of the\n   Ecuadorean Embassy in London."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 726,
+        "content": "The Ecuadorean government said this March\n   that it had cut off his internet access."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 812,
+        "content": "Matt Dunham/Associated Press\nOmar Hassan al-Bashir Is Removed as Sudan's President\n     * The leader was forced out after months of protests."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 954,
+        "content": "He is accused\n       of war crimes and genocide against his own people."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 1031,
+        "content": "* Mr. al-Bashir has ruled Sudan longer than any leader since the\n       country gained independence in 1956."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 1143,
+        "content": "A protest in Khartoum, Sudan, on Thursday demanding the resignation of\n   President Omar Hassan al-Bashir."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1250,
+        "content": "Agence France-Presse -- Getty Images\n     * As companies and governments gain new powers to follow people\n       across the internet and around the world, the boundaries of privacy\n     * The Times is embarking on this months-long Opinion project to\n       explore the technology and where it's taking us."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 1559,
+        "content": "Facial recognition technology is spreading fast, with alarming\nWhen it comes to your privacy, where would you draw the line?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 1684,
+        "content": "Ex-Obama Counsel Expects to Be Charged Soon in Mueller-Related Case\n     * Gregory B. Craig may soon be indicted on charges related to his\n       work for the Russia-aligned government of Ukraine, lawyers said."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1900,
+        "content": "* Mr. Craig would become the first top Democrat to be charged in a\n       case developed by the special counsel."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2013,
+        "content": "Here's what we might learn from President Trump's tax returns."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 2076,
+        "content": "The National Enquirer Is for Sale, and a Deal Seems Near\n     * The hedge funders who control American Media Inc., the tabloid's\n       owner, are said to have grown uncomfortable after it was at the\n       center of a federal investigation."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 2323,
+        "content": "* The Enquirer is likely to have a buyer in a matter of days,\n       according to two people with direct knowledge of the matter."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 2453,
+        "content": "At Nipsey Hussle's Memorial, Los Angeles Comes Together to Mourn\n     * Thousands of mourners were expected to gather in Los Angeles today\n       to honor the life of the Grammy-nominated rapper who was fatally\n     * The two-hour service will begin at 10 a.m. local time and will be\n       followed by a procession from the Staples Center through South Los\n   The Marathon Clothing, where Nipsey Hussle was shot and killed, became\n   a memorial for the rapper, who owned the store."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2936,
+        "content": "Alex Welsh for The New\n   Sure, electronic eyes are spying."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2996,
+        "content": "But look at all this pocket computer\nWe Are the Most Share-Crazy Humans in the History of the World\n   Dina Litovsky/Redux, for The New York Times\nClimate Chaos Is Coming -- and the Pinkertons Are Ready\n   As they see it, global warming stands to make corporate security as\n   high-stakes in the 21st century as it was in the 19th."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 3328,
+        "content": "Failing New York Subway?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 3353,
+        "content": "Once There Were Chandeliers\n   New York's first subway station opened in 1904 with luxuries that\n   today's subway riders can hardly imagine."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3495,
+        "content": "Here's a look at the station\n   The French port city is shedding much of its once-gritty reputation and\n   emerging as a place where ambitious cultural and culinary offerings\n   We'd like your thoughts on the New York Times home page\n   experience.[52]Let us know what you think\n   Azqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x"
+      }
+    }
+  ]
+}

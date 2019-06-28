@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://mir-s3-cdn-cf.behance.net/projects/404/19018125.548ecb15082a9.jpg"
+          },
+          {
+            "url": "https://www.bigdecision.co.uk/wp-content/uploads/2018/01/light-fantastic-400x225.jpg"
+          },
+          {
+            "url": "https://www.omegatheme.com/images/stories/template_thumbnails/ot-fashion.png"
+          },
+          {
+            "url": "http://eeservices.co/wp-content/uploads/2019/02/dating-website-template-cupid-love-business-corporate-wordpress-by.jpg"
+          },
+          {
+            "url": "https://66.media.tumblr.com/7ceb9014795457f49173745f67f18915/tumblr_ng2s7rQA661qedblno1_1280.png"
+          },
+          {
+            "url": "http://healthywebsites.org/images/custom-website-developer/custom-website-design-42657-opencart-b.jpg"
+          },
+          {
+            "url": "https://designworksnw.com/wp-content/plugins/widgetkit-1/cache/gallery/6841/bretthoebel_com-ee968132cc.png"
+          },
+          {
+            "url": "http://www.joenyeinc.com/wp-content/uploads/2018/11/facebook-101-how-to-make-a-band-page-on-exotic-create-website-prodigous-1.png"
+          },
+          {
+            "url": "http://www.page1solutions.com/sites/www.page1solutions.com/files/the-cochran-firm-washington-dc-website.jpg"
+          },
+          {
+            "url": "https://i.pinimg.com/originals/7b/84/5b/7b845b6e25aeb6458277fdcdad90d488.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.3669439
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.3339349
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.259
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.21729413
+          }
+        ]
+      }
+    }
+  ]
+}

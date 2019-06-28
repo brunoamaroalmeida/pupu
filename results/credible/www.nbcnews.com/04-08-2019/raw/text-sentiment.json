@@ -1,0 +1,169 @@
+{
+  "documentSentiment": {
+    "magnitude": 7.2,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "[15]At the center of Trump's Homeland chaos, Stephen Miller is the lone\n[17]Trump administration cancels MLB deal with Cuba, declares Obama-era\n[19]U.S. Secret Service director is out, latest casualty in DHS shakeup\n   Joseph Prezioso / AFP - Getty Images file\n[21]Actress Felicity Huffman, 13 others to plead guilty in college cheating\n[23]3 American service members killed in car bombing near Afghanistan's\n   Bill O'Leary / The Washington Post - Getty file\n[25]Man accused of stealing truck to carry out terror attack at National\n[27]NBA star Dwyane Wade shares support for son's Miami pride appearance\n[29]Couple missing, didn't return from Dominican Republic trip, family says\n[31]Why much of the country is headed for $4 gas\n   Elizabeth Robertson / Philadelphia Inquirer via AP file\n[33]After fake homeless man goes viral, GoFundMe says it has an answer for\n[35]How a brutal upset changed how Virginia plays -- and drove them to this\n[37]Actress Allison Mack pleads guilty for role in alleged New York sex cult\n[39]Burger King has a meatless 'Impossible' Whopper."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 1071,
+        "content": "Is it healthier?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 1088,
+        "content": "[41]Bibi fatigue: How the Israeli election became a referendum on Benjamin\n[43]Senators urge Trump admin to ease policy on detaining pregnant migrants\n[45]France is 'playing hardball' as U.K. frets on the brink of Brexit\n[47]A radio station becomes a lifeline for endangered indigenous languages\n   Michael Wade / Icon Sportswire via Getty Images\n[49]College gymnast suffers devastating injuries to legs: 'Friday was my\n[50]Prince William spent 3 weeks undercover with British spy agencies\n   Jabin Botsford / The Washington Post via Getty Images file\n[54]Trump's support of renewed child separation policy led to collision with\n[56]Inside Trump's all-about-that-base 2020 strategy\n[58]Buttigieg describes struggle with sexual orientation in emotional speech\n[60]Critics say Yang's cash giveaway means people won't work."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 1909,
+        "content": "Alaska says\n[62]N.Y."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1930,
+        "content": "Democratic lawmakers ready new front to obtain Trump's tax returns\n[64]Judge orders halt to Trump policy of returning asylum seekers to Mexico\n[66]Trump administration moves to undercut MLB's deal with Cuba\n   Elizabeth Robertson / Philadelphia Inquirer via AP file\n[69]After fake homeless man goes viral, GoFundMe says it has an answer for\n[71]A prosecutor in the O.J."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 2300,
+        "content": "trial is defending Nipsey's accused killer."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2344,
+        "content": "His\n[73]Young father vanishes from shopping complex in Ohio\n[75]North Carolina man charged with animal cruelty after abandoning pet fish\n[77]Felicity Huffman, 13 others to plead guilty in college admissions scandal\n[79]More than half of banned books challenged for LGBTQ content\n[81]Man in MAGA hat arrested after bizarre San Francisco sword attack\n[84]Male refugees victimized by sexual violence say U.N. staffer wanted\n[86]3 American service members killed in car bombing near Afghanistan's\n[88]Trump labels Iran's Revolutionary Guard a terror group\n[90]Trump says Uganda must find kidnappers of freed tourist."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2957,
+        "content": "Uganda responds.\n[92]Environmentalists fear rampant deforestation as Brazil's Bolsonaro eyes\n[94]France is 'playing hardball' as U.K. frets on the brink of Brexit\n[97]Why much of the country is headed for $4 gas\n   John Taggart / The Washington Post via Getty Images file\n[101]Space race: Jeff Bezos' internet plans take a cue from Elon Musk\n[103]Two college students accused of scamming Apple out of $900,000 with fake\n[105]U.K. considers direct regulation of social media companies\n[107]Two college students accused of scamming Apple out of $900,000 with fake\n[109]U.K. considers direct regulation of social media companies\n[111]Julio Ricardo Varela Kirstjen Nielsen's resignation shows Stephen Miller\n[112]How William Barr redacts the Mueller report will decide his place in\n[113]Daniel B. ShapiroBibi fatigue: How the Israeli election became a\n[114]'Chilling Adventures of Sabrina' reveals as much about Netflix as it\n[115]'Hotel Mumbai' and the tricky value of movies that dramatize terrorism\n[119]Judge orders halt to Trump policy of returning asylum seekers to Mexico\n[121]Trump administration moves to undercut MLB's deal with Cuba\n   GraphixScholastic Press / Knopf Books / Graphix\n[123]More than half of banned books challenged for LGBTQ content\n   Multonomah County Oregon Sheriff's"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 4251,
+        "content": "Dept.\n[125]Man in MAGA hat arrested after bizarre San Francisco sword attack\n[127]NBA star Dwyane Wade shares support for son's Miami pride appearance\n[129]'Killing Eve' renewed for season three with new showrunner\n[131]A prosecutor in the O.J."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 4496,
+        "content": "trial is defending Nipsey's accused killer."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 4540,
+        "content": "His\n[133]Beyond books: The hidden perks of a free library card\n   Library cards aren't what they used to be."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 4654,
+        "content": "* [134]NCAA Final: How to perform your best when it matters most\n     * [135]Burger King has a meatless 'Impossible' Whopper."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 4780,
+        "content": "Is it\n     * [136]'Imposter syndrome' and 'womxn' among Dictionary.com's new\n     * [137]I decided to stop caring about how I looked -- and it changed\n[140]NASA's $17-billion moon rocket may be doomed before it ever gets to the\n[142]Women in space: NASA's awkward history with female astronauts\n[144]'Self-driving' spacecraft may help save Earth from deadly asteroid\n[148]How Goodwill is using artificial intelligence to make sure luxury items\n[153]How Goodwill is using artificial intelligence to make sure luxury items\n[157]Measles cases jump to 465, mostly in kids, CDC reports\n   GlobalStock / Getty Images/iStockphoto\n[159]What is a stroke?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 5426,
+        "content": "Symptoms, causes, and risks\n[161]What doctors can learn from one mom about changing anti-vaccine minds\n[163]New treatment could offer hope to pancreatic cancer patients\n[166]Pancreatic cancer is often deadly, but a new approach is raising hope\n[168]New treatment could offer hope to pancreatic cancer patients\n[171]Pancreatic cancer is often deadly, but a new approach is raising hope\n   [4ce7f675fd9fa243cc9dc0c485ddb630.svg]\n     * We apologize, we were unable to find your local news."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 5914,
+        "content": "Please try\n   The page design helps me understand the news (BUTTON) no (BUTTON) yes\n   The page design helps me find the content I'm interested in (BUTTON) no\n   Rate your overall experience (BUTTON) 1 (BUTTON) 2 (BUTTON) 3 (BUTTON)\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n 188."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6409,
+        "content": "sms:?body=%20via%20NBC%20News%20-%20https%3A%2F%2Fwww.nbcnews.com%2F"
+      }
+    }
+  ]
+}

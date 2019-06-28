@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9121395,
+          "topicality": 0.9121395
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.7409107,
+          "topicality": 0.7409107
+        },
+        {
+          "description": "Online advertising",
+          "mid": "/m/05b1rx",
+          "score": 0.69598496,
+          "topicality": 0.69598496
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.63684344,
+          "topicality": 0.63684344
+        },
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.6357005,
+          "topicality": 0.6357005
+        },
+        {
+          "description": "Brochure",
+          "mid": "/m/05y_mz",
+          "score": 0.63517046,
+          "topicality": 0.63517046
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5726953,
+          "topicality": 0.5726953
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.5202584,
+          "topicality": 0.5202584
+        },
+        {
+          "description": "Display advertising",
+          "mid": "/m/02_784",
+          "score": 0.5087652,
+          "topicality": 0.5087652
+        }
+      ]
+    }
+  ]
+}

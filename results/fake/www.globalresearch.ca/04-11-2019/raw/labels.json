@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9570587,
+          "topicality": 0.9570587
+        },
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.9569167,
+          "topicality": 0.9569167
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.89962786,
+          "topicality": 0.89962786
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.7483336,
+          "topicality": 0.7483336
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.74574715,
+          "topicality": 0.74574715
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.6282418,
+          "topicality": 0.6282418
+        },
+        {
+          "description": "Software",
+          "mid": "/m/01mf0",
+          "score": 0.6131627,
+          "topicality": 0.6131627
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.6098916,
+          "topicality": 0.6098916
+        },
+        {
+          "description": "Display advertising",
+          "mid": "/m/02_784",
+          "score": 0.57577556,
+          "topicality": 0.57577556
+        },
+        {
+          "description": "Computer program",
+          "mid": "/m/01r9v",
+          "score": 0.54439586,
+          "topicality": 0.54439586
+        }
+      ]
+    }
+  ]
+}

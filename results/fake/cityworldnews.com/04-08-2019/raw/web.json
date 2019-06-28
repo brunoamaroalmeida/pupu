@@ -1,0 +1,77 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://images.news18.com/ibnlive/uploads/2018/09/comedy.jpg"
+          },
+          {
+            "url": "https://images.news18.com/ibnlive/uploads/2018/09/trending.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/DyUnyQ4VYAAlgEQ.jpg"
+          },
+          {
+            "url": "https://i.imgur.com/y712Kj7.png"
+          },
+          {
+            "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/01/Interviewed-730x431.jpg"
+          },
+          {
+            "url": "http://blog.vestorly.com/wp-content/uploads/sites/4/2016/04/Untitled-1.png"
+          },
+          {
+            "url": "http://leepace.info/wp-content/uploads/2013/12/lee-pace-videos.jpg"
+          },
+          {
+            "url": "https://undsgn.com/wp-content/uploads/2018/06/symmetric-grid.png"
+          },
+          {
+            "url": "https://cdn.lifehack.org/wp-content/uploads/2018/09/Screen-Shot-2018-09-18-at-3.17.57-PM.png"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/lfw-march252014-140418015814-phpapp02/95/lakme-fashion-week-social-media-report-18-638.jpg?cb=1397786505"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.27798286
+          },
+          {
+            "description": "New media",
+            "entityId": "/m/01yl50",
+            "score": 0.25662562
+          },
+          {
+            "description": "Media",
+            "entityId": "/m/03qh03g",
+            "score": 0.23942833
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.20136812
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1892
+          },
+          {
+            "description": "Entrepreneurship",
+            "entityId": "/m/02nwq",
+            "score": 0.1724
+          }
+        ]
+      }
+    }
+  ]
+}

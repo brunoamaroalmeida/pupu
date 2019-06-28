@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.7850119,
+          "topicality": 0.7850119
+        },
+        {
+          "description": "Helmet",
+          "mid": "/m/0zvk5",
+          "score": 0.72774076,
+          "topicality": 0.72774076
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.70806944,
+          "topicality": 0.70806944
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.67478096,
+          "topicality": 0.67478096
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.6283476,
+          "topicality": 0.6283476
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.52791756,
+          "topicality": 0.52791756
+        },
+        {
+          "description": "Glove",
+          "mid": "/m/0174n1",
+          "score": 0.50537366,
+          "topicality": 0.50537366
+        }
+      ]
+    }
+  ]
+}

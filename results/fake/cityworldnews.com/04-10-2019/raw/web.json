@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://static.politifact.com/politifact/photos/fakenewsadnetworks.jpg"
+          },
+          {
+            "url": "http://sofiemarien.com/wp-content/uploads/2017/05/thumbnail_qzzr-305x230.png"
+          },
+          {
+            "url": "https://wpdean.com/wp-content/uploads/2015/09/Ritz.jpg"
+          },
+          {
+            "url": "https://images.news18.com/ibnlive/uploads/2018/09/trending.jpg"
+          },
+          {
+            "url": "https://www.bizwebs.com/resize/e/800/500/files/en/reference/flat/chefworkssk.jpg"
+          },
+          {
+            "url": "https://gujims.com/media/cache/image/uploads/assets/269ab86109eda76ad622f930a9e00fc858b9a294.jpeg"
+          },
+          {
+            "url": "https://blogs.brighton.ac.uk/dle12/files/2016/05/Untitled-256o5t9.png"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/lfw-march252014-140418015814-phpapp02/95/lakme-fashion-week-social-media-report-18-638.jpg?cb=1397786505"
+          },
+          {
+            "url": "https://i.etsystatic.com/14971270/d/il/18d891/1638346762/il_340x270.1638346762_hk6c.jpg?version=0"
+          },
+          {
+            "url": "https://www.itsguru.com/wp-content/uploads/2017/05/Colorlines.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.284508
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.19898517
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1852
+          },
+          {
+            "description": "Entrepreneurship",
+            "entityId": "/m/02nwq",
+            "score": 0.1715
+          }
+        ]
+      }
+    }
+  ]
+}

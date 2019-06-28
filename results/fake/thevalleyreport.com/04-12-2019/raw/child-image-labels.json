@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.8363302,
+          "topicality": 0.8363302
+        }
+      ]
+    }
+  ]
+}

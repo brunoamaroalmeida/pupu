@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://corp.kaltura.com/wp-content/uploads/2018/03/Kaltura-MediaSpace-Video-Portal-540-1.jpg"
+          },
+          {
+            "url": "https://www.polinpr.com/wp-content/uploads/2019/03/festival-sun-sentinel-030619-510x382.jpg"
+          },
+          {
+            "url": "http://b-i.forbesimg.com/meghancasserly/files/2013/10/best-websites-20131.jpg"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/assignment1advertisingandmarketing-141020060404-conversion-gate02/95/gcse-media-perfume-advertising-24-638.jpg?cb=1413785164"
+          },
+          {
+            "url": "https://www.fatbit.com/website-design-company/images-web/jayeshmorjariaphotography.png"
+          },
+          {
+            "url": "https://image.slidesharecdn.com/ankuraroramurdercase-130730121454-phpapp02/95/social-media-case-study-ankur-arora-murder-case-12-638.jpg?cb=1375186575"
+          },
+          {
+            "url": "https://www.wpfreeware.com/old/wp-content/uploads/2015/10/Orianna-HTML-Multi-Purpose-Beautiful-Website-Template.jpg"
+          },
+          {
+            "url": "https://flexithemes.com/wp-content/themefiles/Firm/800.jpg"
+          },
+          {
+            "url": "https://www.zyxware.com/files/u1/images/2016/07/legacy.png"
+          },
+          {
+            "url": "https://camo.envatousercontent.com/af018b5af9a8a566a1ac2a5e395e717c801ee25d/687474703a2f2f6c6974746c652d6e656b6f2e636f6d2f74662d70726f66696c652f73706f6f6e732f6974656d2d61642d73706f6f6e732d7570646174652d312d322e6a7067"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.29352286
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.20062928
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.187
+          }
+        ]
+      }
+    }
+  ]
+}

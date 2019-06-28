@@ -1,0 +1,92 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.tubefilter.com/wp-content/uploads/2017/08/youtube-breaking-news.jpg"
+          },
+          {
+            "url": "https://cdn.vox-cdn.com/thumbor/K6_0GiB8OONhwiCoNNDPMV_IXP8=/0x0:2868x1048/1400x1400/filters:focal(564x0:1022x458):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/56264451/Screen_Shot_2017_08_18_at_5.53.04_PM.0.png"
+          },
+          {
+            "url": "https://mcallenlibrary.files.wordpress.com/2016/11/screenshot-2.png?w=748"
+          },
+          {
+            "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/55/e7/b9/55e7b92e-0575-4ac4-e298-3beb1948a56c/pr_source.png/643x0w.jpg"
+          },
+          {
+            "url": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/64/ad/4a64ad5a-8850-2bd7-44b2-0104fc0dfa21/mzl.shgpnyqu.png/643x0w.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/wphive.com/wp-content/uploads/2018/11/Newspaper-1.png?resize=708%2C858&ssl=1"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2018/03/15/us/15FOX1print/14FOX1-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+          },
+          {
+            "url": "https://whatpixel.com/images/2016/tv-network-web-design/47-fuse-tv-website-layout.jpg"
+          },
+          {
+            "url": "https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/04/hollywood_reporter_app.jpg"
+          },
+          {
+            "url": "https://mdn.mozillademos.org/files/12405/bbc-homepage.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.37778047
+          },
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.32395807
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.29966867
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2807
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.2790001
+          },
+          {
+            "description": "News",
+            "entityId": "/m/05jhg",
+            "score": 0.25556725
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1929
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1909
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1875
+          }
+        ]
+      }
+    }
+  ]
+}

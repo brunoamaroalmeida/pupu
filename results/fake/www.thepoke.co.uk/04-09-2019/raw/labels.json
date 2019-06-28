@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.94829154,
+          "topicality": 0.94829154
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.78258353,
+          "topicality": 0.78258353
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.67578053,
+          "topicality": 0.67578053
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.52791756,
+          "topicality": 0.52791756
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.5202584,
+          "topicality": 0.5202584
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.5009609,
+          "topicality": 0.5009609
+        }
+      ]
+    }
+  ]
+}

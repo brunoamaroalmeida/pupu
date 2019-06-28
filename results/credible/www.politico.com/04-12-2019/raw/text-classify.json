@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "confidence": 0.96,
+      "name": "/News/Politics"
+    },
+    {
+      "confidence": 0.55,
+      "name": "/Law & Government/Government"
+    }
+  ]
+}

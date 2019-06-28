@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.85248786,
+          "topicality": 0.85248786
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.80401665,
+          "topicality": 0.80401665
+        },
+        {
+          "description": "Games",
+          "mid": "/m/03bt1gh",
+          "score": 0.69032127,
+          "topicality": 0.69032127
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.6072695,
+          "topicality": 0.6072695
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.58000505,
+          "topicality": 0.58000505
+        },
+        {
+          "description": "Photo caption",
+          "mid": "/m/0b75wg4",
+          "score": 0.56058925,
+          "topicality": 0.56058925
+        },
+        {
+          "description": "Manager",
+          "mid": "/m/02hyt6",
+          "score": 0.5220936,
+          "topicality": 0.5220936
+        }
+      ]
+    }
+  ]
+}

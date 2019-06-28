@@ -1,0 +1,149 @@
+{
+  "documentSentiment": {
+    "magnitude": 5.6,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "[15]WikiLeaks' Julian Assange arrested in London; U.S. seeks extradition on\n[17]Bearded Julian Assange is arrested and removed from Ecuadorian Embassy\n[19]Post Mueller, Trump pushes the bounds of his power\n[21]Arrest made in `suspicious' fires at three black churches in Louisiana\n[23]After high-stakes summit, Europe and Britain agree new Oct. 31 Brexit\n[25]National Enquirer up for sale after public clash with Amazon CEO Jeff\n   Justin Tallis / AFP - Getty Images file\n[27]The Morning Rundown: Today's top headlines\n[29]Mnuchin says Treasury won't meet Democrats' deadline for Trump's taxes\n[31]Brain scans on living ex-NFL players may be first step toward diagnosing\n[33]Texas lawmakers consider death penalty for women who get abortions\n[35]Hikers missing for 5 days found safe in California mountains\n[37]Twice as many companies paying zero taxes under Trump tax plan\n[39]Massive spring storm wreaks havoc across Midwest\n[41]Job-related falls should be easy to prevent."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 976,
+        "content": "Workers keep dying anyway."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1003,
+        "content": "[43]Sudan's autocratic leader reportedly driven from power after 3 decades\n[45]Kim Kardashian, Esq.?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1104,
+        "content": "Reality star says she's studying to take the bar\n[47]5 science-backed tips to help you shed winter weight\n[49]NBA star Dwyane Wade plays final game\n[51]First photo of a black hole reveals what had been previously unseeable\n[53]Hours from care, rural communities struggle as hospitals shutter\n[54]John F. Kennedy Jr.'s beloved colleagues share stories 20 years after his\n[57]Rapper's brutal killing by police the latest incident in a city fed up\n[60]DNC launches hyper-local 2020 effort to shadow Trump on the trail\n[62]'Unfounded, irresponsible': Dems rip AG Barr remark about 'spying' on\n[64]Sen. Sanders unveiled a new 'Medicare For All' bill."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 1750,
+        "content": "Allies wonder how\n[66]GOP worried over Trump's shakeup at Homeland Security\n[68]The acting director of Immigration and Customs Enforcement is leaving\n[70]Presidential hopeful Pete Buttigieg, Pences trade barbs\n[72]Mnuchin: Lawyers spoke with Treasury Dept."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 2007,
+        "content": "about request for Trump tax\n[74]Texas Tech medical school reaches deal with Trump admin to stop using\n   Bertrand Guay / AFP - Getty Images file\n[77]Facebook's battle against disinformation adds a new weapon -- the 'click\n[79]Amazon employees push for company to 'be a climate leader' to combat\n[81]Lawmakers held a hearing on white nationalism."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 2353,
+        "content": "It was immediately\n[83]New bill aims to stamp out bias in algorithms used by companies\n[85]House passes net neutrality bill -- but it won't have a chance in the\n[87]Julian Assange arrested in London; U.S. seeks extradition on sealed\n[89]Your next car may not allow you to speed on the highway\n[91]AOC's power comes from the relentless conservative obsession with her\n[92]Federico A. de Jes\u00fasThe real-world consequences of Trump's lies about\n[93]Steve VladeckWhy Democrats' idea to expand the Supreme Court would\n[94]Lil Nas X hit 'Old Town Road' forces country music to reckon with its\n[95]Uber built a billion-dollar company on the work of drivers it won't\n[99]New York couple missing in Dominican Republic are both believed to be\n[101]Charles Van Doren, who was involved in 1950s game show scandals, dies\n[103]South L.A. intersection will be renamed after Nipsey Hussle\n[105]2 people found dead at prominent Minnesota businessman's home\n[107]Deputies with 'guns drawn' respond to report of intruder -- find a\n[109]Wrongful death lawsuit against Michelle Carter dismissed\n[111]Hilaria Baldwin's miscarriage announcement highlights an often unspoken\n[114]Julian Assange arrested in London"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3542,
+        "content": "; U.S. seeks extradition on sealed\n[116]WATCH: Bearded Julian Assange is arrested and removed from Ecuadorian\n[118]Sudan's autocratic leader reportedly driven from power after 3 decades\n[120]The world's largest democratic exercise gets underway in India\n[122]Europe and Britain agree to a new Brexit deadline of Oct. 31\n[124]The world's largest democratic exercise gets underway in India\n[126]Europe and Britain agree to a new Brexit deadline of Oct. 31\n[129]Suspect in 3 Louisiana church fires is deputy's son, source says\n[131]Arizona moves to repeal law banning promotion of 'homosexual life-style'\n[133]Russian court sides with transgender woman who sued employer\n[135]The acting director of Immigration and Customs Enforcement is leaving\n[137]South L.A. intersection will be renamed after Nipsey Hussle\n[139]Democratic senators introduce bill to protect LGBTQ youth from abuse\n[141]Presidential hopeful Pete Buttigieg, Pences trade barbs\n[143]5 science-backed tips to help you shed winter weight\n   Spring is the best time of year to recommit to healthy habits."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 4609,
+        "content": "Here are\n   simple ways to get healthier and shed pounds."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 4672,
+        "content": "* [144]Dark web monitoring: Useful way to fight identity theft or\n     * [145]5 DIY beauty recipes you can make at home\n     * [146]This simple kitchen tool will change the way you cook this\n     * [147]Beyond paper straws: More hacks for reducing plastic at home\n[150]First photo of a black hole reveals unseeable\n   Armand Salvadore Nujares / AFP - Getty Images file\n[152]Fossils of new human species discovered in Philippines cave\n[154]Israeli space probe prepares for historic moon landing\n[156]'Self-driving' spacecraft may help save Earth from deadly asteroid\n[158]NASA's $17-billion moon rocket may be doomed before it ever gets to the\n[160]'Self-driving' spacecraft may help save Earth from deadly asteroid\n[162]NASA's $17-billion moon rocket may be doomed before it ever gets to the\n[165]8 new measles cases in New York's Westchester County as outbreak grows\n[167]Brain scans detect abnormal proteins in NFL players with CTE, study\n[169]Hilaria Baldwin's miscarriage announcement highlights an often unspoken\n[171]Spread of fast-moving and drug-resistant deadly fungus spurs concern\n[173]Woman lived to 99 with most organs on wrong side of body\n[175]Spread of"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5841,
+        "content": "fast-moving and drug-resistant deadly fungus spurs concern\n[177]Woman lived to 99 with most organs on wrong side of body\n   [4ce7f675fd9fa243cc9dc0c485ddb630.svg]\n     * We apologize, we were unable to find your local news."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6065,
+        "content": "Please try\n[179]Rural hospitals are closing -- what now?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 6125,
+        "content": "The page design helps me understand the news (BUTTON) no (BUTTON) yes\n   The page design helps me find the content I'm interested in (BUTTON) no\n   Rate your overall experience (BUTTON) 1 (BUTTON) 2 (BUTTON) 3 (BUTTON)\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n 194."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6606,
+        "content": "sms:?body=%20via%20NBC%20News%20-%20https%3A%2F%2Fwww.nbcnews.com%2F"
+      }
+    }
+  ]
+}

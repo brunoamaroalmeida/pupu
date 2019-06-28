@@ -1,0 +1,608 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9121395,
+          "topicality": 0.9121395
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.78258353,
+          "topicality": 0.78258353
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.97045726,
+          "topicality": 0.97045726
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9447941,
+          "topicality": 0.9447941
+        },
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.9389784,
+          "topicality": 0.9389784
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9249567,
+          "topicality": 0.9249567
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.92342395,
+          "topicality": 0.92342395
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.90592957,
+          "topicality": 0.90592957
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.89017737,
+          "topicality": 0.89017737
+        },
+        {
+          "description": "Lady",
+          "mid": "/m/02pkb8",
+          "score": 0.88771355,
+          "topicality": 0.88771355
+        },
+        {
+          "description": "Wrinkle",
+          "mid": "/m/02_x63",
+          "score": 0.8717871,
+          "topicality": 0.8717871
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.8639557,
+          "topicality": 0.8639557
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.8217551,
+          "topicality": 0.8217551
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8092026,
+          "topicality": 0.8092026
+        },
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.729914,
+          "topicality": 0.729914
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.721235,
+          "topicality": 0.721235
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.6931464,
+          "topicality": 0.6931464
+        },
+        {
+          "description": "Newscaster",
+          "mid": "/m/025m070",
+          "score": 0.65414256,
+          "topicality": 0.65414256
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.63153833,
+          "topicality": 0.63153833
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.6154919,
+          "topicality": 0.6154919
+        },
+        {
+          "description": "Television presenter",
+          "mid": "/m/0vpsd3h",
+          "score": 0.57707804,
+          "topicality": 0.57707804
+        },
+        {
+          "description": "Newsreader",
+          "mid": "/m/03tpc9",
+          "score": 0.5286086,
+          "topicality": 0.5286086
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.93756056,
+          "topicality": 0.93756056
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.92071724,
+          "topicality": 0.92071724
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9029945,
+          "topicality": 0.9029945
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.9010037,
+          "topicality": 0.9010037
+        },
+        {
+          "description": "Van",
+          "mid": "/m/0h2r6",
+          "score": 0.89053035,
+          "topicality": 0.89053035
+        },
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.8653635,
+          "topicality": 0.8653635
+        },
+        {
+          "description": "Minibus",
+          "mid": "/m/045jsc",
+          "score": 0.8555196,
+          "topicality": 0.8555196
+        },
+        {
+          "description": "Commercial vehicle",
+          "mid": "/m/0fkwjg",
+          "score": 0.7576693,
+          "topicality": 0.7576693
+        },
+        {
+          "description": "Microvan",
+          "mid": "/m/02vmj2h",
+          "score": 0.6646065,
+          "topicality": 0.6646065
+        },
+        {
+          "description": "Minivan",
+          "mid": "/m/057gn",
+          "score": 0.65556437,
+          "topicality": 0.65556437
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9686011,
+          "topicality": 0.9686011
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.9102201,
+          "topicality": 0.9102201
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.9026595,
+          "topicality": 0.9026595
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.7080983,
+          "topicality": 0.7080983
+        },
+        {
+          "description": "Pleased",
+          "mid": "/j/4kr7kk",
+          "score": 0.62671983,
+          "topicality": 0.62671983
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.5514583,
+          "topicality": 0.5514583
+        },
+        {
+          "description": "Comb over",
+          "mid": "/m/03gktj",
+          "score": 0.5332611,
+          "topicality": 0.5332611
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.52669495,
+          "topicality": 0.52669495
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.8691199,
+          "topicality": 0.8691199
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.8381285,
+          "topicality": 0.8381285
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.7436686,
+          "topicality": 0.7436686
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.6942809,
+          "topicality": 0.6942809
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.6728239,
+          "topicality": 0.6728239
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.6369653,
+          "topicality": 0.6369653
+        },
+        {
+          "description": "Tuxedo",
+          "mid": "/m/0280yrc",
+          "score": 0.6254854,
+          "topicality": 0.6254854
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.5404296,
+          "topicality": 0.5404296
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.77847916,
+          "topicality": 0.77847916
+        },
+        {
+          "description": "Elder",
+          "mid": "/m/027v9wk",
+          "score": 0.7430844,
+          "topicality": 0.7430844
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.7326057,
+          "topicality": 0.7326057
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.7090374,
+          "topicality": 0.7090374
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.8853586,
+          "topicality": 0.8853586
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.82750785,
+          "topicality": 0.82750785
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.55956,
+          "topicality": 0.55956
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "World",
+          "mid": "/m/09nm_",
+          "score": 0.685502,
+          "topicality": 0.685502
+        },
+        {
+          "description": "Byzantine architecture",
+          "mid": "/m/01sqnx",
+          "score": 0.64125186,
+          "topicality": 0.64125186
+        },
+        {
+          "description": "Building",
+          "mid": "/m/0cgh4",
+          "score": 0.62304,
+          "topicality": 0.62304
+        },
+        {
+          "description": "History",
+          "mid": "/m/03g3w",
+          "score": 0.57590634,
+          "topicality": 0.57590634
+        },
+        {
+          "description": "Tourism",
+          "mid": "/m/07bxq",
+          "score": 0.56889546,
+          "topicality": 0.56889546
+        },
+        {
+          "description": "City",
+          "mid": "/m/01n32",
+          "score": 0.5619293,
+          "topicality": 0.5619293
+        },
+        {
+          "description": "Medieval architecture",
+          "mid": "/m/01ht1r",
+          "score": 0.52190346,
+          "topicality": 0.52190346
+        },
+        {
+          "description": "Strategy video game",
+          "mid": "/m/03hf_rm",
+          "score": 0.50686204,
+          "topicality": 0.50686204
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.84609026,
+          "topicality": 0.84609026
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.60713905,
+          "topicality": 0.60713905
+        },
+        {
+          "description": "Photo caption",
+          "mid": "/m/0b75wg4",
+          "score": 0.58299434,
+          "topicality": 0.58299434
+        },
+        {
+          "description": "Games",
+          "mid": "/m/03bt1gh",
+          "score": 0.5211578,
+          "topicality": 0.5211578
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9736677,
+          "topicality": 0.9736677
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.94841564,
+          "topicality": 0.94841564
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9736677,
+          "topicality": 0.9736677
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.94841564,
+          "topicality": 0.94841564
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.95408416,
+          "topicality": 0.95408416
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9252632,
+          "topicality": 0.9252632
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.91277134,
+          "topicality": 0.91277134
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7984547,
+          "topicality": 0.7984547
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.776853,
+          "topicality": 0.776853
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.7325321,
+          "topicality": 0.7325321
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.72982013,
+          "topicality": 0.72982013
+        },
+        {
+          "description": "Signage",
+          "mid": "/m/0bkqqh",
+          "score": 0.6875649,
+          "topicality": 0.6875649
+        },
+        {
+          "description": "Company",
+          "mid": "/m/03bxgrp",
+          "score": 0.6733425,
+          "topicality": 0.6733425
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5272959,
+          "topicality": 0.5272959
+        }
+      ]
+    }
+  ]
+}

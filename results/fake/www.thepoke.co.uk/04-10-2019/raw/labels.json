@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9439934,
+          "topicality": 0.9439934
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.8412651,
+          "topicality": 0.8412651
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.7822764,
+          "topicality": 0.7822764
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.6117183,
+          "topicality": 0.6117183
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.61134934,
+          "topicality": 0.61134934
+        }
+      ]
+    }
+  ]
+}

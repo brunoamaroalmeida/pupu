@@ -1,0 +1,78 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "daily telegraph",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.silkspr-marketing.com/print/43/Telegraph-HRH_at_HMS_Prince_of_W.jpg"
+          },
+          {
+            "url": "https://www.pressgazette.co.uk/wp-content/uploads/2018/08/Telegraph-front-page-23-August-2018-e1535029967762.jpg"
+          },
+          {
+            "url": "https://www.telegraph.co.uk/content/dam/politics/2018/12/13/Brexit-paper-reaction_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png?imwidth=450"
+          },
+          {
+            "url": "https://mumbrella.com.au/wp-content/uploads/2017/08/The-Daily-Telegraph-home-page.png"
+          },
+          {
+            "url": "https://secure.i.telegraph.co.uk/multimedia/archive/01631/20050506-6th-May-2_1631857i.jpg"
+          },
+          {
+            "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-11/15/3/asset/buzzfeed-prod-fastlane-01/sub-buzz-9087-1510736052-1.png?downsize=700:*&output-format=auto&output-quality=auto"
+          },
+          {
+            "url": "http://dtc-telecom.co.uk/wp-content/uploads/2014/08/Daily-Telegraph-Article-18th-Feb-2012.jpg"
+          },
+          {
+            "url": "https://secure.i.telegraph.co.uk/multimedia/archive/01631/20010608-8th-June-_1631858i.jpg"
+          },
+          {
+            "url": "https://www.telegraph.co.uk/content/dam/sport/2017/02/28/ss-composite-image-2017-2-28-9-49_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png?imwidth=450"
+          },
+          {
+            "url": "http://cf.broadsheet.ie/wp-content/uploads/2013/11/telegraph.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.27482057
+          },
+          {
+            "description": "Suit",
+            "entityId": "/m/01xyhv",
+            "score": 0.25793946
+          },
+          {
+            "description": "Business",
+            "entityId": "/g/120y8l81",
+            "score": 0.2394
+          },
+          {
+            "description": "The Daily Telegraph",
+            "entityId": "/m/0179qd",
+            "score": 0.1937
+          },
+          {
+            "description": "Entrepreneurship",
+            "entityId": "/m/02nwq",
+            "score": 0.1865
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1851
+          }
+        ]
+      }
+    }
+  ]
+}

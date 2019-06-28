@@ -1,0 +1,119 @@
+{
+  "documentSentiment": {
+    "magnitude": 5.1,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "[15]Trump admin wants to make asylum harder by putting CBP agents in charge\n[17]Lori Loughlin among 16 indicted on new charges in college cheating scheme\n   HHS, Office of Inspector General via AP\n[19]Feds take down $1 billion Medicare fraud scheme in 'Operation Brace\n[21]Early spring storm threatens central U.S. with blizzard conditions\n[23]Trump claims he is not considering reinstating child separation policy\n[25]Lawmakers held a hearing on white nationalism."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 466,
+        "content": "It was immediately\n[27]Mnuchin: White House lawyers spoke with Treasury Dept."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 544,
+        "content": "about request for\n[29]People are waiting longer this year to file their taxes -- because\n[31]Bank of America is raising its minimum wage for employees to $20 an hour\n[33]Florida good Samaritan shot dead after picking up tabs at Waffle House\n[35]Barr 'reviewing the conduct' of FBI's 2016 probe of Trump team Russia\n[37]N.Y. firefighter among 3 U.S. service members killed in roadside Afghan\n[39]A high-stakes meeting will decide Brexit's fate -- but the U.K. won't be\n[41]Netanyahu's party admits it hired 1,200 people to secretly film Arab\n[43]NYC declares health emergency amid measles outbreak in Brooklyn\n[45]Black church burnings in Louisiana has parishoners on edge\n[47]Taylor Swift donates $113K to defeat Tennessee's 'slate of hate' bills\n[49]Beyond paper straws: More hacks for reducing plastic at home\n[50]Hilaria Baldwin opens up about suffering a possible miscarriage\n[54]Judge orders halt to Trump policy of returning asylum seekers to Mexico\n[56]California Rep. Eric Swalwell enters 2020 presidential race with focus on\n[58]U.S. Secret Service director is out, latest casualty in DHS shakeup\n   Jabin Botsford / The Washington Post/Getty Images file\n[60]Trump's support of renewed child separation policy"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 1763,
+        "content": "led to collision with\n   Jabin Botsford / The Washington Post via Getty Images file\n[62]Under Trump, more leaks -- and more leak investigations\n[64]Feds take down $1 billion Medicare fraud scheme in 'Operation Brace\n[66]Trump admin wants to make asylum harder by putting CBP agents in charge\n[68]Trump claims he is not considering reinstating child separation policy\n   Joseph Prezioso / AFP - Getty Images file\n[71]Felicity Huffman, 13 others to plead guilty in college admissions scandal\n   Bill O'Leary / The Washington Post - Getty file\n[73]Man accused of stealing truck to carry out terror attack at National\n[75]Man who said he was missing boy Timmothy Pitzen due in court\n   Demetrius Freeman / The New York Times via Redux Pictures\n[77]NYC cracks down on yeshivas that let in unvaccinated students\n[79]Women sue Uber for not warning of sexual assaults by fake drivers\n[81]Lori Loughlin among 16 parents indicted on new charges in college\n[83]New York City declares health emergency amid measles outbreak in Brooklyn\n[86]Israeli voters get choice between 'King Bibi' Netanyahu and 'new path'\n[88]3 American service members killed in car bombing near Afghanistan's\n[90]France is 'playing hardball' as U.K. frets on the brink of Brexit\n[92"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 3007,
+        "content": "]A high-stakes meeting will decide Brexit's fate -- and the U.K. won't be\n[94]16 Saudis barred from U.S. for role in Khashoggi's murder\n[96]A high-stakes meeting will decide Brexit's fate -- and the U.K. won't be\n[98]16 Saudis barred from U.S. for role in Khashoggi's murder\n[101]Bank of America is raising its minimum wage for employees to $20 an hour\n[103]White nationalism hearing hit by wave of hate speech on YouTube\n[105]People are waiting longer this year to file their taxes -- because\n[107]Facebook launches new tool to help users memorialize loved ones\n[109]Europe slams 'exaggerated' U.S. tariff threat and prepares to retaliate\n[111]Acura recalls 360,000 SUVs because tail lights can go dark\n[113]Julio Ricardo Varela Kirstjen Nielsen's resignation shows Stephen Miller\n[114]Lil Nas X hit 'Old Town Road' forces country music to reckon with its\n[115]Daniel B. ShapiroBibi fatigue: How the Israeli election became a\n[116]How William Barr redacts the Mueller report will decide his place in\n[117]'Chilling Adventures of Sabrina' reveals as much about Netflix as it\n[121]Black church burnings in Louisiana has parishoners on edge\n[123]Trump admin wants to make"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 4177,
+        "content": "asylum harder by putting CBP agents in charge\n[125]Taylor Swift donates $113,000 to defeat Tennessee's 'slate of hate'\n[127]Lin-Manuel Miranda's 'Hamilton' inspires Oprah to donate $2M to Puerto\n[129]'Jezebel' explores survival, internet sex work and black women's\n[131]LGBTQ donors help Pete Buttigieg defy 2020 expectations\n[133]Judge orders halt to Trump policy of returning asylum seekers to Mexico\n[135]Beyond paper straws: More hacks for reducing plastic at home\n   Try these simple, no-plastic hacks for a greener home."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 4709,
+        "content": "* [136]Spring cleaning hack: 6 surprising uses for Windex\n     * [137]The hidden perks of a free library card\n     * [138]NCAA Final: How to perform your best when it matters most\n     * [139]Burger King has a meatless 'Impossible' Whopper."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 4950,
+        "content": "Is it\n[142]Scientists create artificial blood vessels that come to life\n[144]SpaceX's Falcon Heavy rocket set for first commercial launch."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 5089,
+        "content": "Here's how\n[146]Women in space: NASA's awkward history with female astronauts\n[148]'Self-driving' spacecraft may help save Earth from deadly asteroid\n[150]NASA's $17-billion moon rocket may be doomed before it ever gets to the\n[152]'Self-driving' spacecraft may help save Earth from deadly asteroid\n[154]NASA's $17-billion moon rocket may be doomed before it ever gets to the\n   HHS, Office of Inspector General via AP\n[157]Feds take down $1 billion Medicare fraud scheme in 'Operation Brace\n   Demetrius Freeman / The New York Times via Redux Pictures\n[159]NYC cracks down on yeshivas that let in unvaccinated students\n[161]Vitamin supplements don't help longevity, study finds\n[163]Alarming surge in measles cases in the past week\n[166]Measles cases jump to 465, mostly in kids, CDC reports\n[168]Alarming surge in measles cases in the past week\n[171]Measles cases jump to 465, mostly in kids, CDC reports\n   [4ce7f675fd9fa243cc9dc0c485ddb630.svg]\n     * We apologize, we were unable to find your local news."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 6099,
+        "content": "Please try\n   The page design helps me understand the news (BUTTON) no (BUTTON) yes\n   The page design helps me find the content I'm interested in (BUTTON) no\n   Rate your overall experience (BUTTON) 1 (BUTTON) 2 (BUTTON) 3 (BUTTON)\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n   ____________________________________________________________\n 188."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6594,
+        "content": "sms:?body=%20via%20NBC%20News%20-%20https%3A%2F%2Fwww.nbcnews.com%2F"
+      }
+    }
+  ]
+}

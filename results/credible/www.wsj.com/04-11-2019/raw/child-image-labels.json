@@ -1,0 +1,188 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.8550754,
+          "topicality": 0.8550754
+        },
+        {
+          "description": "Games",
+          "mid": "/m/03bt1gh",
+          "score": 0.8287339,
+          "topicality": 0.8287339
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.59429896,
+          "topicality": 0.59429896
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.7977064,
+          "topicality": 0.7977064
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.77550215,
+          "topicality": 0.77550215
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.77152836,
+          "topicality": 0.77152836
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.76774484,
+          "topicality": 0.76774484
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.66909367,
+          "topicality": 0.66909367
+        },
+        {
+          "description": "Business",
+          "mid": "/m/09s1f",
+          "score": 0.651153,
+          "topicality": 0.651153
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.63049066,
+          "topicality": 0.63049066
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.5537464,
+          "topicality": 0.5537464
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.79165953,
+          "topicality": 0.79165953
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.6822785,
+          "topicality": 0.6822785
+        },
+        {
+          "description": "Adaptation",
+          "mid": "/m/03r_vp",
+          "score": 0.6696612,
+          "topicality": 0.6696612
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.6513649,
+          "topicality": 0.6513649
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.55956,
+          "topicality": 0.55956
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.52628326,
+          "topicality": 0.52628326
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tree",
+          "mid": "/m/07j7r",
+          "score": 0.68692183,
+          "topicality": 0.68692183
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.6427465,
+          "topicality": 0.6427465
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.63881713,
+          "topicality": 0.63881713
+        },
+        {
+          "description": "Surfboard",
+          "mid": "/m/019w40",
+          "score": 0.61102396,
+          "topicality": 0.61102396
+        },
+        {
+          "description": "Land lot",
+          "mid": "/m/0gs32y",
+          "score": 0.59860593,
+          "topicality": 0.59860593
+        },
+        {
+          "description": "Plant",
+          "mid": "/m/05s2s",
+          "score": 0.58547497,
+          "topicality": 0.58547497
+        },
+        {
+          "description": "Home",
+          "mid": "/m/01l0mw",
+          "score": 0.5695544,
+          "topicality": 0.5695544
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.5459583,
+          "topicality": 0.5459583
+        },
+        {
+          "description": "Tourism",
+          "mid": "/m/07bxq",
+          "score": 0.5114329,
+          "topicality": 0.5114329
+        }
+      ]
+    }
+  ]
+}

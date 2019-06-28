@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "duffel blog",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://scontent-atl3-1.cdninstagram.com/vp/57d20a06d700b82c40bcfe9d3fab342d/5D0CBDEE/t51.2885-15/e35/42924038_357404968329143_4308463482510116014_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/C_QGKESUwAAmFf1.jpg"
+          },
+          {
+            "url": "https://img.memecdn.com/0-kills-1-death-no-respawn_o_4475889.jpg"
+          },
+          {
+            "url": "https://pics.me.me/thumb_db-duffel-blog-duffel-blog-breaking-trump-appoints-french-immigrant-20686755.png"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/RdPYSllF39w/maxresdefault.jpg"
+          },
+          {
+            "url": "https://megamailer.info/wp-content/uploads/2018/11/army-wife-meme-admirable-81-unique-army-memes-of-army-wife-meme.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/6F3-j2IpLgU/mqdefault.jpg"
+          },
+          {
+            "url": "https://megamailer.info/wp-content/uploads/2018/11/army-wife-meme-best-of-military-wife-really-such-an-accurate-meme-of-army-wife-meme.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/TH-bAYuwwYo/hqdefault.jpg"
+          },
+          {
+            "url": "https://ytimg.googleusercontent.com/vi/TH-bAYuwwYo/mqdefault.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Duffel Blog",
+            "entityId": "/m/0l8mmcm",
+            "score": 0.303
+          },
+          {
+            "description": "Duffel Bags",
+            "entityId": "/m/06tlg8",
+            "score": 0.2456
+          },
+          {
+            "description": "Blog",
+            "entityId": "/m/084dw",
+            "score": 0.2336
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.22827789
+          }
+        ]
+      }
+    }
+  ]
+}

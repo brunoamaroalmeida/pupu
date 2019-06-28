@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "jaw"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.aribaflor.com/wp-content/uploads/2018/07/FlowerBuzz-gets-launched-1019x1024.jpg"
+          },
+          {
+            "url": "https://s.tmimgcdn.com/scr/58400/herber-accurate-organic-food-online-store-website-template_58411-original.jpg?width=400&height=400"
+          },
+          {
+            "url": "https://webcreate.com/sites/default/files/portfolio_knollwood.jpg"
+          },
+          {
+            "url": "http://www.chreos.com/images/CLCWholesaleWebsite.jpg"
+          },
+          {
+            "url": "https://www.elpedregalsal.com/wp-content/uploads/2018/10/spa-website-templates-free-download-new-free-download-top-best-spa-salon-website-templates-of-spa-website-templates-free-download.jpg"
+          },
+          {
+            "url": "https://www.internetintrigue.com/uploads/2/8/7/4/28748783/_5025960_orig.png"
+          },
+          {
+            "url": "https://whatpixel.com/images/2016/04/52-white-mountain-school-website.jpg"
+          },
+          {
+            "url": "https://www.ulyssesroom.com/g/019-template-ideas-best-website-templates-free-estore-wordpress-ecommerce-theme-1024x890.jpg"
+          },
+          {
+            "url": "https://images.template.net/wp-content/uploads/2016/09/07105514/Responsive-Cake-Party-Website-Template.jpg"
+          },
+          {
+            "url": "http://www.crossleywebsites.co.uk/wp-content/uploads/2014/10/TWS-Featured-370x370.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.3165543
+          },
+          {
+            "description": "Jaw",
+            "entityId": "/m/01k9lj",
+            "score": 0.23865248
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.21982752
+          }
+        ]
+      }
+    }
+  ]
+}

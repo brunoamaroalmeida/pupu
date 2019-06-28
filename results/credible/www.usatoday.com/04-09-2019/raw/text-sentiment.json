@@ -1,0 +1,169 @@
+{
+  "documentSentiment": {
+    "magnitude": 4.4,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Welcome to USA TODAY NETWORK'S EUROPEAN UNION EXPERIENCE\n   An accountant chewing on a pencil as he closely examines figures from\n   Another tax complication is coming this year\n   Actress Lori Loughlin, front, and husband, clothing\n   Marine killed in Afghanistan was decorated NYC firefighter\n   This undated photo, provided in New York, on April 9, 2019, shows Fire\n   Department of New York firefighter Christopher Slutman."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 428,
+        "content": "Slutman, a\n   15-year member of the Fire Dept. of New York, was among three American\n   service members killed by a roadside bomb in Afghanistan on Monday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 587,
+        "content": "Gymnast with gruesome leg injuries has surgery\n   Auburn gymnast Samantha Cerio sustained devastating injuries to both\n   AT&T turns on seven more 5G cities, total now 19\n   How Ring plans to cut crime in your neighborhood\n   Ring Chief Inventor Jamie Siminoff poses in his office with a Ring\n   Doctor dragged off United flight speaks publicly for first time\n   Virginia turns tables on stingy Texas Tech defense\n   Texas Tech coach Chris Beard consoles guard Jarrett Culver after losing\n   to Virginia in the 2019 NCAA tournament national title game."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1143,
+        "content": "Booker to introduce slavery reparations bill\n   U.S. Sen. Cory Booker, D-N.J., addresses a gathering during a campaign\n   stop in Portsmouth, N.H., Saturday, Feb. 16, 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1319,
+        "content": "Vitamins won't help you live longer, new study says\n   Vitamins and minerals can help you live longer, so long as they come\n   from food instead of supplements, a study suggests."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1501,
+        "content": "Barr says he'll reveal Mueller report 'within a week'\n   Attorney General William Barr testifies before the House Appropriation\n   subcommittee on Commerce, Justice, Science, and Related Agencies."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1701,
+        "content": "Different kind of tears, police escort for UVA now\n   Virginia Cavaliers players celebrate with the trophy after defeating\n   the Texas Tech Red Raiders in the national championship game."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1892,
+        "content": "'This may not be your typical blizzard': 200 million face weather mess\n   Penza Lemba clears the snow off her vehicle on Jefferson Street in\n   Lewiston, Maine, on Monday, April 8, 2019, as snow piled up overnight."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2110,
+        "content": "While New England digs out from one storm, another snowstorm is bearing\n   Flight goes dark, deploys oxygen masks in error\n   FILE - In this Jan. 10, 2017 file photo, British Airways planes are\n   parked at Heathrow Airport in London."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 2345,
+        "content": "??British Airways will resume\n   flights to Pakistan in June 2019, a decade after it suspended\n   operations following bombing on the Marriott Hotel in Islamabad that\n   killed dozens, an official of British Airways said in a statement,\n   Tuesday Dec. 18."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2602,
+        "content": "2018."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2608,
+        "content": "(AP Photo/Frank Augstein, File) ORG XMIT: ISL101\n   USA TODAY Network to host food festival in 10 cities\n   Martha Stewart will be making an appearance in Naples, Fla. where she\n   will host a cooking demonstration and seminar."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 2839,
+        "content": "NYC declares measles emergency, blames 'fake science'\n   Steve Sierzega receives a measles, mumps and rubella vaccine at the\n   Rockland County Health Department in Pomona, New York, on March 27,\n   Exclusive: How Pelosi is wrangling divided Dems\n   Speaker of the House Nancy Pelosi with Cathy Jenkins, the owner of\n   Cathy's Kitchen in Ferguson, Mo."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 3192,
+        "content": "Rep. Lacy Clay, who represents\n   'Game of Thrones' Easter eggs you might've missed\n   O'Donnell regrets speaking out in 'View' tell-all\n   Rosie O'Donnell attends the Season 8 premiere of \"Game Of Thrones\" on\n   Don't discount danger of US measles outbreak\n   A measles outbreak is spreading across a Washington county known for\n   choosing not to vaccinate its children, and health officials have\n   Trump: No plan to reinstate 'family separation'\n   President Donald Trump attends a roundtable discussion about the\n   Republican $1.5 trillion tax cut package he recently signed into law on\n   Omar calls Jewish Stephen Miller 'white nationalist'\n   Rep. Ilhan Omar, D-Minn., attends an address by NATO Secretary General\n   Jens Stoltenberg at a joint session of Congress, on Capitol Hill in\n   Woman lived 99 years not knowing her organs were in the wrong places\n   Rose Marie Bentley, shown here in an undated photo near the end of her\n   life, apparently lived 99 years without knowing she had a rare\n   anatomical condition called situs inversus with levocardia."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4264,
+        "content": "What does Trump's 'tougher direction' immigration plan look like?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 4333,
+        "content": "Homeland Security Secretary Kirstjen Nielsen resigned\n   Olivia Jade works to trademark brand after scandal\n   Lori Loughlin with her daughter Olivia Jade Giannulli, left, at the\n   2019 \"An Unforgettable Evening\" in Beverly Hills, Calif. on Feb. 28,\n   THE ROOKIE - \"The Checklist\" - Sergeant Gray informs\n   3 Things to Know about immigration \"crisis\"\n   President Donald Trump walks with Homeland Security"
+      }
+    }
+  ]
+}

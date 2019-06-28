@@ -1,0 +1,57 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "jaw"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.portjeffersonsmiles.com/wp-content/uploads/2018/10/dentist-1.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/57b589b9e3df28ee5e9155e2/t/59fc644c24a694f029addb5a/1509712991134/Press+coverage+jpg+for+website.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/DVmgBKGXkAQmF09.jpg"
+          },
+          {
+            "url": "https://www.makeworthymedia.com/wp-content/uploads/2019/01/portfolio-transfusion-news-320x210-1546807935.png"
+          },
+          {
+            "url": "https://webcreate.com/sites/default/files/portfolio_knollwood.jpg"
+          },
+          {
+            "url": "https://www.freetemplatesonline.com/wp-content/uploads/2014/01/52dfec4d719b8.png"
+          },
+          {
+            "url": "https://localbuzzllc.com/wp-content/uploads/learningcentersite.png"
+          },
+          {
+            "url": "https://whatpixel.com/images/2016/04/52-white-mountain-school-website.jpg"
+          },
+          {
+            "url": "https://www.unicornstairlifts.co.uk/assets/Uploads/Unicorn-Stairlifts-New-Website-20132.png"
+          },
+          {
+            "url": "http://www.junemedia.com/wp-content/themes/twentyten/images/project/r4l_big.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Jaw",
+            "entityId": "/m/01k9lj",
+            "score": 0.245686
+          },
+          {
+            "description": "Organism",
+            "entityId": "/m/05nnm",
+            "score": 0.20817699
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "duffel blog",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://scontent-iad3-1.cdninstagram.com/vp/33e69dcf1fbed02e6d929daf7b9838ab/5CE52127/t51.2885-15/e35/11939641_1618709718391748_1217278591_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com"
+          },
+          {
+            "url": "https://pics.me.me/10-2-24-https-www-duffelblog-com-2017-02-mattis-changes-title-from-secretary-of-defense-37318132.png"
+          },
+          {
+            "url": "https://memestatic.fjcdn.com/pictures/Dod+ready+for+next+war+httpwwwduffelblogcom201705pentagonmemewarfare_9a7cd5_6266065.jpg"
+          },
+          {
+            "url": "https://scontent-atl3-1.cdninstagram.com/vp/d644e3f918fb137e547a6312291bf464/5D2902BD/t51.2885-15/e35/31412315_195605594383091_8677327345293459456_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com"
+          },
+          {
+            "url": "https://pics.me.me/thumb_share-duffelblog-com-trump-appoints-french-immigrant-vladimierre-poutin-as-new-20090140.png"
+          },
+          {
+            "url": "https://steemitimages.com/640x0/https://steemitimages.com/DQmX5dJFWfChkqmNb5KCHGnHrpouZtfkFgFMXKDfr6vghZu/im-super-proud-of-ambassador-hailey-for-negotiating-such-a-27110307.png"
+          },
+          {
+            "url": "https://pics.ballmemes.com/pray-for-our-military-pentagon-officials-fear-isis-militants-now-9478048.png"
+          },
+          {
+            "url": "https://pics.me.me/duffelblog-mattis-signs-order-formally-recognizing-jalapeno-cheese-spread-as-14153136.png"
+          },
+          {
+            "url": "https://i0.wp.com/battlerattle.marinecorpstimes.com/wp-content/uploads/sites/6/2014/04/TDB-screengrab.jpg?resize=478%2C558"
+          },
+          {
+            "url": "https://www.freelancewritinggigs.com/wp-content/uploads/2017/01/Duffel-Blog.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Duffel Blog",
+            "entityId": "/m/0l8mmcm",
+            "score": 0.2986
+          },
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.26818177
+          },
+          {
+            "description": "Duffel Bags",
+            "entityId": "/m/06tlg8",
+            "score": 0.2495
+          },
+          {
+            "description": "Blog",
+            "entityId": "/m/084dw",
+            "score": 0.2235
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.2177752
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.20015974
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1835
+          }
+        ]
+      }
+    }
+  ]
+}

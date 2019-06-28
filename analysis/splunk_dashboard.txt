@@ -1,0 +1,453 @@
+<dashboard>
+  <label>Fake Intelligence</label>
+  <row>
+    <panel>
+      <title>Fake: Text Analysis (Categories,  confidence level &gt; 60%)</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu"|  mvexpand "report{}.text-classify.categories{}.confidence" | search "report{}.text-classify.categories{}.confidence" &gt; 0.6 | stats count by "report{}.text-classify.categories{}.name" | sort -count</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Text Analysis (Categories,  confidence level &gt; 60%)</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu"|  mvexpand "report{}.text-classify.categories{}.confidence" | search "report{}.text-classify.categories{}.confidence" &gt; 0.6 | stats count by "report{}.text-classify.categories{}.name" | sort -count</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Text Sentiment Score (Min)</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu"| stats min("report{}.text-sentiment.score")</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">radialGauge</option>
+        <option name="charting.chart.rangeValues">[-1,0,0.001,1]</option>
+        <option name="charting.chart.style">minimal</option>
+        <option name="charting.gaugeColors">["0xdc4e41","0xf8be34","0x53a051"]</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: Text Sentiment Magnitude (Min)</title>
+      <single>
+        <title>Strength of emotion</title>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu"| stats min("report{}.text-sentiment.magnitude")</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="numberPrecision">0.0</option>
+        <option name="rangeColors">["0x53a051","0x0877a6","0xf8be34","0xf1813f","0xdc4e41"]</option>
+        <option name="refresh.display">progressbar</option>
+        <option name="useColors">0</option>
+      </single>
+    </panel>
+    <panel>
+      <title>Credible: Text Sentiment Score (Min)</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu"| stats min("report{}.text-sentiment.score")</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">radialGauge</option>
+        <option name="charting.chart.rangeValues">[-1,0,0.01,1]</option>
+        <option name="charting.chart.style">minimal</option>
+        <option name="charting.gaugeColors">["0xdc4e41","0xf8be34","0x53a051"]</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Text Sentiment Magnitude (Min)</title>
+      <single>
+        <title>Strength of emotion</title>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu"| stats min("report{}.text-sentiment.magnitude")</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="drilldown">none</option>
+        <option name="numberPrecision">0.0</option>
+        <option name="rangeColors">["0x53a051","0x0877a6","0xf8be34","0xf1813f","0xdc4e41"]</option>
+        <option name="refresh.display">progressbar</option>
+      </single>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Text Sentiment Score (Distribution)</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu"| stats count by "report{}.text-sentiment.score" | sort -report{}.text-sentiment.score</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.axisTitleY.text">aa</option>
+        <option name="charting.axisY.maximumNumber">15</option>
+        <option name="charting.axisY.minimumNumber">0</option>
+        <option name="charting.axisY.scale">linear</option>
+        <option name="charting.chart">column</option>
+        <option name="charting.chart.stackMode">default</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: Text Sentiment Magnitude (Distribution)</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu"| stats count by "report{}.text-sentiment.magnitude" | sort -report{}.text-sentiment.magnitude</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">column</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Text Sentiment Score (Distribution)</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu"| stats count by "report{}.text-sentiment.score" | sort -report{}.text-sentiment.score</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">column</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Text Sentiment Magnitude (Distribution)</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu"| stats count by "report{}.text-sentiment.magnitude" | sort -report{}.text-sentiment.magnitude</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">column</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Text Sentiment Score (Max)</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu"| stats max("report{}.text-sentiment.score")</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">radialGauge</option>
+        <option name="charting.chart.rangeValues">[-1,0,0.01,1]</option>
+        <option name="charting.chart.style">minimal</option>
+        <option name="charting.gaugeColors">["0xdc4e41","0xf8be34","0x53a051"]</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: Text Sentiment Magnitude (Max)</title>
+      <single>
+        <title>Strength of emotion</title>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu"| stats max("report{}.text-sentiment.magnitude")</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="colorMode">block</option>
+        <option name="drilldown">none</option>
+        <option name="numberPrecision">0.0</option>
+        <option name="rangeColors">["0x53a051","0xdc4e41"]</option>
+        <option name="rangeValues">[1]</option>
+        <option name="useColors">0</option>
+      </single>
+    </panel>
+    <panel>
+      <title>Credible: Text Sentiment Score (Max)</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu"| stats max("report{}.text-sentiment.score")</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">radialGauge</option>
+        <option name="charting.chart.rangeValues">[-1,0,0.01,1]</option>
+        <option name="charting.chart.style">minimal</option>
+        <option name="charting.gaugeColors">["0xdc4e41","0xf8be34","0x53a051"]</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Text Sentiment Magnitude (Max)</title>
+      <single>
+        <title>Strength of emotion</title>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu"| stats max("report{}.text-sentiment.magnitude")</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="colorMode">block</option>
+        <option name="drilldown">none</option>
+        <option name="numberPrecision">0.0</option>
+        <option name="rangeColors">["0x53a051","0xf8be34","0xf1813f","0xdc4e41"]</option>
+        <option name="rangeValues">[0,70,100]</option>
+        <option name="useColors">0</option>
+      </single>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Labels (top 10)</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu" | stats count by "report{}.labels{}"  |sort -count | head 10</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">column</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Labels (top 10)</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu" | stats count by "report{}.labels{}"  |sort -count | head 10</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">column</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Child Labels (top 10)</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu" | stats count by "report{}.child_labels{}"  |sort -count | head 10</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Child Labels (top 10)</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu" | stats count by "report{}.child_labels{}"  |sort -count | head 10</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Web Detection: Entities (top 10)</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu"| top limit=10 "report{}.webEntities{}.description"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">bar</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: Web Detection: Visually Similar Images (top 20)</title>
+      <table>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu"| stats count by "report{}.visuallySimilarImages{}.url" | sort -count | head 20</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="count">5</option>
+        <option name="drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+        <option name="rowNumbers">true</option>
+      </table>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Credible: Web Detection: Entities (top 10)</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu"| top limit=10 "report{}.webEntities{}.description"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">bar</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Web Detection: Visually Similar Images (top 20)</title>
+      <table>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu"| stats count by "report{}.visuallySimilarImages{}.url" | sort -count | head 20</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="count">5</option>
+        <option name="drilldown">none</option>
+        <option name="rowNumbers">true</option>
+      </table>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Credible: Racy?</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.racy"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Adult?</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.adult"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Medical?</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.medical"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Spoof?</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.spoof"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Violence?</title>
+      <chart>
+        <search>
+          <query>source="/app/credible/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.violence"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Racy?</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.racy"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: Adult?</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.adult"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: Medical?</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.medical"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: Spoof?</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.spoof"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: Violence?</title>
+      <chart>
+        <search>
+          <query>source="/app/fake/*/report.json" index="pupu" | stats count by  "report{}.safeSearchAnnotation.violence"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+  </row>
+</dashboard>

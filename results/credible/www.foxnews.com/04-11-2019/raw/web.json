@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.4president.us/websites/2008/images/tomtancredo122007home.png"
+          },
+          {
+            "url": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4143efd0-107e-4b2a-9fae-da1fc9835fec/onion.gif"
+          },
+          {
+            "url": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a4017d8-24a6-4709-aca1-78e145be0ae6/tribune.gif"
+          },
+          {
+            "url": "https://aemstatic-ww1.azureedge.net/content/dam/jems/site-images/JEMSNOWeNL.jpg"
+          },
+          {
+            "url": "https://cdn-images-1.medium.com/max/800/1*Hm9NY-gFTiAQay2LBNUqHw.png"
+          },
+          {
+            "url": "https://whatpixel.com/images/galleries/celebrity-sites/068-jane-fonda-website.jpg"
+          },
+          {
+            "url": "https://cdn-images-1.medium.com/max/800/1*GiiPw1leZt2m6y9BggAxYQ.png"
+          },
+          {
+            "url": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e03f747-0f69-4d6a-9667-383a603c8c3b/timesonline.gif"
+          },
+          {
+            "url": "https://www.lifewire.com/thmb/dL5lW82AALKKp8o-Vc5ItjdyK9M=/2470x1516/filters:no_upscale():max_bytes(150000):strip_icc()/009_most-popular-sites-3483140-5be204a04cedfd0026d285b2.jpg"
+          },
+          {
+            "url": "https://www.3-prime.com/wp-content/uploads/2016/08/sentext-homepage1_639x500.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.5861844
+          },
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.32476687
+          },
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.31494337
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2984
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.27056137
+          },
+          {
+            "description": "News",
+            "entityId": "/m/05jhg",
+            "score": 0.25021204
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.20094545
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1975
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1927
+          },
+          {
+            "description": "Online and offline",
+            "entityId": "/m/0bcp7",
+            "score": 0.1805
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.96577686,
+          "topicality": 0.96577686
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9555631,
+          "topicality": 0.9555631
+        },
+        {
+          "description": "Signage",
+          "mid": "/m/0bkqqh",
+          "score": 0.840514,
+          "topicality": 0.840514
+        },
+        {
+          "description": "Banner",
+          "mid": "/m/0m9cj",
+          "score": 0.7971724,
+          "topicality": 0.7971724
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7547606,
+          "topicality": 0.7547606
+        },
+        {
+          "description": "Vehicle registration plate",
+          "mid": "/m/01jfm_",
+          "score": 0.67643684,
+          "topicality": 0.67643684
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.6258629,
+          "topicality": 0.6258629
+        },
+        {
+          "description": "Rectangle",
+          "mid": "/m/0j62f",
+          "score": 0.5572894,
+          "topicality": 0.5572894
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9121395,
+          "topicality": 0.9121395
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.78258353,
+          "topicality": 0.78258353
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.93434614,
+          "topicality": 0.93434614
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.92834693,
+          "topicality": 0.92834693
+        },
+        {
+          "description": "Audience",
+          "mid": "/m/033lpr",
+          "score": 0.9091665,
+          "topicality": 0.9091665
+        },
+        {
+          "description": "Academic conference",
+          "mid": "/m/07bx10",
+          "score": 0.773055,
+          "topicality": 0.773055
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.75711966,
+          "topicality": 0.75711966
+        },
+        {
+          "description": "Parliament",
+          "mid": "/m/0632_",
+          "score": 0.7096027,
+          "topicality": 0.7096027
+        },
+        {
+          "description": "Government",
+          "mid": "/m/036nz",
+          "score": 0.70880216,
+          "topicality": 0.70880216
+        },
+        {
+          "description": "Seminar",
+          "mid": "/m/03233l",
+          "score": 0.6120428,
+          "topicality": 0.6120428
+        },
+        {
+          "description": "Jury",
+          "mid": "/m/0c5ly",
+          "score": 0.58085775,
+          "topicality": 0.58085775
+        },
+        {
+          "description": "Speaker",
+          "mid": "/m/02079p",
+          "score": 0.547281,
+          "topicality": 0.547281
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.828371,
+          "topicality": 0.828371
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.7729468,
+          "topicality": 0.7729468
+        },
+        {
+          "description": "Television presenter",
+          "mid": "/m/0vpsd3h",
+          "score": 0.70734656,
+          "topicality": 0.70734656
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.7065972,
+          "topicality": 0.7065972
+        },
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.6590438,
+          "topicality": 0.6590438
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.63049066,
+          "topicality": 0.63049066
+        },
+        {
+          "description": "Newsreader",
+          "mid": "/m/03tpc9",
+          "score": 0.57405376,
+          "topicality": 0.57405376
+        },
+        {
+          "description": "Newscaster",
+          "mid": "/m/025m070",
+          "score": 0.5458984,
+          "topicality": 0.5458984
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.7634309,
+          "topicality": 0.7634309
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.697591,
+          "topicality": 0.697591
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.6114333,
+          "topicality": 0.6114333
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.517318,
+          "topicality": 0.517318
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Metalworking hand tool",
+          "mid": "/m/07vc4v",
+          "score": 0.68880564,
+          "topicality": 0.68880564
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.6070611,
+          "topicality": 0.6070611
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.57581735,
+          "topicality": 0.57581735
+        },
+        {
+          "description": "Cutting tool",
+          "mid": "/m/09c4c1",
+          "score": 0.5242398,
+          "topicality": 0.5242398
+        },
+        {
+          "description": "Metalworking",
+          "mid": "/m/01ng72",
+          "score": 0.5111264,
+          "topicality": 0.5111264
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5102375,
+          "topicality": 0.5102375
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.8629716,
+          "topicality": 0.8629716
+        },
+        {
+          "description": "Comb over",
+          "mid": "/m/03gktj",
+          "score": 0.6753939,
+          "topicality": 0.6753939
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.5680793,
+          "topicality": 0.5680793
+        },
+        {
+          "description": "Pleased",
+          "mid": "/j/4kr7kk",
+          "score": 0.5317658,
+          "topicality": 0.5317658
+        },
+        {
+          "description": "Wrinkle",
+          "mid": "/m/02_x63",
+          "score": 0.507218,
+          "topicality": 0.507218
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.75044984,
+          "topicality": 0.75044984
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Circle",
+          "mid": "/m/01vkl",
+          "score": 0.6790373,
+          "topicality": 0.6790373
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.6216481,
+          "topicality": 0.6216481
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5862984,
+          "topicality": 0.5862984
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9736677,
+          "topicality": 0.9736677
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.94841564,
+          "topicality": 0.94841564
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9889715,
+          "topicality": 0.9889715
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.96456176,
+          "topicality": 0.96456176
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.91571015,
+          "topicality": 0.91571015
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.8955915,
+          "topicality": 0.8955915
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.8735063,
+          "topicality": 0.8735063
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.8639557,
+          "topicality": 0.8639557
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.85040087,
+          "topicality": 0.85040087
+        },
+        {
+          "description": "Lip",
+          "mid": "/m/06pj2k",
+          "score": 0.79908,
+          "topicality": 0.79908
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.7985438,
+          "topicality": 0.7985438
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.78834283,
+          "topicality": 0.78834283
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.95408416,
+          "topicality": 0.95408416
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9252632,
+          "topicality": 0.9252632
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.91277134,
+          "topicality": 0.91277134
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7984547,
+          "topicality": 0.7984547
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.776853,
+          "topicality": 0.776853
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.7325321,
+          "topicality": 0.7325321
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.72982013,
+          "topicality": 0.72982013
+        },
+        {
+          "description": "Signage",
+          "mid": "/m/0bkqqh",
+          "score": 0.6875649,
+          "topicality": 0.6875649
+        },
+        {
+          "description": "Company",
+          "mid": "/m/03bxgrp",
+          "score": 0.6733425,
+          "topicality": 0.6733425
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5272959,
+          "topicality": 0.5272959
+        }
+      ]
+    }
+  ]
+}

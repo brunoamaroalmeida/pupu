@@ -1,0 +1,289 @@
+{
+  "documentSentiment": {
+    "magnitude": 8.6,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "[2]Skip to content[3]Skip to site index\n   In President Trump's eyes, Kirstjen Nielsen didn't go far enough."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 115,
+        "content": "Here are the episodes in Season 7 to revisit and the themes to think\n   Adam Higginbotham talks about his new history of the Chernobyl\nBarr Tells Congress He Will Deliver Mueller Report Within a Week\n     * Attorney General William P. Barr appeared before Congress for a\n       routine budget hearing that has been overtaken by the Mueller\n     * Democratic lawmakers grilled him about his handling of the special\n       counsel's findings, calling it \"unacceptable.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 586,
+        "content": "Attorney General William P. Barr is testifying before the House\n   Appropriations Committee on budget matters."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 697,
+        "content": "But Democratic members are\n   also questioning him about his handling of the Mueller report."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 790,
+        "content": "Erin\nMnuchin Says White House and Treasury Discussed Trump Tax Return Request\n   Treasury Secretary Steven Mnuchin, who is testifying before House\n   lawmakers, said it would be \"premature\" to comment on how the Treasury\nTrump Says the U.S."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1031,
+        "content": "Is `Full.'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1042,
+        "content": "Much of the Nation Disagrees."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1077,
+        "content": "* President Trump's blunt new message suggests the nation can't\n       accommodate higher immigration levels."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 1192,
+        "content": "* But demographers and economists see evidence that the U.S. isn't\n       remotely \"full,\" due to an aging population and declining\nThe Trump Organization, facing questions about its staff, is quietly trying\nto remove undocumented workers in South Florida."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1452,
+        "content": "Nearly half of Americans live in a county where the prime working-age\n   population (ages 25 to 54) shrank over the last decade."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1586,
+        "content": "* After a campaign punctuated by polarizing and personal attacks,\n       Israelis are voting in elections that will determine if Prime\n       Minister Benjamin Netanyahu stays or goes."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 1776,
+        "content": "* The first indication of how the elections went is expected after 3\n       p.m. Eastern Time, when voting ends and exit polls are released."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1920,
+        "content": "A polling station in Tel Aviv on Tuesday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1962,
+        "content": "Polls close at 10 p.m. local\n   time."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2000,
+        "content": "Dan Balilty for The New York Times\nNew York City Declares Measles Emergency After Outbreak in Brooklyn\n     * Mayor Bill de Blasio said that the city would require unvaccinated\n       individuals living in select ZIP codes to receive the measles\n     * The declaration is an effort to contain an outbreak in\n       ultra-Orthodox Jewish neighborhoods in Brooklyn."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 2364,
+        "content": "The outbreak is intensifying tensions between the ultra-Orthodox Jewish\n`Jane Doe Ponytail': Her Life Ended in N.Y."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2480,
+        "content": "Now Her Brother's Bringing Her\n   After a brother conducted his own investigation into the death of his\n   sister, who fell during a raid on a Queens massage parlor, he is\n   At Chun Fook Funeral Services, Song Hai, left, stretched his hand\n   toward the ashes of his sister, Song Yang."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 2767,
+        "content": "Todd Heisler/The New York\nDemocratic Electorate on Twitter Is Not the Same as Wider Party Base\n     * The views of Democrats on social media often bear little\n       resemblance to those of the wider Democratic electorate."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 2995,
+        "content": "* Here's a detailed look at the voters with the numbers to decide the\nDemocrats Used to Campaign."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 3093,
+        "content": "Now Everyone Has a `Movement.'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3127,
+        "content": "The language shift reflects a party that is seeking to appease its\n   newly empowered activist base, which has been emboldened since\n   President Trump's surprise victory in the 2016 election\n   Behind the flailing lies a potential disaster for immigration hawks."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 3394,
+        "content": "King Mohammed VI is carrying out a wide-ranging effort to revive his\nSubpoena Isn't the Only Way to Get the Mueller Report\n   Jim Inhofe, Jack Reed, Jim Risch and Bob Menendez\nA U.S. Fighter Jet or a Russian Missile System."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3618,
+        "content": "Not Both."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3628,
+        "content": "People Can Savage Social Norms, but Also Revive Them\nStoning Gay People?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 3701,
+        "content": "The Sultan of Brunei Doesn't Understand Modern Islam\nThe Royal Baby: Frequently Asked Questions\n   Everything you don't need to know about Meghan Markle and Prince\n   The Jiu Valley in Romania was once an economic powerhouse, producing\n   millions of tons of coal."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3966,
+        "content": "Now most of the mines in the region are\nA Polish Hero of the Revolutionary War Was Most Likely Intersex, Researchers\n   Disputed remains of Casimir Pulaski were the right height and age and\n   showed injuries consistent with the general's life."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4211,
+        "content": "There was just one\n   catch: \"The skeleton looked very female.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 4278,
+        "content": "We'd like your thoughts on the New York Times home page\n   experience.[57]Let us know what you think\n   Azqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x"
+      }
+    }
+  ]
+}

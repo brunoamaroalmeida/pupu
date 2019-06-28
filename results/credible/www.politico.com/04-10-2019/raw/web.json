@@ -1,0 +1,88 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "politico",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://pics.me.me/politico-a-subscribe-log-in-a-trump-nobel-peace-prize-41855527.png"
+          },
+          {
+            "url": "https://pics.me.me/politico-health-care-trumps-losing-fight-against-obamacare-the-health-38666330.png"
+          },
+          {
+            "url": "https://pics.me.me/thumb_politico-politico-politicc-follow-north-carolina-republicans-will-select-a-43992189.png"
+          },
+          {
+            "url": "https://pics.me.me/politico-politico-politico-im-sorry-i-watched-it-but-i-36104740.png"
+          },
+          {
+            "url": "http://www.hoymercedes.com.ar/principal/wp-content/uploads/2012/10/JuanPabloLopez-LaTecla.jpg"
+          },
+          {
+            "url": "https://pics.awwmemes.com/politico-ginsburg-i-wasnt-100-percent-sober-at-sotu-ginsburg-36602090.png"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/Dwr5sz0UUAYdH01.jpg"
+          },
+          {
+            "url": "https://66.media.tumblr.com/083b716b1aa294ac3ce5101a761c54c2/tumblr_opefx0AENc1vwvd1xo1_500.png"
+          },
+          {
+            "url": "https://pics.me.me/politico-5-hrs-politico-a-fight-in-congress-over-26217716.png"
+          },
+          {
+            "url": "https://pics.me.me/politico-follow-politico-real-donaldtrump-my-cabinet-has-highest-iq-12479188.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.34028488
+          },
+          {
+            "description": "Business consultant",
+            "entityId": "/m/02h9czr",
+            "score": 0.3083169
+          },
+          {
+            "description": "Business",
+            "entityId": "/g/120y8l81",
+            "score": 0.2661
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.24299578
+          },
+          {
+            "description": "Consultant",
+            "entityId": "/m/02n9jv",
+            "score": 0.2305
+          },
+          {
+            "description": "Suit",
+            "entityId": "/m/01xyhv",
+            "score": 0.21437295
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1858
+          },
+          {
+            "description": "Politico",
+            "entityId": "/m/027_2w9",
+            "score": 0.1854
+          }
+        ]
+      }
+    }
+  ]
+}

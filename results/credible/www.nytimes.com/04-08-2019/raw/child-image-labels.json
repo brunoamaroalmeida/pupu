@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9449374,
+          "topicality": 0.9449374
+        },
+        {
+          "description": "Product",
+          "mid": "/m/01jwgf",
+          "score": 0.9103113,
+          "topicality": 0.9103113
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84106016,
+          "topicality": 0.84106016
+        },
+        {
+          "description": "Book cover",
+          "mid": "/m/09xbm8",
+          "score": 0.76476145,
+          "topicality": 0.76476145
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.658343,
+          "topicality": 0.658343
+        },
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.5307499,
+          "topicality": 0.5307499
+        }
+      ]
+    }
+  ]
+}

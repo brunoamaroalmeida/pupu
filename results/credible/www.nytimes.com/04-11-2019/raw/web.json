@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "new york times",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.blogcdn.com/www.engadget.com/media/2011/03/newyorktimesdigital-subscription.jpg"
+          },
+          {
+            "url": "http://www.newmobility.com/wp-content/uploads/NYTseries.jpg"
+          },
+          {
+            "url": "https://whatsnewinpublishing.com/wp-content/uploads/2018/07/2018-07-16_1732.png"
+          },
+          {
+            "url": "https://marceapalmer.files.wordpress.com/2011/11/ny-times-nov-5.jpg"
+          },
+          {
+            "url": "http://www.lacharismae.biz/wp-content/uploads/2017/10/charisma-glassman-new-york-times.jpg"
+          },
+          {
+            "url": "https://i1.wp.com/blog.parse.ly/wp-content/uploads/2018/03/New-York-Times-newsletter-KPIs-e1520025618280.png?ssl=1"
+          },
+          {
+            "url": "https://collegian.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-08-at-4.34.26-PM-400x220.png"
+          },
+          {
+            "url": "https://mondrian.mashable.com/wp-content%252Fuploads%252F2011%252F03%252Fnyt_recs.jpg%252Ffit-in__1200x9600.jpg?signature=QpeAxsam88Hp_p1e-XtOfwztejs=&source=http%3A%2F%2Fmashable.com"
+          },
+          {
+            "url": "http://blog.camera.org/archives/new%20york%20times%20opinion%20diversity-2.jpg"
+          },
+          {
+            "url": "https://mcad.edu/sites/default/files/nyt-redesign.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Design M Group",
+            "entityId": "/g/1td2_c9c",
+            "score": 0.46199998
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.32951376
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.23071572
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.2215272
+          },
+          {
+            "description": "The New York Times",
+            "entityId": "/m/07k2d",
+            "score": 0.1963
+          },
+          {
+            "description": "Product",
+            "entityId": "/m/01jwgf",
+            "score": 0.1919
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1887
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1869
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.1785472
+          },
+          {
+            "description": "New York",
+            "entityId": "/m/02_286",
+            "score": 0.06504001
+          }
+        ]
+      }
+    }
+  ]
+}

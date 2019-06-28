@@ -1,0 +1,199 @@
+{
+  "documentSentiment": {
+    "magnitude": 7.6,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]publisher [2]Duffel Blog \u00bb Feed [3]Duffel Blog \u00bb Comments Feed\n   [tr?id=1024407104258876&ev=PageView&noscript=1]\n                    # [24]Barracks Lawyer\n               o [31]Become a Contributor\n          + Space Force already restricted to Earth liberty\n          + Saruman the White selected to oversee implementation of\n          + Newly promoted Colonel Dole immediately flagged as\n          + Inclusivity FTW!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 427,
+        "content": "After this man was fired from every job he\n            ever had, the Army gave him power over life and death\n          + Forward observer's bracket `totally screwed' after first round\n          + Navy eyeing discounted Boeing 737s\n            \"Don't worry, this chapter of my book will be awesome\" SEAL\n            Parents bribe service academies to not accept their children's\n          + Carrier forced into early retirement after being exposed as\n          + Sailor ready to defend nation after mandatory training\n          + Space Force already restricted to Earth liberty\n          + Air Force warns border wall could distract from golf course\n            Parents bribe service academies to not accept their children's\n          + After North Pole moves, NORAD assures Eric Trump it can still\n          + B-52 crew relieved for drawing self portraits\n          + Boot camp adds fifth phase to re-instill discipline after\n          + Marine officer says Marine units should use LSD to gain edge\n          + NCIS sting: Marines bribe officials for acceptance into\n            University of Phoenix, Strayer University\n            134 percent of Marines arrested in nationwide ASVAB cheating\n          + Opinion: Jerkin' it at sea is a lot like jerkin' it while not\n          + Coast Guard icebreaker draws first sea penis\n          + Jailed Coast Guard LT claims \"plotting domestic terrorism\" is\n            how he describes taking a dump\n          + Typo causes Coast Guard to spend millions of dollars guarding\n          + Coast Guard tells families to \"sell your organs, start\n            hooking\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 2031,
+        "content": "to help cope with government shutdown\n          + Coast Guard helicopter totally forgot why it came out here in\n                    # [57]Barracks Lawyer\n               o [64]Become a Contributor\nSpace Force already restricted to Earth liberty\n   MERRITT ISLAND, Fla."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 2299,
+        "content": "-- Military commanders have barred potential Space\n   Force members from engaging in any liberty activities outside of..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2421,
+        "content": "Boot camp adds fifth phase to re-instill discipline after fourth phase\n       SAN DIEGO -- The commanding officer of Marine Corps Recruit Depot\n       San Diego, Brig. Gen. Ryan Heritage, announced today that the\nSaruman the White selected to oversee implementation of Army-Palantir\n       ISENGARD, Middle-earth -- Shortly after revealing that Palantir\n       would be implementing the new Army intelligence system, the service\n       announced a partnership today with stalwart ally and..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 2913,
+        "content": "Marine officer says Marine units should use LSD to gain edge over enemy\n       PENTAGON -- A Marine officer recently stirred up controversy by\n       suggesting that Marines employ the use of LSD in current\n       warfighting engagements and Pentagon officials are..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3188,
+        "content": "LASHKAR GAH, Afghanistan -- Gesturing the \"peace\" sign and telling\n       fellow fighters that he was \"totally done with this insurgent\n       stuff, man,\" hippie Taliban defector Ahmad..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3384,
+        "content": "RENTON, Wash."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3398,
+        "content": "-- The Navy is investigating a potential \"sweet deal\"\n       to increase its fleet of P-8 aircraft, sources confirmed today."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3523,
+        "content": "The\nPentagon press corps establishes fund to locate missing government spokesmen\n       WASHINGTON -- Members of the Pentagon Press Corps announced a $3\n       million GoFundMe campaign to raise money to find, locate, and\n       recover missing senior Department of..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 3792,
+        "content": "Newly promoted Colonel Dole immediately flagged as non-deployable\n       Washington, D.C."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3882,
+        "content": "-- Newly promoted Col. Bob Dole has been\n       immediately flagged as non-deployable following a review of his\n       official personnel file, a spokesperson from Human..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 4055,
+        "content": "Inclusivity FTW!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 4072,
+        "content": "After this man was fired from every job he ever had, the\n       Getting rejected from job after job can be frustrating."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 4192,
+        "content": "So when the\n       US Army found out that 35 year-old Craig Foley had been fired from\n   Page 1 of 3491[71]2[72]3[73]4[74]5[75]Next >[76]Last \u00bb\n   Advertisement [77][ezoic.png] report this ad\nTroops in Afghanistan heartbroken after Speaker Pelosi's visit cancelled\nArmy to name new attack helicopter after Elizabeth Warren\n134 percent of Marines arrested in nationwide ASVAB cheating scam\nPentagon swear jar funds entire border wall after one week\nGreen Beret fights off cougar at local bar\nParents bribe service academies to not accept their children's applications\nRussians training pudgy, tattooed honeypots to target enlisted\nLieutenant goes missing after chewing out command sergeant major\nPlatoon Sergeant Claims 38 Soldiers On His Tax Return\nSenator Heroically Saves Obsolete Program, 20,000 Coincidental Jobs In His\nAdvanced Weapons Tested For Destroyer That Will Never Destroy Anything\nNew ISIS Propaganda Video Claims American Colors Do Run\nOkinawa Approves New Marine Air Station On Unstable Volcanic Island\nMarine One Crew Wishes President Would Shut the F-- Up Already\nBase-Wide Alert After ISIS Breaks Into Soldier's Car\nAmerican-Born ISIS Recruit Beheaded For Calling Cadence\nSpace Force already restricted to Earth liberty\nBoot camp adds fifth phase to re-instill discipline after fourth phase\nSaruman the White selected to oversee implementation of Army-Palantir\nMarine officer says Marine units"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 5606,
+        "content": "should use LSD to gain edge over enemy\nPentagon press corps establishes fund to locate missing government spokesmen\nNewly promoted Colonel Dole immediately flagged as non-deployable\n   Not intended for readers under 18 years of age."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5839,
+        "content": "\u00a9 2018 Duffel Media\n   LLC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5868,
+        "content": "All rights reserved."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5889,
+        "content": "Registration on or use of this site\n   constitutes acceptance of our [86]Terms of Service and [87]Privacy"
+      }
+    }
+  ]
+}

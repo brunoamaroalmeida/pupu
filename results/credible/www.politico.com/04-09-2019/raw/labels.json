@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.91577536,
+          "topicality": 0.91577536
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.80401665,
+          "topicality": 0.80401665
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.7373094,
+          "topicality": 0.7373094
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.7284483,
+          "topicality": 0.7284483
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.7139665,
+          "topicality": 0.7139665
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.61429524,
+          "topicality": 0.61429524
+        },
+        {
+          "description": "Employment",
+          "mid": "/m/01tqrk",
+          "score": 0.56459737,
+          "topicality": 0.56459737
+        },
+        {
+          "description": "Business",
+          "mid": "/m/09s1f",
+          "score": 0.5416264,
+          "topicality": 0.5416264
+        }
+      ]
+    }
+  ]
+}

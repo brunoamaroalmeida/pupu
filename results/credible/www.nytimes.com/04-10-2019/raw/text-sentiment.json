@@ -1,0 +1,279 @@
+{
+  "documentSentiment": {
+    "magnitude": 7.6,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "[2]Skip to content[3]Skip to site index\n   Venezuela was already in crisis."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 79,
+        "content": "Then the power went out."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 107,
+        "content": "Abby Wambach's leadership lessons: Be the wolf."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 158,
+        "content": "Adam Higginbotham talks about his new history of the Chernobyl\nLive Updates: Netanyahu Is Poised for Victory\n     * Prime Minister Benjamin Netanyahu was in position to win a fourth\n       consecutive term on Wednesday, with 94 percent of the votes\n     * But the race was extremely tight, and his main rival, Benny Gantz,\n       had also claimed victory, though he later tempered expectations."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 556,
+        "content": "Prime Minister Benjamin Netanyahu of Israel appeared close to winning a\n   fourth consecutive term, and his fifth overall, according to the latest\n   results."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 715,
+        "content": "Dan Balilty for The New York Times\n   His likely re-election as prime minister attests to the starkly\n   conservative vision of the nation's voters, our correspondent writes in\nFirst-Ever Picture of a Black Hole Is Revealed\n     * Images of the darkest entities in the cosmos have finally been\n     * It was the first intimate look inside a violent phenomenon that has\n       mystified astronomers for more than half a century."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1146,
+        "content": "The first image of a black hole, from the galaxy Messier 87."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1207,
+        "content": "Event\n   Horizon Telescope Collaboration, via National Science Foundation\nLive Updates: `Spying Did Occur' on Trump Campaign, Barr Says\n     * Attorney General William P. Barr, appearing before Congress for a\n       second day, said he would look into possible \"spying\" by American\n     * He also signaled that he was open to sharing more information with\n       lawmakers about the Mueller report than is released publicly."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1632,
+        "content": "Acting Chief of Staff Tries Letting Trump Be Trump\n   Mick Mulvaney has taken a different approach from his two predecessors:\n   He encourages the president's instincts."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 1802,
+        "content": "No Longer an Outsider, Sanders Uses the Senate as a Launching Pad\n     * When Senator Bernie Sanders reintroduces his Medicare for All Act\n       today, he will do so as a Senate insider."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1995,
+        "content": "* Democratic efforts to pull him into the fold have bolstered his\nWould `Medicare for All' Save Billions or Cost Billions?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 2121,
+        "content": "We asked a handful of economists and think tanks to find out."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2183,
+        "content": "At the Friars Club, When the Laughter Stopped\n   Financial ills and a federal investigation have led to discord at the\n   115-year-old club, whose members have included entertainment industry\n   For many decades, the Friars Club has operated as a fraternity for\n   entertainers and is known for its roasts of celebrities."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2505,
+        "content": "Jack Benny,\n   center, was the guest of honor in 1970."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2560,
+        "content": "From left are Johnny Carson,\n   Alan King, Ed Sullivan, Dennis Day, Phil Harris, Mr. Benny, George\n   Burns and Milton Berle."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2686,
+        "content": "Everett Collection\nThe Problem With Putting a Price on the End of the World\n   Economists have workable policy ideas for addressing climate change."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 2837,
+        "content": "David Leonhardt asks: But what if they're politically impossible?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 2906,
+        "content": "They both see the world's problems as opportunities to cement their\n   Yes, he has many faults."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3002,
+        "content": "But on the issues that matter most, he's a\nDeath By Stoning, Ordered From a 1,788-Room Palace\nHow Far Left Is Too Far Left for 2020 Democrats?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 3145,
+        "content": "Congress to I.R.S.: Don't Even Think of Helping Taxpayers\nTrump's Dangerous Obsession With the Markets\nTrump Mocks Climate Change."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3276,
+        "content": "That's a Key to Defeating Him."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3307,
+        "content": "Why I Am Stockpiling Insulin in My Fridge\n`It's Going to Be the Image of the Revolution'\n   A smartphone snap from the Sudanese protests has gone viral."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3460,
+        "content": "What is it\n   about this picture that makes it so powerful?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 3520,
+        "content": "No Playoffs, No More Magic: Why the Lakers Fell Apart\n   Nearly a year ago, Los Angeles upended the N.B.A."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 3627,
+        "content": "by signing LeBron\n   James, with Magic Johnson engineering the deal."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 3696,
+        "content": "Now the team is ending\nCharles Van Doren, Quiz Show Whiz Who Wasn't, Dies at 93\n   A charismatic and well-pedigreed contestant, he confessed to Congress\n   that his TV performances in the 1950s had been scandalously rigged."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3923,
+        "content": "We'd like your thoughts on the New York Times home page\n   experience.[57]Let us know what you think\n   Azqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.93413997,
+          "topicality": 0.93413997
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84106016,
+          "topicality": 0.84106016
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.7801286,
+          "topicality": 0.7801286
+        },
+        {
+          "description": "Human",
+          "mid": "/m/0dgw9r",
+          "score": 0.7467646,
+          "topicality": 0.7467646
+        },
+        {
+          "description": "Photo caption",
+          "mid": "/m/0b75wg4",
+          "score": 0.6686744,
+          "topicality": 0.6686744
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.610047,
+          "topicality": 0.610047
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.51161164,
+          "topicality": 0.51161164
+        }
+      ]
+    }
+  ]
+}

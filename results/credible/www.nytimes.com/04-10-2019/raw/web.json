@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "new york times",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://whatsnewinpublishing.com/wp-content/uploads/2018/07/2018-07-16_1732.png"
+          },
+          {
+            "url": "https://www.lacharismae.biz/wp-content/uploads/2017/10/charisma-glassman-new-york-times.jpg"
+          },
+          {
+            "url": "https://www.richroll.com/wp-content/uploads/podcast/NYTIMES-HOMEPAGE-9.29.151.png"
+          },
+          {
+            "url": "https://www.mibluesperspectives.com/wp-content/uploads/2012/06/nyt-front.jpg"
+          },
+          {
+            "url": "http://www.newmobility.com/wp-content/uploads/NYTseries.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/5820d5c03e00be92419008ba/t/5a09db8124a6942e84219db3/1510595477187/Screen+Shot+2017-11-13+at+11.50.34+AM.png"
+          },
+          {
+            "url": "https://www.daytondailynews.com/rf/image_lowres/Pub/p10/Dayton/2019/02/05/Images/New%20York%20Times.JPG"
+          },
+          {
+            "url": "https://zysyshosting.cachefly.net/bobreynoldsmusic.com/2011/wp-content/uploads/NYTimes-Bob-Reynolds-cover.png"
+          },
+          {
+            "url": "http://www.niemanlab.org/images/nytimes-home-page-ochs.png"
+          },
+          {
+            "url": "https://mobilemarketingmagazine.com/wp-content/uploads/2016/08/New-York-Times-360-VR-ad.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.365934
+          },
+          {
+            "description": "New York",
+            "entityId": "/m/02_286",
+            "score": 0.28469998
+          },
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.27704626
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2511
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.24232921
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.22338748
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1994
+          },
+          {
+            "description": "The New York Times",
+            "entityId": "/m/07k2d",
+            "score": 0.1968
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1904
+          },
+          {
+            "description": "Online and offline",
+            "entityId": "/m/0bcp7",
+            "score": 0.1825
+          }
+        ]
+      }
+    }
+  ]
+}

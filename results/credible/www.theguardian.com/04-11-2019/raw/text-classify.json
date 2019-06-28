@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "confidence": 0.54,
+      "name": "/Sports/Team Sports"
+    },
+    {
+      "confidence": 0.51,
+      "name": "/News/Sports News"
+    }
+  ]
+}

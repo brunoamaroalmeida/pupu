@@ -1,0 +1,409 @@
+{
+  "documentSentiment": {
+    "magnitude": 12.2,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 7,
+        "content": "____________________ (BUTTON) Search (BUTTON)\n     * [20]The Agenda: The Future of Prosperity\n[62]WikiLeaks' Assange arrested at Ecuador embassy in London\n[63]Advocacy groups press 2020 candidates to disclose bundlers\n[64]Obama lawyer expects Mueller-related indictment\n[65]Chrissy Teigen's message to Dem women: Say `f-- you' more\n[66]DeVos refused to bar federal money for guns in schools, but internal memo\n[67]Michael Grimm meets with McCarthy to discuss likely House run\n[68]Mnuchin: China to establish `enforcement office' as part of any U.S. deal\n[69]DeVos 'not familiar' with affirmative action guidance her agency scrapped\n[70]Bangladeshi diplomat: Trump is a `magic man,' but shouldn't build the\n[71]Barr refuses to tell senators if White House has already seen Mueller\n[72]Rep. Maxine Waters and Treasury Secretary Steve Mnuchin clash ... again\n[73]Trump says he's the mastermind of immigration policy, not Stephen Miller\n[75]Republicans confront Trump amid cascading controversies\n   GOP senators face an inflection point, as they weigh how hard to try to\n   By [76]Burgess Everett and [77]Eliana Johnson\n     [79]\"We've been down this road so many times, it's hard"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1185,
+        "content": "for me to\n     measure..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1211,
+        "content": "It just happened to be issues that came to the surface at\n[81]It's Trump vs. Trump as immigration divides White House\n   The president is weighing -- and reflecting -- different opinions among\n   his top advisers, including Stephen Miller and his son-in-law Jared\n   By [82]Eliana Johnson, [83]Nancy Cook and [84]Anita Kumar\n[87]Trump rushes to rescue of besieged party-switcher\n   West Virginia Gov. Jim Justice needs help to win reelection, and two of\n   Trump's top political hands are stepping up."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1713,
+        "content": "[91]The fight that could dash Democrats' dream of a blue Texas\n   The party wants to turn Texas blue, but a prolonged, fractious\n   nomination fight next year could damage Democrats' chances at a Senate\n   6023987414001_6023937928001-vs.jpg?pubId=1155968404\" true\n[94]Chip Roy plans to keep his campaign promises, even if it means bucking\n     * [96]The honeymoon is over for the most diverse class in Congress'\n[98]GOP eyes `Medicare for All' vote to highlight Democratic splits\n   By [99]Marianne LeVine, [100]Adam Cancryn and [101]Alice Miranda\n     * [102]Sanders vows to blow up Senate rules to pass Medicare for All\n[105]Centrist Democrats strike back at leftward lurch\n[109]Treasury misses congressional deadline for turning over Trump's tax\n[113]Barr's FBI 'spying' claim amps up fight over Mueller probe\n   Sign up today to receive the #1-rated newsletter in politics\n   By signing up you agree to receive email newsletters or alerts from\n   POLITICO."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2674,
+        "content": "You can unsubscribe at any time."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2710,
+        "content": "Why men are dominating the Democratic 2020 primary."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2765,
+        "content": "A portrait of George Washington hangs on a wall behind Donald Trump."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 2834,
+        "content": "What Donald Trump Doesn't Get About George Washington\n   There's a reason he didn't name his estate after himself."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2949,
+        "content": "And it's\n   The Mueller probe was a national trauma."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3005,
+        "content": "Don't believe the hype."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3029,
+        "content": "Rupert Murdoch and friends can't reelect Trump\n   Student activists in front of Hawkins Hall on Georgetown's campus."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3146,
+        "content": "This Could Be the First Slavery Reparations Policy in America\n   A vote happens later this week to create a fund for descendants of the\n   272 slaves sold by the Jesuit university 181 years ago."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 3341,
+        "content": "It could be a\nThe Forgotten Reason Congress Needs to See the Mueller Report\n   Legislators have a responsibility to police obstruction of justice,\n   A sign with the likeness of Alexandria Ocasio-Cortez\nHow Alexandria Ocasio-Cortez Broke All the Rules of New York Politics\n   She became a star without paying her dues to the city's entrenched\n   establishment."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3702,
+        "content": "Now, longtime political insiders are starting to\n   Egypt's President Abdel Fattah el-Sisi laughs while US President Donald\n   Trump make a statement to the press before a meeting at the Palace\n   Hotel during the 72nd United Nations General Assembly September 20,\nWhy Is Trump Helping Egypt's Dictator Entrench His Power?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 4028,
+        "content": "By embracing Middle Eastern autocrats, American presidents have been\n   making the same mistake for decades--with dangerous consequences."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 4169,
+        "content": "A photo illustration of JFK, Pete Buttigieg and Beto O'Rourke\nWhy Beto and Buttigieg Pretend to Be Kennedys\n   Decades after JFK and RFK were killed, the family's political style\n   remains the Democratic Party's only winning path to the White House."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4423,
+        "content": "A photo illustration of Mark Meadows, Jim Jordan and Donald Trump."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 4490,
+        "content": "How Trump Conspired with the Freedom Caucus to Shut Down the Government\n   Inside the talks and phone calls that convinced Trump to go against the\n   speaker of the House and the Senate majority leader."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4696,
+        "content": "President Calvin Coolidge poses between actor John Drew (left) and,\n   singer Al Jolson at the White House in 1924."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 4812,
+        "content": "The Last Time a President Got a Pass on a Scandal-Plagued White House\n   What Coolidge can teach Trump about 2020: If the economy is good, just\n   Ten smart women tell us what they think of his \"tactile\" style, and\n   whether it disqualifies him for a 2020 run."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5074,
+        "content": "[119]Pelosi: Barr is `going off the rails'\n   \"He is not the attorney general of Donald Trump."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5169,
+        "content": "He is the attorney\n   general of the United States,\" Pelosi told The AP."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 5242,
+        "content": "[123]House Dems use retreat to reset after first 100 days\n   By [124]Heather Caygle and [125]Sarah Ferris\n[127]Republicans press Trump to drop Herman Cain's Fed nomination\n[130]GOP senators try to undermine Kushner's immigration plan\n[133]Trump's `truly bizarre' visit to Mt."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 5518,
+        "content": "Vernon\n   The 45th president -- no student of history -- marveled at the first\n   president's failure to name his historic compound after himself."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 5668,
+        "content": "By [134]Eliana Johnson and [135]Daniel Lippman\n   [136]The Trumps and Macrons at Mount Vernon in 2018\n[138]Top aides appear to contradict Trump on family separation\n[142]Mulvaney huddles with Senate Dems to discuss 'humanitarian crisis' at\n[145]Inside the (semi-)secret society for young Trump staffers\n   By [146]Ben Schreckinger and [147]Daniel Lippman\n   The administration is turning losses into wins by playing a delay game."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 6098,
+        "content": "[154]Barr: Mueller turned down offer to review Russia probe findings\n   The attorney general also says he'll release a redacted version of the\n   special counsel's report 'within a week.'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 6289,
+        "content": "By [155]Kyle Cheney and [156]Andrew Desiderio\n   [157]Attorney General Barr lays out timeline and redaction categories\n     * [158]Barr redactions could spark more displeasure from Mueller's\n   [159]Trump calls Mueller probe an 'attempted coup'\n[160]Trump calls Mueller probe an 'attempted coup'\n[163]Judge denies request for speedy release of Mueller report\n[166]Newly released testimony: Former top FBI lawyer says agency concerned\n[169]Warren raises $6 million in first quarter\n   The Massachusetts Democrat also burned through more than 85 percent of\n[173]Democrats preen for union honchos: Who's most working class?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 6910,
+        "content": "[176]Buttigieg attracting praise from an unexpected audience -- conservatives\n[178]Castro tries to pull a Beto with Trump counter-rally\n[181]White House eyeing former head of anti-immigration group for DHS job\n   Julie Kirchner, the former executive director of the Federation for\n   American Immigration Reform, is being considered."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 7247,
+        "content": "By [182]Ted Hesson, [183]Anita Kumar and [184]Andrew Restuccia\n   [185]U.S. Citizenship and Immigration Services sign\n[187]Another top immigration official to leave Friday\n   [189]President Donald Trump talks to Florida Gov. Ron DeSantis\n[190]The confidential oil plan that could cost Trump reelection\n   By [191]Zack Colman and [192]Ben Lefebvre\n[194]Trump's immigration plans face likely turbulence in courts\n   She's led Architectural Digest through a renaissance."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 7715,
+        "content": "And she credits\n   her success to the lessons Anna Wintour taught her."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 7786,
+        "content": "[203]Where do you draw the line between friendly grandpa and creepy uncle?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 7864,
+        "content": "What might have been seen as normal behavior in the past is not\n   welcomed in the present."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 7956,
+        "content": "How will Biden handle the change?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 7993,
+        "content": "By [204]Micaela Rodriguez, [205]Dave Shaw and [206]Scott Bland\n[208]New Brexit fright night: EU sets Halloween deadline\n   After fierce pushback from Emmanuel Macron, leaders grant a six-month\n   delay with flexibility for Britain to leave earlier."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 8245,
+        "content": "By David Herszenhorn, Charlie Cooper and Maia de La Baume\n   [210]Jean-Claude Juncker and Li Keqiang\n[211]EU scores at China summit with assist from Trump\n   By David Herszenhorn and [212]Hans von der Burchard\n   [213]Wreckage of a crash of Polish plane in April 2010\n[214]The air disaster that haunts Polish politics\n[216]Italy's Salvini aims high with populist alliance for Europe\n[218]`I would have preferred not to have been ejected like an Austin Powers\n   By [219]Daniel Lippman and [220]Andrew Restuccia\n     * [221]Nielsen: Acting DHS Deputy Grady offers resignation\n[223]Nielsen's allies trying to rehab her image for life after Trump\n   By [224]Andrew Restuccia and [225]Daniel Lippman\n[227]Trump's DHS purge floors Republicans\n   By [228]Burgess Everett, [229]John Bresnahan and [230]Melanie Zanona\n     * [231]Legality of Trump move to replace Nielsen questioned\n     * [232]Trump White House plots amped-up immigration crackdown\n   [233]Ed Markey, one of the authors of the legislative \"Green New Deal\"\n[234]House Democrats' net neutrality win likely DOA in Senate but poised to\n[237]Trump's Fed threats meet a firewall: GOP lawmakers\n[240]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 9398,
+        "content": "Burned in 2016, unions hold back endorsements\n   By [241]Ian Kullgren and [242]Natasha Korecki\n   [243]Kirsten Gillibrand, Bernie Sanders and Amy Klobuchar\n[244]Democrats dogged by staff scandals back workplace harassment crackdown\n[247]Poll: Democrats unfazed by Joe Biden's handsiness\n   [249]Rand Paul to Pompeo: You do not have `permission' for war with\n[250]Rand Paul to Pompeo: You do not have `permission' for war with Iran\n[253]House Dems cancel vote on budget plan amid internal revolt\n   By [254]Sarah Ferris, [255]Heather Caygle and [256]John Bresnahan\n     * [257]McConnell says he and Pelosi will launch talks on 2-year\n[259]Democrats are cozying up to corporate lobbyists despite purity pledges\n[262]From abortion to immigration, things you didn't know were in Medicare\n   By [263]Alice Miranda Ollstein and [264]Joanne Kenen\n   6024896328001_6024900830001-vs.jpg?pubId=1155968404\"\n[265]Rand Paul to Pompeo: You do not have `permission' for war with Iran\n[266]White House eyeing former head of anti-immigration group for DHS job\n[267]Barr's FBI 'spying' claim amps up fight over Mueller probe\n[268]Pelosi: Barr is `going off the"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 10541,
+        "content": "rails'\n[269]FBI brass discussed possibility Trump fired Comey 'at the behest of'\n   6023982801001_6023923493001-vs.jpg?pubId=1155968404\"\n[270]Abigail Spanberger kept secrets in the CIA."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 10727,
+        "content": "Now she holds the moderate\n     * [271]The honeymoon is over for the most diverse class in Congress'\n     * [272]How Lucy McBath turned tragedy into a congressional seat\n   [273]Trump: 'We're bucking a court system that never rules for us'\n[274]Trump: 'We're bucking a court system that never rules for us'\n   [275]Georgetown students vote whether or not to add reparations fee for\n[276]Georgetown students vote whether or not to add reparations fee for slave\n   [277]Everything you need to know about impeachment\n[278]Everything you need to know about impeachment\n   By [279]Mary Newman and [280]Darren Samuelsohn\n   [281]The Trumps and Macrons at Mount Vernon in 2018\n[282]Trump's `truly bizarre' visit to Mt."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 11439,
+        "content": "Vernon\n   By [283]Eliana Johnson and [284]Daniel Lippman\n   [285]A sign with the likeness of Alexandria Ocasio-Cortez\n[286]How Alexandria Ocasio-Cortez Broke All the Rules of New York Politics\n   [287]A Jewish supporter of Donald Trump\n[288]Pro-Trump Republicans plan big-money play for the Jewish vote in 2020\n   [290]White House senior adviser Stephen Miller\n[291]Stephen Miller pressuring Trump officials amid immigration shakeups\n   By [292]Anita Kumar, [293]Gabby Orr and [294]Daniel Lippman\n   [295]A photo illustration of Mark Meadows, Jim Jordan and Donald Trump."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 12011,
+        "content": "[296]How Trump Conspired with the Freedom Caucus to Shut Down the Government\n   By [297]Jake Sherman and [298]Anna Palmer\n   Contact POLITICO reporters and provide materials in an anonymous and\n   Exclusive news, intelligence and tools for professionals on the front"
+      }
+    }
+  ]
+}

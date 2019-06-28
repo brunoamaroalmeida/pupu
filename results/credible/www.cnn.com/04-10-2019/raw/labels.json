@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9445514,
+          "topicality": 0.9445514
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.86929196,
+          "topicality": 0.86929196
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.69252646,
+          "topicality": 0.69252646
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.5404296,
+          "topicality": 0.5404296
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.5230358,
+          "topicality": 0.5230358
+        }
+      ]
+    }
+  ]
+}

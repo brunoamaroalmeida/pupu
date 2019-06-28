@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]City World News \u00bb Feed [2]City World News \u00bb Comments Feed\n[13]Assange Truth Bomb: Hillary Clinton And ISIS Are Funded By The Same Money\n[16]Subway Jared Endorses Good Friend Ted Cruz\n   Jan 5, 2016 [17]Celebrities, [18]People, [19]Politics\n[20]Donald Trump's Classmate Speaks Out..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 292,
+        "content": "[23]Donald Trump's Anti-War Statement In Esquire Magazine\n[27]Jeb Bush Reportedly `Enters Mental Hospital'\n[30]George W. Bush Criticizes Donald Trump in Letter"
+      }
+    }
+  ]
+}

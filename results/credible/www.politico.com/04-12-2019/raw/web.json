@@ -1,0 +1,73 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "politico",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://pics.me.me/a-politico-com-trumps-fema-chief-under-investigation-over-use-of-36241277.png"
+          },
+          {
+            "url": "https://pics.me.me/politico-magazine-trump-is-winning-are-you-sick-and-tired-31136845.png"
+          },
+          {
+            "url": "https://pics.me.me/following-politico-politico-politico-devos-gets-beefed-up-security-the-attorney-15084113.png"
+          },
+          {
+            "url": "https://pics.me.me/politico-eu-share-brussels-fears-britains-brexit-chaos-part-of-cunning-26654411.png"
+          },
+          {
+            "url": "http://www.wickedgas.com/wp-content/uploads/2019/01/politico-congress-exasperated-democrats-try-to-rein-in-ocasio-cortez-alexandria-39839635.png"
+          },
+          {
+            "url": "https://pics.me.me/politico-politico-politico-im-sorry-i-watched-it-but-i-36104740.png"
+          },
+          {
+            "url": "https://pics.me.me/estadao-estadao-16h-lucio-mauro-completa-90-anos-nesta-terca-17779499.png"
+          },
+          {
+            "url": "https://pics.me.me/politico-4-hrs-donald-j-trump-and-his-doctor-claim-10080570.png"
+          },
+          {
+            "url": "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201810/n_hardball_edwards_181009_1920x1080.jpg"
+          },
+          {
+            "url": "https://www.facilitylive.com/wp-content/uploads/2016/11/20161109_politico-05.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.27580422
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.26851508
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.19933513
+          },
+          {
+            "description": "Politico",
+            "entityId": "/m/027_2w9",
+            "score": 0.1908
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1857
+          }
+        ]
+      }
+    }
+  ]
+}

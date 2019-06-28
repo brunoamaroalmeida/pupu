@@ -1,0 +1,359 @@
+{
+  "documentSentiment": {
+    "magnitude": 13.9,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]alternate [2]alternate [3]alternate [4]alternate [5]publisher\n   Available for everyone, funded by readers\n   [10]Contribute [11]Subscribe [12]Contribute\n         ______________________________________________________________\n         ______________________________________________________________\n     * [23]switch to the International edition\n     * [26]switch to the Australia edition\n   current edition: International edition\n   ____________________ What term do you want to search?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 494,
+        "content": "(BUTTON) Search\n          + [78]switch to the Australia edition\nNews, sport and opinion from the Guardian's global edition\n[111]Brexit UK likely to be offered extension until end of year\n       EU chief negotiator Michel Barnier fails to convince bloc May has\n          + [112]Live Theresa May arrives at \u00c9lys\u00e9e Palace for talks with\n          + [113]IMF warning No-deal Brexit 'risks two-year UK recession'\n          + [114]Brexit talks Stumbling blocks still threaten a\n          + [115]Live Theresa May arrives at \u00c9lys\u00e9e Palace for talks with\n          + [116]IMF warning No-deal Brexit 'risks two-year UK recession'\n          + [117]Brexit talks Stumbling blocks still threaten a\n       [118]UK likely to be offered extension until end of year\n[119]`Inspiring' Protester becomes symbol of resistance for Sudanese women\n       The woman at a Khartoum demonstration `was trying to give hope,'\n       [120]Protester becomes symbol of resistance for Sudanese women\n[121]Mueller report Trump denies trying to restart family separations while\n       The president claimed on Tuesday: `Obama separated the children ..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 1621,
+        "content": "I'm the one who stopped it' in reference to family separations at\n       [122]Trump denies trying to restart family separations while\n[123]Turkey Erdogan's AKP party seeks rerun of Istanbul mayoral election\n       Turkey's ruling party claims vote marred by `irregularities' and\n       [124]Erdogan's AKP party seeks rerun of Istanbul mayoral election\n[125]`A mountain gave birth to a mouse' Putin mocks Mueller report\n            [126]Putin mocks Mueller report\n[127]Iran MPs don uniform of Revolutionary Guard in protest at US\n            [128]MPs don uniform of Revolutionary Guard in protest at US\n[129]Italy Mussolini's great-grandson claims Facebook suspended his account\n            [130]Mussolini's great-grandson claims Facebook suspended his\n[131]Donald Trump Top Republican warns against apparent homeland security\n            [132]Top Republican warns against apparent homeland security\n[133]'That's not a bag' Man with dog tries to bend New York subway rule\n            [134]Man with dog tries to bend New York subway rule\n[135]The Crown Emma Corrin to play Princess Diana\n            [136]Emma Corrin to play Princess Diana\n   King Bibi: can anyone beat Benjamin Netanyahu?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2812,
+        "content": "After a series of damaging corruption allegations against the PM, could\n   Israelis decide it's time for a change?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2927,
+        "content": "Plus: Sherrie Smith on the\n   discrimination faced by Gypsy, Roma and Traveller communities\n   Subscribe: [138]Apple Podcasts [139]Google Podcasts [140]Spotify\n   Subscribe: [141]Apple Podcasts [142]Google Podcasts [143]Spotify\n   [144]King Bibi: can anyone beat Benjamin Netanyahu?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 3210,
+        "content": "[147]Horror on the Hudson New York's $25bn architectural fiasco\n       It is a billionaires' playground where haircuts cost $800 and\n       high-rise duplexes go for $32m."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 3382,
+        "content": "So why does the towering colossus\n       [148]New York's $25bn architectural fiasco\n[149]Israelis go to the polls What you need to know\n       Election seen as a referendum on Benjamin Netanyahu, who could\n       almost certainly become Israel's longest-serving leader\n          + [150]Israel election Voters go to polls as Netanyahu seeks\n          + [151]Israel election Voters go to polls as Netanyahu seeks\n[153]In the land of El Dorado Where clean water has become `blue gold'\n            The misty p\u00e1ramos in the Andes that supply water to tens of\n            millions of people are under threat."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 3986,
+        "content": "Now their mystery could\n            [154]Where clean water has become `blue gold'\n[155]Climate change Two-thirds of glacier ice in the Alps 'will melt by 2100'\n            If emissions continue to rise at current rate, ice will have\n            all but disappeared from Europe's Alpine valleys by end of\n            [156]Two-thirds of glacier ice in the Alps 'will melt by 2100'\n[157]Spoiler alert!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 4385,
+        "content": "How TV and film are trying to protect their blockbusters\n            [158]How TV and film are trying to protect their blockbusters\n[159]Facebook Site to use AI to stop telling users to say hi to dead friends\n            [160]Site to use AI to stop telling users to say hi to dead\n[161]Felicity Huffman Netflix postpones film after actor admits college fraud\n            [162]Netflix postpones film after actor admits college fraud\n[163]Canada Indigenous music award hit by row over cultural appropriation\n            [164]Indigenous music award hit by row over cultural\n[165]Is Brexit still worth it?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4986,
+        "content": "Only the public can answer that question\n       A soft Brexit will just prolong this nightmare, says Guardian\n          + [166]Alex Clark At last, Brexit explained in two words: Basil\n          + [167]Michael Chessum If Corbyn helps the Tories deliver\n            Brexit, it will be a disaster\n          + [168]Alex Clark At last, Brexit explained in two words: Basil\n          + [169]Michael Chessum If Corbyn helps the Tories deliver\n            Brexit, it will be a disaster\n       [170]Is Brexit still worth it?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 5502,
+        "content": "Only the public can answer that\n[171]Democracy is overrated - let the Queen sort out Brexit\n       From Germany, it looks like the UK monarch is in the perfect\n       position, writes Der Spiegel columnist Jan Fleishhchauer\n       [172]Democracy is overrated - let the Queen sort out Brexit\n[173]Obama's message to Democrats was not timidity but focus on priorities\n       The ex-president advised progressives to avoid purity tests and\n       `circular firing squads' but also stressed sticking to principles\n       [174]Obama's message to Democrats was not timidity but focus on\n[175]The Guardian view Julian Assange: it would be wrong to extradite him\n            [176]Julian Assange: it would be wrong to extradite him\n[177]At last, Brexit explained in two words: Basil Fawlty\n            [178]At last, Brexit explained in two words: Basil Fawlty\n[179]Gardening is the hottest self-care trend, but it has turned me into a\n            [180]Gardening is the hottest self-care trend, but it has\n[182]Live Tottenham v Manchester City: Champions League quarter-final, first\n       Minute-by-minute report: Can Spurs scupper Manchester City's bid\n       for a quadruple?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6671,
+        "content": "Find out with Jacob Steinberg\n       [183]Tottenham v Manchester City: Champions League quarter-final,\n[184]Live Liverpool v Porto: Champions League quarter-final, first leg\n       Minute-by-minute report: Liverpool continue their quest for a\n       Premier League and Champions League double."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 6965,
+        "content": "Join Barry Glendenning\n       [185]Liverpool v Porto: Champions League quarter-final, first leg\n[186]Live England v Spain: women's international friendly\n            Can England improve on their disappointing defeat to Canada\n            when they take on Spain?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 7228,
+        "content": "Find out with Simon Burnton\n               o [187]The Recap Sign up for the best of the Guardian's\n               o [188]The Recap Sign up for the best of the Guardian's\n            [189]England v Spain: women's international friendly\n[190]The Spin Odd alliance of Warner and Bairstow shows IPL can civilise Test\n            International players previously at loggerheads are building\n            relationships that transcend the sub-continental slogfest\n               o [191]IPL Starc sues insurers for $1.5m over missed season\n               o [192]IPL Starc sues insurers for $1.5m over missed season\n            [193]Odd alliance of Warner and Bairstow shows IPL can\n[194]Fleetwood vows to keep taking risks for major reward\n            [195]Fleetwood vows to keep taking risks for major reward\n[196]David Squires on ..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 8055,
+        "content": "Football's squeaky bum time and FA Cup hubris\n            [197]Football's squeaky bum time and FA Cup hubris\n[198]Football Manchester United must be streetwise against Bar\u00e7a, says\n            [199]Manchester United must be streetwise against Bar\u00e7a, says\n[200]`A totally different fit' How female footballers finally got their own\n            [201]How female footballers finally got their own kits\n[203]New York City declares emergency over measles as cases double in two\n       Bill de Blasio ordered people living in four zip codes in\n       Williamsburg to get vaccinated or face fines up to $1,000\n       [204]City declares emergency over measles as cases double in two\n[205]Standard Chartered Bank fined $1.1bn for money-laundering and sanctions\n       Settlements with US and UK authorities force bank to take hit in\n       [206]Bank fined $1.1bn for money-laundering and sanctions breaches\n[207]Business live Trump plans $11bn tariffs aimed at EU's aircraft, cheese\n            [208]Trump plans $11bn tariffs aimed at EU's aircraft, cheese\n[209]Khashoggi killing US issues travel bans against 16 Saudis\n            [210]US issues travel bans against 16 Saudis\n[211]Libya crisis UK officials anxious as blame is laid at doors of Gulf\n            [212]UK officials anxious as blame is laid at doors of Gulf\n[213]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 9373,
+        "content": "Sudan Protesters resist attacks by armed militias\n            [214]Protesters resist attacks by armed militias\n[215]Sri Lanka Brother of ex-president sued over alleged torture and killings\n            [216]Brother of ex-president sued over alleged torture and\n[217]China State planning agency seeks to ban bitcoin mining\n            [218]State planning agency seeks to ban bitcoin mining\n     * [219]The parents of the Brits killed fighting Isis\n       Watch now at theguardian.com/documentaries\n[220]Singer to perform at Eurovision song contest in Israel\n       The singer is expected to perform two songs during next month's\n       event in Tel Aviv, which British cultural figures have called on\n       [221]Singer to perform at Eurovision song contest in Israel\n[222]Silver Apples Why did the electro-pop pioneers disappear on the brink of\n       They worked with Hendrix and influenced Stereolab and Portishead."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 10297,
+        "content": "John Lennon was a fan."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 10320,
+        "content": "So why did the kings of the hippy oscillator\n       disappear, in 1969, on the brink of stardom?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 10424,
+        "content": "[223]Why did the electro-pop pioneers disappear on the brink of\n[224]Stephen Colbert Nielsen is leaving to 'spend more time separating her\n       Late-night hosts recall departing secretary of homeland security's\n       time in office, where separating families is apparently not `tough\n       [225]Nielsen is leaving to 'spend more time separating her family'\n[226]Seymour Cassel obituary Cassavetes regular with a mischievous streak\n            [227]Cassavetes regular with a mischievous streak\n[228]Richard Madden Male actors are also pressured to lose weight for nude\n            [229]Male actors are also pressured to lose weight for nude\n[230]Design Preview: Milan furniture fair\n            [231]Preview: Milan furniture fair\n[232]'Clean' perfume Should you worry about what's in your fragrance?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 11239,
+        "content": "Michelle Pfeiffer's new line claims to be free of so-called\n            `toxic' substances."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 11331,
+        "content": "But what are they?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 11350,
+        "content": "Here's what you need to\n            know about your favourite scents\n            [233]Should you worry about what's in your fragrance?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 11485,
+        "content": "[234]Stalk of the town?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 11509,
+        "content": "The shaky science behind the 'global celery movement'\n            Anthony William, who calls himself the Medical Medium,\n            preaches the juice's `healing powers' as sales of the\n            vegetable jump 400% - despite having no medical training\n            [235]The shaky science behind the 'global celery movement'\n[236]Mid90s How Jonah Hill's new film is ramping skate style up for the\n            [237]How Jonah Hill's new film is ramping skate style up for\n[238]Nigel Slater's midweek dinner Beanshoot and edamame omelette\n            [239]Beanshoot and edamame omelette\n[240]Relationships A parent's guide to young love\n            [241]A parent's guide to young love\n[242]Raf Simons on life after Calvin Klein I've never defined myself as a\n            [243]I've never defined myself as a fashion designer\n       Share stories with the Guardian securely and confidentially\n   Paid content is paid for and controlled by an advertiser and produced\n   by the Guardian Labs team."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12502,
+        "content": "[245]Learn more about Guardian Labs content\nHow to be an agile business: lessons from TransferWise and Farmdrop\n   Success in a digital age means building a solid IT infrastructure that\n   supports the core business needs of your company\nHow two decades of digitalisation has changed business\n   Virtually no industry - from recruitment to manufacturing - remains\n   untouched by the digital revolution."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 12906,
+        "content": "Senior business leaders reflect on\n`The move to the cloud has liberated me': three CIOs on their evolving roles\n   Tech leaders from Amnesty International, PwC and the Arizona Department\n   of Child Safety reflect on how the CIO role has changed, with more\n   focus on strategy and less on tech support\nWhy a robot won't take your job - but it may well share it\n   It's time for the scaremongering to stop - automation could mean net\n   job gains, new employment opportunities and a potential future of great\n[254]The toxic legacy of colorism Why black people discriminate among\n       You cannot separate the often painful stereotypes of colorism from\n       misogyny and the sexual exploitation inherent in American slavery."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 13640,
+        "content": "To combat it we need to speak about it\n          + [255]How I beat Hollywood From overlooked extra to Spike Lee\n          + [256]How I beat Hollywood From overlooked extra to Spike Lee\n       [257]Why black people discriminate among ourselves\n[258]`For five years we dreaded every meal' My infant son's struggle with\n       The long read: After her son was born prematurely, Tahmima Anam\n       thought the worst was behind her."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 14069,
+        "content": "But when he was allowed to come\n       home two months later, a new problem emerged: he refused to eat\n       [259]My infant son's struggle with food\n[260]Sign of the times Mumbai's typographical treasures\n       From handpainted metro signs to art deco buildings, the Indian city\n       is beginning to appreciate and conserve its unique design heritage\n       [261]Mumbai's typographical treasures\n[262]Public Lands Hate You Vigilante shaming influencers for bad behaviour in\n            [263]Vigilante shaming influencers for bad behaviour in US\n[264]EU doctors' Brexit dilemma Do we stay or do we go?\n[266]'The great untold scandal' The sordid tale of boyband mogul Lou Pearlman\n            [267]The sordid tale of boyband mogul Lou Pearlman\n[270]Sudan The women leading the calls for revolution\n[271]'People don't even look at me' Black women discuss politics of light and\n[272]Plastic in paradise The battle for the Gal\u00e1pagos Islands' future\n[273]'Let gay Muslims be gay' Owen Jones goes to the centre of the LGBT\n[274]The biggest revolution in gene editing Crispr-Cas9 explained\n[275]Explainer The far right and mainstream Australian politics\n[280]Tulips in bloom and marathons Tuesday's top photos\n       Guardian picture editors select photo highlights from around the\n[282"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 15352,
+        "content": "]Brexit and the English coast A photo essay\n       More than 100 constituencies with a coastline voted to leave the EU\n       in 2016."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 15487,
+        "content": "Photographer Clodagh Kilcoyne set out to find out why\n[284]Travel Buy a winning Guardian reader's photograph\n       Buy an exclusive print from our 2017 and 2018 readers' travel photo\n       [285]Buy a winning Guardian reader's photograph\n[286]Gere Kavanaugh Exploring the boundaries of beauty\n       A new book looks at the life, work and career of the great\n       [287]Exploring the boundaries of beauty\n[288]Fake birds and curious cows An alternative view of Switzerland\n       Didier Ruef has been photographing Switzerland for 30 years."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 16030,
+        "content": "His\n       new book, Homo Helveticus, contains images of the country and its\n       inhabitants that present an unexpected view\n       [289]An alternative view of Switzerland\n[290]Written in the wind Visualising air pollution levels\n       Robin Price's work visualises the amount of hazardous fine\n       particulate matter (PM2.5) present in the air through experimental\n       [291]Visualising air pollution levels\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 16455,
+        "content": "[293]Most popular Across the guardian\n[294]Live Brexit: Tusk urges EU leaders to offer long Brexit delay - live\n[295]UK likely to be offered Brexit extension until end of year\n[296]Facebook posts about Sajid Javid deepen Tory Islamophobia row\n[297]Horror on the Hudson: New York's $25bn architectural fiasco\n[298]Labour calls for new Brexit proposals from Tories as talks resume\n[299]'That's not a bag': man with dog bends New York subway rule and gets\n[300]What makes somebody change their mind about Brexit?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 16965,
+        "content": "[301]At last, Brexit explained in two words: Basil Fawlty\n[302]Debenhams falls into administration, wiping out Mike Ashley's stake\n[303]Live Trump denies trying to restart family separations while blaming\n   IFRAME: [319]/email/form/footer/today-uk\n   Available for everyone, funded by readers\n   \u00a9 2019 Guardian News & Media Limited or its affiliated companies."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 17329,
+        "content": "All\n   [p?c1=2&c2=6035250&cv=2.0&cj=1&comscorekw=]\n   6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 17386,
+        "content": "ios-app://409128287/gnmguardian/international?contenttype=front&source=google"
+      }
+    }
+  ]
+}

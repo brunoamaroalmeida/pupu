@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://mahilasahayatra.com.np/uploads/publication/webnepali.jpg.png"
+          },
+          {
+            "url": "https://4.bp.blogspot.com/-XyuP2iTr1Ic/V2qzP8Shs-I/AAAAAAAAAQ0/o2C4h1NgIJAULWsWghgmarvrF2Mhh5uywCLcB/s1600/2%2B%2BBrochure%2Btravel%2Bfront.jpg"
+          },
+          {
+            "url": "https://image.isu.pub/140312130145-ed7b9d2e2d79bfdbcd5525b3bb8b2636/jpg/page_1.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/DF0FNiKXUAAeCsG.jpg"
+          },
+          {
+            "url": "http://bekonang.com/wp-content/uploads/2018/06/radon-brochure-perceptive-graphics-home-inspector-samples-full-color-printable.jpg"
+          },
+          {
+            "url": "https://www.chilliwack.com/main/pageimages/2287/2013%20Final%20Event%20Recycling_Page_2.jpg"
+          },
+          {
+            "url": "https://cdn.slidesharecdn.com/ss_thumbnails/travelbrochureexemplar-111030193713-phpapp02-thumbnail-4.jpg?cb=1320003465"
+          },
+          {
+            "url": "http://cdn.itfairsg.com/comex2015/images/Samsung%20Smartphones%20Galaxy%20S6%20edge%2C%20S6%2C%20A8%2C%20A7%2C%20A5%2C%20A3%2C%20Note%20Edge%2C%20Note%204%2C%20GRAND%202.jpg"
+          },
+          {
+            "url": "http://cedarlakesoftware.ca/wp-content/uploads/2018/05/wd-Inside.jpg"
+          },
+          {
+            "url": "http://www.ghsd75.ca/images/content/Learner_Profile_Brochure2_April2014.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.33726045
+          },
+          {
+            "description": "Henning Municipal Airport",
+            "entityId": "/m/0jk_byc",
+            "score": 0.31155
+          },
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.27835163
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2747
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.22424833
+          },
+          {
+            "description": "Brochure",
+            "entityId": "/g/121lmpw8",
+            "score": 0.2074
+          },
+          {
+            "description": "Organism",
+            "entityId": "/m/05nnm",
+            "score": 0.20391683
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1981
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.19792086
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.19167997
+          }
+        ]
+      }
+    }
+  ]
+}

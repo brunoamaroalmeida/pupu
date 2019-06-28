@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.93413997,
+          "topicality": 0.93413997
+        },
+        {
+          "description": "Product",
+          "mid": "/m/01jwgf",
+          "score": 0.8828333,
+          "topicality": 0.8828333
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.80401665,
+          "topicality": 0.80401665
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.7820901,
+          "topicality": 0.7820901
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.737545,
+          "topicality": 0.737545
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.66070443,
+          "topicality": 0.66070443
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.65468615,
+          "topicality": 0.65468615
+        },
+        {
+          "description": "Recruiter",
+          "mid": "/m/0314yr",
+          "score": 0.63106143,
+          "topicality": 0.63106143
+        },
+        {
+          "description": "Employment",
+          "mid": "/m/01tqrk",
+          "score": 0.6233813,
+          "topicality": 0.6233813
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.6154919,
+          "topicality": 0.6154919
+        }
+      ]
+    }
+  ]
+}

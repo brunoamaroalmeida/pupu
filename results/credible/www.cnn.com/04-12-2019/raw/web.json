@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "media"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://uk.gov.in/app/webroot/files/SE.JPG"
+          },
+          {
+            "url": "https://dynamic.websimages.com/s/themes/magazine/v1.40/screenshots/thumb-white.png"
+          },
+          {
+            "url": "https://www.arun.is/blog/10-year-challenge/nytimes_2009.jpg"
+          },
+          {
+            "url": "https://www.e-architect.co.uk/wp-content/uploads/2016/09/social-media-facebook-architecture.jpg"
+          },
+          {
+            "url": "https://images.template.net/wp-content/uploads/2016/03/29054233/Free-Holiday-Transporation-CSS-Website-Templates.jpg"
+          },
+          {
+            "url": "https://studioenterprise.com/wp-content/uploads/2018/08/film-programs-focus-on-saudi-talents-screenshot.jpg"
+          },
+          {
+            "url": "https://uc.wisc.edu/content/uploads/2016/12/news.png"
+          },
+          {
+            "url": "http://www.learningoutcomesassessment.org/images/CSUN.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/BuzzFeed_News_website_screenshot.png/300px-BuzzFeed_News_website_screenshot.png"
+          },
+          {
+            "url": "https://media.pri.org/s3fs-public/styles/original_image/public/images/2019/03/tw-05-2007-new.jpg?itok=8URHFYs7"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.4073097
+          },
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.33382216
+          },
+          {
+            "description": "Job",
+            "entityId": "/m/04115t2",
+            "score": 0.21388884
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1928
+          }
+        ]
+      }
+    }
+  ]
+}

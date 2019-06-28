@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://www.lenderslist.co.uk/assets/Uploads/ulster-bank-business-loans-screenshot.jpg"
+          },
+          {
+            "url": "https://mageewp.com/wp-content/uploads/2015/08/business.jpg"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/fo-finance-company-website-template.jpg"
+          },
+          {
+            "url": "https://www.awakensolutions.com/wp-content/uploads/2015/12/bromelin-500x500.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/51b76ae0e4b07b03edbdff02/t/534f0448e4b0e85fd91cac15/1397687396937/"
+          },
+          {
+            "url": "https://i2.wp.com/codeless.co/wp-content/uploads/2016/11/FinancePlus-%E2%80%93-Just-another-WordPress-site-1-1024x712.png?resize=940%2C654&ssl=1"
+          },
+          {
+            "url": "https://my.studiopress.com/wp-content/uploads/authority-pro-1000x880.jpg"
+          },
+          {
+            "url": "https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2012/08/1469610790Upspring.jpg"
+          },
+          {
+            "url": "https://mageewp.com/wp-content/uploads/2018/04/best-wordpress-themes-business-Handel.jpg"
+          },
+          {
+            "url": "https://s.tmimgcdn.com/scr/68300/probusiness-elegant-audit-company-multipage-html-website-template_68306-original.jpg?width=400&height=400"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.33888364
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.3093382
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2841
+          },
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.27270138
+          },
+          {
+            "description": "New media",
+            "entityId": "/m/01yl50",
+            "score": 0.25627652
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.2051206
+          },
+          {
+            "description": "Business",
+            "entityId": "/g/120y8l81",
+            "score": 0.1986
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1985
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1974
+          },
+          {
+            "description": "Media",
+            "entityId": "/m/03qh03g",
+            "score": 0.1861
+          }
+        ]
+      }
+    }
+  ]
+}

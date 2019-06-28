@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Soldier",
+          "mid": "/m/099md",
+          "score": 0.89386725,
+          "topicality": 0.89386725
+        },
+        {
+          "description": "Army",
+          "mid": "/m/0pd7",
+          "score": 0.8324092,
+          "topicality": 0.8324092
+        },
+        {
+          "description": "Military",
+          "mid": "/m/01h6rj",
+          "score": 0.8275253,
+          "topicality": 0.8275253
+        },
+        {
+          "description": "Military uniform",
+          "mid": "/m/03w1r4",
+          "score": 0.7601603,
+          "topicality": 0.7601603
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.69183385,
+          "topicality": 0.69183385
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.6857238,
+          "topicality": 0.6857238
+        },
+        {
+          "description": "Adaptation",
+          "mid": "/m/03r_vp",
+          "score": 0.6696612,
+          "topicality": 0.6696612
+        },
+        {
+          "description": "Military person",
+          "mid": "/m/02h66g5",
+          "score": 0.6569723,
+          "topicality": 0.6569723
+        },
+        {
+          "description": "Military camouflage",
+          "mid": "/m/09l63h",
+          "score": 0.55723876,
+          "topicality": 0.55723876
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.5284434,
+          "topicality": 0.5284434
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.671158,
+          "topicality": 0.671158
+        },
+        {
+          "description": "Helmet",
+          "mid": "/m/0zvk5",
+          "score": 0.59627837,
+          "topicality": 0.59627837
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.5925366,
+          "topicality": 0.5925366
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.53392184,
+          "topicality": 0.53392184
+        }
+      ]
+    }
+  ]
+}

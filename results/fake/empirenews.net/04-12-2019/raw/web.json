@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://i.pinimg.com/originals/8e/e6/25/8ee625cea6db276f7a1c89f3a555a1dc.jpg"
+          },
+          {
+            "url": "https://pics.me.me/pewdiepie-fans-hacked-the-wall-street-journal-today-this-showed-38762511.png"
+          },
+          {
+            "url": "https://i.pinimg.com/originals/85/1e/57/851e57114cdb772f69ee0f800d63d6a5.jpg"
+          },
+          {
+            "url": "http://kevin-logan.com/img/hhsp%20sharepoint%20piece.png"
+          },
+          {
+            "url": "https://image2.owler.com/6723052-1489563988395.png"
+          },
+          {
+            "url": "https://d357wx87z4hzhv.cloudfront.net/wp-content/uploads/2018/06/21080739/resoration-website-design.png"
+          },
+          {
+            "url": "https://d2jafhvbn4akdi.cloudfront.net/website_regular_8044927-628c4066-748e-40b1-970c-aa49fef10f40.png"
+          },
+          {
+            "url": "https://bpdt.files.wordpress.com/2015/10/img_0629.png"
+          },
+          {
+            "url": "https://mk0wpbuffsa0vanw2d3s.kinstacdn.com/wp-content/uploads/2019/01/WP-Buffs-Chat-Window.png"
+          },
+          {
+            "url": "https://cdn3.f-cdn.com//files/download/20122555/7ccbc5.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.36620808
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.3350419
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2578
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.21745217
+          }
+        ]
+      }
+    }
+  ]
+}

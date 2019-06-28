@@ -1,0 +1,359 @@
+{
+  "documentSentiment": {
+    "magnitude": 10.3,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "Notre site en Fran\u00e7ais: [19]mondialisation.ca\n   Nuestro sitio en espa\u00f1ol: [25]Globalizacion\nChelsea and Julian Are in Jail."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 130,
+        "content": "History Trembles."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 148,
+        "content": "Selected Articles: Assange's Extradition to the US Is Imminent\nMajor Confession: Kosovo's PM - `I Only Carry Out U.S Orders, I'm an American\nUK Government Defends Arming Saudi Arabia: Secret Court Hearing."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 354,
+        "content": "Are British\nVideo: Turkey Aims to Seize Tell Rifaat after Russian Forces Withdrawal\nWill RussiaGate Junta-Mastermind, John Brennan, Ever Face the Music?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 507,
+        "content": "Qu\u00e9bec Solidaire to Fight Quebec Government's Bill 21 on Religion and the\nRogue State?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 595,
+        "content": "Britain Railing Against International Norms and Laws\nVideo: Assange's Lawyer Says Wikileaks Founder's Life in Danger if Extradited\nUSA v. Julian Assange: DOJ Indictment on Phony Charge Revealed\nBritish Government Arrests WikiLeaks Founder Julian Assange on Behalf of the\n\"Putinyahu's Rusrael\": The Putin-Netanyahu Relationship, A Deep Personal\nAssange's Arrest Criminalizes Truth-Telling Journalism\nVideo: Libyan National Army Shoots Down GNA Warplane amid Further Advances\n                          [63][?240,240,1036593691]\n                       [64]Click Here To Order Online\n          + [69]Culture, Society & History\n          + [79]Poverty & Social Inequality\n     * [103]The global research news hour\n     * [110]The Globalization of War."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1342,
+        "content": "America's \"Long War\" against\n     * [111]Today's Most Popular GR Articles\n     * [112]I nostri articoli in italiano\n     * [113]Vease Nuestros Articulos en Espa\u00f1ol\n     * [114]Visit our Asia-Pacific website\n   [116]NATO-Exit: Dismantle NATO, Close Down 800 US Military Bases,\n   Prosecute the War Criminals By [117]Prof Michel Chossudovsky, April 04,\n   Washington's unspoken hegemonic objective is Worldwide militarization\n   and economic conquest."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1793,
+        "content": "This imperial design is carried out through acts\n   of war, military intervention, coups d'Etat, regime change, US\n   sponsored insurgencies, cyber-warfare, economic sabotage and\n   destabilization."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1992,
+        "content": "\"All options are on the table\"."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2027,
+        "content": "[118]China's President Xi Jinping in Italy: It's the Maritime Ports!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 2096,
+        "content": "By\n   [119]F. William Engdahl, April 02, 2019\n   To the concern of Germany, France, Holland and other EU countries,\n   Italy's coalition has just signed a MOU with China to join China's Belt\n   Road Initiative."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2307,
+        "content": "Italy is the only industrial G7 country so far to opt\n   in to the BRI."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2379,
+        "content": "The China deal has the potential to change the\n   geopolitics of not only the EU but also most of the world."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2491,
+        "content": "[120]The CIA Takeover of America in the 1960s Is the Story of Our\n   Times."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2567,
+        "content": "The Killing of the Kennedys and Today's New Cold War By\n   Sirhan did not kill Robert Kennedy, yet he remains in jail to this very\n   day."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 2706,
+        "content": "Robert Kennedy, Jr., who was 14 years old at the time of his\n   father's death, has visited Sirhan in prison, claims he is innocent,\n   and believes there was another gunman.\n   [122]\"Blood Gold\" in La Rinconada, Devil's Paradise in Peru's Andes: A\n   Crime Gang-run City, Human Rights do not Exist By [123]Peter Koenig,\n   Who buys this gold?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3050,
+        "content": "Large corporations."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 3070,
+        "content": "One of them is the Swiss\n   registered Metalor, among the world's largest gold foundries."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 3160,
+        "content": "Annually,\n   3,000 to 3,500 tons of gold are mined across the globe."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3229,
+        "content": "Switzerland\n   refines about 70-80% of all the gold in the world."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3295,
+        "content": "An estimated 20% to\n   [124]Fukushima: Nuclear War without War\n   [128]U.S. \"Military Aid\" to Al Qaeda, ISIS\n   [132]US War Plans against China & Russia\n   [137]Will RussiaGate Junta-Mastermind, John Brennan, Ever Face the\n   Music?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 3528,
+        "content": "By [138]Mike Whitney, April 12, 2019\n   [139]Qu\u00e9bec Solidaire to Fight Quebec Government's Bill 21 on Religion\n   and the State By [140]Richard Fidler, April 12, 2019\n   [141]Rogue State?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3717,
+        "content": "Britain Railing Against International Norms and Laws\n   [143]Video: Assange's Lawyer Says Wikileaks Founder's Life in Danger if\n   Extradited to the U.S. By [144]Defend Democracy Press, April 12, 2019\n   [145]USA v. Julian Assange: DOJ Indictment on Phony Charge Revealed By\n   [147]Libya Is Our Regime Change Nightmare By [148]Daniel Larison, April\n   [149]British Government Arrests WikiLeaks Founder Julian Assange on\n   Behalf of the American Empire By [150]Dr. Leon Tressell, April 12, 2019\n   [151]\"Putinyahu's Rusrael\": The Putin-Netanyahu Relationship, A Deep\n   Personal Bond?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 4303,
+        "content": "By [152]Andrew Korybko, April 12, 2019\n   [153]Assange's Arrest Criminalizes Truth-Telling Journalism By\n   [155]Video: Libyan National Army Shoots Down GNA Warplane amid Further\n   Advances South of Tripoli By [156]South Front, April 12, 2019\n   [157]Open Letter to President Trump on the Arrest of Julian Assange By\n   [159]Julian Assange Should be Lauded and Protected, Not Persecuted and\n   Destroyed By [160]Mark Taliano, April 12, 2019\n   [161]The Assange Arrest Is a Warning from History By [162]John Pilger,\n   [163]NATO - No Need - NATO-EXIT: The Florence Declaration By [164]Peter\n   [165]Venezuela Walks from OAS as Body Violates Charter in Support of\n   US-Backed Coup By [166]Alexander Rubinstein, April 12, 2019\n   [167]Censored: \"Online Harms\" By [168]UK Column News, April 12, 2019\n   [169]Julian Assange: The Age of Injustice By [170]Dr. Paul Craig\n   [171]Shredding Asylum: The Arrest of Julian Assange By [172]Dr. Binoy\n   [173]Julian Assange Message Is to \"Resist!\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 5289,
+        "content": "By [174]Massoud Nayeri,\n   [175]\"Voices from Syria\" and \"The Dirty War on Syria\": Mark Taliano and\n   Tim Anderson Analyze the War on Syria By [176]Global Research, April\n   [177]The Problem with Wikipedia and the Digital Revolution By [178]Dr.\n   [179]Like America with \"Russiagate\", India Is Now Obsessed with\n   \"Pakistangate\" By [180]Andrew Korybko, April 11, 2019\n   [181]The Florence Declaration: The Creation of a \"NATO-Exit\"\n   International Front By [182]Manlio Dinucci, April 11, 2019\n   [183]Police State Britain: UK Police Forcibly Arrest Julian Assange By\n   [185]EU Parliamentary Elections 2019."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 5899,
+        "content": "Aspiring Politicians, Fear of\n   Nationalist Movements..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 5957,
+        "content": "By [186]Andreas C Chrysafis, April 11, 2019\n   [187]The ReCommonsEurope Manifesto: A Left-wing Initiative in Europe By\n   [189]British Bombs Are Being Dropped from Saudi Jets onto Yemeni\n   Schools, Mosques and Hospitals, Court Hears By [190]Phil Miller, April\n   [191]Poisoning Wildlife - A Growing Threat in Europe By [192]European\n   [193]Canada's CIJA Selective About Which Hate Crimes It Condemns By\n   [195]Egypt Withdraws from Trump's `Arab NATO' Group By [196]Almasdar\n   [197]The Consequences of the Sudanese Coup By [198]Andrew Korybko,\n   [199]Who Is Killing Whom in the Middle East?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 6552,
+        "content": "Blaming Iran Might be an\n   Excuse for War By [200]Philip Giraldi, April 11, 2019\n   [201]Access to Medical Care, a Human Right, Must Also be Guaranteed to\n   Julian Assange By [202]Sean Love, April 11, 2019\n   [203]WikiLeaks Founder Julian Assange Appears in London Court By\n   [205]Environmental Snags in Australia: The Approval Process for Adani,\n   India's Mining Giant By [206]Dr. Binoy Kampmark, April 11, 2019\n   [207]Iran Is Preparing to Link Tehran to the Mediterranean via a New\n   Highway By [208]Almasdar News, April 11, 2019\n   [209]Video: War on Russia?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 7120,
+        "content": "Growing Military Deployment of US-NATO in\n   the Black Sea By [210]South Front, April 11, 2019\n   [211]Despite a $ 22 Trillion National Debt, America Is on a Military\n   Spending Spree. 800 Overseas US Military Bases By [212]Masud Wadan,\n   [213]\"The Greece Israel Cyprus Axis\" (GRISCY): The US Key to Containing\n   Multipolarity in the Eastern Mediterranean?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 7480,
+        "content": "By [214]Andrew Korybko,\n   [215]Video: A New Battle for Tripoli: Haftar's Blitzkrieg Is Turning\n   into a Prolonged Siege By [216]South Front, April 10, 2019\n   [217]International Coalition Calls for the EU to End Its Role in the\n   Assault on the Amazon By [218]Fern, April 10, 2019\n   [219]Dead Heat in Farcical Israeli Elections By [220]Stephen Lendman,\n   [222]Middle East Activism and Double Standards towards Russia By\n   [224]Momentum Builds for the Save the Internet Act with More than 210\n   Supporters in the House By [225]Free Press, April 10, 2019\n   [226]`Clear Breach of His Oath of Office': Trump Reportedly Told Border\n   Patrol to Refuse to Let Migrants in the US By [227]Jake Johnson, April\n   [228]Venezuela: US Imposes Fresh Sanctions as Rival Marches Held By\n   [230]Battlefield Libya: Fruits of US-NATO Regime Change By [231]Tony\n   [232]The Nation's Food: Hazardous US Chemical and Biological Products\n   By [233]Stephen Lendman, April 10, 2019\n   [234]Western Spies Among the Jihadis in Idlib: Planning A New Drama?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 8520,
+        "content": "A\n   Chemical Attack?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 8542,
+        "content": "By [235]Steven Sahiounie, April 10, 2019\n   [236]Video: US and Israel Prepare for Coordinated Campaign Against\n   Iranian Forces in Syria By [237]South Front, April 10, 2019\n   [238]Terrorist Designations: Trump and Iran's Revolutionary Guard Corps\n   By [239]Dr. Binoy Kampmark, April 10, 2019\n   [240]The Fall of Baghdad 16 Years Ago By [241]Eresh Omar Jamal, April\n   [242]Somalia, Afghanistan: A Tale of Two Failed States By [243]Eric\n   [244]Elite and Media Support for NATO, Increasing Threat of War with\n   Russia By [245]Shane Quinn, April 10, 2019\n   [246]The Boston Trial: Another African Convicted in Another Racist,\n   Chauvinist Western Court By [247]Ann Garrison, April 10, 2019\n   [248]Greens Say `No to NATO' While War Parties Give Standing Ovations\n   to NATO By [249]Kevin Zeese, April 10, 2019\n   [250]Sudan's \"Deep State\" Divisions Could Spell the End of President\n   Bashir's Rule By [251]Andrew Korybko, April 10, 2019\n   [252]Global Research Strives for Peace By [253]The Global Research\n   [254]Ideology, Anyone?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 9579,
+        "content": "By [255]John Kozy, April 09, 2019\n   [256]Video: A New Battle for Tripoli: Preconditions and Prospects By\n   [258]Anti-Russia Nuclear First Strike?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 9727,
+        "content": "Poland Would Need a \"Demographic\n   Precaution\" Plan By [259]Adeyinka Makinde, April 09, 2019\n   [287]GlobalResearch Center for Research on Globalization [288]Privacy\n   Policy Copyright \u00a9 2005-2019 [289]GlobalResearch.ca\n   This website uses cookies in order to improve your browsing experience."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 10028,
+        "content": "By continuing to use this site you agree to the use of"
+      }
+    }
+  ]
+}

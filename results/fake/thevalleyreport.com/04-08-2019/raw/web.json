@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "anemess inverno 2013",
+            "languageCode": "en"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.3828914
+          },
+          {
+            "description": "Bumper sticker",
+            "entityId": "/m/01n3dg",
+            "score": 0.2661
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.24722038
+          },
+          {
+            "description": "Bumper",
+            "entityId": "/m/02mnkq",
+            "score": 0.2395
+          },
+          {
+            "description": "Technology",
+            "entityId": "/m/07c1v",
+            "score": 0.2223588
+          },
+          {
+            "description": "Job",
+            "entityId": "/m/04115t2",
+            "score": 0.21306904
+          },
+          {
+            "description": "Anemess",
+            "entityId": "/g/1tcxfb58",
+            "score": 0.1867
+          },
+          {
+            "description": "Conservatism",
+            "entityId": "/m/01yqp",
+            "score": 0.1777
+          }
+        ]
+      }
+    }
+  ]
+}

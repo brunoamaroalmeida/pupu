@@ -1,0 +1,82 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "daily mail",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://ichef.bbci.co.uk/news/485/socialembed/https://twitter.com/southbankcentre/status/964481407673389056~/news/uk-43093154"
+          },
+          {
+            "url": "https://i2-prod.mirror.co.uk/incoming/article12976367.ece/ALTERNATES/s615b/0_Screen-Shot-2018-07-25-at-091325.jpg"
+          },
+          {
+            "url": "https://cdn-images-1.medium.com/max/1600/1*NRW8ZPTVryJhs3LvMHzD2w.png"
+          },
+          {
+            "url": "https://www.unilad.co.uk/wp-content/uploads/2016/06/comment1.png"
+          },
+          {
+            "url": "https://cdn-images-1.medium.com/max/1600/1*wbi1uh7OiFP2fgyyo2bFpg.png"
+          },
+          {
+            "url": "https://donstaniford.typepad.com/.a/6a016766faffa0970b01b8d2d48f8c970c-pi"
+          },
+          {
+            "url": "https://www.unilad.co.uk/wp-content/uploads/2015/08/UNILAD-Commentn-24.jpg"
+          },
+          {
+            "url": "https://i2.wp.com/mypk247.com/wp-content/uploads/2019/01/wrestler-defends-vile-tampon-stunt-after-fierce-backlash-daily-mail-1.jpg?resize=634%2C326&ssl=1"
+          },
+          {
+            "url": "https://www.unilad.co.uk/wp-content/uploads/2016/06/comment4.png"
+          },
+          {
+            "url": "https://pixel.nymag.com/imgs/daily/intelligencer/2013/06/27/27-baldwintwitter2.w710.h473.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.29591
+          },
+          {
+            "description": "Daily Mail",
+            "entityId": "/m/0180v2",
+            "score": 0.2943
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.26385888
+          },
+          {
+            "description": "Angle",
+            "entityId": "/m/0mwc",
+            "score": 0.26235077
+          },
+          {
+            "description": "MailOnline",
+            "entityId": "/m/02z3n9c",
+            "score": 0.2522
+          },
+          {
+            "entityId": "/t/27v_vt2_tp0w6",
+            "score": 0.2522
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.187
+          }
+        ]
+      }
+    }
+  ]
+}

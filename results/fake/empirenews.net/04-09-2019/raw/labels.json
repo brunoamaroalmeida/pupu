@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.85248786,
+          "topicality": 0.85248786
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84106016,
+          "topicality": 0.84106016
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.71967864,
+          "topicality": 0.71967864
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.63671887,
+          "topicality": 0.63671887
+        },
+        {
+          "description": "Pope",
+          "mid": "/m/05rd8",
+          "score": 0.62966555,
+          "topicality": 0.62966555
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.59408087,
+          "topicality": 0.59408087
+        },
+        {
+          "description": "Chef",
+          "mid": "/m/01pn0r",
+          "score": 0.56701,
+          "topicality": 0.56701
+        },
+        {
+          "description": "Photo caption",
+          "mid": "/m/0b75wg4",
+          "score": 0.5130243,
+          "topicality": 0.5130243
+        }
+      ]
+    }
+  ]
+}

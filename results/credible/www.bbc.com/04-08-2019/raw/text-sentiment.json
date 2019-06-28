@@ -1,0 +1,269 @@
+{
+  "documentSentiment": {
+    "magnitude": 7.6,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]alternate [2]alternate [3]alternate [4]alternate\n   Search the BBC ____________________ (BUTTON) Search the BBC\n     * A crater is seen near the blast site after the air strike\n[30]UN condemns strike on Tripoli airport\n       Flights are halted in Libya's capital as a power struggle for the\n       [32]UN condemns strike on Tripoli airport\n     * Church destroyed by fires in Louisiana."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 395,
+        "content": "[33]Three black churches burned in Louisiana\n       [35]Three black churches burned in Louisiana\n[36]Italy stops UK tourist with Pompeii mosaic tiles\n       [38]Italy stops UK tourist with Pompeii mosaic tiles\n[39]Why airlines lengthen trips on purpose\n       [41]Why airlines lengthen trips on purpose\n     * A spycam being held in someone's hand, showing it is not much\n[42]Top official in court over toilet camera\n       [44]Top official in court over toilet camera\n     * Members of the Iranian Revolutionary Guard carry the casket of\n       Iran's Revolutionary Guards Brigadier General Mohsen Ghajarian, who\n       was killed in the northern province of Aleppo by jihadists in\n       Syria, during their funeral procession in the capital Tehran, on\n[46]US labels Iran Guards force as terrorist\n       It is the first time the US has labelled a foreign government's\n       military as a terrorist organisation.\n       [48]US labels Iran Guards force as terrorist\n[49]How far will Israel shift to the right?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1414,
+        "content": "The BBC's Tom Bateman reports on the role of the far right as\n       Israelis go to the polls on Tuesday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1527,
+        "content": "[51]How far will Israel shift to the right?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1571,
+        "content": "[52]Ministers set for further Brexit talks\n       No 10 says ministers and their shadow counterparts will continue\n       [54]Ministers set for further Brexit talks\n     * Eden Hazard celebrates scoring against West Ham with Chelsea\n[56]Hazard earns Chelsea win over West Ham\n       Eden Hazard scores two goals as Chelsea beat West Ham to move above\n       Tottenham and Arsenal into third place in the Premier League table."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 2004,
+        "content": "[58]Hazard earns Chelsea win over West Ham\n     * England winger Raheem Sterling puts his hands to his ears after\n       scoring against Montenegro in response to racist chants from the\n[59]Sterling against walking off over racism\n       England winger Raheem Sterling says players should not leave the\n       pitch if there is racist abuse from the stands because \"if you walk\n       [61]Sterling against walking off over racism\n[62]'I left my youth behind and became a man' - when Tiger met the Masters\n       Tiger Woods was a 19-year-old student and had to rush back for\n       history class from his first Masters in 1995."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2632,
+        "content": "BBC Sport tells the\n       [64]'I left my youth behind and became a man' - when Tiger met the\n   The new home for amazing BBC video content\n     * How trees secretly talk to each other\n     * We have found 'Earth-like' planets\n       From 1990s puffer jackets to DMs, the styles that return again and\n       [72]Why do some trends keep coming back?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 2981,
+        "content": "[73]10 of the most epic song intros in pop history\n       Anti-streaming classics in pop history\n       [75]10 of the most epic song intros in pop history\n     * Elderly people now outnumber young children."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3188,
+        "content": "How will this affect\n[76]A milestone for the 'ageing time bomb'\n       Elderly people now outnumber young children."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3304,
+        "content": "How will this affect\n       [78]A milestone for the 'ageing time bomb'\n     * It's been home to buccaneers, explorers, shipwrecks and one very\n       It's been home to buccaneers, explorers, shipwrecks and one very\n       [81]South America's shipwreck island\n[82]`This cat-and-mouse game still dazzles'\n       [84]`This cat-and-mouse game still dazzles'\n     * The split could kick off the beginning of the end for the US as we\n[85]What if California seceded from the US?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3783,
+        "content": "The split could kick off the beginning of the end for the US as we\n       [87]What if California seceded from the US?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3906,
+        "content": "* An aerial shot of the planned Oceanix City."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 3952,
+        "content": "[88]Floating cities - fantasy or the future?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 4004,
+        "content": "A possible solution to rising sea levels?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 4053,
+        "content": "[90]Floating cities - fantasy or the future?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4098,
+        "content": "France plans tax cuts to quell yellow vest anger\nNissan votes to oust Ghosn from its board\n[98]The man who created the perfect pop song\n       [99]The man who created the perfect pop song\n[102]'Why I quit as a barrister to follow my dream job'\n       [103]'Why I quit as a barrister to follow my dream job'\n[104]Did Russia meddle in Madagascar's election?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4457,
+        "content": "A BBC investigation has revealed that at least six candidates were\n   offered money by Russians in the lead-up to last year's presidential\n   [106]Did Russia meddle in Madagascar's election?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4648,
+        "content": "[110]Did Russia meddle in Madagascar's election?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4704,
+        "content": "[112]Did Russia meddle in Madagascar's election?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 4758,
+        "content": "* vegans and police face off in Melbourne\n[113]'Shameful and un-Australian' vegan protests\n       [115]'Shameful and un-Australian' vegan protests\n[116]'Taught the stones shouldn't be too big'\n       [118]'Taught the stones shouldn't be too big'\n[119]'Losing everything has made me stronger'\n       [121]'Losing everything has made me stronger'\n     * Dutch adventurer Wiebe Wakker finishes his three-year electric car\n       journey from the Netherlands to Australia, in Sydney\n[122]Amsterdam to Sydney in an electric car\n       [124]Amsterdam to Sydney in an electric car\n     * The foreign secretary struggled to explain the PM would tackle\n       \"burning injustices\" in the criminal justice system and in\n[125]Boris Johnson struggles in interview\n       [127]Boris Johnson struggles in interview\n     * Solar eclipse to cross North America\n       [130]Ready for the total solar eclipse?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5650,
+        "content": "[131]Koalas 'face extinction' in parts of...\n       [133]Koalas 'face extinction' in parts of Australia\n     * File image of Mosul's Great Mosque of al-Nuri and video purportedly\n       showing it being blown up on 21 June 2017\n[134]Video 'shows Mosul mosque's destruction'\n       [136]Video 'shows Mosul mosque's destruction'\n[137]Indonesia's female 'devil wheel' riders\n       [139]Indonesia's female 'devil wheel' riders\n     * Sudan protesters in front of military headquarters in Khartoum\n[143]Sudan protesters protected by some soldiers\n       [145]Sudan protesters protected by some soldiers\n[146]'I'm just trying to save my daughter's life'\n       [148]'I'm just trying to save my daughter's life'\n[151]'Lost' Beatles TV performance unearthed\n       A clip of The Beatles' only live performance on Top of the Pops is\n       [153]'Lost' Beatles TV performance unearthed\n[154]Satellites used to protect rare sharks\n       [156]Satellites used to protect rare sharks\n[157]'Shoddy' Huawei work risks Westminster ban\n       [159]'Shoddy' Huawei work risks Westminster ban\n       [162]Google's ethics board shut down\n[163]Precise brain stimulation boosts memory\n       [165]Precise brain stimulation boosts memory"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 6866,
+        "content": "[166]Film festival cancels Wyman appearance\n       [168]Film festival cancels Wyman appearance\n[169]Housemates from hell - me and my 23-year-old son\n       [171]Housemates from hell - me and my 23-year-old son\n     * London's ULEZ: How does it compare?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 7119,
+        "content": "By Matt McGrath\n     * Israel's election: Five things to know By Yolande Knell\n     * Germany's rising star eyes second Brexit referendum By Katya Adler\n     * When this eBook store closes, your books disappear too By Dave Lee\n     * Concern over Singapore's anti-fake news law By Karishma Vaswani\n     * The butterflies that could stop Trump's wall By Anthony Zurcher\n     * Last survivor of US slave ships discovered By Sean Coughlan\n     * Joe Biden stumbles in age of #MeToo By Nick Bryant\n       San Francisco International Film Festival\n[173]Art, music and film events around the globe\n       [175]Art, music and film events around the globe\n       An indigenous man from the Tupi Guarani tribe in Brazil paints his\n[177]The nations of the Amazon want the name back\n       [179]The nations of the Amazon want the name back\n     * Northern lights over Thornham in Norfolk\n[181]'My decade photographing a magical coast'\n       [183]'My decade photographing a magical coast'\n     * A collage by French artist JR in the courtyard of the Louvre,\n       [186]The best news photos of the week\n[187]'Painting-by-numbers literally saved my life'\n       [189]'Painting-by-numbers literally saved my life'\n     * Ako Iida of Japan competes during the women's 100m breaststroke\n       heats on day two of"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 8418,
+        "content": "the Japan Swim at the Tokyo Tatsumi\n[190]World sport: 10 photos we liked this week\n       [192]World sport: 10 photos we liked this week\n[193]In pictures: Capturing a tumultuous time for Westminster\n       [195]In pictures: Capturing a tumultuous time for Westminster\n       [198]SSHA ob\"yavili iranskij Korpus strazhej islamskoj revolyucii\n       [200]Por qu\u00e9 la presencia militar de Rusia en Venezuela desaf\u00eda las\n       [202]aMm+r+\u00a9a+ s+p+a+h+ p+a+s+d+a+r+a+n+ r+a+ d+r+ f+h+r+s+t+\n       gfr+w+h+h+a+ t+r+w+r+s+t+ q+r+a+r+ d+a+d+\n       [204]Governo brasileiro tenta medir impacto do Brexit para empresas\n   Copyright \u00a9 2019 BBC."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 9056,
+        "content": "The BBC is not responsible for the content of\n   external sites."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 9121,
+        "content": "[261]Read about our approach to external linking."
+      }
+    }
+  ]
+}

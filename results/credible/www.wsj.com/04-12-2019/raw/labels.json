@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.97104496,
+          "topicality": 0.97104496
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9080292,
+          "topicality": 0.9080292
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.6983636,
+          "topicality": 0.6983636
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.6891842,
+          "topicality": 0.6891842
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.65489405,
+          "topicality": 0.65489405
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.6214387,
+          "topicality": 0.6214387
+        }
+      ]
+    }
+  ]
+}

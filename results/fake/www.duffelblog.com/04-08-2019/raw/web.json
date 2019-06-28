@@ -1,0 +1,83 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "duffel blog",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://scontent-ort2-2.cdninstagram.com/vp/ff260c8351d166dd3d394b0154a7ab1a/5C6E3406/t51.2885-15/e35/s480x480/42924038_357404968329143_4308463482510116014_n.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/DBb-1lpUAAA6tdd.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/TH-bAYuwwYo/hqdefault.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/6F3-j2IpLgU/mqdefault.jpg"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/RdPYSllF39w/maxresdefault.jpg"
+          },
+          {
+            "url": "https://d26horl2n8pviu.cloudfront.net/pictures/images/000/133/572/large_v3/10f6c342.jpg?1486103181"
+          },
+          {
+            "url": "https://i.ytimg.com/vi/TH-bAYuwwYo/maxresdefault.jpg"
+          },
+          {
+            "url": "https://i.imgur.com/2QXg6nb.jpg"
+          },
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/51P3NB5LVwL.jpg"
+          },
+          {
+            "url": "https://www.texasguntalk.com/attachments/531873_402453293115560_636274433_n-jpg.72844/"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Soldier",
+            "entityId": "/m/099md",
+            "score": 0.3799662
+          },
+          {
+            "description": "Military",
+            "entityId": "/m/01h6rj",
+            "score": 0.36698973
+          },
+          {
+            "description": "Duffel Blog",
+            "entityId": "/m/0l8mmcm",
+            "score": 0.3208
+          },
+          {
+            "description": "Duffel Bags",
+            "entityId": "/m/06tlg8",
+            "score": 0.2497
+          },
+          {
+            "description": "Blog",
+            "entityId": "/m/084dw",
+            "score": 0.2336
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.22029348
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.20305334
+          }
+        ]
+      }
+    }
+  ]
+}

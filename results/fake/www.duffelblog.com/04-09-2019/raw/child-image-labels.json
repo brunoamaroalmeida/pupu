@@ -1,0 +1,938 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.9643342,
+          "topicality": 0.9643342
+        },
+        {
+          "description": "Geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.8752389,
+          "topicality": 0.8752389
+        },
+        {
+          "description": "Lighting",
+          "mid": "/m/019sc6",
+          "score": 0.828312,
+          "topicality": 0.828312
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.8220895,
+          "topicality": 0.8220895
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.7289918,
+          "topicality": 0.7289918
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.72753334,
+          "topicality": 0.72753334
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.66573894,
+          "topicality": 0.66573894
+        },
+        {
+          "description": "Calm",
+          "mid": "/m/026fm63",
+          "score": 0.66355646,
+          "topicality": 0.66355646
+        },
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.65451187,
+          "topicality": 0.65451187
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.6301759,
+          "topicality": 0.6301759
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Aviation",
+          "mid": "/m/0fzyg",
+          "score": 0.9908741,
+          "topicality": 0.9908741
+        },
+        {
+          "description": "Airplane",
+          "mid": "/m/0cmf2",
+          "score": 0.98928386,
+          "topicality": 0.98928386
+        },
+        {
+          "description": "Aircraft",
+          "mid": "/m/0k5j",
+          "score": 0.97608244,
+          "topicality": 0.97608244
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.9559947,
+          "topicality": 0.9559947
+        },
+        {
+          "description": "Air travel",
+          "mid": "/m/025t3bg",
+          "score": 0.94147444,
+          "topicality": 0.94147444
+        },
+        {
+          "description": "Airliner",
+          "mid": "/m/0dhz0",
+          "score": 0.921717,
+          "topicality": 0.921717
+        },
+        {
+          "description": "Aerospace engineering",
+          "mid": "/m/0w7s",
+          "score": 0.9178597,
+          "topicality": 0.9178597
+        },
+        {
+          "description": "Flight",
+          "mid": "/m/01515d",
+          "score": 0.89776015,
+          "topicality": 0.89776015
+        },
+        {
+          "description": "Airline",
+          "mid": "/m/0vg8",
+          "score": 0.8809915,
+          "topicality": 0.8809915
+        },
+        {
+          "description": "Aircraft engine",
+          "mid": "/m/014yck",
+          "score": 0.784205,
+          "topicality": 0.784205
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9184823,
+          "topicality": 0.9184823
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.91132396,
+          "topicality": 0.91132396
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.83513474,
+          "topicality": 0.83513474
+        },
+        {
+          "description": "Military vehicle",
+          "mid": "/m/0g54v5d",
+          "score": 0.8119915,
+          "topicality": 0.8119915
+        },
+        {
+          "description": "Military",
+          "mid": "/m/01h6rj",
+          "score": 0.5270013,
+          "topicality": 0.5270013
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.97063965,
+          "topicality": 0.97063965
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.94689137,
+          "topicality": 0.94689137
+        },
+        {
+          "description": "Geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.9126692,
+          "topicality": 0.9126692
+        },
+        {
+          "description": "Light",
+          "mid": "/m/04k84",
+          "score": 0.9011394,
+          "topicality": 0.9011394
+        },
+        {
+          "description": "Atmospheric phenomenon",
+          "mid": "/m/07pw27b",
+          "score": 0.9002345,
+          "topicality": 0.9002345
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.89914787,
+          "topicality": 0.89914787
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.862609,
+          "topicality": 0.862609
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.814679,
+          "topicality": 0.814679
+        },
+        {
+          "description": "Horizon",
+          "mid": "/m/0d1n2",
+          "score": 0.7618271,
+          "topicality": 0.7618271
+        },
+        {
+          "description": "Red sky at morning",
+          "mid": "/m/080dk2h",
+          "score": 0.72979736,
+          "topicality": 0.72979736
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {}
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.6379098,
+          "topicality": 0.6379098
+        },
+        {
+          "description": "Army",
+          "mid": "/m/0pd7",
+          "score": 0.5853734,
+          "topicality": 0.5853734
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.94583565,
+          "topicality": 0.94583565
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84106016,
+          "topicality": 0.84106016
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7730426,
+          "topicality": 0.7730426
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.75044984,
+          "topicality": 0.75044984
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6390737,
+          "topicality": 0.6390737
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.56190825,
+          "topicality": 0.56190825
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9287942,
+          "topicality": 0.9287942
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84902585,
+          "topicality": 0.84902585
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.75677,
+          "topicality": 0.75677
+        },
+        {
+          "description": "Black-and-white",
+          "mid": "/m/01g6gs",
+          "score": 0.564079,
+          "topicality": 0.564079
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.503658,
+          "topicality": 0.503658
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9121395,
+          "topicality": 0.9121395
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.882364,
+          "topicality": 0.882364
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.8007229,
+          "topicality": 0.8007229
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.7784724,
+          "topicality": 0.7784724
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7730426,
+          "topicality": 0.7730426
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.7315383,
+          "topicality": 0.7315383
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.66849536,
+          "topicality": 0.66849536
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.66843975,
+          "topicality": 0.66843975
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.66349965,
+          "topicality": 0.66349965
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6091187,
+          "topicality": 0.6091187
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.80817014,
+          "topicality": 0.80817014
+        },
+        {
+          "description": "Landscape",
+          "mid": "/m/025s3q0",
+          "score": 0.7008891,
+          "topicality": 0.7008891
+        },
+        {
+          "description": "Tourism",
+          "mid": "/m/07bxq",
+          "score": 0.5114329,
+          "topicality": 0.5114329
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9736677,
+          "topicality": 0.9736677
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.94841564,
+          "topicality": 0.94841564
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.9643342,
+          "topicality": 0.9643342
+        },
+        {
+          "description": "Geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.8752389,
+          "topicality": 0.8752389
+        },
+        {
+          "description": "Lighting",
+          "mid": "/m/019sc6",
+          "score": 0.828312,
+          "topicality": 0.828312
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.8220895,
+          "topicality": 0.8220895
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.7289918,
+          "topicality": 0.7289918
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.72753334,
+          "topicality": 0.72753334
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.66573894,
+          "topicality": 0.66573894
+        },
+        {
+          "description": "Calm",
+          "mid": "/m/026fm63",
+          "score": 0.66355646,
+          "topicality": 0.66355646
+        },
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.65451187,
+          "topicality": 0.65451187
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.6301759,
+          "topicality": 0.6301759
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Aviation",
+          "mid": "/m/0fzyg",
+          "score": 0.9908741,
+          "topicality": 0.9908741
+        },
+        {
+          "description": "Airplane",
+          "mid": "/m/0cmf2",
+          "score": 0.98928386,
+          "topicality": 0.98928386
+        },
+        {
+          "description": "Aircraft",
+          "mid": "/m/0k5j",
+          "score": 0.97608244,
+          "topicality": 0.97608244
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.9559947,
+          "topicality": 0.9559947
+        },
+        {
+          "description": "Air travel",
+          "mid": "/m/025t3bg",
+          "score": 0.94147444,
+          "topicality": 0.94147444
+        },
+        {
+          "description": "Airliner",
+          "mid": "/m/0dhz0",
+          "score": 0.921717,
+          "topicality": 0.921717
+        },
+        {
+          "description": "Aerospace engineering",
+          "mid": "/m/0w7s",
+          "score": 0.9178597,
+          "topicality": 0.9178597
+        },
+        {
+          "description": "Flight",
+          "mid": "/m/01515d",
+          "score": 0.89776015,
+          "topicality": 0.89776015
+        },
+        {
+          "description": "Airline",
+          "mid": "/m/0vg8",
+          "score": 0.8809915,
+          "topicality": 0.8809915
+        },
+        {
+          "description": "Aircraft engine",
+          "mid": "/m/014yck",
+          "score": 0.784205,
+          "topicality": 0.784205
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9184823,
+          "topicality": 0.9184823
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.91132396,
+          "topicality": 0.91132396
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.83513474,
+          "topicality": 0.83513474
+        },
+        {
+          "description": "Military vehicle",
+          "mid": "/m/0g54v5d",
+          "score": 0.8119915,
+          "topicality": 0.8119915
+        },
+        {
+          "description": "Military",
+          "mid": "/m/01h6rj",
+          "score": 0.5270013,
+          "topicality": 0.5270013
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.97063965,
+          "topicality": 0.97063965
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.94689137,
+          "topicality": 0.94689137
+        },
+        {
+          "description": "Geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.9126692,
+          "topicality": 0.9126692
+        },
+        {
+          "description": "Light",
+          "mid": "/m/04k84",
+          "score": 0.9011394,
+          "topicality": 0.9011394
+        },
+        {
+          "description": "Atmospheric phenomenon",
+          "mid": "/m/07pw27b",
+          "score": 0.9002345,
+          "topicality": 0.9002345
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.89914787,
+          "topicality": 0.89914787
+        },
+        {
+          "description": "Atmosphere",
+          "mid": "/m/01ctsf",
+          "score": 0.862609,
+          "topicality": 0.862609
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.814679,
+          "topicality": 0.814679
+        },
+        {
+          "description": "Horizon",
+          "mid": "/m/0d1n2",
+          "score": 0.7618271,
+          "topicality": 0.7618271
+        },
+        {
+          "description": "Red sky at morning",
+          "mid": "/m/080dk2h",
+          "score": 0.72979736,
+          "topicality": 0.72979736
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {}
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.6379098,
+          "topicality": 0.6379098
+        },
+        {
+          "description": "Army",
+          "mid": "/m/0pd7",
+          "score": 0.5853734,
+          "topicality": 0.5853734
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.94583565,
+          "topicality": 0.94583565
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84106016,
+          "topicality": 0.84106016
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7730426,
+          "topicality": 0.7730426
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.75044984,
+          "topicality": 0.75044984
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6390737,
+          "topicality": 0.6390737
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.56190825,
+          "topicality": 0.56190825
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9287942,
+          "topicality": 0.9287942
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.84902585,
+          "topicality": 0.84902585
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.75677,
+          "topicality": 0.75677
+        },
+        {
+          "description": "Black-and-white",
+          "mid": "/m/01g6gs",
+          "score": 0.564079,
+          "topicality": 0.564079
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.503658,
+          "topicality": 0.503658
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.9121395,
+          "topicality": 0.9121395
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.882364,
+          "topicality": 0.882364
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.8007229,
+          "topicality": 0.8007229
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.7784724,
+          "topicality": 0.7784724
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7730426,
+          "topicality": 0.7730426
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.7315383,
+          "topicality": 0.7315383
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.66849536,
+          "topicality": 0.66849536
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.66843975,
+          "topicality": 0.66843975
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.66349965,
+          "topicality": 0.66349965
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.6091187,
+          "topicality": 0.6091187
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.80817014,
+          "topicality": 0.80817014
+        },
+        {
+          "description": "Landscape",
+          "mid": "/m/025s3q0",
+          "score": 0.7008891,
+          "topicality": 0.7008891
+        },
+        {
+          "description": "Tourism",
+          "mid": "/m/07bxq",
+          "score": 0.5114329,
+          "topicality": 0.5114329
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9736677,
+          "topicality": 0.9736677
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.94841564,
+          "topicality": 0.94841564
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7871313,
+          "topicality": 0.7871313
+        }
+      ]
+    }
+  ]
+}

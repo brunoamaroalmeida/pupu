@@ -1,0 +1,652 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.984636,
+          "topicality": 0.984636
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.96842486,
+          "topicality": 0.96842486
+        },
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.94453025,
+          "topicality": 0.94453025
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7547606,
+          "topicality": 0.7547606
+        },
+        {
+          "description": "Banner",
+          "mid": "/m/0m9cj",
+          "score": 0.51352674,
+          "topicality": 0.51352674
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.8257626,
+          "topicality": 0.8257626
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.8203314,
+          "topicality": 0.8203314
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.749082,
+          "topicality": 0.749082
+        },
+        {
+          "description": "Public speaking",
+          "mid": "/m/068k4",
+          "score": 0.64806795,
+          "topicality": 0.64806795
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.6273696,
+          "topicality": 0.6273696
+        },
+        {
+          "description": "Speech",
+          "mid": "/m/09x0r",
+          "score": 0.5923586,
+          "topicality": 0.5923586
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.55956,
+          "topicality": 0.55956
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.5404296,
+          "topicality": 0.5404296
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.9711289,
+          "topicality": 0.9711289
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.93584013,
+          "topicality": 0.93584013
+        },
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.9114396,
+          "topicality": 0.9114396
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.7822764,
+          "topicality": 0.7822764
+        },
+        {
+          "description": "Comb over",
+          "mid": "/m/03gktj",
+          "score": 0.644898,
+          "topicality": 0.644898
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.63618493,
+          "topicality": 0.63618493
+        },
+        {
+          "description": "Speech",
+          "mid": "/m/09x0r",
+          "score": 0.61851364,
+          "topicality": 0.61851364
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.60628486,
+          "topicality": 0.60628486
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.52166563,
+          "topicality": 0.52166563
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Speech",
+          "mid": "/m/09x0r",
+          "score": 0.80914557,
+          "topicality": 0.80914557
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.7822764,
+          "topicality": 0.7822764
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.75613403,
+          "topicality": 0.75613403
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.7507562,
+          "topicality": 0.7507562
+        },
+        {
+          "description": "Public speaking",
+          "mid": "/m/068k4",
+          "score": 0.7293763,
+          "topicality": 0.7293763
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.7208877,
+          "topicality": 0.7208877
+        },
+        {
+          "description": "Orator",
+          "mid": "/m/0hpjt",
+          "score": 0.64775807,
+          "topicality": 0.64775807
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.6114333,
+          "topicality": 0.6114333
+        },
+        {
+          "description": "Gentleman",
+          "mid": "/m/019p5q",
+          "score": 0.57264537,
+          "topicality": 0.57264537
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.5713131,
+          "topicality": 0.5713131
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Orator",
+          "mid": "/m/0hpjt",
+          "score": 0.85540086,
+          "topicality": 0.85540086
+        },
+        {
+          "description": "Public speaking",
+          "mid": "/m/068k4",
+          "score": 0.8130577,
+          "topicality": 0.8130577
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.695924,
+          "topicality": 0.695924
+        },
+        {
+          "description": "Singer",
+          "mid": "/m/09l65",
+          "score": 0.6951091,
+          "topicality": 0.6951091
+        },
+        {
+          "description": "Speech",
+          "mid": "/m/09x0r",
+          "score": 0.67769355,
+          "topicality": 0.67769355
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.6735226,
+          "topicality": 0.6735226
+        },
+        {
+          "description": "Performing arts",
+          "mid": "/m/05qjc",
+          "score": 0.67304593,
+          "topicality": 0.67304593
+        },
+        {
+          "description": "Gentleman",
+          "mid": "/m/019p5q",
+          "score": 0.6349731,
+          "topicality": 0.6349731
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.6273696,
+          "topicality": 0.6273696
+        },
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.538674,
+          "topicality": 0.538674
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Music artist",
+          "mid": "/m/0fq0t_c",
+          "score": 0.8549228,
+          "topicality": 0.8549228
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.6942809,
+          "topicality": 0.6942809
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.6865283,
+          "topicality": 0.6865283
+        },
+        {
+          "description": "Music",
+          "mid": "/m/04rlf",
+          "score": 0.6788177,
+          "topicality": 0.6788177
+        },
+        {
+          "description": "Singer",
+          "mid": "/m/09l65",
+          "score": 0.64071006,
+          "topicality": 0.64071006
+        },
+        {
+          "description": "Singing",
+          "mid": "/m/015lz1",
+          "score": 0.5740198,
+          "topicality": 0.5740198
+        },
+        {
+          "description": "Musician",
+          "mid": "/m/09jwl",
+          "score": 0.5681692,
+          "topicality": 0.5681692
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.5552889,
+          "topicality": 0.5552889
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.52905697,
+          "topicality": 0.52905697
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Speech",
+          "mid": "/m/09x0r",
+          "score": 0.92778146,
+          "topicality": 0.92778146
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.92174625,
+          "topicality": 0.92174625
+        },
+        {
+          "description": "Public speaking",
+          "mid": "/m/068k4",
+          "score": 0.8607753,
+          "topicality": 0.8607753
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.8125658,
+          "topicality": 0.8125658
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.70731336,
+          "topicality": 0.70731336
+        },
+        {
+          "description": "Photo caption",
+          "mid": "/m/0b75wg4",
+          "score": 0.6231793,
+          "topicality": 0.6231793
+        },
+        {
+          "description": "Orator",
+          "mid": "/m/0hpjt",
+          "score": 0.59042394,
+          "topicality": 0.59042394
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.58488953,
+          "topicality": 0.58488953
+        },
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.54909503,
+          "topicality": 0.54909503
+        },
+        {
+          "description": "Speaker",
+          "mid": "/m/02079p",
+          "score": 0.5153625,
+          "topicality": 0.5153625
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9736156,
+          "topicality": 0.9736156
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.8686584,
+          "topicality": 0.8686584
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.77487886,
+          "topicality": 0.77487886
+        },
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.66521734,
+          "topicality": 0.66521734
+        },
+        {
+          "description": "Television presenter",
+          "mid": "/m/0vpsd3h",
+          "score": 0.6459665,
+          "topicality": 0.6459665
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.6253598,
+          "topicality": 0.6253598
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.58541924,
+          "topicality": 0.58541924
+        },
+        {
+          "description": "Singer",
+          "mid": "/m/09l65",
+          "score": 0.5732321,
+          "topicality": 0.5732321
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.5404296,
+          "topicality": 0.5404296
+        },
+        {
+          "description": "Black hair",
+          "mid": "/m/0fc1fy",
+          "score": 0.5165854,
+          "topicality": 0.5165854
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.7913692,
+          "topicality": 0.7913692
+        },
+        {
+          "description": "Television presenter",
+          "mid": "/m/0vpsd3h",
+          "score": 0.6491165,
+          "topicality": 0.6491165
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.55751085,
+          "topicality": 0.55751085
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.52185583,
+          "topicality": 0.52185583
+        },
+        {
+          "description": "Newsreader",
+          "mid": "/m/03tpc9",
+          "score": 0.5062656,
+          "topicality": 0.5062656
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Product",
+          "mid": "/m/01jwgf",
+          "score": 0.95000046,
+          "topicality": 0.95000046
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9447695,
+          "topicality": 0.9447695
+        },
+        {
+          "description": "Fan",
+          "mid": "/m/013x8v",
+          "score": 0.84375453,
+          "topicality": 0.84375453
+        },
+        {
+          "description": "Team",
+          "mid": "/m/011l78",
+          "score": 0.7744645,
+          "topicality": 0.7744645
+        },
+        {
+          "description": "Player",
+          "mid": "/m/02vzx9",
+          "score": 0.7722079,
+          "topicality": 0.7722079
+        },
+        {
+          "description": "Team sport",
+          "mid": "/m/03x045",
+          "score": 0.71987194,
+          "topicality": 0.71987194
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7039424,
+          "topicality": 0.7039424
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.6495716,
+          "topicality": 0.6495716
+        },
+        {
+          "description": "Photography",
+          "mid": "/m/05wkw",
+          "score": 0.62422496,
+          "topicality": 0.62422496
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.57359636,
+          "topicality": 0.57359636
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.97534806,
+          "topicality": 0.97534806
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.86162484,
+          "topicality": 0.86162484
+        },
+        {
+          "description": "Line",
+          "mid": "/m/03scnj",
+          "score": 0.7730426,
+          "topicality": 0.7730426
+        },
+        {
+          "description": "Electric blue",
+          "mid": "/m/02vwbzz",
+          "score": 0.63793284,
+          "topicality": 0.63793284
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.5965734,
+          "topicality": 0.5965734
+        },
+        {
+          "description": "Rectangle",
+          "mid": "/m/0j62f",
+          "score": 0.59357345,
+          "topicality": 0.59357345
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.5714039,
+          "topicality": 0.5714039
+        },
+        {
+          "description": "Trademark",
+          "mid": "/m/07d0f",
+          "score": 0.5377062,
+          "topicality": 0.5377062
+        }
+      ]
+    }
+  ]
+}

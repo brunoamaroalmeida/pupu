@@ -1,0 +1,312 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.76737875,
+          "topicality": 0.76737875
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.7475101,
+          "topicality": 0.7475101
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7039424,
+          "topicality": 0.7039424
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.6445163,
+          "topicality": 0.6445163
+        },
+        {
+          "description": "Gentleman",
+          "mid": "/m/019p5q",
+          "score": 0.6349731,
+          "topicality": 0.6349731
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.5680793,
+          "topicality": 0.5680793
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.5514583,
+          "topicality": 0.5514583
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.5404296,
+          "topicality": 0.5404296
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.522821,
+          "topicality": 0.522821
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.50350636,
+          "topicality": 0.50350636
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.9307835,
+          "topicality": 0.9307835
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.8227734,
+          "topicality": 0.8227734
+        },
+        {
+          "description": "Male",
+          "mid": "/m/05zppz",
+          "score": 0.80898863,
+          "topicality": 0.80898863
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.7811231,
+          "topicality": 0.7811231
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.7165218,
+          "topicality": 0.7165218
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.710556,
+          "topicality": 0.710556
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.70870614,
+          "topicality": 0.70870614
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.60795254,
+          "topicality": 0.60795254
+        },
+        {
+          "description": "Police",
+          "mid": "/m/05ws7",
+          "score": 0.60696775,
+          "topicality": 0.60696775
+        },
+        {
+          "description": "Gentleman",
+          "mid": "/m/019p5q",
+          "score": 0.57264537,
+          "topicality": 0.57264537
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9450432,
+          "topicality": 0.9450432
+        },
+        {
+          "description": "Team",
+          "mid": "/m/011l78",
+          "score": 0.7045194,
+          "topicality": 0.7045194
+        },
+        {
+          "description": "Selfie",
+          "mid": "/m/0sgh53y",
+          "score": 0.6999515,
+          "topicality": 0.6999515
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.5404296,
+          "topicality": 0.5404296
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Photograph",
+          "mid": "/m/068jd",
+          "score": 0.9480249,
+          "topicality": 0.9480249
+        },
+        {
+          "description": "Lady",
+          "mid": "/m/02pkb8",
+          "score": 0.8985191,
+          "topicality": 0.8985191
+        },
+        {
+          "description": "Jacket",
+          "mid": "/m/032b3c",
+          "score": 0.7652474,
+          "topicality": 0.7652474
+        },
+        {
+          "description": "Human",
+          "mid": "/m/0dgw9r",
+          "score": 0.7591204,
+          "topicality": 0.7591204
+        },
+        {
+          "description": "Eye",
+          "mid": "/m/014sv8",
+          "score": 0.75862277,
+          "topicality": 0.75862277
+        },
+        {
+          "description": "Street fashion",
+          "mid": "/m/0408t8_",
+          "score": 0.75815547,
+          "topicality": 0.75815547
+        },
+        {
+          "description": "Tourism",
+          "mid": "/m/07bxq",
+          "score": 0.7109198,
+          "topicality": 0.7109198
+        },
+        {
+          "description": "Photography",
+          "mid": "/m/05wkw",
+          "score": 0.7060428,
+          "topicality": 0.7060428
+        },
+        {
+          "description": "Outerwear",
+          "mid": "/m/047vlmn",
+          "score": 0.6933347,
+          "topicality": 0.6933347
+        },
+        {
+          "description": "Tree",
+          "mid": "/m/07j7r",
+          "score": 0.68692183,
+          "topicality": 0.68692183
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.5437928,
+          "topicality": 0.5437928
+        }
+      ]
+    }
+  ]
+}
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96832156,
+          "topicality": 0.96832156
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9372367,
+          "topicality": 0.9372367
+        },
+        {
+          "description": "Standing",
+          "mid": "/m/02wzbmj",
+          "score": 0.8086237,
+          "topicality": 0.8086237
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.7326111,
+          "topicality": 0.7326111
+        },
+        {
+          "description": "Illustration",
+          "mid": "/m/01kr8f",
+          "score": 0.6402102,
+          "topicality": 0.6402102
+        },
+        {
+          "description": "Art",
+          "mid": "/m/0jjw",
+          "score": 0.5813032,
+          "topicality": 0.5813032
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.5582483,
+          "topicality": 0.5582483
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.5404296,
+          "topicality": 0.5404296
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.51510304,
+          "topicality": 0.51510304
+        }
+      ]
+    }
+  ]
+}

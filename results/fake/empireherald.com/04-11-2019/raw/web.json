@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "web page"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/styles/simple_image/public/images/native-advertising-examples-atlantic-scientology.jpg?QcXhIC_DJB6IvnRWG.iIr3w67Cv4uEOq&itok=UTVdC5DD"
+          },
+          {
+            "url": "https://blog.proven.com/wp-content/images/free-job-posting-sites/allstarjobs-screenshot.jpg"
+          },
+          {
+            "url": "https://www.boundround.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-3.37.03-pm.png"
+          },
+          {
+            "url": "https://weblium.com/blog/wp-content/uploads/2018/12/Screenshot_8-1000x666.png"
+          },
+          {
+            "url": "https://aemstatic-ww1.azureedge.net/content/dam/jems/site-images/JEMSNOWeNL.jpg"
+          },
+          {
+            "url": "https://www.ipscell.com/wp-content/uploads/2012/08/Celltex-Website.jpg"
+          },
+          {
+            "url": "https://kimgarst.com/wp-content/uploads/2018/07/dfyw-sample-JeffreyNancy.jpg"
+          },
+          {
+            "url": "https://www.clemsonwebdesign.com/wp-content/uploads/2017/07/sporting-goods-website-design-600x600.jpg"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/DbE6e6lVQAE64lx.jpg"
+          },
+          {
+            "url": "https://www.bibobox.com/images/home_04.jpg?crc=64746531"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.4034752
+          },
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.39594343
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.28941712
+          },
+          {
+            "description": "Product",
+            "entityId": "/m/01jwgf",
+            "score": 0.2894
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.2888
+          },
+          {
+            "description": "Business",
+            "entityId": "/g/120y8l81",
+            "score": 0.2725
+          },
+          {
+            "description": "Product design",
+            "entityId": "/m/03y18t",
+            "score": 0.2629209
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.22004089
+          },
+          {
+            "description": "Design",
+            "entityId": "/m/02cwm",
+            "score": 0.2047
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.19853112
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "daily telegraph",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://i.guim.co.uk/img/media/ce0a6a14907543000e134b215af9ca4ce60de68c/0_25_990_868/master/990.jpg?width=300&quality=85&auto=format&fit=max&s=75aabe380399973cd9f0a289589fe381"
+          },
+          {
+            "url": "https://static.guim.co.uk/sys-images/Media/Pix/pictures/2011/2/22/1298380482871/Telegraph.co.uk-006.jpg"
+          },
+          {
+            "url": "https://www.pressgazette.co.uk/wp-content/uploads/2017/09/telegraphh.jpg"
+          },
+          {
+            "url": "https://i.dailymail.co.uk/i/pix/2017/08/02/12/42E6D11D00000578-0-image-a-68_1501672941523.jpg"
+          },
+          {
+            "url": "https://www.journalism.co.uk/assets/130/Telegraph.1.jpg_resized_460_.jpeg"
+          },
+          {
+            "url": "https://d2yal1mtmg1ts6.cloudfront.net/1vopKGD8D7Z7HuXrQjaT46r4ncUodY3cvyye3tyXg8KkPyg16wVROCPBpVK44DiIqg=h350-r"
+          },
+          {
+            "url": "https://pics.esmemes.com/gordon-ramsays-dwarf-porn-double-found-dead-in-a-badger-16788541.png"
+          },
+          {
+            "url": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/OMC/14DB7231-BD7A-33AD-838D67B20CF0E788.jpg"
+          },
+          {
+            "url": "https://premium.telegraph.co.uk/static/subscriptions-sectionOneBackgroundDesktop-070f117e5f44622a4d1c6a04c20cdc5f-d70b4.png"
+          },
+          {
+            "url": "https://www.pressgazette.co.uk/wp-content/uploads/2017/06/telegraph.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.33175832
+          },
+          {
+            "description": "Product",
+            "entityId": "/m/01jwgf",
+            "score": 0.25651315
+          },
+          {
+            "description": "New media",
+            "entityId": "/m/01yl50",
+            "score": 0.2537636
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.2472054
+          },
+          {
+            "description": "The Daily Telegraph",
+            "entityId": "/m/0179qd",
+            "score": 0.1925
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1916
+          },
+          {
+            "description": "Media",
+            "entityId": "/m/03qh03g",
+            "score": 0.1854
+          }
+        ]
+      }
+    }
+  ]
+}

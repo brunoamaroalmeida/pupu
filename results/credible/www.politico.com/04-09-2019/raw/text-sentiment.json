@@ -1,0 +1,339 @@
+{
+  "documentSentiment": {
+    "magnitude": 12.2,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 7,
+        "content": "____________________ (BUTTON) Search (BUTTON)\n     * [20]The Agenda: The Future of Prosperity\n[62]Sen. Kennedy condemns Hollywood actors for being 'too busy molesting each\n[63]Trump attacks Rep. Omar after her criticism of Stephen Miller\n[64]Mnuchin says Treasury lawyers discussed demand for Trump's tax returns\n[65]Disaster aid talks collapse as Congress heads for recess\n[66]Trump rehashes 1980s real estate feud with Nadler\n[67]House Democrats demand Trump administration disclose Obamacare legal\n[68]Iran denounces terrorist designation for military unit as 'vicious move'\n[69]Lobbyist behind illegal purchase of Trump inaugural ticket a `valuable\n[70]New Hampshire lawmaker endorses Booker\n[71]Senators urge Pompeo to address human rights during Egyptian leader's\n[72]Judge halts Trump administration's `remain in Mexico' policy\n[73]Klobuchar raises $5.2 million in first 2020 fundraising haul\n[75]Barr: Mueller turned down offer to review Russia probe findings\n   The attorney general also says he'll release a redacted version of the\n   special counsel's report 'within a week.'"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1097,
+        "content": "By [76]Kyle Cheney and [77]Andrew Desiderio\n     * [79]Playbook PM: Coming soon: The (redacted) Mueller report\n     * [80]Judge denies request for speedy release of Mueller report\n   Even GOP allies of the president are distressed by the chaos unleashed\n   By [83]Burgess Everett, [84]John Bresnahan and [85]Melanie Zanona\n[87]Trump denies there's any plan to restart family separations\n[89]Legality of Trump move to replace Nielsen questioned\n   By Josh Gerstein and [90]Stephanie Beasley\n[92]Dem leaders face revolt on budget plan\n   Pelosi may have to pull the bill from the floor if she can't win over\n   By [93]Sarah Ferris, [94]Heather Caygle and [95]John Bresnahan\n[98]2020 Democrats dogged by staff scandals back workplace harassment\n   Bernie Sanders, Kirsten Gillibrand and Amy Klobuchar endorse\n   far-reaching legislation to reform workplace rules."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1961,
+        "content": "6023982815001_6023936942001-vs.jpg?pubId=1155968404\" true\n[100]How Lucy McBath turned tragedy into a congressional seat\n     * [102]The honeymoon is over for the most diverse class in Congress'\n[104]`I would have preferred not to have been ejected like an Austin Powers\n   By [105]Daniel Lippman and [106]Andrew Restuccia\n[109]Trump White House plots amped-up immigration crackdown\n   By [110]Ted Hesson, [111]Anita Kumar and [112]Nancy Cook\n[115]Rep. Eric Swalwell jumps into presidential race\n[119]Trump's Fed threats meet a firewall: GOP lawmakers\n   Sign up today to receive the #1-rated newsletter in politics\n   By signing up you agree to receive email newsletters or alerts from\n   POLITICO."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2660,
+        "content": "You can unsubscribe at any time."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2696,
+        "content": "Student activists in front of Hawkins Hall on Georgetown's campus."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 2763,
+        "content": "This Could Be the First Slavery Reparations Policy in America\n   A vote happens later this week to create a fund for descendants of the\n   272 slaves sold by the Jesuit university 181 years ago."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 2958,
+        "content": "It could be a\nThe Forgotten Reason Congress Needs to See the Mueller Report\n   Legislators have a responsibility to police obstruction of justice,\n   A sign with the likeness of Alexandria Ocasio-Cortez\nHow Alexandria Ocasio-Cortez Broke All the Rules of New York Politics\n   She became a star without paying her dues to the city's entrenched\n   establishment."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3319,
+        "content": "Now, longtime political insiders are starting to\n   Egypt's President Abdel Fattah el-Sisi laughs while US President Donald\n   Trump make a statement to the press before a meeting at the Palace\n   Hotel during the 72nd United Nations General Assembly September 20,\nWhy Is Trump Helping Egypt's Dictator Entrench His Power?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3645,
+        "content": "By embracing Middle Eastern autocrats, American presidents have been\n   making the same mistake for decades--with dangerous consequences."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3786,
+        "content": "A photo illustration of JFK, Pete Buttigieg and Beto O'Rourke\nWhy Beto and Buttigieg Pretend to Be Kennedys\n   Decades after JFK and RFK were killed, the family's political style\n   remains the Democratic Party's only winning path to the White House."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4040,
+        "content": "A photo illustration of Mark Meadows, Jim Jordan and Donald Trump."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 4107,
+        "content": "How Trump Conspired with the Freedom Caucus to Shut Down the Government\n   Inside the talks and phone calls that convinced Trump to go against the\n   speaker of the House and the Senate majority leader."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4313,
+        "content": "President Calvin Coolidge poses between actor John Drew (left) and,\n   singer Al Jolson at the White House in 1924."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 4429,
+        "content": "The Last Time a President Got a Pass on a Scandal-Plagued White House\n   What Coolidge can teach Trump about 2020: If the economy is good, just\n   Ten smart women tell us what they think of his \"tactile\" style, and\n   whether it disqualifies him for a 2020 run."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 4691,
+        "content": "What a Decades-Old Grand Jury Probe Just Revealed About the Mueller Report\n   Migrants wait for a ride at the toll in San Marcos, on the Mexico\n   City-Puebla highway, in Mexico, on November 5, 2018."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 4891,
+        "content": "Yes, There's a Crisis on the Border."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 4928,
+        "content": "And It's Trump's Fault."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 4955,
+        "content": "Instead of wasting his time on a wall, the president should fix the\n   By Alan Bersin, Nate Bruggeman and Ben Rohrbaugh\nWhy Congress Might Not Get Trump's Tax Returns\n   Unless Democrats invoke impeachment, there's a strong chance they'll\nThe Barr-Shaped Cloud Over the Justice Department\n   The attorney general has made a total hash of the Mueller report,\n   undermining the very department he runs."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5360,
+        "content": "An illustration of Jeff Miller's face and a $100 bill."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 5415,
+        "content": "The Congressman Who Turned the VA into a Lobbying Free-For-All\n   Jeff Miller helped open up the VA to private contractors."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5539,
+        "content": "Now he's out\n   of office and lobbying for those businesses."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5600,
+        "content": "[125]Democrats plan to use hearing to press Barr on Mueller report\n   It will be Barr's first public appearance since crafting a four-page\n   By [126]Andrew Desiderio and [127]Kyle Cheney\n     * [129]Democrats crafting Mueller response if report drops during\n[131]House GOP calls on Dems to bring in Mueller to testify\n[134]Appeals court narrows path for disclosure of grand jury info in Mueller\n[136]Congress' new Mueller fight: Do Dems need to begin impeachment to see\n   On an important 'too big to fail' reform, the central bank seems to be\n[142]Trump cranks up his pushback against Dems demanding his tax returns\n   It's one of the first instances of Trump himself indicating hostility\n   to the latest push by House Democrats."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6336,
+        "content": "By [147]Wesley Morgan and [148]Nahal Toosi\n     * [149]Trump brands Iranian military group as a terrorist\n   [150]White House senior adviser Stephen Miller\n[151]Stephen Miller pressuring Trump officials amid immigration shakeups\n   By [152]Anita Kumar, [153]Gabby Orr and [154]Daniel Lippman\n     * [155]Homeland Security chief Nielsen is out\n     * [156]Secret Service director out as part of Trump shakeup\n[157]The revolving door of Trump's Cabinet: Who's out next?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 6804,
+        "content": "[159]Trump's border threats jam up Pence's trade tour\n     * [161]Trump says Mexico auto tariff threat supersedes new NAFTA pact\n[163]Biden support stays solid in early states\n   Party leaders don't expect lasting damage from the controversy over\n   physical touching."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 7073,
+        "content": "But they want the former veep to stop joking about\n   By [164]Natasha Korecki and [165]Christopher Cadelago\n     * [167]Poll: Biden tops Democratic field after rough week\n[169]2020 candidates struggle to convince home-state voters they're ready for\n[172]Reality bites Beto after high-flying kickoff\n[175]Female donors organize to back the women running for president\n   By [176]Elena Schneider and [177]Maggie Severns\n   [178]A Jewish supporter of Donald Trump\n[179]Pro-Trump Republicans plan big-money play for the Jewish vote in 2020\n[182]Democrats are cozying up to corporate lobbyists despite purity pledges\n   Lawmakers who have sworn off corporate PACs are still taking checks\n[186]Democrats could blow election to Trump, Chris Murphy warns\n   By [187]Burgess Everett and [188]Andrew Desiderio\n[190]Duncan Hunter draws bigotry accusations for tying opponent to PLO\n   [192]House Appropriations Committee Chairwoman Nita Lowey\n[193]House Dems look to end months-old stalemate over disaster funds\n   By [194]Sarah Ferris and [195]John Bresnahan\n[197]Lack of security clearances hampers federal election panel\n   A massive backlog in security clearances applications raises questions\n   on whether federal advisers can effectively combat cyberattacks\n     * [200]Commerce Committee opens probe into FAA inspector training"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 8398,
+        "content": "[202]Teach For America -- except for California\n[205]Democrats face minefield if they get Trump's tax returns\n[210]Where do you draw the line between friendly grandpa and creepy uncle?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 8586,
+        "content": "What might have been seen as normal behavior in the past is not\n   welcomed in the present."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 8678,
+        "content": "How will Biden handle the change?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 8715,
+        "content": "By [211]Micaela Rodriguez, [212]Dave Shaw and [213]Scott Bland\n   [214]Anna Palmer, Terri Sewell and Veronica Escobar\n[216]What nobody tells you about being a woman in politics\n   Reps."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 8901,
+        "content": "Terri Sewell and Veronica Escobar talk about the obstacles faced\n[219]China's EU envoy to Europe: Plot your own path, not Washington's\n   Zhang Ming urges the EU to keep its markets open to Chinese companies\n   By Nicholas Vinocur and [220]Laurens Cerulus\n   [221]Chinese flag, Chinese national emblem\n[223]Italy's Salvini aims high with populist alliance for Europe\n[229]The world's left-wingers are feeling the Bern\n[232]Trump lawyer urges denial of tax return request\n[235]Barr's legacy on the line as Mueller team fumes\n     * [237]House Dems authorize subpoena for full Mueller report\n     * [238]Dems ratchet up pressure on Barr over Mueller probe\n[240]As Trump rages over border, Kushner quietly plans legal immigration\n[243]Stacey Abrams torn between running for president, Senate\n[246]Buttigieg eyes changing Washington's 'mesmerizing horror show'\n   [248]Trump: 'The correspondents' dinner is too negative'\n[249]Trump to skip WHCA dinner, will host rally instead\n[252]Trump to Jewish Republicans: Democrats pushing 'extreme, anti-Semitic\n   By [253]Gabby Orr and [254]Alex Isenstadt\n[256]Barrage of setbacks spoils Trump's post-Mueller reset\n   By [257]Anita Kumar and [258]Andrew Restuccia\n["
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 10103,
+        "content": "260]Trump claims he was never pushing for a health care vote before 2020\n     * [262]Trump punts health care until after 2020\n[264]Why not me?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 10246,
+        "content": "After Beto, House Dems pile into 2020 contest\n   By [265]Sarah Ferris, [266]Laura Barr\u00f3n-L\u00f3pez and [267]John Bresnahan\n[269]Republicans trigger `nuclear option' to speed Trump nominees\n[272]Trump budget cut turns out to be a boon for the Special Olympics\n[275]Trump's DHS purge floors Republicans\n[276]`I would have preferred not to have been ejected like an Austin Powers\n[278]Legality of Trump move to replace Nielsen questioned\n[279]The Forgotten Reason Congress Needs to See the Mueller Report\n   6018310968001_6018305369001-vs.jpg?pubId=1155968404\"\n   [284]Sen. Mike Lee mocks Green New Deal\n   [286]Everything you need to know about impeachment\n[287]Everything you need to know about impeachment\n   By [288]Mary Newman and [289]Darren Samuelsohn\n   [290]A Jewish supporter of Donald Trump\n[291]Pro-Trump Republicans plan big-money play for the Jewish vote in 2020\n   [295]A photo illustration of Mark Meadows, Jim Jordan and Donald Trump."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 11193,
+        "content": "[296]How Trump Conspired with the Freedom Caucus to Shut Down the Government\n   By [297]Jake Sherman and [298]Anna Palmer\n[300]Inside House Dems' move to seize Trump's tax returns\n   By [301]Aaron Lorenzo and [302]Heather Caygle\n[304]Trump's border threats jam up Pence's trade tour\n   Contact POLITICO reporters and provide materials in an anonymous and\n   Exclusive news, intelligence and tools for professionals on the front"
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "documentSentiment": {
+    "magnitude": 12.6,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]alternate [2]alternate [3]alternate [4]alternate [5]publisher\n   Available for everyone, funded by readers\n   [10]Contribute [11]Subscribe [12]Contribute\n         ______________________________________________________________\n         ______________________________________________________________\n     * [23]switch to the International edition\n     * [26]switch to the Australia edition\n   current edition: International edition\n   ____________________ What term do you want to search?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 494,
+        "content": "(BUTTON) Search\n          + [78]switch to the Australia edition\nNews, sport and opinion from the Guardian's global edition\n[111]Brexit May signals she would accept EU offer of longer delay\n       British PM says UK will still be able to leave by 22 May if\n          + [112]Live May arrives in Brussels to ask for Brexit delay\n          + [113]Brexit [114]UK risks losing European commissioner role\n          + [115]Theresa May [116]When could she resign?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 949,
+        "content": "A timeline of\n          + [117]Live May arrives in Brussels to ask for Brexit delay\n          + [118]Brexit [119]UK risks losing European commissioner role\n          + [120]Theresa May [121]When could she resign?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 1162,
+        "content": "A timeline of\n       [122]May signals she would accept EU offer of longer delay\n[123]Space Picture of black hole captured for first time\n       Network of eight radio telescopes around the world records\n       [124]Picture of black hole captured for first time\n[125]'The future is dark' Palestinians react to Israel's election\n       Israelis backing Netanyahu have chosen `to entrench and expand\n          + [126]Israeli election Netanyahu appears on track for victory\n          + [127]Anaylsis Netanyahu will feel free to pursue hardline\n          + [128]Israeli election Netanyahu appears on track for victory\n          + [129]Anaylsis Netanyahu will feel free to pursue hardline\n       [130]Palestinians react to Israel's election\n[131]'I was raised to love our home' Sudan's singing protester speaks out\n            Alaa Salah, 22, talks to the Guardian about having her image\n            [132]Sudan's singing protester speaks out\n[133]Austria Vienna State Opera's ballet academy hit by alleged abuse scandal\n            [134]Vienna State Opera's ballet academy hit by alleged abuse\n[135]Mediterranean Alarm bells raised over migrant rescue boat stranded for a\n            [136]Alarm bells raised over migrant rescue boat stranded for\n[137]Live William Barr claims Trump campaign was 'spied' on under Obama\n            [138]William Barr claims Trump campaign was '"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 2531,
+        "content": "spied' on under\n[139]India Narendra Modi film pulled from cinemas on eve of election\n            [140]Narendra Modi film pulled from cinemas on eve of election\n[141]Global poverty Poorest countries bear brunt as aid levels fall for\n            [142]Poorest countries bear brunt as aid levels fall for\n[143]Mining Zambians can pursue pollution claim in English courts\n            [144]Zambians can pursue pollution claim in English courts\n[145]'It's disturbing' UK government unwittingly sent people seeking advice\n            [146]UK government unwittingly sent people seeking advice on\n   Can the Conservative party survive Brexit?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3167,
+        "content": "As Theresa May heads to Brussels to plead for more time to scrape\n   together a Brexit deal, she leaves a party fracturing and shedding\n   members."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3315,
+        "content": "Nick Boles dramatically resigned from the party last week and\n   now feels emboldened to speak out."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 3415,
+        "content": "Also today: Dream McClinton on the\n   discrimination based on skin complexion that exists within the black\n   Subscribe: [148]Apple Podcasts [149]Google Podcasts [150]Spotify\n   Subscribe: [151]Apple Podcasts [152]Google Podcasts [153]Spotify\n   [154]Can the Conservative party survive Brexit?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3709,
+        "content": "[157]Tyrion, Daenerys ..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 3735,
+        "content": "Hot Pie?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 3744,
+        "content": "The greatest Game of Thrones characters\n       As the final season of the fantasy saga gets underway, our writers\n       pick their favourite Westerosi citizens, from blunt Bronn to\n       [158]The greatest Game of Thrones characters\n[159]'The future is dark' Palestinians react to Israel's election\n       Israelis backing Netanyahu have chosen `to entrench and expand\n          + [160]Anaylsis Netanyahu will feel free to pursue hardline\n          + [161]Anaylsis Netanyahu will feel free to pursue hardline\n       [162]Palestinians react to Israel's election\n[163]Militias, chaos and starvation Britain imagined 10 years after Brexit\n            The Queen has fled, the Poles have been forced out and violent\n            factions roam a broken land."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 4497,
+        "content": "Writer Jonathan Meades imagines\n            the country The Great Chaos will create\n            [164]Britain imagined 10 years after Brexit\n[165]Mexico Country battles over legacy of revolutionary Emilano Zapata\n            As centennial of Zapata's death is marked, government's agenda\n            makes `mockery' of insurgent's ideals, grandson says\n            [166]Country battles over legacy of revolutionary Emilano\n[167]Milan A naked female body that looks like an armchair?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4979,
+        "content": "That is not\n            [168]A naked female body that looks like an armchair?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 5057,
+        "content": "That is\n[169]Jack Shepherd How man who killed a woman in a speedboat crash tried to\n            [170]How man who killed a woman in a speedboat crash tried to\n[171]Shades of black How black mothers talk to their daughters about skin\n            [172]How black mothers talk to their daughters about skin tone\n[173]The family that took on Monsanto 'They should've been with us in the\n            [174]'They should've been with us in the chemo ward'\n[175]Netanyahu's victory means life is about to get worse for Palestinians\n       The Israeli PM's re-election heralds the further undermining of the\n       rule of law, says Guardian columnist Jonathan Freedland\n       [176]Netanyahu's victory means life is about to get worse for\n[177]Ireland's attempts to secularise its schools have turned to farce\n       Catholic schools in Dublin are circulating misinformation about\n       what divestment will mean, says a Canada-based academic\n       [178]Ireland's attempts to secularise its schools have turned to\n[179]Fewer Americans want to serve in the military."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 6114,
+        "content": "Cue Pentagon panic\n       Declining interest in service has reached levels that should alarm\n       - or delight - those who care about the nation's health\n       [180]Fewer Americans want to serve in the military."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 6329,
+        "content": "Cue Pentagon\n[181]I've got the best job in British politics: being an MEP\n            [182]I've got the best job in British politics: being an MEP\n[183]Neoliberalism promised freedom - instead it delivers stifling control\n            [184]Neoliberalism promised freedom - instead it delivers\n[185]Fiscally-conservative US Democrats have declared war on the Green New\n            [186]Fiscally-conservative US Democrats have declared war on\n[188]Su\u00e1rez the `clumsy' enigma who always delivers for Barcelona\n       Barcelona's Luis Su\u00e1rez faces Manchester United, under scrutiny but\n       with the backing of his coach, Ernesto Valverde, who calls him\n          + [189]Football [190]United must be smarter against Bar\u00e7a, says\n          + [191]Barney Ronay Son shows Spurs can prosper without Kane\n          + [192]The Joy of Six Barcelona v Manchester United\n          + [193]Football [194]United must be smarter against Bar\u00e7a, says\n          + [195]Barney Ronay Son shows Spurs can prosper without Kane\n          + [196]The Joy of Six Barcelona v Manchester United\n       [197]Su\u00e1rez the `clumsy' enigma who always delivers for Barcelona\n[198]Rugby league Ottawa and New York face race to be admitted by 2020\n       RFL said the schedule to admit either club is `very tight' after\n       bids are due"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 7635,
+        "content": "to be submitted on Thursday, with director Karen\n       Moorhouse adding: `A decision will be needed quickly, but we can't\n          + [199]The Recap [200]Sign up for the best of our sport coverage\n          + [201]The Recap [202]Sign up for the best of our sport coverage\n       [203]Ottawa and New York face race to be admitted by 2020\n[204]`Accepted' Fujikawa enjoying golf and life again after coming out\n            Hawaii-born Tadd Fujikawa came out in 2018 having made his\n            name in 2006 by becoming the youngest qualifier for the US\n               o [205]Masters Woods sends message he is ready to win fifth\n               o [206]Masters Woods sends message he is ready to win fifth\n            [207]`Accepted' Fujikawa enjoying golf and life again after\n[208]Guardiola last won a big European away game in 2011."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 8466,
+        "content": "Is he overthinking?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 8498,
+        "content": "Manchester City's defeat at Tottenham took his run without a\n            quarter- or semi-final victory to 10."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 8609,
+        "content": "It feels like more than\n               o [209]Man City G\u00fcndogan says team are too nervous in\n               o [210]Man City G\u00fcndogan says team are too nervous in\n            [211]Guardiola last won a big European away game in 2011."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 8843,
+        "content": "Is\n[212]NBA Nowitzki confirms retirement after 21 seasons in Dallas\n            [213]Nowitzki confirms retirement after 21 seasons in Dallas\n[214]VAR Vertonghen says system could lead to 40 more penalties in Premier\n            [215]Vertonghen says system could lead to 40 more penalties in\n[216]'Never in doubt' Moore saves match point at 0-6, 0-5 down - and goes on\n            [217]Moore saves match point at 0-6, 0-5 down - and goes on to\n[218]`It's good for the Champions League' Ajax aim for another upset against\n            [219]Ajax aim for another upset against Juventus\n[221]New Zealand MPs overwhelmingly back post-Christchurch gun ban\n       All but one MP vote to outlaw most semi-automatic weapons and\n       [222]MPs overwhelmingly back post-Christchurch gun ban\n[223]Theresa May British PM expresses 'regret' for 1919 Amritsar massacre\n       PM stops short of apologising for killings by British troops who\n       [224]British PM expresses 'regret' for 1919 Amritsar massacre\n[225]Xiaomi CEO of Chinese phone firm says he'll give \u00a3750m bonus to charity\n            [226]CEO of Chinese phone firm says he'll give \u00a3750m bonus to\n[227]Australia Prime minister expected to call federal election on Thursday\n            [228]Prime minister expected to"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 10110,
+        "content": "call federal election on\n[229]Saudi Arabia Dozens of military cadets trained in UK since Yemen\n            [230]Dozens of military cadets trained in UK since Yemen\n[231]Climate crisis Today's children face lives with tiny carbon footprints\n            [232]Today's children face lives with tiny carbon footprints\n[233]Julian Assange WikiLeaks says spies at work in Ecuador embassy\n            [234]WikiLeaks says spies at work in Ecuador embassy\n[235]Italy Men charged with trafficking women to appear in court in Sicily\n            [236]Men charged with trafficking women to appear in court in\n     * [237]The parents of the Brits killed fighting Isis\n       Watch now at theguardian.com/documentaries\n[238]Top 10s Books set in the American midwest\n       From Willa Cather to Jim Harrison, author Nickolas Butler casts his\n       eye over literature that captures the spirit of flyover country\n       [239]Books set in the American midwest\n[240]Ask Hadley Sorry but Fleabag's priest is an exploitative muppet\n       Andrew Scott's character fits into a lineage of Hot But Horrible\n       men in fiction, which rather than for lusting after exist to warn\n       [241]Sorry but Fleabag's priest is an exploitative muppet\n[242]Cannes 2019 Jim Jarmusch zombie film The Dead Don't Die to open festival\n       A-list undead comedy stars Bill Murray, Chlo\u00eb Sevigny and Adam\n       Driver as cops investigating small"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 11521,
+        "content": "-town slaughter\n       [243]Jim Jarmusch zombie film The Dead Don't Die to open festival\n[244]Strictly Come Dancing Darcey Bussell quits BBC show\n            [245]Darcey Bussell quits BBC show\n[246]William Basinski I wanted to be David Bowie\n            [247]I wanted to be David Bowie\n[248]'Extraordinary' 500-year-old library catalogue reveals books lost to\n            [249]500-year-old library catalogue reveals books lost to time\n[250]I'm keeping the dog!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 11982,
+        "content": "The rise in 'pet-nups'\n            Custody over pets is increasingly figuring in divorce\n            proceedings - and one in 20 pet-owning couples now reportedly\n            have a pet-nup detailing everything from contact time to\n[252]Felicity Cloake's masterclass How to make simnel cake\n            The traditional Easter cake, with saffron and citrus peel and\n            topped with marzipan, is the very essence of spring\n[254]From the joke shop to the high street Why poo is no longer taboo\n            [255]Why poo is no longer taboo\n[260]'Clean' perfume Should you worry about what's in your fragrance?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 12607,
+        "content": "[261]Should you worry about what's in your fragrance?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 12668,
+        "content": "Share stories with the Guardian securely and confidentially\n   Paid content is paid for and controlled by an advertiser and produced\n   by the Guardian Labs team."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12831,
+        "content": "[263]Learn more about Guardian Labs content\nHow to be an agile business: lessons from TransferWise and Farmdrop\n   Success in a digital age means building a solid IT infrastructure that\n   supports the core business needs of your company\nHow two decades of digitalisation has changed business\n   Virtually no industry - from recruitment to manufacturing - remains\n   untouched by the digital revolution."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 13235,
+        "content": "Senior business leaders reflect on\n`The move to the cloud has liberated me': three CIOs on their evolving roles\n   Tech leaders from Amnesty International, PwC and the Arizona Department\n   of Child Safety reflect on how the CIO role has changed, with more\n   focus on strategy and less on tech support\nWhy a robot won't take your job - but it may well share it\n   It's time for the scaremongering to stop - automation could mean net\n   job gains, new employment opportunities and a potential future of great\n[272]Filling a gap The clandestine gang fixing Rome illegally\n       As Italy's capital falls apart, a secret organisation is doing the\n       [273]The clandestine gang fixing Rome illegally\n[274]'Everybody went bust' How the catfish capital of the world was hit by an\n       Around the city of Belzoni, Mississippi, the catfish industry used\n       to be all conquering - but then came the imports from Asia\n       [275]How the catfish capital of the world was hit by an Asian fish\n[276]Conflict and arms Why should we Yemenis stop having babies and surrender\n       Four years into the world's worst man-made humanitarian crisis,\n       three Yemeni women ask - exactly what is required of people living\n       [277]Why should we Yemenis stop having babies and surrender to war?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 14525,
+        "content": "[278]Horror on the Hudson New York's $25bn architectural fiasco\n            [279]New York's $25bn architectural fiasco\n[280]Fluid situation Is there a beautiful, briny solution to the world's\n            [281]Is there a beautiful, briny solution to the world's clean\n[282]The toxic legacy of colorism Why black people discriminate among\n            [283]Why black people discriminate among ourselves\n[286]Donald Trump Is the US president a rhetorical genius?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 14984,
+        "content": "[287]Trump on border cages 'President Obama separated the children'\n[288]Sudan The women leading the calls for revolution\n[289]'People don't even look at me' Black women discuss politics of light and\n[290]Plastic in paradise The battle for the Gal\u00e1pagos Islands' future\n[291]'Let gay Muslims be gay' Owen Jones goes to the centre of the LGBT\n[292]The biggest revolution in gene editing Crispr-Cas9 explained\n[297]The scale of ambition China's changing landscape\n       Photographer Zhang Kechun travelled across China to document how\n       urbanisation is reshaping the country's natural landscapes\n[299]Dubrovnik Game of Thrones and overtourism\n       The city's doubling as King's Landing in Game of Thrones is a mixed\n       blessing."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 15724,
+        "content": "Stardom has been a boon for business - but has also\n       [300]Game of Thrones and overtourism\n[301]Maison Bonnet Inside the workshop of the London spectacles maker\n       A peek at the extraordinary skill and precision that goes into each\n       [302]Inside the workshop of the London spectacles maker\n[303]Huge sculptures All the presidents' busts\n       Forty-three US presidents' busts - standing nearly 20 feet high -\n       are remnants from a bankrupted theme park now stored in Virginia on\n       the property of Howard Hankins who is seeking to restore and\n[305]Brexit and the English coast A photo essay\n       More than 100 constituencies with a coastline voted to leave the EU\n       in 2016."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 16430,
+        "content": "Photographer Clodagh Kilcoyne set out to find out why\n[307]Travel Buy a winning Guardian reader's photograph\n       Buy an exclusive print from our 2017 and 2018 readers' travel photo\n       [308]Buy a winning Guardian reader's photograph\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 16676,
+        "content": "[310]Most popular Across the guardian\n[311]Black hole picture captured for first time in space breakthrough\n[312]Live Brexit: May arrives at EU summit refusing to say if she will resign\nif UK has to stay in beyond 30 June - live news\n[313]UK risks losing European commissioner role over Brexit delay\n[314]Virgin trains will vanish from UK after ban on Stagecoach's bids\n[315]Barrow shipyard staff evacuated after suspected bomb hoax\n[316]Government sacks Roger Scruton after remarks about Soros and\n[317]UK government website sends people seeking advice on bees to escort\n[318]Doctors discover four live bees feeding on tears inside woman's eye\n[319]Militias, chaos and starvation: Britain 10 years after Brexit\n[320]Sorry but Fleabag's priest is an exploitative muppet\n   IFRAME: [336]/email/form/footer/today-uk\n   Available for everyone, funded by readers\n   \u00a9 2019 Guardian News & Media Limited or its affiliated companies."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 17605,
+        "content": "All\n   [p?c1=2&c2=6035250&cv=2.0&cj=1&comscorekw=]\n   6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 17662,
+        "content": "ios-app://409128287/gnmguardian/international?contenttype=front&source=google"
+      }
+    }
+  ]
+}

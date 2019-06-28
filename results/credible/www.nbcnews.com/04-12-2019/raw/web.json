@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "msnbc",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://pics.ballmemes.com/mark-ruffalo-mark-ruffalo-sign-the-petition-tell-msnbc-nbcnews-22747255.png"
+          },
+          {
+            "url": "https://pics.me.me/foxs-trump-coverage-crushe-s-cnn-msnbc-coverage-of-whca-dinner-32684134.png"
+          },
+          {
+            "url": "https://pics.esmemes.com/2-mins-bo-rache-maddow-republicans-said-president-obamas-agenda-11218718.png"
+          },
+          {
+            "url": "https://pics.awwmemes.com/rita-panahi-ritapanahi-msnbc-dude-fails-to-mention-the-man-35635479.png"
+          },
+          {
+            "url": "https://pics.astrologymemes.com/cnn-stone-indicted-msnbc-stone-indicted-fox-news-if-alexandria-40951459.png"
+          },
+          {
+            "url": "https://pics.awwmemes.com/msnbc-com-sam-nunberg-i-expect-roger-stone-to-be-indicted-35176857.png"
+          },
+          {
+            "url": "https://pics.me.me/ann-coulter-anncoulter-cnn-msnbc-heart-farrakhan-alex-vanness-thealexvanness-38661380.png"
+          },
+          {
+            "url": "https://i.dailymail.co.uk/1s/2019/03/24/03/11379838-6843715-image-a-44_1553398136786.jpg"
+          },
+          {
+            "url": "https://pics.esmemes.com/rachel-maddow-msnbc-maddow-the-shade-room-breaking-weve-got-16511934.png"
+          },
+          {
+            "url": "https://legalinsurrection.com/wp-content/uploads/2014/02/Twitter-Legal-Insurrection-MSNBC-Biracial-tweet.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.30664992
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.24753709
+          },
+          {
+            "description": "Angle",
+            "entityId": "/m/0mwc",
+            "score": 0.24055433
+          },
+          {
+            "description": "MSNBC",
+            "entityId": "/m/0152x_",
+            "score": 0.1916
+          }
+        ]
+      }
+    }
+  ]
+}

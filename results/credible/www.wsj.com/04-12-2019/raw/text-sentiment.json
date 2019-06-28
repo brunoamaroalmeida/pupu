@@ -1,0 +1,519 @@
+{
+  "documentSentiment": {
+    "magnitude": 18.5,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "BROWSER UPDATE To gain access to the full experience, please upgrade\n   your browser:[2] Chrome"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 100,
+        "content": "[3] Safari"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 112,
+        "content": "[4] Firefox"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 125,
+        "content": "[5] Internet Explorer\n   Note: If you are running Internet Explorer 10 and above, make sure it\n   News Corp is a network of leading companies in the worlds of\n   diversified media, news, education, and information services\n     * [143]Secrets of Wealthy Women Podcast\n     * [178]Morning Editorial Report Newsletter\n   ____________________ (BUTTON) Search->\n[208]Trump Considers Sending Migrants to `Sanctuary' Cities\n   President Trump tweeted he was \"giving strong considerations to placing\n   Illegal Immigrants in Sanctuary Cities only,\" reviving an idea first\n   floated and rejected last year."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 725,
+        "content": "[209]51\n[210]Stocks Rise as Bank Earnings Kick Off\n   [211][im-66542?width=110&amp;height=73]\n   U.S. stocks advanced after JPMorgan and Wells Fargo, two of the\n   nation's biggest banks, reported earnings that beat expectations."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 955,
+        "content": "The\n     * [212]JPMorgan Boosted by Consumer Unit\n     * [213]Wells Fargo Posts Higher Profit\n[214]Chevron to Buy Anadarko Petroleum in $33 Billion Deal\n   [215][im-66545?width=110&amp;height=73]\n   Chevron is acquiring independent exploration company Anadarko in a $33\n   billion deal, as it looks to strengthen its position in large shale\n   projects, as well as deep-water and natural gas resource basins.\n[216]Global Competition Takes Toll on Uber's Growth Ahead of IPO\n   [217][im-66540?width=110&amp;height=73]\n   Uber has talked up its expansion into new businesses beyond\n   ride-hailing."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 1552,
+        "content": "But as it readies for its much-anticipated IPO,\n   competition around the world is taking its toll."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 1657,
+        "content": "* [218]IPO Filing Shows Leveling Off\n   [219][im-64619?width=380&amp;height=253]\n[220]One Teen Killed Himself."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1768,
+        "content": "Six More Followed."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 1790,
+        "content": "Beneath a rise in suicides nationwide is the painful and perplexing\n   phenomenon of deaths clustering in the same town, at the same school,\n   on the same block."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1953,
+        "content": "\"We don't talk about the hard stuff.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1991,
+        "content": "[221]267\n     * [222]Multiple Suicides, One Year, One High School\n   [223][im-66584?width=110&amp;height=73]\n[224]Saudi Arabia Promised Support to Libyan Warlord\n   Days before Libyan military commander Khalifa Haftar launched an\n   offensive to seize the capital and attempt to unite the divided country\n   under his rule, Saudi Arabia promised tens of millions of dollars to\n   help pay for the operation, according to senior Saudi advisers."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 2438,
+        "content": "[225]The arrest of Julian Assange at Ecuador's embassy in London came\n   after the WikiLeaks founder's relationship with the Latin American\n[226]Ecuador Jilted Assange as It Sought to Build Ties With U.S.\n   Ecuador President Len\u00edn Moreno, who described WikiLeaks founder Julian\n   Assange as a \"stone in our shoe,\" changed the political tone of his\n   anti-U.S. predecessor as he began negotiating a trade accord with\n     * [227]Assange Charged With Computer-Hacking Conspiracy\n     * [228]Case Rests in a Legal Gray Zone\n     * [229]From Internet Warrior to Jailed Suspect\n   [230][OG-CN939_201903_D_20190411174207.gif]\n[231]Fidelity's Index-Fund Bashing Misses the Mark\n   [232][B3-DR692_PRINCE_D_20190411150426.jpg]\n[233]The Making of Saudi Arabia's Energetic, Ruthless Crown Prince\n   [234][im-66387?width=220&amp;height=146]\n[235]Paris-Roubaix: How `Hell' Became More Chill\n   [236][im-66175?width=220&amp;height=146]\n[237]Photos of the Week: Science's First Look at a Black Hole, WikiLeaks\nFounder Arrested, Baylor and Virginia Are NCAA Champions\n[238]Pollen Counts: The Numbers Behind Spring Sneezing\n[239]Teaching Girls to Be Great Competitors\n[240]`Game of"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3607,
+        "content": "Thrones' Madness Is Starting Again."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3643,
+        "content": "Pity the Non-Watchers.\n[241]This Proxy Season, It's Revenge of the Nurdles\n   Nurdles are the resin peas used to make the water bottles, straws and\n   other plastics ubiquitous in our lives."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 3834,
+        "content": "These tiny plastic pellets show\n   how companies and socially conscious investors are warily making nice."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3940,
+        "content": "[242]Tesla Halts Online Sales of $35,000 Model 3\n   Tesla stopped online sales of the lowest-priced Model 3 version weeks\n   after introducing it, the latest shift in sales tactics as the company\n   struggles to deliver long-promised affordability and avoid losing\n[243]Germany's Merck to Buy Versum for $6.56 Billion\n   The $53-a-share deal for the Tempe, Arizona, semiconductor materials\n   company scuttles a merger agreement with Entegris.\n[244]JPMorgan Results Beat Expectations on Strength in Consumer Unit\n   The nation's largest bank by assets, JPMorgan Chase, reported its first\n   quarter net income rose 5%, as strength in consumer banking offset a\n[245]As Brexit Deadline Slips, Nigel Farage Launches New Anti-EU Party\n   Pro-Brexit figurehead Nigel Farage launched a new political party to\n   fight a European election few people thought would happen in Britain\n   and where the winners might never take their seats."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 4873,
+        "content": "[247][im-66587?width=300&amp;height=200]\n[248]Bristol-Myers Shareholders Approve $74 Billion Deal For Celgene\n   Bristol-Myers shareholders voted to approve the $74 billion acquisition\n   of Celgene, a combination that creates a cancer drug powerhouse with\n   [249][im-66491?width=300&amp;height=200]\n[250]Bond Market Turmoil Sparked E-Trading\n   When global markets tumbled in December, U.S. corporate bond investors\n   scrambled to sell holdings they feared would drop further."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 5353,
+        "content": "But bank\n   traders weren't buying, so many fund managers turned to a fast-growing\n   electronic marketplace to reduce their exposures."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 5489,
+        "content": "[251]Google Sued Over Abuse of Search Power, Opening Path for More Claims\n   [252][im-66411?width=110&amp;height=73]\n   A German price-comparison portal has become the first major company to\n   sue Google, while invoking a 2017 European antitrust decision to fine\n   the tech giant for abusing its dominant position in the search market."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 5827,
+        "content": "[253]Abraaj Founder Accused of Fraud as U.S. Seeks Extradition\n   [254][im-66606?width=110&amp;height=73]\n   Abraaj Group founder Arif Naqvi was arrested in the U.K. after U.S.\n   prosecutors requested his extradition as part of a sprawling criminal\n   case against the architect of what was the largest private-equity firm\n   in emerging markets before it collapsed last year."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 6205,
+        "content": "[256]Biden Navigates Complaints About Touching as 2020 Spotlight Looms\n   Joe Biden is navigating a new political landscape established during\n   the #MeToo movement, but his recent response to complaints from women\n   that he violated their personal space could alienate voters he may need\n[257]Thousands of Sudanese Protest Against Military Takeover\n   Joy over the ouster of longtime dictator Omar al-Bashir by the military\n   turned into anger among protesters in Sudan who demanded a democratic\n   government and swift action to address the country's economic woes."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 6776,
+        "content": "[258]China Trade Numbers Raise Red Flags on Embryonic Economic Recovery\n   China's trade performance last month raised questions about demand in\n   the global and Chinese economies, as exports rebounded and imports fell\n[259]Test-Taking Whiz in Admissions Scandal Expected to Plead Guilty\n   A crucial player in the college admissions cheating scandal, who\n   prosecutors say helped teens cheat on college-entrance exams by\n   correcting their answers, is expected to plead guilty in Boston federal\n[260]Fed Releases Interview Transcripts Telling Its History Over Past 50\n   The Federal Reserve released transcripts of more than 50 interviews\n   with top Fed officials and staffers that tell the story of the central\n[262]2019's Top Three Trends in Garden Design\n   Want to transform a so-so backyard into a triumph?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 7593,
+        "content": "Turn it into\n   additional living space.The biggest trends in landscape design have\n   more to do with structures that connect inside and outside than with\n[263]Children's Furniture That Will Make Them Feel Grown-Up\n   Sophisticated design styles--from Shaker to 18th-century French--have\n   trickled down to tykes' furniture."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 7920,
+        "content": "Comedian Adam Carolla envisions the\n   Mini-Me who would favor each of these five seats."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 8009,
+        "content": "[264]Technology Isn't a Force for Liberation After All\n   China and Facebook are adept at tracking people, even if the MTA isn't\n[265]Shazam!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 8151,
+        "content": "A Magic Word With A Pedigree In Exotic Nonsense\n   The new movie's superhero slogan has a tangled history, inside and\n   outside the comic book where it was born\nFalse Starts and Flip Flops: Why Theresa May Can't Find the Brexit\nAssange Is Arrested in London After Ecuador Withdraws Asylum\nIndia Begins Voting in World's Largest Election\n[268]ICC Won't Launch Formal Investigation in Afghanistan\n[269]Bolsonaro's Pension Reform Threatened by Graft Probe\n[270]Social-Media Movements Helped Drive Out African Leaders\n[272]`Empire' Weighs Future of Jussie Smollett\n[273]Manhattan Office Leasing Is Sluggish\n[274]New Museum Exhibits Are Ready to Rock\n[276]Rosenstein Defends Justice's Handling of Mueller Report\n[277]Lawyer Avenatti Charged With Embezzling Millions From Clients\n[278]House Democrats Plot Ways to Clear Senate Hurdles\n[280]U.S. Consumer Sentiment Drops as Tax-Cut Boost Fades\n[281]OMB Proposes Eliminating Waiting Period for Comments on Economic Reports\n[282]Fed's Williams Happy With Current Monetary Policy Stance\n[284]Disney Shares Surge After Disney+ Streaming-Service Update\n[285]Petrobras Shares Hit on Signs Government Interfered With Fuel Pricing\n[286]Ghosn Will Stay Jailed Until at Least April 22\n[288]A Once Fast-Growing Chinese Tech Giant Cuts Back\n[289]Disney Prices"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 9443,
+        "content": "New Streaming Service at $6.99 a Month\n[290]WikiLeaks's Assange Arrested; U.S. Files Extradition Request\n[292]Soros-Backed Hedge Fund CJW Shelves Plans for Launch\n[293]Once More With Feeling: Fix Your Withholding!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 9657,
+        "content": "[294]Chevron Shareholders Wanted a Different Kind of Green\n[296]San Francisco's Housing Market Braces for IPO Millionaire Wave\n[298]Where Washington, D.C's Elites Sleep\n[300]The Playoffs Will Determine the Future of the NBA\n[301]Florida Man Turns City Into an Unlikely Hockey Hotbed\n[302]Augusta National Has Quietly Made a $200 Million Land Grab\n[303]Israel Votes to Elect a New Prime Minister\n[305]For $50 Million, Book Your Vacation in Space\n   A host of companies plan to offer trips that range from a quick,\n   weightless jaunt to a months-long journey."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 10216,
+        "content": "[306]A Star Was Born."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 10238,
+        "content": "The NBA Wasn't Ready."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 10260,
+        "content": "[307]Why the EU Is Cracking Down on Speedy Supercars\n[310]Verizon Expands Diversity-and-Inclusion Push With New Focus on Retention\n[311]Ad Spending Hits a New High as Search Ads, Out-of-Home and Amazon Rise\n[312]Comscore Leaders to Depart After Less Than a Year\n[314]Intuit CIO: Be Strategic About the Bots You Build\n[315]The Morning Download: Intuit CIO Explains the Processes Driving His Bot\n[316]Google Targets CIOs With Its Cloud-Enabled AI Push\n[318]Uber's $2.94 billion Insurance Unit Illuminates Challenge of Disruptive\n[319]U.K."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 10797,
+        "content": "Watchdog Probes Interserve Audits\n[320]Uber to Have Task of Explaining Its Diverse Businesses as It Closes In\n[322]Uber Discloses Investigation Into Allegations of Improper Payments\n[323]The Morning Risk Report: Uber Discloses Investigation Into Allegations\n[324]Russia Moves U.S. Fund Manager From Prison to House Arrest\n[326]Today's Logistics Report: Sold on Tankers; Amazon's Third-Party Gains;\n[327]Sliding Freight Rates Send More Big Bulk Ships to Scrapyards\n[328]China's Sinochem Will Sell Logistics Arm in Rare Privatization Move\n[330]Netflix Stock Is Tumbling Because Disney's New Streaming Service Is a\n[331]Forget Facebook Stock, This Sustainable Investor Likes Danaher and Ball\n[332]Apple's iPhone Is Selling Better in China, Analyst Says\n[334]Uber IPO: 5 things you need to know about potentially the biggest IPO in\n[335]My dying father gave his girlfriend his debit card to buy food -- and\n[336]Kuwait finance minister talks up push for economic diversification from\nIndependent of The Wall Street Journal newsroom.\n[338]Prolonged Brexit Puts a Halt to U.K.'s Spring Selling Season\n[339]Yes, There is a Right Time to Take on Debt for Your Luxury Home\n[340]Manhattan Penthouse With Grand Vistas\n[342]11th Hour Racing Promotes Sustainability On"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 12053,
+        "content": "and Off Water\n[343]155-Million-Year Old Diplodocus Skeleton to Hit Auction for \u00a32 Million\n[344]Connecticut Home With 14,000-Square-Foot Art Gallery Lists for $20\n   (BUTTON) 1D (BUTTON) 5D (BUTTON) 3M (BUTTON) 6M (BUTTON) 1Y\nBy The Editorial Board"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 12304,
+        "content": "Review & Outlook\nBy The Editorial Board"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12346,
+        "content": "Review & Outlook\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12370,
+        "content": "Multiple Suicides, One Year, One High School\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12422,
+        "content": "Assange Is Arrested in London After Ecuador Withdraws Asylum\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 12490,
+        "content": "Why Robocalls Are Almost Impossible to Stop\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 12541,
+        "content": "The Secret to Why a Tesla Costs So Much (Hint: Batteries)\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 12606,
+        "content": "False Starts and Flip Flops: Why Theresa May Can't Find the Brexit\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12680,
+        "content": "Fossil Evidence of New Human Species Found in Philippines\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 12745,
+        "content": "Marijuana Use Climbs Among U.S. Workers\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12792,
+        "content": "One Teen Killed Himself."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 12817,
+        "content": "Six More Followed.\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 12843,
+        "content": "Opinion: Barr Brings Accountability\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12886,
+        "content": "WikiLeaks's Assange Arrested; U.S. Files Extradition Request\n[353]And the No. 1 Stock-Fund Manager Is..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12994,
+        "content": "Winners' Circle: A Fidelity growth fund run by Kyle Weaver wins with a\n   38% performance gain over the past 12 months."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 13119,
+        "content": "* [354]How's Your ETF Portfolio Doing?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 13158,
+        "content": "Good Luck Finding Out\n     * [355]U.S.-Stock Funds Rose 13% but Bonds Draw Cash\n[357]Why You Should Let Children Know About Their Inheritance\n   [041119indiaelex1_960x540.jpg] Details\n          [370]Print and Digital Subscription\n          [386]Commercial Real Estate Ads\n     [428]Subscriber Agreement & Terms of Use\n     Copyright \u00a92019 [430]Dow Jones & Company, Inc."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 13529,
+        "content": "All Rights Reserved."
+      }
+    }
+  ]
+}

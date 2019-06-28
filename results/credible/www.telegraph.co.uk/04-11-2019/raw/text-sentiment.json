@@ -1,0 +1,1549 @@
+{
+  "documentSentiment": {
+    "magnitude": 60.5,
+    "score": 0.0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 7,
+        "content": "Pressure on Theresa May to resign will 'increase dramatically'\n       following extension, warns David Davis\n          + Review set for June 21 after Macron opposes long delay\n          + EU already talking about possibility of further extension\n          + Britain's EU ambassador formally accepts extension\n[51]AnalysisEmmanuel Macron flexed his muscles in Brussels, but all he really\n[52]Janet DaleyAny Brexit solution with Theresa May in post is impossible -\n[53]How long does the PM have left after being forced to accept a six month\n[54]Peter FosterBrexit is far from over - this fudged EU compromise is worst\n    6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 630,
+        "content": "Theresa May attended PMQs before attending a EU emergency summit in\n       Brussels to make a please for a June 30 delay to Brexit\n[55]New bid to oust Theresa May as MPs attempt to gather 10,000 signatures to\n[56]Julian Assange arrested by Met police after US extradition warrant as\n[57]Ambrose Evans-PritchardItaly is one shock away from a default of global\n       [58]Pound struggles after Brexit delay leaves businesses and Bank\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 1069,
+        "content": "Woman on a floating unicorn in a pool\n[59]The ultimate guide to retiring young: five essential tips to enjoy the\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 1189,
+        "content": "A general view of the 10th hole is seen during a practice round\n       [60]Masters 2019First round live score updates and leaderboard\n    6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 1330,
+        "content": "Domes Miramare hotel and pool with sea views\n[61]Are these the most insta-worthy hotel settings in Greece?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1441,
+        "content": "1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 1444,
+        "content": "A white school and mainly asian school in the Midlands swap places\n[62]What's really behind the increasing segregation of British schools?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1587,
+        "content": "2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 1590,
+        "content": "IBS affects up to 20 per cent of people\n[63]Answer to Irritable Bowel Syndrome is in the mind, study shows\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 1704,
+        "content": "[ss-composite-image-2019.4.11-11.33-small.png]\n[64]Army seizes control in Sudan as 'Butcher of Darfur' president Omar\n[65]PC gone mad?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 1839,
+        "content": "Google bans the word 'no' and makes guests promise not to\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1904,
+        "content": "Gary Barlow has navigated the full spectrum of midlife health\n[66]Gary Barlow: How I overcame bulimia and found healthiness in midlife\n[67]ExclusiveTom Williams 10 years on from Bloodgate: 'It is in every waking\n[68]Will any actress ever capture the complexity of Princess Diana?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 2184,
+        "content": "[69]The reality of splitting up: What we know about modern divorce\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 2258,
+        "content": "Prime Minster Theresa May delivers a stump speech at Netherton\n       Conservative Club in Dudley in the West Midlands, during the\n       Conservative Party's election campaign\n[76]Comment: The next Tory leader can still win big by reaching out to\n[77]Comment: This Brexit delay gives the UK time to work out what it wants\n[78]Comment: May has humiliated herself and our nation by begging for more\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 2663,
+        "content": "The humiliating spectacle of Theresa May grovelling to our European\n       Union \"partners\" has been brought about\n[79]Comment: A national humiliation: Never was so much embarrassment caused\n[80]Comment: How can the Government pour billions into countries that ignore\n[81]Comment: India's once booming technology industry is falling behind\n    7."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3010,
+        "content": "U.K."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 3015,
+        "content": "Seen Heading For Long Brexit Extension\n[82]This tragic mess of Brexit stems from the EU's contempt for Britain's\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3135,
+        "content": "The Duke and Duchess, who are expecting their first child later\n       this month, said they would be \"celebrating privately as a new\n[105]Harry and Meghan will keep their baby out of the public eye as they\n[106]Jack Shepherd to spend extra six months in prison as judge tells him bid\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 3427,
+        "content": "Amazon employees listen in to thousands of Alexa recordings\n[107]Amazon employees listen in to thousands customer Alexa recordings\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 3565,
+        "content": "South Korean women react to the court ruling to lift an abortion\n[108]South Korea's constitutional court rules to lift abortion ban\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 3704,
+        "content": "Pangolins are being hunted for use in traditional Chinese medicine\n[109]Second major haul of pangolin scales raises extinction fears\n[110]Ted Baker to offer HR training allegations of inappropriate behaviour\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3919,
+        "content": "The suggested design for the gender neutral gingerbread\n[111]Gender neutral gingerbread person launched by supermarket as they ask\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 4057,
+        "content": "Laleh Shahravesh (right), from London, and her daughter Paris."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 4120,
+        "content": "The\n       mother is accused of posting derogatory comments on social media\n[112]British woman arrested in Dubai over Facebook horse insult convicted and\n[113]Theresa May 'certainly willing' to discuss deal on a customs union\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 4353,
+        "content": "IBS affects up to 20 per cent of people\n[114]Answer to Irritable Bowel Syndrome is in the mind, study shows\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 4468,
+        "content": "Pangolins are being hunted for use in traditional Chinese medicine\n[115]Second major haul of pangolin scales raises extinction fears\n    6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 4608,
+        "content": "Kashmiri Muslim voters stand in a queue as an Indian Border\n       Security soldier walks past at a polling station\n[116]Indian elections open as 900 million voters give their verdict on\n[117]Jack Shepherd to spend extra six months in prison as judge tells him bid\n    8."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 4880,
+        "content": "Theresa May, U.K. prime minister, leaves a news conference\n       following a European Union leaders summit in the Europa building in\n[118]Brexit delay: What next now the EU have agreed to Hallowe'en extension?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5091,
+        "content": "[119]GOT newsletterSign up for The Raven: A Game of Thrones newsletter -\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 5171,
+        "content": "[Economic_Intelligence_858x536-v2_copy-small.jpg]\n[120]New launchSign up now for Ambrose Evans-Pritchard and Jeremy Warner's\n[121]Investing 101 Facebook groupJoin now for tips, tricks and expert debate\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 5380,
+        "content": "[Screenshot%202019-03-26%20at%2011.08.29-small.png]\n[122]Telegraph SnapchatA new generation in journalism from The Telegraph."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 5506,
+        "content": "Browse and follow daily editions (mobile only)\n[123]Shares, currencies, live updates Track your investment portfolio in our\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 5637,
+        "content": "An art deco villa in St Paul de Vence, EUR4.95m with Micha\u00ebl\n[124]The best-kept secret of the C\u00f4te d'Azur: the glamorous village loved by\n[125]Hellboy review: an ugly, obnoxious and yowlingly witless reboot\n[126]What makes an exceptional coffee experience - and where can you find\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 5927,
+        "content": "There is almost daily new evidence that what's inside us, can\n       affect everything from our mental health to our immune system."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 6066,
+        "content": "Claire Irvin takes tough action on her tummy\n[127]How a gut health clinic changed my life\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 6163,
+        "content": "Actress Britt Ekland and comedian Peter Sellers in Rome, filming\n[128]The Penguin Book of Italian Short Stories, review: proof that bad things\n    6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 6313,
+        "content": "Dinner Is Coming game of thrones dinner\n[129]Dinner Is Coming: what happened at a bonkers Game Of Thrones-inspired\n[131]Theresa May and Angela Merkel share joke before Brexit talks\n       [132]Is this Macron's De Gaulle moment over Brexit?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 6553,
+        "content": "[135]Theresa May's most humiliating moments with EU leaders\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 6620,
+        "content": "A general view of the 10th hole is seen during a practice round\n       [137]Masters 2019 first round live score updates and leaderboard\n[138]Exclusive interview: Tom Williams - 10 years on from Bloodgate: 'It is\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 6839,
+        "content": "Luis Suarez heads the ball back resulting in a Luke Shaw own goal\n[139]Manchester United unable to land telling blow against Barcelona... but\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 6988,
+        "content": "Masters 2019 tee times for the first round, including Tiger Woods\n[140]Masters 2019 tee times for the first round, including Tiger Woods and\n[141]Bibiana Steinhaus interviewLife as Europe's leading female referee in a\n    6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 7213,
+        "content": "The Masters 2019: expert tips and latest odds on key contenders at\n[142]The Masters 2019: expert tips and latest odds on key contenders at\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 7359,
+        "content": "Paul Scholes the head coach / manager of Oldham Athletic during the\n       Sky Bet League Two match between Oldham Athletic and Crew Alexandra\n       at Boundary Park on February 16, 2019 in Oldham, United Kingdom."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 7574,
+        "content": "[143]Comment: Great players don't always make great managers - English\nfootball needs to start thinking outside the box\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 7701,
+        "content": "Lionel Messi runs at the Manchester United defence\n[144]Comment: Manchester United huffed and puffed against Barcelona but were\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 7836,
+        "content": "VAR decided to penalise Danny Rose for this handball\n[145]Comment: Danny Rose moved his hand towards the ball - a penalty was\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 7969,
+        "content": "A hobbling Harry Kane is led away down the tunnel\n[146]Comment: Loss of Harry Kane proves to Pep Guardiola that gutsy Tottenham\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 8104,
+        "content": "Snoring is a common and sometimes embarrassing sleep complaint."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 8168,
+        "content": "But\n[147]The simple workout that will stop you snoring and improve your sleep\n[148]8 signs your relationship will last, by the 'Married at First Sight'\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 8327,
+        "content": "Avicii perfoming in California in 2014\n[149]Avicii's S.O.S: Why, a year after the DJ's death, touring is still\n[150]Allison PearsonJames Cracknell wasn't the hero of his marriage - his\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 8519,
+        "content": "A grandaughter with her grandmother\n[153]Here's how you can shield \u00a3975,000 from inheritance tax - even if you're\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 8641,
+        "content": "Woman on a floating unicorn in a pool\n[154]The ultimate guide to retiring young: five essential tips to enjoy the\n[155]Councils fail to inform people about secret 'dementia relief' that could\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 8840,
+        "content": "People climbing up ladders to escape\n[156]Is auto-enrolment to blame for 'accidental' six-figure pension tax\n[157]Questor: this trust's holdings have grown at an average of 40pc but its\n       [158]Pound struggles after Brexit delay leaves businesses and Bank\n[159]Ted Baker to offer HR training as sexual harassment investigation\n[160]Comment: IMF fears Italian debt spiral, and Macron is making it even\n[161]Watchdog to examine Grant Thornton audit of Interserve\n[162]WH Smith strikes rent-free deals on some high street shops\n    6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 9376,
+        "content": "A woman looks at adverts in the window of an estate agent\n[163]Would-be buyers put off by Brexit, but 'some optimism' returns to\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 9512,
+        "content": "[164]Inside the secret world of thoroughbred racing\n[165]Inside the secret world of thoroughbred racing\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 9623,
+        "content": "[166]Eight cyber threats your business could be facing\n[167]Eight cyber threats your business could be facing\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 9740,
+        "content": "[168]Around the world, how are our attitudes to marriage changing?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 9807,
+        "content": "[169]Around the world, how are our attitudes to marriage changing?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 9878,
+        "content": "4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 9881,
+        "content": "[170]A guide for first-time visitors to Guatemala\n[171]A guide for first-time visitors to Guatemala\n[173]Nintendo Labo VR kit review: A delightful, eccentric and educational\n[174]Oracle and IBM lose out to Amazon and Microsoft in bitter feud for $10bn\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 10140,
+        "content": "Amazon employees listen in to thousands of Alexa recordings\n[175]Amazon employees listen in to thousands customer Alexa recordings\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 10278,
+        "content": "German digital bank N26 has to make changes following an audit by\n[176]Billion-dollar mobile bank N26 ordered to fix fraud responses\n[177]PC gone mad?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 10429,
+        "content": "Google bans the word 'no' and makes guests promise not to\nsexually pester or make inappropriate jokes\n[178]Venture capital deals slump 57pc as investors fret over Brexit\n[179]Comment: India's once booming technology industry is falling behind\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 10679,
+        "content": "Facebook chief executive Mark Zuckerberg\n[180]Comment: Britain has set a path for regulating big tech, now the rest of\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 10805,
+        "content": "Google employees protesting the company's work in China\n[181]Comment: Silicon Valley's employee protests are forcing tech bosses to\n[182]Comment: The UK must lead the way in internet safety\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 11002,
+        "content": "You'll see no advertisements on Pemba - just calm, rural life 11\n[184]Beautiful African islands you've probably never heard of\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 11136,
+        "content": "Explore the Chilterns this Easter - before the high-speed trains\n[185]A Chilterns walk in the footsteps of Robert Louis Stevenson - do it now\n[186]Introducing JetBlue, the budget airline with business class that's\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 11357,
+        "content": "The St Lawrence Seaway meanders through the Thousand Islands and\n       offers the prospect of a 2,342-mile journey on water\n[187]The engineering marvel that unlocked a continent\n[188]Inside the newly reopened Hauteville House - Victor Hugo's Guernsey\n[189]A voyage under Chamonix's Sea of Ice\n[191]48 hours in . . ."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 11674,
+        "content": "Buenos Aires, an insider guide to the tango capital of\n[192]Tokyo after dark: the city's best bars and nightlife\n[193]Inside the Lake District's latest luxury spa that's all about minimalism\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 11872,
+        "content": "[the-principal-madrid-terrace-small.jpg]\n[195]Fabulous towns to explore on the Amalfi Coast\n    6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 11971,
+        "content": "[lux-north-male-atoll-hotel-sea-aerial-beach-small.jpg]\n[196]11 amazing new Maldives hotels for your 2019 escape\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 12091,
+        "content": "Jodie Comer as Villanelle in Killing Eve\n[198]Waiting for Killing Eve: why the BBC's TV 'geo-blocking' belongs in the\n[199]Rowan PellingWill any actress ever capture the complexity of Princess\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 12291,
+        "content": "Darcey Bussell, here wearing Fred Astaire's boater for a BBC\n       documentary, has announced her departure from Strictly Come Dancing\n[200]Comment: Who will replace Darcey Bussell on Strictly?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 12490,
+        "content": "4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 12493,
+        "content": "All 67 episodes of Game of Thrones ranked from worst to best\n[201]Best Game of Thrones episodes of all time - all 67 ranked from worst to\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 12638,
+        "content": "The Archers: The Radio 4 drama's regular characters\n[202]Analysing The Archers: my weekend at the University of Ambridge\n[203]Wild Rose review: Nashville meets Glasgow, and in Jessie Buckley a star\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 12843,
+        "content": "Sean Bean as Ned Stark in Game of Thrones\n[205]10 Game of Thrones episodes you need to rewatch before season 8\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 12961,
+        "content": "All 67 episodes of Game of Thrones ranked from worst to best\n[206]Best Game of Thrones episodes of all time - all 67 ranked from worst to\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 13106,
+        "content": "Culture stars who have died in 2019, from Seymour Cassel to Keith\n[207]Gallery: Culture stars who have died in 2019, from Seymour Cassel to\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 13253,
+        "content": "Top shows (clockwise from top left): Dreamgirls, The Lion King,\n[208]London theatre: the best plays and shows on now\n[209]The best thrillers and crime fiction of 2019 so far\n    6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 13434,
+        "content": "Stephen King on screen: the 48 best movie and TV adaptations,\n[210]Gallery: Stephen King on screen: the 48 best movie and TV adaptations,\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 13579,
+        "content": "James Cracknell and Beverley Turner\n[212]The reality of splitting up: What we know about modern divorce\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 13690,
+        "content": "Sarah Webb, who has recently completed treatment for breast cancer\n       and also has undertaken Deep Brain Stimulation (DBS) for Parkinsons\n[213]'I got Parkinsons aged 40 - but a pioneering operation has given me back\n[214]Strength training for the lungs: why heavy breathing could be a shortcut\n[215]The 7 habits of highly effective parenting in a digital age\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 14060,
+        "content": "Jessica with her friends, Ish and Amy\n[216]What happens to our loved ones' memories in the digital afterlife?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 14174,
+        "content": "6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 14178,
+        "content": "Prince Harry, Duke of Sussex and Meghan\n[217]Forget chaos and fear: home births are as close to relaxation as labour\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 14302,
+        "content": "James Cracknell poses with his medal\n[218]Comment: James Cracknell wasn't the hero of his marriage - his wife\n[219]Comment: Don't boycott your ballot in these farcical European elections\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 14496,
+        "content": "Fleabag was about true love - between sisters\n[220]Comment: Fleabag was a tale of true love - between sisters\n[221]Comment: If Jussie Smollett is recast in Empire, it will prove that\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 14686,
+        "content": "Nick Vallotton, one of 41 participants, said his improvements were\n[223]'There's a sunrise waiting to happen': are we finally close to a cure\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 14835,
+        "content": "Sarah Webb, who has recently completed treatment for breast cancer\n       and also has undertaken Deep Brain Stimulation (DBS) for Parkinsons\n[224]'I got Parkinsons aged 40 - but a pioneering operation has given me back\n[225]Is your child's nail biting a bad habit - or a sign they're unhappy?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 15133,
+        "content": "4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 15136,
+        "content": "There is almost daily new evidence that what's inside us, can\n       affect everything from our mental health to our immune system."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 15275,
+        "content": "Claire Irvin takes tough action on her tummy\n[226]How a gut health clinic changed my life\n[228]Brian Moore's Full ContactLewis Moody: 'Leicester rebuilding process may\n[229]Chopper's Brexit Podcast MPs who say 'anything but no deal' mean\n[230]It's Your MoneyIt's easy to dodge tax - but should you?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 15574,
+        "content": "How to get one\n[231]Telegraph Audio Football ClubWas it the greatest FA Cup semi of all\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 15669,
+        "content": "Most shocking Game of Thrones moments to date: from the Red Wedding\n[233]Gallery: Most shocking Game of Thrones moments to date: from the Red\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 15818,
+        "content": "Ladies Day at Aintree: Grand National Festival 2019, in pictures\n[234]Gallery: Ladies Day at Aintree: Grand National Festival 2019, in\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 15960,
+        "content": "10 of the coolest places to stay in Sri Lanka\n[235]Gallery: 10 of the coolest places to stay in Sri Lanka\n    4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 16073,
+        "content": "Navagio beach."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 16088,
+        "content": "Island Zakynthos in Ionian Sea\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 16126,
+        "content": "The Dutchess of Sussex wears an ASOS maternity dress when arriving\n[238]After an 87% drop in profits, why is ASOS royally out of fashion?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 16264,
+        "content": "[239]The smart ageing lessons we can learn from J-Beauty\n[240]Comment: Why fashion was where it all went wrong for Debenhams\n[241]What should The Crown's new Princess Diana be wearing on screen?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 16463,
+        "content": "5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 16466,
+        "content": "The 12 most iconic perfumes of all time and what sets them apart\n[242]Gallery: The 12 most iconic perfumes of all time and what sets them\n[243]Gallery: Michelle Obama makes the case for an evening trouser suit in\n[244]Fashion editor Jayne Pickering on her ageless style signatures\n[246]Britain's best Scotch egg of 2019 revealed\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 16802,
+        "content": "Dinner Is Coming game of thrones dinner\n[247]Dinner Is Coming: what happened at a bonkers Game Of Thrones-inspired\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 16924,
+        "content": "Finish the dish with a couple of finely chopped spring onions\n[248]Tonight's dinner: Sweet potato, mozzarella and chorizo hash\n[249]William Sitwell reviews Japanese Grill, Surrey: 'The yellowtail was a\nbeautiful piece of fish covered in washing-up lather'\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 17187,
+        "content": "Serve the galette while it's still warm with a big green salad\n[250]Tonight's dinner: New potato, spinach and feta galette\n    6."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 17317,
+        "content": "Stop checking use by dates and try this trick instead\n[251]Eggs past their best-before date?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 17410,
+        "content": "Don't bin them: test for freshness,\n[252]What are the five most common reasons for not having sex?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 17513,
+        "content": "2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 17516,
+        "content": "A city skyline decorated with trees\n[253]Why CEOs need to consider environmental liability\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 17614,
+        "content": "Domes Miramare hotel and pool with sea views\n[254]Are these the most insta-worthy hotel settings in Greece?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 17726,
+        "content": "4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 17729,
+        "content": "Raymond Blanc cooking at Royal Ascot\n[255]A guide to Royal Ascot's finest dining\n    5."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 17817,
+        "content": "Two ladies eating lunch in the garden\n[256]Everything you need to know about retirement properties\n[258]The world's 20 most incredible luxury hotels for honeymooners\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 17990,
+        "content": "Katherine Heigl in 27 Dresses, where her character was a bridesmaid\n[259]How to plan the perfect hen party, by a bridesmaid who's seen it all\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 18139,
+        "content": "Wedding cakes are no longer the primary option for couples that\n       want to add their own stamp to the occasion\n[260]11 show-stopping alternatives to traditional wedding cake\n[262]Audi TTS Roadster review: a performance car for all reasons - and\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 18395,
+        "content": "Goodwood 77th Members' Meeting in pictures\n[263]Gallery: Goodwood 77th Members' Meeting in pictures\n[264]BMW 8-series Convertible review: luxury with unlimited headroom\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 18571,
+        "content": "Woman on a floating unicorn in a pool\n[266]The ultimate guide to retiring young: five essential tips to enjoy the\n[267]Questor: this trust's holdings have grown at an average of 40pc but its\n[268]The good, the bad, the costly: everything you need to know about\n[270]Cho Yang-ho, chairman of Korean Air Lines dogged by embarrassments,\nnotably his daughter's in-flight `nut rage' episode - obituary\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 18975,
+        "content": "Elvidge scores a try for the All Blacks pursued by British Lions at\n[271]Ron Elvidge, All Black captain who in a short but colourful career\nscored two heroic match-winning tries before becoming a leading gynaecologist\n[272]Sandy Ratcliff, gifted actress who starred in Ken Loach's `Family Life',\nwas spotted by Snowdon and took a regular role in `EastEnders' - obituary\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 19352,
+        "content": "IBS affects up to 20 per cent of people\n[274]Answer to Irritable Bowel Syndrome is in the mind, study shows\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 19467,
+        "content": "Professor Phillip Piper of The Australian National University (ANU)\n[275]New tiny human discovered which still swung in trees when Homo sapiens\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 19618,
+        "content": "A scientist takes stock of the historic image frm the far reaches\n[276]Black hole seen for first time in image showing matter being sucked into\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 19769,
+        "content": "Primary school league table 2018: Search and compare the best\n[278]Primary school league table: Search and compare the best primary schools\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 19916,
+        "content": "Secondary school league table: Search for the top schools for GCSE\n[279]Secondary school league table: Search for the top schools for GCSE\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 20062,
+        "content": "Secondary school league table: Search for the top schools for\n[280]Secondary school league table: Search for the top schools for A-level\n[282]The best eBook readers and Kindles you can buy\n[283]The best astro turf boots for playing football on artificial ground\n[284]The best pedometers to count your steps\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 20376,
+        "content": "Potentilla fruticosa with decorative metal gazebo."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 20427,
+        "content": "Bowley Farm,\n[286]How to deal with grubs, get rid of moss and move shrubs, by garden\n[287]How to prune an apple tree in five simple steps\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 20572,
+        "content": "Tourists at Columbia Road flower market\n[288]Six clever ways to keep cut flowers alive\n[290]Why beauty junkies are kicking the Botox and fillers in favour of a\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 20739,
+        "content": "The new Fynbos Cottages at South Africa's Babylonstoren resort\n[291]Simple pleasures, exceptional standards and South African style: at home\nin spectacular Babylonstoren's new Fynbos Cottages\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 20938,
+        "content": "2019's most decadent Easter eggs and chocolate creations\n[292]Gallery: 2019's most decadent Easter eggs and chocolate creations\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 21073,
+        "content": "An art deco villa in St Paul de Vence, EUR4.95m with Micha\u00ebl\n[294]The best-kept secret of the C\u00f4te d'Azur: the glamorous village loved by\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 21220,
+        "content": "A woman looks at adverts in the window of an estate agent\n[295]Would-be buyers put off by Brexit, but 'some optimism' returns to\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 21356,
+        "content": "The glowing red sign outside Mollie's\n[296]The Mollie's Diner effect: will the new Soho House motel add a touch of\n[298]Mid90s review: Jonah Hill directs a pin-sharp coming-of-age tale\n[299]Hellboy review: an ugly, obnoxious and yowlingly witless reboot\n[300]Netflix in talks to buy historic Los Angeles cinema\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 21674,
+        "content": "Indira Varma (right) as Ellaria Sand: will she return in the final\n[302]Missing Game of Thrones characters - will uncle Benjen Stark, Daario\nNaharis and Jaqen H'ghar return in season 8?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 21864,
+        "content": "2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 21867,
+        "content": "The best quotes from the first seven seasons of HBO's Game of\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 21936,
+        "content": "Could Sansa (Sophie Turner) be in line to claim the Iron Throne\n[304]Game of Thrones season 8 fan theories and latest rumours\n[306]How can whistleblowers answer 'The Big Data call' for information?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 22134,
+        "content": "[307]Sir Philip Green accused of 'flouting law' as minister vows to overhaul\n[308]Theresa May under pressure to intervene over Sir Philip Green's\nknighthood after two Cabinet ministers describe it as a 'disgrace'\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "text": {
+        "beginOffset": 22354,
+        "content": "New homes are being built in Tanderai, allegedly financed by the\n[310]How Europe's biggest child trafficking gang escaped justice\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 22491,
+        "content": "Mayor Bill de Blasio speaks during news conference on measles\n[311]New York orders mandatory vaccinations amid measles outbreak\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 22626,
+        "content": "Wajid Khan was identified as the polio worker who was gunned down\n       while trying to persuade a family to vaccinate their children\n[312]Polio worker gunned down in Pakistan trying to persuade family to\n[314]Nintendo Labo VR kit review: A delightful, eccentric and educational\n[315]Sea of Thieves Anniversary: Tall Tales and Arena offer thrilling new\n[316]The best games of 2019 (so far)"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 23019,
+        "content": "Your essential guide to the top titles\n[318]Could tough new rules to regulate big tech backfire?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 23116,
+        "content": "[319]Duty of Care: If the Government had acted sooner, my teenage son Breck\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 23199,
+        "content": "Sajid Javid said ministers were left with no option but to regulate\n       social media firms after voluntary action failed\n[320]Sajid Javid claims social media firms have been 'complicit in murder' by\n    1."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 23408,
+        "content": "[321]Why garlic is so bad for IBS and diarrhoea symptoms\n[322]Why garlic is so bad for IBS and diarrhoea symptoms\n    2."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 23529,
+        "content": "The cold-storage company using communications technology to avert a\n       [323]The cold-storage company using communications technology to\n    3."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 23676,
+        "content": "[324]Is it normal to be anxious about sex?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 23719,
+        "content": "[325]Is it normal to be anxious about sex?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 23766,
+        "content": "4."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 23769,
+        "content": "[326]Around the world, how are our attitudes to marriage changing?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 23836,
+        "content": "[327]Around the world, how are our attitudes to marriage changing?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 23906,
+        "content": "Please support us by disabling your adblocker\n   We rely on advertising to help fund our award-winning journalism."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 24024,
+        "content": "We urge you to turn off your ad blocker for The Telegraph website so\n   that you can continue to access our quality content in the future."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 24166,
+        "content": "Visit our [342]adblocking instructions page."
+      }
+    }
+  ]
+}

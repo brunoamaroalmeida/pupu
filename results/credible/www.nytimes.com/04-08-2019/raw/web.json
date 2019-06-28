@@ -1,0 +1,83 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "new york times",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://static1.squarespace.com/static/5820d5c03e00be92419008ba/t/5a09db8124a6942e84219db3/1510595477187/Screen+Shot+2017-11-13+at+11.50.34+AM.png"
+          },
+          {
+            "url": "https://img.stackshare.io/featured_posts/stack_stories_nyt_stackshare_nyt-homepage.png"
+          },
+          {
+            "url": "https://static.adweek.com/adweek.com-prod/wp-content/uploads/files/news_article/nyt-relaunch-hed-2013.jpg"
+          },
+          {
+            "url": "https://garciamedia.com/assets/uploads/blog/Screen_Shot_2015-01-11_at_10.10.45_AM.png"
+          },
+          {
+            "url": "http://www.berkeleycitycollege.edu/wp/library/files/2016/04/nyt-front-page.png"
+          },
+          {
+            "url": "https://billieweiss.files.wordpress.com/2010/11/nytimes.jpg"
+          },
+          {
+            "url": "http://www.niemanlab.org/images/nytimes-home-page-ochs.png"
+          },
+          {
+            "url": "https://compote.slate.com/images/e129bf91-643f-4df7-897d-9bba559c5115.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/www.mediafiledc.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-20-at-11.33.44-PM.png?resize=695%2C327"
+          },
+          {
+            "url": "http://www.niemanlab.org/images/May_9_Large_crop_03_edited-990x850.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.34389842
+          },
+          {
+            "description": "New York City",
+            "entityId": "/m/02_286",
+            "score": 0.3216
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.2240663
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.20924735
+          },
+          {
+            "description": "The New York Times",
+            "entityId": "/m/07k2d",
+            "score": 0.2015
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1884
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.17730859
+          }
+        ]
+      }
+    }
+  ]
+}

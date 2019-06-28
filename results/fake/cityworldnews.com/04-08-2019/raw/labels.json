@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.84464663,
+          "topicality": 0.84464663
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.7495627,
+          "topicality": 0.7495627
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.7443046,
+          "topicality": 0.7443046
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.65468615,
+          "topicality": 0.65468615
+        }
+      ]
+    }
+  ]
+}

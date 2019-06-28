@@ -1,0 +1,90 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "amendoeiras em flor 2011"
+          }
+        ],
+        "partialMatchingImages": [
+          {
+            "url": "https://1gr.cz/fotky/idnes/18/121/sph/PKA77bf4e_2018_11_29_12_01_33.png"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://img.yumpu.com/12750529/1/358x507/amendoeiras-em-flor-2011-campingcar-portugal.jpg?quality=85"
+          },
+          {
+            "url": "https://img.yumpu.com/12750529/6/120x193/amendoeiras-em-flor-2011-campingcar-portugal.jpg?quality=85"
+          },
+          {
+            "url": "https://img.yumpu.com/12750529/4/120x193/amendoeiras-em-flor-2011-campingcar-portugal.jpg?quality=85"
+          },
+          {
+            "url": "https://img.yumpu.com/12750529/2/120x193/amendoeiras-em-flor-2011-campingcar-portugal.jpg?quality=85"
+          },
+          {
+            "url": "https://img.yumpu.com/12750529/5/120x193/amendoeiras-em-flor-2011-campingcar-portugal.jpg?quality=85"
+          },
+          {
+            "url": "http://s1.livrozilla.com/store/data/001703332_1-3d7a3e472a9c47c3a4d3e60523e1ec95-260x520.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Photo caption",
+            "entityId": "/m/0b75wg4",
+            "score": 0.2834201
+          },
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.25891945
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.23951393
+          },
+          {
+            "description": "Conversation",
+            "entityId": "/m/01h8n0",
+            "score": 0.23734824
+          },
+          {
+            "description": "Satire",
+            "entityId": "/m/06nbt",
+            "score": 0.2339
+          },
+          {
+            "description": "National-Report",
+            "entityId": "/m/0jzzmqr",
+            "score": 0.2236
+          },
+          {
+            "description": "Almond",
+            "entityId": "/m/0m4v",
+            "score": 0.182
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1764
+          },
+          {
+            "description": "Flower",
+            "entityId": "/m/0c9ph5",
+            "score": 0.1694
+          },
+          {
+            "description": "Computer Servers",
+            "entityId": "/m/0bkxj",
+            "score": 0.1689
+          }
+        ]
+      }
+    }
+  ]
+}

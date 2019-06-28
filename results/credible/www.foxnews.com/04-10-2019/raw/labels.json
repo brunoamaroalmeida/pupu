@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.92077506,
+          "topicality": 0.92077506
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.8153675,
+          "topicality": 0.8153675
+        },
+        {
+          "description": "Media",
+          "mid": "/m/03qh03g",
+          "score": 0.8100443,
+          "topicality": 0.8100443
+        },
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.729914,
+          "topicality": 0.729914
+        },
+        {
+          "description": "Online advertising",
+          "mid": "/m/05b1rx",
+          "score": 0.71484536,
+          "topicality": 0.71484536
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.671158,
+          "topicality": 0.671158
+        },
+        {
+          "description": "Display advertising",
+          "mid": "/m/02_784",
+          "score": 0.6144477,
+          "topicality": 0.6144477
+        }
+      ]
+    }
+  ]
+}

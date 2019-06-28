@@ -1,0 +1,98 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "msnbc",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://image.winudf.com/v2/image1/Y29tLnJhZGlvem5ld3NhcHAubmVuX3NjcmVlbl81XzE1NDY1OTU0NzRfMDY2/screen-5.jpg?h=800&fakeurl=1&type=.jpg"
+          },
+          {
+            "url": "http://archive.li/IqYKF/f61fb92f92b2607b1d63575fad06719ab2317276/thumb.png"
+          },
+          {
+            "url": "https://localtvwiti.files.wordpress.com/2014/01/untitled-6.jpg?quality=85&strip=all&w=400&h=225&crop=1"
+          },
+          {
+            "url": "https://www.imediaethics.org/wp-content/uploads/storage/editorialImages/B_Image_1100.JPG"
+          },
+          {
+            "url": "https://didierstevens.files.wordpress.com/2008/08/20080813-195851.png?w=752&h=746"
+          },
+          {
+            "url": "http://i.imgur.com/moKrRy7.jpg"
+          },
+          {
+            "url": "https://i.redditmedia.com/i88iXucdFC-IXbJ85j-DNAB-6oTyKdmB3XEK5dyDAnU.jpg?w=320&s=7efab2101309038da2d5ba0371102a79"
+          },
+          {
+            "url": "http://www.usasupreme.com/wp-content/uploads/2017/06/MSNBC-Guest-Suggests-ISIS-Bombing-195x300.jpg"
+          },
+          {
+            "url": "https://d65im9osfb1r5.cloudfront.net/spellcheck.net/7288733-msnbc_thumbnail.png"
+          },
+          {
+            "url": "http://www.chernsicle.com/wp-content/uploads/2014/02/MSNBC1.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.4241765
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.24870227
+          },
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.22985698
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.22442125
+          },
+          {
+            "description": "Multimedia",
+            "entityId": "/m/0541p",
+            "score": 0.19664474
+          },
+          {
+            "description": "MSNBC",
+            "entityId": "/m/0152x_",
+            "score": 0.1907
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.19
+          },
+          {
+            "description": "Page",
+            "entityId": "/m/07_8yb",
+            "score": 0.1875
+          },
+          {
+            "description": "Diagram",
+            "entityId": "/m/02v0m2",
+            "score": 0.18614711
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.17578602
+          }
+        ]
+      }
+    }
+  ]
+}

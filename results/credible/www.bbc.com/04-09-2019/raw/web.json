@@ -1,0 +1,97 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "website"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://vidmy.com/blog/wp-content/uploads/2015/05/2015-05-26-13_39_14-Eminem-Not-Afraid-_-Video.png"
+          },
+          {
+            "url": "http://www.duluxtradepaintexpert.co.uk/web/_includes/images/og-image.jpg"
+          },
+          {
+            "url": "https://bootstrapmade.com/wp-content/themefiles/Lumia/400.png"
+          },
+          {
+            "url": "http://hoopskirtmedia.com/images/portfolio/service-software-website-thumb-01.jpg"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/mimosan-free-template.jpg"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/redbiz-consulting-website-template.jpg"
+          },
+          {
+            "url": "https://www.websitebuilderexpert.com/wp-content/uploads/2016/10/free-ecommerce-templates-shopify-vintage.png"
+          },
+          {
+            "url": "https://pimcore.com/casestudies/pappas/image-thumb__2130__casestudy-slider-img/file0_2017-11-24_11-03-07.png"
+          },
+          {
+            "url": "https://outsidetheboxgraphics.com/wp-content/uploads/2018/05/website_design_21.jpg"
+          },
+          {
+            "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/znews-news-website-template.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Online advertising",
+            "entityId": "/m/05b1rx",
+            "score": 0.59230655
+          },
+          {
+            "description": "Advertising",
+            "entityId": "/m/011s0",
+            "score": 0.3525
+          },
+          {
+            "description": "Public Relations",
+            "entityId": "/m/062zr",
+            "score": 0.31719086
+          },
+          {
+            "description": "Display advertising",
+            "entityId": "/m/02_784",
+            "score": 0.31397533
+          },
+          {
+            "description": "New media",
+            "entityId": "/m/01yl50",
+            "score": 0.27674127
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.2700187
+          },
+          {
+            "description": "Multimedia",
+            "entityId": "/m/0541p",
+            "score": 0.22636768
+          },
+          {
+            "description": "Web page",
+            "entityId": "/m/086nh",
+            "score": 0.20100532
+          },
+          {
+            "description": "World Wide Web",
+            "entityId": "/m/0828v",
+            "score": 0.1983
+          },
+          {
+            "description": "Public",
+            "entityId": "/m/01ss7q",
+            "score": 0.1946
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "software"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "http://www.vocaloid.com/en/wp-content/uploads/sites/2/2018/07/steart_vocaloid5_en-400x266.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Discord_screenshot.png/300px-Discord_screenshot.png"
+          },
+          {
+            "url": "https://tobii.23video.com/16107559/16182196/d06bb4813bb4a5be46427f09022cb187/800x/thumbnail.jpg"
+          },
+          {
+            "url": "https://assets.git-tower.com/assets/product-media/mac/interactive-rebase/interactive-rebase_mac_mobile_dark@1030w.jpg"
+          },
+          {
+            "url": "https://www.elgato.com/themes/custom/smalcode/image/pages/software-page/software-side-7.jpg?v=2"
+          },
+          {
+            "url": "https://images.blackmagicdesign.com/images/products/atem/software/switcher-remote-en.png?_v=1504239353"
+          },
+          {
+            "url": "https://www.wikihow.com/images/thumb/0/0e/Download-Any-Video-from-Any-Website-for-Free-Step-38-Version-2.jpg/aid4112738-v4-728px-Download-Any-Video-from-Any-Website-for-Free-Step-38-Version-2.jpg"
+          },
+          {
+            "url": "https://store-images.s-microsoft.com/image/apps.40360.14281593562896186.06a20a12-c674-46bb-a7c8-9742ab9c29dd.8fdfafd2-21d8-4429-952b-0bec9b5cf0b5?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg"
+          },
+          {
+            "url": "https://cdn-images-1.medium.com/max/2400/1*U7fK-GxeeX-8uUM8_BCe8g.png"
+          },
+          {
+            "url": "https://images.filehippo.net/img/ex/11918__avg-av-free-3-10-10-18.png"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Screenshot",
+            "entityId": "/m/01zbnw",
+            "score": 0.33859047
+          },
+          {
+            "description": "Video",
+            "entityId": "/m/07z4p",
+            "score": 0.24419792
+          },
+          {
+            "description": "Presentation",
+            "entityId": "/m/02y3rj",
+            "score": 0.24268982
+          },
+          {
+            "description": "Multimedia",
+            "entityId": "/m/0541p",
+            "score": 0.22510064
+          },
+          {
+            "description": "Font",
+            "entityId": "/m/03gq5hm",
+            "score": 0.20465897
+          },
+          {
+            "description": "Brand",
+            "entityId": "/m/01cd9",
+            "score": 0.17744535
+          }
+        ]
+      }
+    }
+  ]
+}

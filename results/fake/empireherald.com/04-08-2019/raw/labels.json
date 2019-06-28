@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.98168534,
+          "topicality": 0.98168534
+        },
+        {
+          "description": "Website",
+          "mid": "/m/085n4",
+          "score": 0.8995637,
+          "topicality": 0.8995637
+        },
+        {
+          "description": "Online advertising",
+          "mid": "/m/05b1rx",
+          "score": 0.79985577,
+          "topicality": 0.79985577
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.7495627,
+          "topicality": 0.7495627
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.6973137,
+          "topicality": 0.6973137
+        },
+        {
+          "description": "Display advertising",
+          "mid": "/m/02_784",
+          "score": 0.6903035,
+          "topicality": 0.6903035
+        },
+        {
+          "description": "Company",
+          "mid": "/m/03bxgrp",
+          "score": 0.6410282,
+          "topicality": 0.6410282
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.5535142,
+          "topicality": 0.5535142
+        },
+        {
+          "description": "Brand",
+          "mid": "/m/01cd9",
+          "score": 0.54519564,
+          "topicality": 0.54519564
+        }
+      ]
+    }
+  ]
+}

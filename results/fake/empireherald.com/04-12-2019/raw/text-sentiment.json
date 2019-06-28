@@ -1,0 +1,129 @@
+{
+  "documentSentiment": {
+    "magnitude": 8.3,
+    "score": 0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 4,
+        "content": "#[1]Empire Herald \u00bb Feed [2]Empire Herald \u00bb Comments Feed\n     * [3]5 Benefits of Using a Field Service Management Software\n     * [5]5 Ways To Improve Your Chances Of Getting Accepted For Payday\n     * [6]5 Ways of Preventing Leaks In Food Packaging\n     * [7]6 Ways a Real Estate Agent Can Help You Prepare Your Home for\n     * [8]Four Reasons to Replace Your Windows\n     * [9]7 Ways to Improve Your Immigration Experience Using Express\n     * [10]The Best 11 Promotional Products for Small Business\n[21]5 Benefits of Using a Field Service Management Software\n   Every entrepreneur generally has a set of aims that they try and\n   It is fair to say that there are few possessions more important to the\n[27]5 Ways To Improve Your Chances Of Getting Accepted For Payday Loans\n   Payday loans are low-dollar-value, short-term loans between $1 and\n   $1,500."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 864,
+        "content": "These loans are not offered..."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 895,
+        "content": "[30]5 Ways of Preventing Leaks In Food Packaging\n   Food manufacturing and packaging organizations have for a longer period\n[33]6 Ways a Real Estate Agent Can Help You Prepare Your Home for Sale\n   Finding the right buyer for your home starts with using the right real\n   When your house has its original windows or units that are at least 40\n[39]7 Ways to Improve Your Immigration Experience Using Express Entry\n   Immigration laws are different in nearly country you consider moving\n[42]The Best 11 Promotional Products for Small Business\n   Did you know you could effectively promote your business on a\n   shoestring budget?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 1523,
+        "content": "To grow, a small business needs growth strategies\n   that are both unique and effective."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 1612,
+        "content": "One of these is the use of\n   promotional products customized to highlight your unique selling\n   proposition (USP)."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 1729,
+        "content": "A creatively designed promotional product attracts\n   potential customers in a way that only a few other promotional items\n[45]The 4-Step Process to Building Effective Client Relationships as a Real\n   As a realtor, the foundation of your business success is the quality\n   relationships you create."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 2029,
+        "content": "To do this, you require a real estate CRM\n   system to stay in touch with your clients and attract referrals that\n   sustain and keep your business going."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 2184,
+        "content": "Following is a four-step process\n   for building effective client relationships as a real estate agent."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 2288,
+        "content": "[48]Top 5 Corporate Holiday Promo Products for Your Clients\n   Gifting promotional products requires the same skills that great\n   salesmanship requires."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 2442,
+        "content": "You need to be observant, know your client's\n   likes and dislikes, and research the best gift item."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 2543,
+        "content": "Don't know the\n   right promotional product to choose?"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "text": {
+        "beginOffset": 2598,
+        "content": "Check out the following items-your\n     * Search for: ____________________ Search\n       Email address: ____________________\n       Leave this field empty if you're human: ____________________\n       [58]5 Benefits of Using a Field Service Management Software\n       [62]4 Reasons Why Flexographic Printing Is Superior\n       [64]6 Benefits of Constructing a Steel Structure\n       [66]6 Main Types of Stretch Film You Must Know\n       [68]5 Reasons Businesses Hire Courier Services\n       [70]Six Qualities You Should Look Out For In a Calibration Service\n       [72]4 Things to Know About Corner Guards\n       [74]Information Disposal: Hard Drive Destruction and Paper\n       [76]Things to Consider in Loading Dock Equipment\n          + [90]5 Benefits of Using a Field Service Management Software\n          + [91]4 Vital Car Rental Services\n          + [92]5 Ways To Improve Your Chances Of Getting Accepted For\n          + [93]5 Ways of Preventing Leaks In Food Packaging\n          + [94]6 Ways a Real Estate Agent Can Help You Prepare Your Home\n[96]5 Benefits of Using a Field Service Management Software"
+      }
+    }
+  ]
+}

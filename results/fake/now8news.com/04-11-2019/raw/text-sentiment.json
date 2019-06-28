@@ -1,0 +1,99 @@
+{
+  "documentSentiment": {
+    "magnitude": 4.1,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 3,
+        "content": "#[1]next [2]Now8News \u00bb Feed [3]Now8News \u00bb Comments Feed\n     * [7]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 73,
+        "content": "Man Hospitalized After His Apple Airpods Exploded In His Ear\n     * [8]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 146,
+        "content": "Mexico Agrees To Pay For The Wall Only If The US \"Returning\n     * [9]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 218,
+        "content": "Feds Let 30,558 Illegal Criminals Go Free \"They Were The Worst\n     * [10]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 294,
+        "content": "Trump Signs Law To Lower The Age Of Consensual Sex To 13\n     * [11]"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 364,
+        "content": "WOMAN ARRESTED FOR TRAINING SQUIRRELS TO ATTACK HER\n   Search for: ____________________ Search\n[13]Man Hospitalized After His Apple Airpods Exploded In His Ear\n   TUCSON, AZ - An Arizona man is being hospitalized after his brand new\n   Apple AirPod earphones allegedly exploded in his ear."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      },
+      "text": {
+        "beginOffset": 654,
+        "content": "Josiah Johnson,\n[16]Mexico Agrees To Pay For The Wall Only If The US \"Returning Texas To\n     __________________________________________________________________\n[18]Feds Let 30,558 Illegal Criminals Go Free \"They Were The Worst Of The\n     __________________________________________________________________\n[20]Trump Signs Law To Lower The Age Of Consensual Sex To 13 Years Of Age\n     __________________________________________________________________\n[22]WOMAN ARRESTED FOR TRAINING SQUIRRELS TO ATTACK HER EX-BOYFRIEND\n     __________________________________________________________________\n[24]Woman Claims She Has Just Given Birth To Satan, The Long Awaited\n     __________________________________________________________________\n[26]Mother Arrested After Tattooing Her Son And Attempting To Trade Him For\n     __________________________________________________________________\n[28]Girl Scouts Of America Approved To Sell Marijuana Edible Cookies At\n     __________________________________________________________________\n[30]Baby Found Frozen In A Block Of Ice In Snowy Tennessee Woods\n     __________________________________________________________________\n[32]KKK Protests To \"Make America Straight Again\"\n   Wilmington, NC - Protests got heated on Monday when the Ku Klux Klan\n   marched to \"Make America Straight Again.\""
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1985,
+        "content": "The faction of the KKK\n     __________________________________________________________________\n   Copyright 2019"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 2100,
+        "content": "MH Newsdesk by [37]MH Themes"
+      }
+    }
+  ]
+}

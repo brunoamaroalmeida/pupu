@@ -1,0 +1,77 @@
+{
+  "responses": [
+    {
+      "webDetection": {
+        "bestGuessLabels": [
+          {
+            "label": "daily mail",
+            "languageCode": "en"
+          }
+        ],
+        "visuallySimilarImages": [
+          {
+            "url": "https://pics.esmemes.com/dailymail-news-popularity-ofbig-breast-on-online-searches-are-starting-27439469.png"
+          },
+          {
+            "url": "https://sophosnews.files.wordpress.com/2012/11/daily-mail-email.jpg?w=380"
+          },
+          {
+            "url": "https://donstaniford.typepad.com/.a/6a016766faffa0970b01b8d2d48f8c970c-pi"
+          },
+          {
+            "url": "https://i2-prod.mirror.co.uk/incoming/article12976367.ece/ALTERNATES/s615b/0_Screen-Shot-2018-07-25-at-091325.jpg"
+          },
+          {
+            "url": "https://ichef.bbci.co.uk/news/485/socialembed/https://twitter.com/southbankcentre/status/964481407673389056~/news/uk-43093154"
+          },
+          {
+            "url": "https://pixel.nymag.com/imgs/daily/intelligencer/2013/06/27/27-baldwintwitter2.w710.h473.png"
+          },
+          {
+            "url": "http://www.reasonandreality.org/wp-content/uploads/2013/11/DailyMailGBrown-expenses.gif"
+          },
+          {
+            "url": "https://pics.ballmemes.com/furious-mother-youre-doing-amazing-sweetie-dailymail-like-news-furious-26580087.png"
+          },
+          {
+            "url": "http://callismakesfilms.co.uk/wp-content/uploads/2017/03/Daily-Mail-The-Sun-Google-Terrorism-Screen-Grab-of-SERP.png"
+          },
+          {
+            "url": "https://cdni.rt.com/files/2017.11/article/5a18645afc7e9376298b4567.jpg"
+          }
+        ],
+        "webEntities": [
+          {
+            "description": "Daily Mail",
+            "entityId": "/m/0180v2",
+            "score": 0.2851
+          },
+          {
+            "description": "Angle",
+            "entityId": "/m/0mwc",
+            "score": 0.264917
+          },
+          {
+            "description": "Line",
+            "entityId": "/m/03scnj",
+            "score": 0.2572835
+          },
+          {
+            "description": "MailOnline",
+            "entityId": "/m/02z3n9c",
+            "score": 0.2444
+          },
+          {
+            "entityId": "/t/27v_vt2_tp0w6",
+            "score": 0.2444
+          },
+          {
+            "description": "Document",
+            "entityId": "/m/015bv3",
+            "score": 0.24095282
+          }
+        ]
+      }
+    }
+  ]
+}
