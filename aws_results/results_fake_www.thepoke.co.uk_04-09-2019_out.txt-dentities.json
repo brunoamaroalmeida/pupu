@@ -1,0 +1,193 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9963974952697754,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 62,
+      "EndOffset": 73
+    },
+    {
+      "Score": 0.9991119503974915,
+      "Type": "PERSON",
+      "Text": "Angela Merkel",
+      "BeginOffset": 89,
+      "EndOffset": 102
+    },
+    {
+      "Score": 0.9835434556007385,
+      "Type": "PERSON",
+      "Text": "Roald Dahl",
+      "BeginOffset": 134,
+      "EndOffset": 144
+    },
+    {
+      "Score": 0.8619464635848999,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 194,
+      "EndOffset": 199
+    },
+    {
+      "Score": 0.9149772524833679,
+      "Type": "PERSON",
+      "Text": "Boris Johnson",
+      "BeginOffset": 298,
+      "EndOffset": 311
+    },
+    {
+      "Score": 0.9093643426895142,
+      "Type": "QUANTITY",
+      "Text": "11",
+      "BeginOffset": 410,
+      "EndOffset": 412
+    },
+    {
+      "Score": 0.6229984164237976,
+      "Type": "TITLE",
+      "Text": "Daily Mail",
+      "BeginOffset": 491,
+      "EndOffset": 501
+    },
+    {
+      "Score": 0.7238898873329163,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 548,
+      "EndOffset": 553
+    },
+    {
+      "Score": 0.9973441362380981,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 564,
+      "EndOffset": 576
+    },
+    {
+      "Score": 0.9778624773025513,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 583,
+      "EndOffset": 594
+    },
+    {
+      "Score": 0.6531051993370056,
+      "Type": "QUANTITY",
+      "Text": "one thing",
+      "BeginOffset": 621,
+      "EndOffset": 630
+    },
+    {
+      "Score": 0.9984832406044006,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 669,
+      "EndOffset": 681
+    },
+    {
+      "Score": 0.8029292821884155,
+      "Type": "QUANTITY",
+      "Text": "7 favourite takedowns",
+      "BeginOffset": 741,
+      "EndOffset": 762
+    },
+    {
+      "Score": 0.9986693263053894,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 1007,
+      "EndOffset": 1022
+    },
+    {
+      "Score": 0.6285247802734375,
+      "Type": "ORGANIZATION",
+      "Text": "Coldstream Guards",
+      "BeginOffset": 1033,
+      "EndOffset": 1050
+    },
+    {
+      "Score": 0.8230456709861755,
+      "Type": "LOCATION",
+      "Text": "Tower of London",
+      "BeginOffset": 1063,
+      "EndOffset": 1078
+    },
+    {
+      "Score": 0.7392780780792236,
+      "Type": "QUANTITY",
+      "Text": "first person",
+      "BeginOffset": 1087,
+      "EndOffset": 1099
+    },
+    {
+      "Score": 0.9884338974952698,
+      "Type": "DATE",
+      "Text": "1890",
+      "BeginOffset": 1111,
+      "EndOffset": 1115
+    },
+    {
+      "Score": 0.7701708674430847,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 1481,
+      "EndOffset": 1486
+    },
+    {
+      "Score": 0.5426039099693298,
+      "Type": "PERSON",
+      "Text": "Hammer",
+      "BeginOffset": 1498,
+      "EndOffset": 1504
+    },
+    {
+      "Score": 0.8308457732200623,
+      "Type": "QUANTITY",
+      "Text": "11",
+      "BeginOffset": 1635,
+      "EndOffset": 1637
+    },
+    {
+      "Score": 0.6998300552368164,
+      "Type": "QUANTITY",
+      "Text": "one video - totes",
+      "BeginOffset": 1684,
+      "EndOffset": 1701
+    },
+    {
+      "Score": 0.9208336472511292,
+      "Type": "QUANTITY",
+      "Text": "7 favourite takedowns",
+      "BeginOffset": 1714,
+      "EndOffset": 1735
+    },
+    {
+      "Score": 0.9800789952278137,
+      "Type": "QUANTITY",
+      "Text": "23 times",
+      "BeginOffset": 1786,
+      "EndOffset": 1794
+    },
+    {
+      "Score": 0.971433162689209,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 2083,
+      "EndOffset": 2087
+    },
+    {
+      "Score": 0.4512387216091156,
+      "Type": "QUANTITY",
+      "Text": "20",
+      "BeginOffset": 2095,
+      "EndOffset": 2097
+    },
+    {
+      "Score": 0.8255741596221924,
+      "Type": "ORGANIZATION",
+      "Text": "T&C",
+      "BeginOffset": 2098,
+      "EndOffset": 2101
+    }
+  ]
+}

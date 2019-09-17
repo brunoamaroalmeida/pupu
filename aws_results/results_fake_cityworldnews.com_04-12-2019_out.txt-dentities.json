@@ -1,0 +1,130 @@
+{
+  "Entities": [
+    {
+      "Score": 0.7678188681602478,
+      "Type": "ORGANIZATION",
+      "Text": "City World News",
+      "BeginOffset": 7,
+      "EndOffset": 22
+    },
+    {
+      "Score": 0.7703450322151184,
+      "Type": "ORGANIZATION",
+      "Text": "City World News",
+      "BeginOffset": 33,
+      "EndOffset": 48
+    },
+    {
+      "Score": 0.9987956881523132,
+      "Type": "PERSON",
+      "Text": "Hillary Clinton",
+      "BeginOffset": 89,
+      "EndOffset": 104
+    },
+    {
+      "Score": 0.9841839075088501,
+      "Type": "ORGANIZATION",
+      "Text": "ISIS",
+      "BeginOffset": 109,
+      "EndOffset": 113
+    },
+    {
+      "Score": 0.7701258659362793,
+      "Type": "ORGANIZATION",
+      "Text": "The Same Money",
+      "BeginOffset": 128,
+      "EndOffset": 142
+    },
+    {
+      "Score": 0.5525996685028076,
+      "Type": "ORGANIZATION",
+      "Text": "Subway",
+      "BeginOffset": 147,
+      "EndOffset": 153
+    },
+    {
+      "Score": 0.9372279644012451,
+      "Type": "PERSON",
+      "Text": "Jared Endorses",
+      "BeginOffset": 154,
+      "EndOffset": 168
+    },
+    {
+      "Score": 0.9896265268325806,
+      "Type": "PERSON",
+      "Text": "Ted Cruz",
+      "BeginOffset": 181,
+      "EndOffset": 189
+    },
+    {
+      "Score": 0.997835099697113,
+      "Type": "DATE",
+      "Text": "Jan 5, 2016",
+      "BeginOffset": 193,
+      "EndOffset": 204
+    },
+    {
+      "Score": 0.7631560564041138,
+      "Type": "QUANTITY",
+      "Text": "20",
+      "BeginOffset": 248,
+      "EndOffset": 250
+    },
+    {
+      "Score": 0.9947956204414368,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 251,
+      "EndOffset": 263
+    },
+    {
+      "Score": 0.7764758467674255,
+      "Type": "QUANTITY",
+      "Text": "23",
+      "BeginOffset": 291,
+      "EndOffset": 293
+    },
+    {
+      "Score": 0.9940074682235718,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 294,
+      "EndOffset": 306
+    },
+    {
+      "Score": 0.8021483421325684,
+      "Type": "QUANTITY",
+      "Text": "27",
+      "BeginOffset": 349,
+      "EndOffset": 351
+    },
+    {
+      "Score": 0.9955407381057739,
+      "Type": "PERSON",
+      "Text": "Jeb Bush",
+      "BeginOffset": 352,
+      "EndOffset": 360
+    },
+    {
+      "Score": 0.703845202922821,
+      "Type": "QUANTITY",
+      "Text": "30",
+      "BeginOffset": 398,
+      "EndOffset": 400
+    },
+    {
+      "Score": 0.9964469075202942,
+      "Type": "PERSON",
+      "Text": "George W. Bush",
+      "BeginOffset": 401,
+      "EndOffset": 415
+    },
+    {
+      "Score": 0.9964525103569031,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 427,
+      "EndOffset": 439
+    }
+  ]
+}

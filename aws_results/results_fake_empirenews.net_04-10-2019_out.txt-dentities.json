@@ -1,0 +1,641 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8273541927337646,
+      "Type": "ORGANIZATION",
+      "Text": "Empire News",
+      "BeginOffset": 7,
+      "EndOffset": 18
+    },
+    {
+      "Score": 0.9805073738098145,
+      "Type": "QUANTITY",
+      "Text": "26 Years",
+      "BeginOffset": 221,
+      "EndOffset": 229
+    },
+    {
+      "Score": 0.9849120378494263,
+      "Type": "QUANTITY",
+      "Text": "26 Years",
+      "BeginOffset": 348,
+      "EndOffset": 356
+    },
+    {
+      "Score": 0.5418825149536133,
+      "Type": "QUANTITY",
+      "Text": "13",
+      "BeginOffset": 460,
+      "EndOffset": 462
+    },
+    {
+      "Score": 0.9968056678771973,
+      "Type": "QUANTITY",
+      "Text": "$10,000",
+      "BeginOffset": 477,
+      "EndOffset": 484
+    },
+    {
+      "Score": 0.9970206022262573,
+      "Type": "QUANTITY",
+      "Text": "$10,000",
+      "BeginOffset": 546,
+      "EndOffset": 553
+    },
+    {
+      "Score": 0.625902533531189,
+      "Type": "QUANTITY",
+      "Text": "14",
+      "BeginOffset": 606,
+      "EndOffset": 608
+    },
+    {
+      "Score": 0.8141289949417114,
+      "Type": "QUANTITY",
+      "Text": "First Time",
+      "BeginOffset": 617,
+      "EndOffset": 627
+    },
+    {
+      "Score": 0.9983565211296082,
+      "Type": "DATE",
+      "Text": "February 27th, 2019",
+      "BeginOffset": 703,
+      "EndOffset": 722
+    },
+    {
+      "Score": 0.8373212814331055,
+      "Type": "QUANTITY",
+      "Text": "First Time",
+      "BeginOffset": 734,
+      "EndOffset": 744
+    },
+    {
+      "Score": 0.995200514793396,
+      "Type": "DATE",
+      "Text": "February 27th, 2019",
+      "BeginOffset": 820,
+      "EndOffset": 839
+    },
+    {
+      "Score": 0.7838416695594788,
+      "Type": "ORGANIZATION",
+      "Text": "NFL",
+      "BeginOffset": 847,
+      "EndOffset": 850
+    },
+    {
+      "Score": 0.9710484147071838,
+      "Type": "ORGANIZATION",
+      "Text": "Carolina Panthers",
+      "BeginOffset": 853,
+      "EndOffset": 870
+    },
+    {
+      "Score": 0.4155965745449066,
+      "Type": "LOCATION",
+      "Text": "Carolina",
+      "BeginOffset": 904,
+      "EndOffset": 912
+    },
+    {
+      "Score": 0.5376944541931152,
+      "Type": "ORGANIZATION",
+      "Text": "NFL",
+      "BeginOffset": 916,
+      "EndOffset": 919
+    },
+    {
+      "Score": 0.9793427586555481,
+      "Type": "ORGANIZATION",
+      "Text": "Carolina Panthers",
+      "BeginOffset": 922,
+      "EndOffset": 939
+    },
+    {
+      "Score": 0.6827015280723572,
+      "Type": "ORGANIZATION",
+      "Text": "Carolina Black",
+      "BeginOffset": 973,
+      "EndOffset": 987
+    },
+    {
+      "Score": 0.45092856884002686,
+      "Type": "QUANTITY",
+      "Text": "17",
+      "BeginOffset": 992,
+      "EndOffset": 994
+    },
+    {
+      "Score": 0.6954543590545654,
+      "Type": "EVENT",
+      "Text": "World Cup",
+      "BeginOffset": 995,
+      "EndOffset": 1004
+    },
+    {
+      "Score": 0.7475442886352539,
+      "Type": "QUANTITY",
+      "Text": "18",
+      "BeginOffset": 1138,
+      "EndOffset": 1140
+    },
+    {
+      "Score": 0.8009336590766907,
+      "Type": "ORGANIZATION",
+      "Text": "EA Sports",
+      "BeginOffset": 1141,
+      "EndOffset": 1150
+    },
+    {
+      "Score": 0.8705893754959106,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 1159,
+      "EndOffset": 1174
+    },
+    {
+      "Score": 0.8681576251983643,
+      "Type": "EVENT",
+      "Text": "PGA Tour 2018",
+      "BeginOffset": 1189,
+      "EndOffset": 1202
+    },
+    {
+      "Score": 0.7485178112983704,
+      "Type": "ORGANIZATION",
+      "Text": "EA Sports",
+      "BeginOffset": 1206,
+      "EndOffset": 1215
+    },
+    {
+      "Score": 0.9024308919906616,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 1224,
+      "EndOffset": 1239
+    },
+    {
+      "Score": 0.9038110375404358,
+      "Type": "EVENT",
+      "Text": "PGA Tour 2018",
+      "BeginOffset": 1254,
+      "EndOffset": 1267
+    },
+    {
+      "Score": 0.48054710030555725,
+      "Type": "QUANTITY",
+      "Text": "19",
+      "BeginOffset": 1272,
+      "EndOffset": 1274
+    },
+    {
+      "Score": 0.5295618176460266,
+      "Type": "EVENT",
+      "Text": "NFL",
+      "BeginOffset": 1275,
+      "EndOffset": 1278
+    },
+    {
+      "Score": 0.6868016123771667,
+      "Type": "EVENT",
+      "Text": "NFL",
+      "BeginOffset": 1345,
+      "EndOffset": 1348
+    },
+    {
+      "Score": 0.8501483201980591,
+      "Type": "QUANTITY",
+      "Text": "21",
+      "BeginOffset": 1420,
+      "EndOffset": 1422
+    },
+    {
+      "Score": 0.49557623267173767,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 1423,
+      "EndOffset": 1433
+    },
+    {
+      "Score": 0.7968431711196899,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 1482,
+      "EndOffset": 1492
+    },
+    {
+      "Score": 0.7067097425460815,
+      "Type": "QUANTITY",
+      "Text": "22",
+      "BeginOffset": 1542,
+      "EndOffset": 1544
+    },
+    {
+      "Score": 0.9985436201095581,
+      "Type": "PERSON",
+      "Text": "Michelle Obama",
+      "BeginOffset": 1545,
+      "EndOffset": 1559
+    },
+    {
+      "Score": 0.9960598349571228,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1590,
+      "EndOffset": 1595
+    },
+    {
+      "Score": 0.9900858402252197,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 1599,
+      "EndOffset": 1603
+    },
+    {
+      "Score": 0.9984694719314575,
+      "Type": "PERSON",
+      "Text": "Michelle Obama",
+      "BeginOffset": 1614,
+      "EndOffset": 1628
+    },
+    {
+      "Score": 0.9964386224746704,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1659,
+      "EndOffset": 1664
+    },
+    {
+      "Score": 0.9924725294113159,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 1668,
+      "EndOffset": 1672
+    },
+    {
+      "Score": 0.8731491565704346,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 1687,
+      "EndOffset": 1702
+    },
+    {
+      "Score": 0.8644169569015503,
+      "Type": "PERSON",
+      "Text": "Melania",
+      "BeginOffset": 1726,
+      "EndOffset": 1733
+    },
+    {
+      "Score": 0.8541608452796936,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 1757,
+      "EndOffset": 1772
+    },
+    {
+      "Score": 0.8911205530166626,
+      "Type": "PERSON",
+      "Text": "Melania",
+      "BeginOffset": 1796,
+      "EndOffset": 1803
+    },
+    {
+      "Score": 0.5968390703201294,
+      "Type": "QUANTITY",
+      "Text": "24",
+      "BeginOffset": 1828,
+      "EndOffset": 1830
+    },
+    {
+      "Score": 0.7242276668548584,
+      "Type": "QUANTITY",
+      "Text": "47\n   After Record",
+      "BeginOffset": 1892,
+      "EndOffset": 1910
+    },
+    {
+      "Score": 0.9600167870521545,
+      "Type": "QUANTITY",
+      "Text": "47 Kids",
+      "BeginOffset": 1959,
+      "EndOffset": 1966
+    },
+    {
+      "Score": 0.8269661068916321,
+      "Type": "QUANTITY",
+      "Text": "26",
+      "BeginOffset": 1971,
+      "EndOffset": 1973
+    },
+    {
+      "Score": 0.9899745583534241,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1974,
+      "EndOffset": 1979
+    },
+    {
+      "Score": 0.999221920967102,
+      "Type": "ORGANIZATION",
+      "Text": "Amazon",
+      "BeginOffset": 1998,
+      "EndOffset": 2004
+    },
+    {
+      "Score": 0.9974703788757324,
+      "Type": "ORGANIZATION",
+      "Text": "Netflix",
+      "BeginOffset": 2006,
+      "EndOffset": 2013
+    },
+    {
+      "Score": 0.9975366592407227,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2039,
+      "EndOffset": 2044
+    },
+    {
+      "Score": 0.9995163679122925,
+      "Type": "ORGANIZATION",
+      "Text": "Amazon",
+      "BeginOffset": 2063,
+      "EndOffset": 2069
+    },
+    {
+      "Score": 0.9980733394622803,
+      "Type": "ORGANIZATION",
+      "Text": "Netflix",
+      "BeginOffset": 2071,
+      "EndOffset": 2078
+    },
+    {
+      "Score": 0.7778244018554688,
+      "Type": "QUANTITY",
+      "Text": "28",
+      "BeginOffset": 2263,
+      "EndOffset": 2265
+    },
+    {
+      "Score": 0.8655143976211548,
+      "Type": "ORGANIZATION",
+      "Text": "MTV",
+      "BeginOffset": 2266,
+      "EndOffset": 2269
+    },
+    {
+      "Score": 0.8586059808731079,
+      "Type": "ORGANIZATION",
+      "Text": "MTV",
+      "BeginOffset": 2334,
+      "EndOffset": 2337
+    },
+    {
+      "Score": 0.7408000826835632,
+      "Type": "QUANTITY",
+      "Text": "29",
+      "BeginOffset": 2409,
+      "EndOffset": 2411
+    },
+    {
+      "Score": 0.9371439814567566,
+      "Type": "PERSON",
+      "Text": "Mark Cuban",
+      "BeginOffset": 2433,
+      "EndOffset": 2443
+    },
+    {
+      "Score": 0.9479259252548218,
+      "Type": "PERSON",
+      "Text": "Mark Cuban",
+      "BeginOffset": 2502,
+      "EndOffset": 2512
+    },
+    {
+      "Score": 0.6506702899932861,
+      "Type": "QUANTITY",
+      "Text": "31",
+      "BeginOffset": 2554,
+      "EndOffset": 2556
+    },
+    {
+      "Score": 0.6890934109687805,
+      "Type": "QUANTITY",
+      "Text": "32",
+      "BeginOffset": 2782,
+      "EndOffset": 2784
+    },
+    {
+      "Score": 0.9843777418136597,
+      "Type": "QUANTITY",
+      "Text": "26 Years",
+      "BeginOffset": 2801,
+      "EndOffset": 2809
+    },
+    {
+      "Score": 0.9663255214691162,
+      "Type": "QUANTITY",
+      "Text": "26 Years",
+      "BeginOffset": 2928,
+      "EndOffset": 2936
+    },
+    {
+      "Score": 0.9019538164138794,
+      "Type": "TITLE",
+      "Text": "Wakes Up, Decides To Be Medically Induced For\n   An Extra Year So He'll Be Eligible For Retirement\n   [33]Man Buys",
+      "BeginOffset": 2937,
+      "EndOffset": 3051
+    },
+    {
+      "Score": 0.9988753199577332,
+      "Type": "QUANTITY",
+      "Text": "$10,000",
+      "BeginOffset": 3057,
+      "EndOffset": 3064
+    },
+    {
+      "Score": 0.8293471932411194,
+      "Type": "TITLE",
+      "Text": "Worth of Girl Scout Cookies",
+      "BeginOffset": 3065,
+      "EndOffset": 3092
+    },
+    {
+      "Score": 0.9484433531761169,
+      "Type": "TITLE",
+      "Text": "Dies Trying to\n   Man Buys",
+      "BeginOffset": 3094,
+      "EndOffset": 3120
+    },
+    {
+      "Score": 0.9992334246635437,
+      "Type": "QUANTITY",
+      "Text": "$10,000",
+      "BeginOffset": 3126,
+      "EndOffset": 3133
+    },
+    {
+      "Score": 0.798331618309021,
+      "Type": "TITLE",
+      "Text": "Worth of Girl Scout Cookies",
+      "BeginOffset": 3134,
+      "EndOffset": 3161
+    },
+    {
+      "Score": 0.9697057008743286,
+      "Type": "TITLE",
+      "Text": "Dies Trying to Eat",
+      "BeginOffset": 3163,
+      "EndOffset": 3181
+    },
+    {
+      "Score": 0.9291383624076843,
+      "Type": "TITLE",
+      "Text": "Planned Parenthood Announces They Will Stop Performing Abortions At\n   Planned Parenthood Announces They Will Stop Performing Abortions At All",
+      "BeginOffset": 3189,
+      "EndOffset": 3331
+    },
+    {
+      "Score": 0.9545244574546814,
+      "Type": "QUANTITY",
+      "Text": "Three Massive",
+      "BeginOffset": 3756,
+      "EndOffset": 3769
+    },
+    {
+      "Score": 0.9447590708732605,
+      "Type": "QUANTITY",
+      "Text": "More Than 10 Feet",
+      "BeginOffset": 3800,
+      "EndOffset": 3817
+    },
+    {
+      "Score": 0.7259995341300964,
+      "Type": "LOCATION",
+      "Text": "New England",
+      "BeginOffset": 3838,
+      "EndOffset": 3849
+    },
+    {
+      "Score": 0.7735835909843445,
+      "Type": "QUANTITY",
+      "Text": "Three Massive",
+      "BeginOffset": 3867,
+      "EndOffset": 3880
+    },
+    {
+      "Score": 0.5971192717552185,
+      "Type": "QUANTITY",
+      "Text": "39",
+      "BeginOffset": 3912,
+      "EndOffset": 3914
+    },
+    {
+      "Score": 0.9273620843887329,
+      "Type": "QUANTITY",
+      "Text": "10-Year",
+      "BeginOffset": 3925,
+      "EndOffset": 3932
+    },
+    {
+      "Score": 0.9325913786888123,
+      "Type": "QUANTITY",
+      "Text": "10-Year",
+      "BeginOffset": 3991,
+      "EndOffset": 3998
+    },
+    {
+      "Score": 0.6758761405944824,
+      "Type": "QUANTITY",
+      "Text": "41",
+      "BeginOffset": 4055,
+      "EndOffset": 4057
+    },
+    {
+      "Score": 0.9871747493743896,
+      "Type": "PERSON",
+      "Text": "Barack Obama",
+      "BeginOffset": 4058,
+      "EndOffset": 4070
+    },
+    {
+      "Score": 0.5565697550773621,
+      "Type": "OTHER",
+      "Text": "Italian",
+      "BeginOffset": 4105,
+      "EndOffset": 4112
+    },
+    {
+      "Score": 0.8023256659507751,
+      "Type": "PERSON",
+      "Text": "Prime\n   Barack Obama",
+      "BeginOffset": 4113,
+      "EndOffset": 4134
+    },
+    {
+      "Score": 0.6001504063606262,
+      "Type": "OTHER",
+      "Text": "Italian",
+      "BeginOffset": 4169,
+      "EndOffset": 4176
+    },
+    {
+      "Score": 0.6408907175064087,
+      "Type": "LOCATION",
+      "Text": "Atlantis",
+      "BeginOffset": 4356,
+      "EndOffset": 4364
+    },
+    {
+      "Score": 0.608931303024292,
+      "Type": "LOCATION",
+      "Text": "Mediterranean",
+      "BeginOffset": 4378,
+      "EndOffset": 4391
+    },
+    {
+      "Score": 0.7754601836204529,
+      "Type": "LOCATION",
+      "Text": "Atlantis",
+      "BeginOffset": 4412,
+      "EndOffset": 4420
+    },
+    {
+      "Score": 0.7466656565666199,
+      "Type": "LOCATION",
+      "Text": "Mediterranean Sea",
+      "BeginOffset": 4434,
+      "EndOffset": 4451
+    },
+    {
+      "Score": 0.44382455945014954,
+      "Type": "OTHER",
+      "Text": "44",
+      "BeginOffset": 4456,
+      "EndOffset": 4458
+    },
+    {
+      "Score": 0.5400119423866272,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 4594,
+      "EndOffset": 4596
+    },
+    {
+      "Score": 0.7547064423561096,
+      "Type": "PERSON",
+      "Text": "Allison",
+      "BeginOffset": 4604,
+      "EndOffset": 4611
+    },
+    {
+      "Score": 0.897295355796814,
+      "Type": "PERSON",
+      "Text": "Allison",
+      "BeginOffset": 4674,
+      "EndOffset": 4681
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+<dashboard>
+  <label>Pupu.AI (AWS)</label>
+  <row>
+    <panel>
+      <title>Fake: Text Entities (Type)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_fake*dentities.json"| top limit=10 "Entities{}.Type"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">bar</option>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: Text Entities (Value)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_fake*dentities.json"| top limit=10 "Entities{}.Text"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Text Entities (Type)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_credible*dentities.json"| top limit=10 "Entities{}.Type"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">bar</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Text Entities (Value)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_credible*dentities.json"| top limit=10 "Entities{}.Text"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Text Sentiment</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_fake*dsentiment.json" | stats count by Sentiment</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.axisTitleY.text">aa</option>
+        <option name="charting.axisY.maximumNumber">15</option>
+        <option name="charting.axisY.minimumNumber">0</option>
+        <option name="charting.axisY.scale">linear</option>
+        <option name="charting.chart">pie</option>
+        <option name="charting.chart.stackMode">default</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Fake: OCR Text Sentiment</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/*fake*esentiment.json" | stats count by Sentiment</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Text Sentiment</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_credible*dsentiment.json" | stats count by Sentiment</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: OCR Text Sentiment</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/*credible*esentiment.json" | stats count by Sentiment</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Labels (top 10)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_fake*dlabels.json"| top limit=10 "Labels{}.Name"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">column</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Labels (top 10)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_credible*dlabels.json"| top limit=10 "Labels{}.Name"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">column</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Celebrity Recognition (top 6)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_fake*rcelebrities.json"| top limit=6 "CelebrityFaces{}.Name"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">bar</option>
+        <option name="charting.chart.stackMode">default</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Celebrity Recognition (top 6)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_credible*rcelebrities.json"| top limit=6 "CelebrityFaces{}.Name"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">bar</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Fake: Moderation Labels (Safe Search)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_fake*dmoderationlabels.json"| top limit=20 "ModerationLabels{}.Name"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">column</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+    <panel>
+      <title>Credible: Moderation Labels (Safe Search)</title>
+      <chart>
+        <search>
+          <query>index="pupu" source="/Users/bama/git/pupu/aws_results/results_credible*dmoderationlabels.json"| top limit=20 "ModerationLabels{}.Name"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">pie</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+  </row>
+</dashboard>

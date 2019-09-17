@@ -1,0 +1,1005 @@
+{
+  "Entities": [
+    {
+      "Score": 0.876633882522583,
+      "Type": "LOCATION",
+      "Text": "Français",
+      "BeginOffset": 17,
+      "EndOffset": 25
+    },
+    {
+      "Score": 0.9014453291893005,
+      "Type": "OTHER",
+      "Text": "mondialisation.ca",
+      "BeginOffset": 31,
+      "EndOffset": 48
+    },
+    {
+      "Score": 0.9007077217102051,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 194,
+      "EndOffset": 196
+    },
+    {
+      "Score": 0.7117347121238708,
+      "Type": "LOCATION",
+      "Text": "Kosovo",
+      "BeginOffset": 227,
+      "EndOffset": 233
+    },
+    {
+      "Score": 0.6854604482650757,
+      "Type": "LOCATION",
+      "Text": "U.S",
+      "BeginOffset": 259,
+      "EndOffset": 262
+    },
+    {
+      "Score": 0.3300907015800476,
+      "Type": "LOCATION",
+      "Text": "American",
+      "BeginOffset": 278,
+      "EndOffset": 286
+    },
+    {
+      "Score": 0.758980929851532,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 287,
+      "EndOffset": 289
+    },
+    {
+      "Score": 0.754683256149292,
+      "Type": "LOCATION",
+      "Text": "Saudi Arabia",
+      "BeginOffset": 316,
+      "EndOffset": 328
+    },
+    {
+      "Score": 0.6699529886245728,
+      "Type": "LOCATION",
+      "Text": "British",
+      "BeginOffset": 356,
+      "EndOffset": 363
+    },
+    {
+      "Score": 0.9247977137565613,
+      "Type": "LOCATION",
+      "Text": "Turkey",
+      "BeginOffset": 371,
+      "EndOffset": 377
+    },
+    {
+      "Score": 0.517035722732544,
+      "Type": "PERSON",
+      "Text": "Rifaat",
+      "BeginOffset": 397,
+      "EndOffset": 403
+    },
+    {
+      "Score": 0.5575426816940308,
+      "Type": "ORGANIZATION",
+      "Text": "Russian Forces",
+      "BeginOffset": 410,
+      "EndOffset": 424
+    },
+    {
+      "Score": 0.980229377746582,
+      "Type": "PERSON",
+      "Text": "John Brennan",
+      "BeginOffset": 470,
+      "EndOffset": 482
+    },
+    {
+      "Score": 0.6948909163475037,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 592,
+      "EndOffset": 599
+    },
+    {
+      "Score": 0.4038091003894806,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 652,
+      "EndOffset": 659
+    },
+    {
+      "Score": 0.6674361228942871,
+      "Type": "ORGANIZATION",
+      "Text": "Wikileaks",
+      "BeginOffset": 674,
+      "EndOffset": 683
+    },
+    {
+      "Score": 0.7038084864616394,
+      "Type": "LOCATION",
+      "Text": "USA",
+      "BeginOffset": 723,
+      "EndOffset": 726
+    },
+    {
+      "Score": 0.9416590332984924,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 730,
+      "EndOffset": 744
+    },
+    {
+      "Score": 0.49865731596946716,
+      "Type": "LOCATION",
+      "Text": "British",
+      "BeginOffset": 786,
+      "EndOffset": 793
+    },
+    {
+      "Score": 0.8905009627342224,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 813,
+      "EndOffset": 822
+    },
+    {
+      "Score": 0.9989938139915466,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 831,
+      "EndOffset": 845
+    },
+    {
+      "Score": 0.6313000321388245,
+      "Type": "PERSON",
+      "Text": "Putin",
+      "BeginOffset": 890,
+      "EndOffset": 895
+    },
+    {
+      "Score": 0.7573592662811279,
+      "Type": "PERSON",
+      "Text": "Netanyahu",
+      "BeginOffset": 896,
+      "EndOffset": 905
+    },
+    {
+      "Score": 0.5260800123214722,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 936,
+      "EndOffset": 943
+    },
+    {
+      "Score": 0.7599231004714966,
+      "Type": "ORGANIZATION",
+      "Text": "Libyan National Army",
+      "BeginOffset": 998,
+      "EndOffset": 1018
+    },
+    {
+      "Score": 0.4810408055782318,
+      "Type": "ORGANIZATION",
+      "Text": "GNA",
+      "BeginOffset": 1031,
+      "EndOffset": 1034
+    },
+    {
+      "Score": 0.8800010085105896,
+      "Type": "QUANTITY",
+      "Text": "240,240,1036593691",
+      "BeginOffset": 1098,
+      "EndOffset": 1116
+    },
+    {
+      "Score": 0.6527136564254761,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 1142,
+      "EndOffset": 1144
+    },
+    {
+      "Score": 0.6101456880569458,
+      "Type": "QUANTITY",
+      "Text": "69",
+      "BeginOffset": 1185,
+      "EndOffset": 1187
+    },
+    {
+      "Score": 0.6166656613349915,
+      "Type": "QUANTITY",
+      "Text": "79",
+      "BeginOffset": 1228,
+      "EndOffset": 1230
+    },
+    {
+      "Score": 0.5621739029884338,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 1309,
+      "EndOffset": 1312
+    },
+    {
+      "Score": 0.7420847415924072,
+      "Type": "LOCATION",
+      "Text": "America",
+      "BeginOffset": 1339,
+      "EndOffset": 1346
+    },
+    {
+      "Score": 0.6769011616706848,
+      "Type": "TITLE",
+      "Text": "Long War",
+      "BeginOffset": 1350,
+      "EndOffset": 1358
+    },
+    {
+      "Score": 0.9297586679458618,
+      "Type": "DATE",
+      "Text": "Today",
+      "BeginOffset": 1380,
+      "EndOffset": 1385
+    },
+    {
+      "Score": 0.5052914619445801,
+      "Type": "LOCATION",
+      "Text": "Asia",
+      "BeginOffset": 1525,
+      "EndOffset": 1529
+    },
+    {
+      "Score": 0.7053705453872681,
+      "Type": "LOCATION",
+      "Text": "Pacific",
+      "BeginOffset": 1530,
+      "EndOffset": 1537
+    },
+    {
+      "Score": 0.3859792649745941,
+      "Type": "QUANTITY",
+      "Text": "116",
+      "BeginOffset": 1550,
+      "EndOffset": 1553
+    },
+    {
+      "Score": 0.7557376623153687,
+      "Type": "ORGANIZATION",
+      "Text": "NATO",
+      "BeginOffset": 1554,
+      "EndOffset": 1558
+    },
+    {
+      "Score": 0.7176644802093506,
+      "Type": "ORGANIZATION",
+      "Text": "NATO",
+      "BeginOffset": 1575,
+      "EndOffset": 1579
+    },
+    {
+      "Score": 0.549674391746521,
+      "Type": "QUANTITY",
+      "Text": "800",
+      "BeginOffset": 1592,
+      "EndOffset": 1595
+    },
+    {
+      "Score": 0.6851950287818909,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 1596,
+      "EndOffset": 1598
+    },
+    {
+      "Score": 0.6391773223876953,
+      "Type": "QUANTITY",
+      "Text": "117",
+      "BeginOffset": 1650,
+      "EndOffset": 1653
+    },
+    {
+      "Score": 0.99921053647995,
+      "Type": "PERSON",
+      "Text": "Michel Chossudovsky",
+      "BeginOffset": 1659,
+      "EndOffset": 1678
+    },
+    {
+      "Score": 0.9972224235534668,
+      "Type": "DATE",
+      "Text": "April 04",
+      "BeginOffset": 1680,
+      "EndOffset": 1688
+    },
+    {
+      "Score": 0.6247336268424988,
+      "Type": "LOCATION",
+      "Text": "Washington",
+      "BeginOffset": 1693,
+      "EndOffset": 1703
+    },
+    {
+      "Score": 0.8151727914810181,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 1901,
+      "EndOffset": 1903
+    },
+    {
+      "Score": 0.7884732484817505,
+      "Type": "LOCATION",
+      "Text": "China",
+      "BeginOffset": 2028,
+      "EndOffset": 2033
+    },
+    {
+      "Score": 0.9639842510223389,
+      "Type": "PERSON",
+      "Text": "President Xi Jinping",
+      "BeginOffset": 2036,
+      "EndOffset": 2056
+    },
+    {
+      "Score": 0.9902194142341614,
+      "Type": "LOCATION",
+      "Text": "Italy",
+      "BeginOffset": 2060,
+      "EndOffset": 2065
+    },
+    {
+      "Score": 0.8902386426925659,
+      "Type": "PERSON",
+      "Text": "F. William Engdahl",
+      "BeginOffset": 2103,
+      "EndOffset": 2121
+    },
+    {
+      "Score": 0.9991869330406189,
+      "Type": "DATE",
+      "Text": "April 02, 2019",
+      "BeginOffset": 2123,
+      "EndOffset": 2137
+    },
+    {
+      "Score": 0.9640821814537048,
+      "Type": "LOCATION",
+      "Text": "Germany",
+      "BeginOffset": 2159,
+      "EndOffset": 2166
+    },
+    {
+      "Score": 0.9990600943565369,
+      "Type": "LOCATION",
+      "Text": "France",
+      "BeginOffset": 2168,
+      "EndOffset": 2174
+    },
+    {
+      "Score": 0.9373628497123718,
+      "Type": "LOCATION",
+      "Text": "Holland",
+      "BeginOffset": 2176,
+      "EndOffset": 2183
+    },
+    {
+      "Score": 0.5172503590583801,
+      "Type": "LOCATION",
+      "Text": "EU",
+      "BeginOffset": 2194,
+      "EndOffset": 2196
+    },
+    {
+      "Score": 0.9424371123313904,
+      "Type": "LOCATION",
+      "Text": "Italy",
+      "BeginOffset": 2211,
+      "EndOffset": 2216
+    },
+    {
+      "Score": 0.7478448748588562,
+      "Type": "LOCATION",
+      "Text": "China",
+      "BeginOffset": 2256,
+      "EndOffset": 2261
+    },
+    {
+      "Score": 0.9332086443901062,
+      "Type": "LOCATION",
+      "Text": "China",
+      "BeginOffset": 2270,
+      "EndOffset": 2275
+    },
+    {
+      "Score": 0.8661081194877625,
+      "Type": "LOCATION",
+      "Text": "Italy",
+      "BeginOffset": 2303,
+      "EndOffset": 2308
+    },
+    {
+      "Score": 0.47291502356529236,
+      "Type": "LOCATION",
+      "Text": "G7",
+      "BeginOffset": 2332,
+      "EndOffset": 2334
+    },
+    {
+      "Score": 0.3484954535961151,
+      "Type": "LOCATION",
+      "Text": "BRI",
+      "BeginOffset": 2370,
+      "EndOffset": 2373
+    },
+    {
+      "Score": 0.9303532242774963,
+      "Type": "LOCATION",
+      "Text": "China",
+      "BeginOffset": 2379,
+      "EndOffset": 2384
+    },
+    {
+      "Score": 0.5274627208709717,
+      "Type": "LOCATION",
+      "Text": "EU",
+      "BeginOffset": 2453,
+      "EndOffset": 2455
+    },
+    {
+      "Score": 0.5193650722503662,
+      "Type": "QUANTITY",
+      "Text": "120",
+      "BeginOffset": 2488,
+      "EndOffset": 2491
+    },
+    {
+      "Score": 0.8237556219100952,
+      "Type": "ORGANIZATION",
+      "Text": "CIA",
+      "BeginOffset": 2496,
+      "EndOffset": 2499
+    },
+    {
+      "Score": 0.9895304441452026,
+      "Type": "LOCATION",
+      "Text": "America",
+      "BeginOffset": 2512,
+      "EndOffset": 2519
+    },
+    {
+      "Score": 0.9842608571052551,
+      "Type": "DATE",
+      "Text": "1960s",
+      "BeginOffset": 2527,
+      "EndOffset": 2532
+    },
+    {
+      "Score": 0.41408735513687134,
+      "Type": "PERSON",
+      "Text": "Kennedys",
+      "BeginOffset": 2582,
+      "EndOffset": 2590
+    },
+    {
+      "Score": 0.9259595274925232,
+      "Type": "DATE",
+      "Text": "Today",
+      "BeginOffset": 2595,
+      "EndOffset": 2600
+    },
+    {
+      "Score": 0.9210913777351379,
+      "Type": "EVENT",
+      "Text": "New Cold War",
+      "BeginOffset": 2603,
+      "EndOffset": 2615
+    },
+    {
+      "Score": 0.9764177799224854,
+      "Type": "PERSON",
+      "Text": "Sirhan",
+      "BeginOffset": 2622,
+      "EndOffset": 2628
+    },
+    {
+      "Score": 0.9994701743125916,
+      "Type": "PERSON",
+      "Text": "Robert Kennedy",
+      "BeginOffset": 2642,
+      "EndOffset": 2656
+    },
+    {
+      "Score": 0.9941502809524536,
+      "Type": "PERSON",
+      "Text": "Robert Kennedy, Jr.",
+      "BeginOffset": 2702,
+      "EndOffset": 2721
+    },
+    {
+      "Score": 0.9158382415771484,
+      "Type": "QUANTITY",
+      "Text": "14 years old",
+      "BeginOffset": 2731,
+      "EndOffset": 2743
+    },
+    {
+      "Score": 0.6932039260864258,
+      "Type": "PERSON",
+      "Text": "Sirhan",
+      "BeginOffset": 2794,
+      "EndOffset": 2800
+    },
+    {
+      "Score": 0.9726960062980652,
+      "Type": "TITLE",
+      "Text": "Blood Gold",
+      "BeginOffset": 2886,
+      "EndOffset": 2896
+    },
+    {
+      "Score": 0.800279974937439,
+      "Type": "LOCATION",
+      "Text": "La Rinconada",
+      "BeginOffset": 2901,
+      "EndOffset": 2913
+    },
+    {
+      "Score": 0.7355984449386597,
+      "Type": "LOCATION",
+      "Text": "Devil's Paradise",
+      "BeginOffset": 2915,
+      "EndOffset": 2931
+    },
+    {
+      "Score": 0.5950544476509094,
+      "Type": "LOCATION",
+      "Text": "Peru",
+      "BeginOffset": 2935,
+      "EndOffset": 2939
+    },
+    {
+      "Score": 0.9993985295295715,
+      "Type": "PERSON",
+      "Text": "Peter Koenig",
+      "BeginOffset": 3009,
+      "EndOffset": 3021
+    },
+    {
+      "Score": 0.5528268814086914,
+      "Type": "QUANTITY",
+      "Text": "One",
+      "BeginOffset": 3066,
+      "EndOffset": 3069
+    },
+    {
+      "Score": 0.5780901908874512,
+      "Type": "OTHER",
+      "Text": "Swiss",
+      "BeginOffset": 3085,
+      "EndOffset": 3090
+    },
+    {
+      "Score": 0.4190903604030609,
+      "Type": "ORGANIZATION",
+      "Text": "Metalor",
+      "BeginOffset": 3105,
+      "EndOffset": 3112
+    },
+    {
+      "Score": 0.9971311688423157,
+      "Type": "QUANTITY",
+      "Text": "3,000",
+      "BeginOffset": 3169,
+      "EndOffset": 3174
+    },
+    {
+      "Score": 0.8977534174919128,
+      "Type": "QUANTITY",
+      "Text": "3,500 tons of gold",
+      "BeginOffset": 3178,
+      "EndOffset": 3196
+    },
+    {
+      "Score": 0.8428727984428406,
+      "Type": "LOCATION",
+      "Text": "Switzerland",
+      "BeginOffset": 3225,
+      "EndOffset": 3236
+    },
+    {
+      "Score": 0.6967790126800537,
+      "Type": "QUANTITY",
+      "Text": "about 70",
+      "BeginOffset": 3248,
+      "EndOffset": 3256
+    },
+    {
+      "Score": 0.9395112991333008,
+      "Type": "QUANTITY",
+      "Text": "80%",
+      "BeginOffset": 3257,
+      "EndOffset": 3260
+    },
+    {
+      "Score": 0.9728425145149231,
+      "Type": "QUANTITY",
+      "Text": "20%",
+      "BeginOffset": 3304,
+      "EndOffset": 3307
+    },
+    {
+      "Score": 0.7060271501541138,
+      "Type": "QUANTITY",
+      "Text": "124",
+      "BeginOffset": 3315,
+      "EndOffset": 3318
+    },
+    {
+      "Score": 0.334624320268631,
+      "Type": "LOCATION",
+      "Text": "Fukushima",
+      "BeginOffset": 3319,
+      "EndOffset": 3328
+    },
+    {
+      "Score": 0.5378334522247314,
+      "Type": "QUANTITY",
+      "Text": "128",
+      "BeginOffset": 3358,
+      "EndOffset": 3361
+    },
+    {
+      "Score": 0.771587073802948,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 3362,
+      "EndOffset": 3366
+    },
+    {
+      "Score": 0.8682109117507935,
+      "Type": "ORGANIZATION",
+      "Text": "Al Qaeda",
+      "BeginOffset": 3385,
+      "EndOffset": 3393
+    },
+    {
+      "Score": 0.9702814221382141,
+      "Type": "ORGANIZATION",
+      "Text": "ISIS",
+      "BeginOffset": 3395,
+      "EndOffset": 3399
+    },
+    {
+      "Score": 0.31958192586898804,
+      "Type": "QUANTITY",
+      "Text": "132",
+      "BeginOffset": 3404,
+      "EndOffset": 3407
+    },
+    {
+      "Score": 0.8362868428230286,
+      "Type": "EVENT",
+      "Text": "US War Plans",
+      "BeginOffset": 3408,
+      "EndOffset": 3420
+    },
+    {
+      "Score": 0.6314747333526611,
+      "Type": "ORGANIZATION",
+      "Text": "China",
+      "BeginOffset": 3429,
+      "EndOffset": 3434
+    },
+    {
+      "Score": 0.9070252180099487,
+      "Type": "ORGANIZATION",
+      "Text": "Russia",
+      "BeginOffset": 3437,
+      "EndOffset": 3443
+    },
+    {
+      "Score": 0.5505627989768982,
+      "Type": "QUANTITY",
+      "Text": "137",
+      "BeginOffset": 3448,
+      "EndOffset": 3451
+    },
+    {
+      "Score": 0.7021913528442383,
+      "Type": "PERSON",
+      "Text": "Will RussiaGate Junta-Mastermind",
+      "BeginOffset": 3452,
+      "EndOffset": 3484
+    },
+    {
+      "Score": 0.9980869293212891,
+      "Type": "PERSON",
+      "Text": "John Brennan",
+      "BeginOffset": 3486,
+      "EndOffset": 3498
+    },
+    {
+      "Score": 0.7623561024665833,
+      "Type": "ORGANIZATION",
+      "Text": "Ever Face the\n   Music",
+      "BeginOffset": 3500,
+      "EndOffset": 3522
+    },
+    {
+      "Score": 0.9986844658851624,
+      "Type": "PERSON",
+      "Text": "Mike Whitney",
+      "BeginOffset": 3532,
+      "EndOffset": 3544
+    },
+    {
+      "Score": 0.9990028142929077,
+      "Type": "DATE",
+      "Text": "April 12, 2019",
+      "BeginOffset": 3546,
+      "EndOffset": 3560
+    },
+    {
+      "Score": 0.4364096224308014,
+      "Type": "OTHER",
+      "Text": "139",
+      "BeginOffset": 3565,
+      "EndOffset": 3568
+    },
+    {
+      "Score": 0.5917454957962036,
+      "Type": "PERSON",
+      "Text": "Bill 21",
+      "BeginOffset": 3615,
+      "EndOffset": 3622
+    },
+    {
+      "Score": 0.39496371150016785,
+      "Type": "OTHER",
+      "Text": "140",
+      "BeginOffset": 3656,
+      "EndOffset": 3659
+    },
+    {
+      "Score": 0.998957633972168,
+      "Type": "PERSON",
+      "Text": "Richard Fidler",
+      "BeginOffset": 3660,
+      "EndOffset": 3674
+    },
+    {
+      "Score": 0.9993438124656677,
+      "Type": "DATE",
+      "Text": "April 12, 2019",
+      "BeginOffset": 3676,
+      "EndOffset": 3690
+    },
+    {
+      "Score": 0.30334922671318054,
+      "Type": "OTHER",
+      "Text": "141",
+      "BeginOffset": 3695,
+      "EndOffset": 3698
+    },
+    {
+      "Score": 0.8184804320335388,
+      "Type": "ORGANIZATION",
+      "Text": "Rogue State",
+      "BeginOffset": 3699,
+      "EndOffset": 3710
+    },
+    {
+      "Score": 0.6899818181991577,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 3712,
+      "EndOffset": 3719
+    },
+    {
+      "Score": 0.7200781106948853,
+      "Type": "QUANTITY",
+      "Text": "143",
+      "BeginOffset": 3769,
+      "EndOffset": 3772
+    },
+    {
+      "Score": 0.5367693305015564,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 3780,
+      "EndOffset": 3787
+    },
+    {
+      "Score": 0.7130655646324158,
+      "Type": "ORGANIZATION",
+      "Text": "Wikileaks",
+      "BeginOffset": 3802,
+      "EndOffset": 3811
+    },
+    {
+      "Score": 0.8472944498062134,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 3861,
+      "EndOffset": 3865
+    },
+    {
+      "Score": 0.4744532108306885,
+      "Type": "QUANTITY",
+      "Text": "144",
+      "BeginOffset": 3870,
+      "EndOffset": 3873
+    },
+    {
+      "Score": 0.9991374611854553,
+      "Type": "DATE",
+      "Text": "April 12, 2019",
+      "BeginOffset": 3898,
+      "EndOffset": 3912
+    },
+    {
+      "Score": 0.5168319344520569,
+      "Type": "LOCATION",
+      "Text": "USA",
+      "BeginOffset": 3921,
+      "EndOffset": 3924
+    },
+    {
+      "Score": 0.9633645415306091,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 3928,
+      "EndOffset": 3942
+    },
+    {
+      "Score": 0.4336628317832947,
+      "Type": "QUANTITY",
+      "Text": "147",
+      "BeginOffset": 3991,
+      "EndOffset": 3994
+    },
+    {
+      "Score": 0.6235443353652954,
+      "Type": "QUANTITY",
+      "Text": "148",
+      "BeginOffset": 4036,
+      "EndOffset": 4039
+    },
+    {
+      "Score": 0.9976916313171387,
+      "Type": "PERSON",
+      "Text": "Daniel Larison",
+      "BeginOffset": 4040,
+      "EndOffset": 4054
+    },
+    {
+      "Score": 0.693162202835083,
+      "Type": "DATE",
+      "Text": "April\n   [149",
+      "BeginOffset": 4056,
+      "EndOffset": 4069
+    },
+    {
+      "Score": 0.6567930579185486,
+      "Type": "ORGANIZATION",
+      "Text": "British Government",
+      "BeginOffset": 4070,
+      "EndOffset": 4088
+    },
+    {
+      "Score": 0.936631977558136,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 4097,
+      "EndOffset": 4106
+    },
+    {
+      "Score": 0.9995084404945374,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 4115,
+      "EndOffset": 4129
+    },
+    {
+      "Score": 0.6668192744255066,
+      "Type": "ORGANIZATION",
+      "Text": "American Empire",
+      "BeginOffset": 4150,
+      "EndOffset": 4165
+    },
+    {
+      "Score": 0.4619385898113251,
+      "Type": "QUANTITY",
+      "Text": "150",
+      "BeginOffset": 4170,
+      "EndOffset": 4173
+    },
+    {
+      "Score": 0.9994654059410095,
+      "Type": "PERSON",
+      "Text": "Leon Tressell",
+      "BeginOffset": 4178,
+      "EndOffset": 4191
+    },
+    {
+      "Score": 0.9978660941123962,
+      "Type": "DATE",
+      "Text": "April 12, 2019",
+      "BeginOffset": 4193,
+      "EndOffset": 4207
+    },
+    {
+      "Score": 0.6277401447296143,
+      "Type": "ORGANIZATION",
+      "Text": "Putinyahu's Rusrael",
+      "BeginOffset": 4217,
+      "EndOffset": 4236
+    },
+    {
+      "Score": 0.6855211853981018,
+      "Type": "PERSON",
+      "Text": "Putin",
+      "BeginOffset": 4243,
+      "EndOffset": 4248
+    },
+    {
+      "Score": 0.7558380365371704,
+      "Type": "PERSON",
+      "Text": "Netanyahu",
+      "BeginOffset": 4249,
+      "EndOffset": 4258
+    },
+    {
+      "Score": 0.5483959913253784,
+      "Type": "PERSON",
+      "Text": "Bond",
+      "BeginOffset": 4292,
+      "EndOffset": 4296
+    },
+    {
+      "Score": 0.9988923668861389,
+      "Type": "PERSON",
+      "Text": "Andrew Korybko",
+      "BeginOffset": 4306,
+      "EndOffset": 4320
+    },
+    {
+      "Score": 0.9989835619926453,
+      "Type": "DATE",
+      "Text": "April 12, 2019",
+      "BeginOffset": 4322,
+      "EndOffset": 4336
+    },
+    {
+      "Score": 0.31966686248779297,
+      "Type": "DATE",
+      "Text": "153",
+      "BeginOffset": 4341,
+      "EndOffset": 4344
+    },
+    {
+      "Score": 0.6576824188232422,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 4345,
+      "EndOffset": 4352
+    },
+    {
+      "Score": 0.5765864253044128,
+      "Type": "QUANTITY",
+      "Text": "155",
+      "BeginOffset": 4407,
+      "EndOffset": 4410
+    },
+    {
+      "Score": 0.6374194622039795,
+      "Type": "ORGANIZATION",
+      "Text": "Libyan National Army",
+      "BeginOffset": 4418,
+      "EndOffset": 4438
+    },
+    {
+      "Score": 0.4985128939151764,
+      "Type": "ORGANIZATION",
+      "Text": "GNA",
+      "BeginOffset": 4451,
+      "EndOffset": 4454
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "Labels": [
+    {
+      "Name": "Human",
+      "Confidence": 98.12406921386719,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 98.12406921386719,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.23631787300109863,
+            "Height": 0.29049423336982727,
+            "Left": 0.21329954266548157,
+            "Top": 0.33824145793914795
+          },
+          "Confidence": 98.12406921386719
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.15591350197792053,
+            "Height": 0.1431419402360916,
+            "Left": 0.029325254261493683,
+            "Top": 0.8492277264595032
+          },
+          "Confidence": 97.96229553222656
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.06807467341423035,
+            "Height": 0.09901443123817444,
+            "Left": 0.1289818435907364,
+            "Top": 0.5352733731269836
+          },
+          "Confidence": 97.1611328125
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.06220555305480957,
+            "Height": 0.07441245764493942,
+            "Left": 0.4787869453430176,
+            "Top": 0.5597004294395447
+          },
+          "Confidence": 93.64328002929688
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.06452584266662598,
+            "Height": 0.084894560277462,
+            "Left": 0.5459297299385071,
+            "Top": 0.5456464290618896
+          },
+          "Confidence": 85.67242431640625
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Clothing",
+      "Confidence": 90.45360565185547,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 90.45360565185547,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Suit",
+      "Confidence": 90.45360565185547,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.22990423440933228,
+            "Height": 0.20097698271274567,
+            "Left": 0.2212846577167511,
+            "Top": 0.44035494327545166
+          },
+          "Confidence": 90.45360565185547
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Coat"
+        },
+        {
+          "Name": "Overcoat"
+        }
+      ]
+    },
+    {
+      "Name": "Coat",
+      "Confidence": 90.45360565185547,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Overcoat",
+      "Confidence": 90.45360565185547,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Coat"
+        }
+      ]
+    },
+    {
+      "Name": "Crowd",
+      "Confidence": 89.794189453125,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Audience",
+      "Confidence": 89.794189453125,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        },
+        {
+          "Name": "Crowd"
+        }
+      ]
+    },
+    {
+      "Name": "Speech",
+      "Confidence": 79.21570587158203,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        },
+        {
+          "Name": "Audience"
+        },
+        {
+          "Name": "Crowd"
+        }
+      ]
+    },
+    {
+      "Name": "Text",
+      "Confidence": 71.82475280761719,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Lecture",
+      "Confidence": 69.76789855957031,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        },
+        {
+          "Name": "Audience"
+        },
+        {
+          "Name": "Crowd"
+        },
+        {
+          "Name": "Speech"
+        }
+      ]
+    },
+    {
+      "Name": "Electronics",
+      "Confidence": 67.20675659179688,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Screen",
+      "Confidence": 67.20675659179688,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Electronics"
+        }
+      ]
+    },
+    {
+      "Name": "Room",
+      "Confidence": 62.63423156738281,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Indoors"
+        }
+      ]
+    },
+    {
+      "Name": "Indoors",
+      "Confidence": 62.63423156738281,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Interior Design",
+      "Confidence": 61.017677307128906,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Indoors"
+        }
+      ]
+    },
+    {
+      "Name": "Display",
+      "Confidence": 59.95024108886719,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Screen"
+        },
+        {
+          "Name": "Electronics"
+        }
+      ]
+    },
+    {
+      "Name": "Monitor",
+      "Confidence": 59.95024108886719,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Screen"
+        },
+        {
+          "Name": "Electronics"
+        }
+      ]
+    },
+    {
+      "Name": "Head",
+      "Confidence": 57.21305847167969,
+      "Instances": [],
+      "Parents": []
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

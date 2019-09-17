@@ -1,0 +1,886 @@
+{
+  "Entities": [
+    {
+      "Score": 0.6651903390884399,
+      "Type": "ORGANIZATION",
+      "Text": "USA TODAY",
+      "BeginOffset": 11,
+      "EndOffset": 20
+    },
+    {
+      "Score": 0.9127659201622009,
+      "Type": "ORGANIZATION",
+      "Text": "Wikileaks",
+      "BeginOffset": 60,
+      "EndOffset": 69
+    },
+    {
+      "Score": 0.9997633099555969,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 78,
+      "EndOffset": 92
+    },
+    {
+      "Score": 0.9244092702865601,
+      "Type": "ORGANIZATION",
+      "Text": "Supreme Court",
+      "BeginOffset": 108,
+      "EndOffset": 121
+    },
+    {
+      "Score": 0.999651312828064,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 125,
+      "EndOffset": 131
+    },
+    {
+      "Score": 0.9995653629302979,
+      "Type": "DATE",
+      "Text": "February 2012",
+      "BeginOffset": 138,
+      "EndOffset": 151
+    },
+    {
+      "Score": 0.9702745079994202,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 153,
+      "EndOffset": 160
+    },
+    {
+      "Score": 0.9007518291473389,
+      "Type": "ORGANIZATION",
+      "Text": "Ecuadorian Embassy",
+      "BeginOffset": 181,
+      "EndOffset": 199
+    },
+    {
+      "Score": 0.9879391193389893,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 206,
+      "EndOffset": 215
+    },
+    {
+      "Score": 0.9998729825019836,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 224,
+      "EndOffset": 238
+    },
+    {
+      "Score": 0.912420392036438,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 251,
+      "EndOffset": 253
+    },
+    {
+      "Score": 0.997327446937561,
+      "Type": "PERSON",
+      "Text": "Pence",
+      "BeginOffset": 278,
+      "EndOffset": 283
+    },
+    {
+      "Score": 0.9984595775604248,
+      "Type": "PERSON",
+      "Text": "Pete Buttigieg",
+      "BeginOffset": 293,
+      "EndOffset": 307
+    },
+    {
+      "Score": 0.6464057564735413,
+      "Type": "LOCATION",
+      "Text": "United States",
+      "BeginOffset": 338,
+      "EndOffset": 351
+    },
+    {
+      "Score": 0.9998809099197388,
+      "Type": "PERSON",
+      "Text": "Mike Pence",
+      "BeginOffset": 367,
+      "EndOffset": 377
+    },
+    {
+      "Score": 0.9675365090370178,
+      "Type": "ORGANIZATION",
+      "Text": "United Nations Security Council",
+      "BeginOffset": 424,
+      "EndOffset": 455
+    },
+    {
+      "Score": 0.9718496799468994,
+      "Type": "LOCATION",
+      "Text": "Venezuela",
+      "BeginOffset": 459,
+      "EndOffset": 468
+    },
+    {
+      "Score": 0.9302061200141907,
+      "Type": "DATE",
+      "Text": "Wednesday",
+      "BeginOffset": 470,
+      "EndOffset": 479
+    },
+    {
+      "Score": 0.9685391783714294,
+      "Type": "PERSON",
+      "Text": "Harry",
+      "BeginOffset": 483,
+      "EndOffset": 488
+    },
+    {
+      "Score": 0.9976794123649597,
+      "Type": "PERSON",
+      "Text": "Meghan",
+      "BeginOffset": 490,
+      "EndOffset": 496
+    },
+    {
+      "Score": 0.9771999716758728,
+      "Type": "PERSON",
+      "Text": "Prince Harry",
+      "BeginOffset": 533,
+      "EndOffset": 545
+    },
+    {
+      "Score": 0.9293038249015808,
+      "Type": "PERSON",
+      "Text": "Duchess Meghan",
+      "BeginOffset": 550,
+      "EndOffset": 564
+    },
+    {
+      "Score": 0.9751455783843994,
+      "Type": "LOCATION",
+      "Text": "Sussex",
+      "BeginOffset": 568,
+      "EndOffset": 574
+    },
+    {
+      "Score": 0.8245571255683899,
+      "Type": "ORGANIZATION",
+      "Text": "Commonwealth Day Service",
+      "BeginOffset": 580,
+      "EndOffset": 604
+    },
+    {
+      "Score": 0.9768103361129761,
+      "Type": "LOCATION",
+      "Text": "Westminster Abbey",
+      "BeginOffset": 611,
+      "EndOffset": 628
+    },
+    {
+      "Score": 0.9989003539085388,
+      "Type": "DATE",
+      "Text": "March 11, 2019",
+      "BeginOffset": 632,
+      "EndOffset": 646
+    },
+    {
+      "Score": 0.9962888956069946,
+      "Type": "PERSON",
+      "Text": "Jack Nicklaus",
+      "BeginOffset": 702,
+      "EndOffset": 715
+    },
+    {
+      "Score": 0.8519647717475891,
+      "Type": "EVENT",
+      "Text": "Par 3 Contest",
+      "BeginOffset": 751,
+      "EndOffset": 764
+    },
+    {
+      "Score": 0.9147471785545349,
+      "Type": "PERSON",
+      "Text": "Lizzie McGuire",
+      "BeginOffset": 772,
+      "EndOffset": 786
+    },
+    {
+      "Score": 0.9354414939880371,
+      "Type": "PERSON",
+      "Text": "Lalaine",
+      "BeginOffset": 834,
+      "EndOffset": 841
+    },
+    {
+      "Score": 0.9911004304885864,
+      "Type": "ORGANIZATION",
+      "Text": "Warner Music Group",
+      "BeginOffset": 853,
+      "EndOffset": 871
+    },
+    {
+      "Score": 0.6668771505355835,
+      "Type": "DATE",
+      "Text": "2007",
+      "BeginOffset": 874,
+      "EndOffset": 878
+    },
+    {
+      "Score": 0.586173951625824,
+      "Type": "TITLE",
+      "Text": "Grammy Party",
+      "BeginOffset": 879,
+      "EndOffset": 891
+    },
+    {
+      "Score": 0.9989455938339233,
+      "Type": "DATE",
+      "Text": "February 11, 2007",
+      "BeginOffset": 898,
+      "EndOffset": 915
+    },
+    {
+      "Score": 0.9079601764678955,
+      "Type": "LOCATION",
+      "Text": "Los Angeles, California",
+      "BeginOffset": 919,
+      "EndOffset": 942
+    },
+    {
+      "Score": 0.9247403144836426,
+      "Type": "PERSON",
+      "Text": "JLo",
+      "BeginOffset": 975,
+      "EndOffset": 978
+    },
+    {
+      "Score": 0.999295175075531,
+      "Type": "PERSON",
+      "Text": "Alex Rodriguez",
+      "BeginOffset": 1015,
+      "EndOffset": 1029
+    },
+    {
+      "Score": 0.9996504187583923,
+      "Type": "PERSON",
+      "Text": "Jennifer Lopez",
+      "BeginOffset": 1041,
+      "EndOffset": 1055
+    },
+    {
+      "Score": 0.9723829030990601,
+      "Type": "EVENT",
+      "Text": "Oscars",
+      "BeginOffset": 1070,
+      "EndOffset": 1076
+    },
+    {
+      "Score": 0.6925480961799622,
+      "Type": "LOCATION",
+      "Text": "Los\n   Governor",
+      "BeginOffset": 1080,
+      "EndOffset": 1095
+    },
+    {
+      "Score": 0.6071293354034424,
+      "Type": "ORGANIZATION",
+      "Text": "NCAA",
+      "BeginOffset": 1113,
+      "EndOffset": 1117
+    },
+    {
+      "Score": 0.857980489730835,
+      "Type": "PERSON",
+      "Text": "Kentucky Gov. Matt Bevin",
+      "BeginOffset": 1137,
+      "EndOffset": 1161
+    },
+    {
+      "Score": 0.8077715635299683,
+      "Type": "EVENT",
+      "Text": "Kentucky Chamber Day",
+      "BeginOffset": 1218,
+      "EndOffset": 1238
+    },
+    {
+      "Score": 0.8342840075492859,
+      "Type": "LOCATION",
+      "Text": "Lexington, Ky.",
+      "BeginOffset": 1249,
+      "EndOffset": 1263
+    },
+    {
+      "Score": 0.997547447681427,
+      "Type": "DATE",
+      "Text": "Thursday, Jan.\n   10, 2019",
+      "BeginOffset": 1265,
+      "EndOffset": 1291
+    },
+    {
+      "Score": 0.7580476999282837,
+      "Type": "ORGANIZATION",
+      "Text": "AP",
+      "BeginOffset": 1294,
+      "EndOffset": 1296
+    },
+    {
+      "Score": 0.9984504580497742,
+      "Type": "PERSON",
+      "Text": "Timothy D. Easley",
+      "BeginOffset": 1303,
+      "EndOffset": 1320
+    },
+    {
+      "Score": 0.8151789307594299,
+      "Type": "PERSON",
+      "Text": "Loughlin",
+      "BeginOffset": 1325,
+      "EndOffset": 1333
+    },
+    {
+      "Score": 0.5835480093955994,
+      "Type": "ORGANIZATION",
+      "Text": "Hallmark",
+      "BeginOffset": 1336,
+      "EndOffset": 1344
+    },
+    {
+      "Score": 0.9087276458740234,
+      "Type": "DATE",
+      "Text": "May 5",
+      "BeginOffset": 1370,
+      "EndOffset": 1375
+    },
+    {
+      "Score": 0.9984508752822876,
+      "Type": "PERSON",
+      "Text": "Lori Loughlin",
+      "BeginOffset": 1387,
+      "EndOffset": 1400
+    },
+    {
+      "Score": 0.9918560981750488,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1434,
+      "EndOffset": 1439
+    },
+    {
+      "Score": 0.9581427574157715,
+      "Type": "PERSON",
+      "Text": "President Donald Trump",
+      "BeginOffset": 1482,
+      "EndOffset": 1504
+    },
+    {
+      "Score": 0.9727249145507812,
+      "Type": "ORGANIZATION",
+      "Text": "International Union of Operating Engineers International Training and\n   Education Center",
+      "BeginOffset": 1618,
+      "EndOffset": 1707
+    },
+    {
+      "Score": 0.9829230904579163,
+      "Type": "LOCATION",
+      "Text": "Crosby, Texas",
+      "BeginOffset": 1711,
+      "EndOffset": 1724
+    },
+    {
+      "Score": 0.9996511340141296,
+      "Type": "DATE",
+      "Text": "April 10, 2019",
+      "BeginOffset": 1729,
+      "EndOffset": 1743
+    },
+    {
+      "Score": 0.5964496731758118,
+      "Type": "EVENT",
+      "Text": "Easter",
+      "BeginOffset": 1753,
+      "EndOffset": 1759
+    },
+    {
+      "Score": 0.5594356656074524,
+      "Type": "PERSON",
+      "Text": "Clifton",
+      "BeginOffset": 1808,
+      "EndOffset": 1815
+    },
+    {
+      "Score": 0.9985018968582153,
+      "Type": "PERSON",
+      "Text": "Wayne Gangi",
+      "BeginOffset": 1829,
+      "EndOffset": 1840
+    },
+    {
+      "Score": 0.9521108865737915,
+      "Type": "LOCATION",
+      "Text": "Grove Street",
+      "BeginOffset": 1884,
+      "EndOffset": 1896
+    },
+    {
+      "Score": 0.9460928440093994,
+      "Type": "LOCATION",
+      "Text": "Louisiana",
+      "BeginOffset": 1971,
+      "EndOffset": 1980
+    },
+    {
+      "Score": 0.9026015400886536,
+      "Type": "LOCATION",
+      "Text": "Mt. Pleasant Baptist Church",
+      "BeginOffset": 1997,
+      "EndOffset": 2024
+    },
+    {
+      "Score": 0.9716731309890747,
+      "Type": "LOCATION",
+      "Text": "St. Landry Parish",
+      "BeginOffset": 2028,
+      "EndOffset": 2045
+    },
+    {
+      "Score": 0.9981605410575867,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2103,
+      "EndOffset": 2108
+    },
+    {
+      "Score": 0.9550179839134216,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 2126,
+      "EndOffset": 2141
+    },
+    {
+      "Score": 0.5633336305618286,
+      "Type": "OTHER",
+      "Text": "Sudanese",
+      "BeginOffset": 2181,
+      "EndOffset": 2189
+    },
+    {
+      "Score": 0.9983634352684021,
+      "Type": "DATE",
+      "Text": "Oct. 29, 2015",
+      "BeginOffset": 2270,
+      "EndOffset": 2283
+    },
+    {
+      "Score": 0.41267260909080505,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 2284,
+      "EndOffset": 2289
+    },
+    {
+      "Score": 0.9936329126358032,
+      "Type": "PERSON",
+      "Text": "President Omar\n   al-Bashir",
+      "BeginOffset": 2292,
+      "EndOffset": 2319
+    },
+    {
+      "Score": 0.7762415409088135,
+      "Type": "ORGANIZATION",
+      "Text": "India-Africa Forum Summit",
+      "BeginOffset": 2348,
+      "EndOffset": 2373
+    },
+    {
+      "Score": 0.9311221241950989,
+      "Type": "LOCATION",
+      "Text": "New\n   Sex",
+      "BeginOffset": 2377,
+      "EndOffset": 2387
+    },
+    {
+      "Score": 0.6188434362411499,
+      "Type": "EVENT",
+      "Text": "Final Four",
+      "BeginOffset": 2409,
+      "EndOffset": 2419
+    },
+    {
+      "Score": 0.8960824012756348,
+      "Type": "QUANTITY",
+      "Text": "58 arrests",
+      "BeginOffset": 2425,
+      "EndOffset": 2435
+    },
+    {
+      "Score": 0.8008856177330017,
+      "Type": "LOCATION",
+      "Text": "Minneapolis",
+      "BeginOffset": 2439,
+      "EndOffset": 2450
+    },
+    {
+      "Score": 0.912728488445282,
+      "Type": "EVENT",
+      "Text": "2019 NCAA men's basketball Final Four",
+      "BeginOffset": 2470,
+      "EndOffset": 2507
+    },
+    {
+      "Score": 0.5375385880470276,
+      "Type": "LOCATION",
+      "Text": "Augusta",
+      "BeginOffset": 2516,
+      "EndOffset": 2523
+    },
+    {
+      "Score": 0.37245383858680725,
+      "Type": "ORGANIZATION",
+      "Text": "LPGA",
+      "BeginOffset": 2558,
+      "EndOffset": 2562
+    },
+    {
+      "Score": 0.9994363784790039,
+      "Type": "PERSON",
+      "Text": "Jennifer Kupcho",
+      "BeginOffset": 2566,
+      "EndOffset": 2581
+    },
+    {
+      "Score": 0.7872358560562134,
+      "Type": "EVENT",
+      "Text": "Augusta National Women's",
+      "BeginOffset": 2612,
+      "EndOffset": 2636
+    },
+    {
+      "Score": 0.9984670281410217,
+      "Type": "PERSON",
+      "Text": "Katie Bouman",
+      "BeginOffset": 2691,
+      "EndOffset": 2703
+    },
+    {
+      "Score": 0.8285427689552307,
+      "Type": "EVENT",
+      "Text": "2007 West Lafayette High School graduate",
+      "BeginOffset": 2707,
+      "EndOffset": 2747
+    },
+    {
+      "Score": 0.561915934085846,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 2781,
+      "EndOffset": 2786
+    },
+    {
+      "Score": 0.9992811679840088,
+      "Type": "DATE",
+      "Text": "Wednesday, April 10, 2019",
+      "BeginOffset": 2827,
+      "EndOffset": 2852
+    },
+    {
+      "Score": 0.9986574649810791,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 2887,
+      "EndOffset": 2895
+    },
+    {
+      "Score": 0.9060634970664978,
+      "Type": "QUANTITY",
+      "Text": "first image",
+      "BeginOffset": 2930,
+      "EndOffset": 2941
+    },
+    {
+      "Score": 0.9911021590232849,
+      "Type": "PERSON",
+      "Text": "Cahleana Wright",
+      "BeginOffset": 3067,
+      "EndOffset": 3082
+    },
+    {
+      "Score": 0.9805470108985901,
+      "Type": "QUANTITY",
+      "Text": "14",
+      "BeginOffset": 3084,
+      "EndOffset": 3086
+    },
+    {
+      "Score": 0.9986091256141663,
+      "Type": "PERSON",
+      "Text": "Melissa McCray",
+      "BeginOffset": 3100,
+      "EndOffset": 3114
+    },
+    {
+      "Score": 0.39924946427345276,
+      "Type": "ORGANIZATION",
+      "Text": "APRN",
+      "BeginOffset": 3116,
+      "EndOffset": 3120
+    },
+    {
+      "Score": 0.7802305221557617,
+      "Type": "ORGANIZATION",
+      "Text": "CNP",
+      "BeginOffset": 3121,
+      "EndOffset": 3124
+    },
+    {
+      "Score": 0.9411094784736633,
+      "Type": "ORGANIZATION",
+      "Text": "Children's Hospitals",
+      "BeginOffset": 3151,
+      "EndOffset": 3171
+    },
+    {
+      "Score": 0.916896641254425,
+      "Type": "ORGANIZATION",
+      "Text": "South Avondale School",
+      "BeginOffset": 3183,
+      "EndOffset": 3204
+    },
+    {
+      "Score": 0.948601245880127,
+      "Type": "LOCATION",
+      "Text": "Cincinnati, Ohio",
+      "BeginOffset": 3211,
+      "EndOffset": 3227
+    },
+    {
+      "Score": 0.999584436416626,
+      "Type": "DATE",
+      "Text": "Thursday, April 4, 2019",
+      "BeginOffset": 3232,
+      "EndOffset": 3255
+    },
+    {
+      "Score": 0.5847225189208984,
+      "Type": "PERSON",
+      "Text": "Cahleana",
+      "BeginOffset": 3257,
+      "EndOffset": 3265
+    },
+    {
+      "Score": 0.8676661849021912,
+      "Type": "LOCATION",
+      "Text": "Oklahoma",
+      "BeginOffset": 3355,
+      "EndOffset": 3363
+    },
+    {
+      "Score": 0.9975802302360535,
+      "Type": "PERSON",
+      "Text": "Robbie Asher",
+      "BeginOffset": 3425,
+      "EndOffset": 3437
+    },
+    {
+      "Score": 0.7181016206741333,
+      "Type": "LOCATION",
+      "Text": "Oklahoma",
+      "BeginOffset": 3466,
+      "EndOffset": 3474
+    },
+    {
+      "Score": 0.8547395467758179,
+      "Type": "ORGANIZATION",
+      "Text": "GOP",
+      "BeginOffset": 3478,
+      "EndOffset": 3481
+    },
+    {
+      "Score": 0.8619773983955383,
+      "Type": "PERSON",
+      "Text": "Schiff\n   Rep. Matt Gaetz",
+      "BeginOffset": 3515,
+      "EndOffset": 3540
+    },
+    {
+      "Score": 0.731779932975769,
+      "Type": "LOCATION",
+      "Text": "Fla.",
+      "BeginOffset": 3544,
+      "EndOffset": 3548
+    },
+    {
+      "Score": 0.9759883284568787,
+      "Type": "ORGANIZATION",
+      "Text": "House Judiciary Committee",
+      "BeginOffset": 3568,
+      "EndOffset": 3593
+    },
+    {
+      "Score": 0.9321451187133789,
+      "Type": "LOCATION",
+      "Text": "Capitol Hill",
+      "BeginOffset": 3625,
+      "EndOffset": 3637
+    },
+    {
+      "Score": 0.716559112071991,
+      "Type": "LOCATION",
+      "Text": "Washington",
+      "BeginOffset": 3641,
+      "EndOffset": 3651
+    },
+    {
+      "Score": 0.9994494318962097,
+      "Type": "DATE",
+      "Text": "Feb. 6, 2019",
+      "BeginOffset": 3653,
+      "EndOffset": 3665
+    },
+    {
+      "Score": 0.9979850053787231,
+      "Type": "DATE",
+      "Text": "Sunday, Aug. 29, 2010",
+      "BeginOffset": 3755,
+      "EndOffset": 3776
+    },
+    {
+      "Score": 0.9951817393302917,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3802,
+      "EndOffset": 3807
+    },
+    {
+      "Score": 0.9566770195960999,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 3819,
+      "EndOffset": 3823
+    },
+    {
+      "Score": 0.6257472634315491,
+      "Type": "EVENT",
+      "Text": "Easter",
+      "BeginOffset": 3845,
+      "EndOffset": 3851
+    },
+    {
+      "Score": 0.3181469738483429,
+      "Type": "ORGANIZATION",
+      "Text": "Roomba",
+      "BeginOffset": 3869,
+      "EndOffset": 3875
+    },
+    {
+      "Score": 0.9830946922302246,
+      "Type": "QUANTITY",
+      "Text": "50 states",
+      "BeginOffset": 3906,
+      "EndOffset": 3915
+    },
+    {
+      "Score": 0.9124963283538818,
+      "Type": "LOCATION",
+      "Text": "Robin Hood Rd.",
+      "BeginOffset": 3945,
+      "EndOffset": 3959
+    },
+    {
+      "Score": 0.6912091970443726,
+      "Type": "ORGANIZATION",
+      "Text": "Grove\n   High school",
+      "BeginOffset": 3964,
+      "EndOffset": 3984
+    },
+    {
+      "Score": 0.944216251373291,
+      "Type": "ORGANIZATION",
+      "Text": "Westfield High School",
+      "BeginOffset": 4030,
+      "EndOffset": 4051
+    },
+    {
+      "Score": 0.9977351427078247,
+      "Type": "PERSON",
+      "Text": "Derrick Nelson",
+      "BeginOffset": 4066,
+      "EndOffset": 4080
+    },
+    {
+      "Score": 0.9590262770652771,
+      "Type": "QUANTITY",
+      "Text": "100 years",
+      "BeginOffset": 4103,
+      "EndOffset": 4112
+    },
+    {
+      "Score": 0.6454447507858276,
+      "Type": "QUANTITY",
+      "Text": "One Time",
+      "BeginOffset": 4133,
+      "EndOffset": 4141
+    },
+    {
+      "Score": 0.9287150502204895,
+      "Type": "PERSON",
+      "Text": "Mayor 'Big Bill' Thompson",
+      "BeginOffset": 4179,
+      "EndOffset": 4204
+    },
+    {
+      "Score": 0.9636284112930298,
+      "Type": "QUANTITY",
+      "Text": "three days",
+      "BeginOffset": 4214,
+      "EndOffset": 4224
+    },
+    {
+      "Score": 0.9830051064491272,
+      "Type": "OTHER",
+      "Text": "African American",
+      "BeginOffset": 4249,
+      "EndOffset": 4265
+    },
+    {
+      "Score": 0.9886260628700256,
+      "Type": "LOCATION",
+      "Text": "Chicago",
+      "BeginOffset": 4276,
+      "EndOffset": 4283
+    },
+    {
+      "Score": 0.9946664571762085,
+      "Type": "DATE",
+      "Text": "1919",
+      "BeginOffset": 4285,
+      "EndOffset": 4289
+    },
+    {
+      "Score": 0.8427790403366089,
+      "Type": "ORGANIZATION",
+      "Text": "National Guard",
+      "BeginOffset": 4295,
+      "EndOffset": 4309
+    },
+    {
+      "Score": 0.9988809823989868,
+      "Type": "PERSON",
+      "Text": "Jun Fujita",
+      "BeginOffset": 4372,
+      "EndOffset": 4382
+    },
+    {
+      "Score": 0.8862168788909912,
+      "Type": "ORGANIZATION",
+      "Text": "Chicago History Museum",
+      "BeginOffset": 4383,
+      "EndOffset": 4405
+    },
+    {
+      "Score": 0.6934162378311157,
+      "Type": "ORGANIZATION",
+      "Text": "Getty",
+      "BeginOffset": 4406,
+      "EndOffset": 4411
+    }
+  ]
+}

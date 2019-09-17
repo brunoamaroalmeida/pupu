@@ -1,0 +1,221 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9893573522567749,
+      "Type": "PERSON",
+      "Text": "Roald Dahl",
+      "BeginOffset": 133,
+      "EndOffset": 143
+    },
+    {
+      "Score": 0.8595952987670898,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 193,
+      "EndOffset": 198
+    },
+    {
+      "Score": 0.5795506834983826,
+      "Type": "QUANTITY",
+      "Text": "19",
+      "BeginOffset": 344,
+      "EndOffset": 346
+    },
+    {
+      "Score": 0.997959315776825,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 371,
+      "EndOffset": 385
+    },
+    {
+      "Score": 0.7899640202522278,
+      "Type": "OTHER",
+      "Text": "Article 50",
+      "BeginOffset": 426,
+      "EndOffset": 436
+    },
+    {
+      "Score": 0.6272878646850586,
+      "Type": "EVENT",
+      "Text": "Halloween",
+      "BeginOffset": 455,
+      "EndOffset": 464
+    },
+    {
+      "Score": 0.7095615863800049,
+      "Type": "QUANTITY",
+      "Text": "16 spirited reactions",
+      "BeginOffset": 467,
+      "EndOffset": 488
+    },
+    {
+      "Score": 0.9996914267539978,
+      "Type": "PERSON",
+      "Text": "James O'Brien",
+      "BeginOffset": 492,
+      "EndOffset": 505
+    },
+    {
+      "Score": 0.9717140197753906,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 530,
+      "EndOffset": 536
+    },
+    {
+      "Score": 0.9985551834106445,
+      "Type": "PERSON",
+      "Text": "Peter Hitchens",
+      "BeginOffset": 632,
+      "EndOffset": 646
+    },
+    {
+      "Score": 0.9614126086235046,
+      "Type": "PERSON",
+      "Text": "Ed Balls",
+      "BeginOffset": 654,
+      "EndOffset": 662
+    },
+    {
+      "Score": 0.6925617456436157,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 722,
+      "EndOffset": 729
+    },
+    {
+      "Score": 0.7137680649757385,
+      "Type": "TITLE",
+      "Text": "Got Talent",
+      "BeginOffset": 732,
+      "EndOffset": 742
+    },
+    {
+      "Score": 0.919009804725647,
+      "Type": "QUANTITY",
+      "Text": "15 hilarious guesses",
+      "BeginOffset": 843,
+      "EndOffset": 863
+    },
+    {
+      "Score": 0.997880220413208,
+      "Type": "PERSON",
+      "Text": "Angela Merkel",
+      "BeginOffset": 883,
+      "EndOffset": 896
+    },
+    {
+      "Score": 0.9990918636322021,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 901,
+      "EndOffset": 912
+    },
+    {
+      "Score": 0.7841765284538269,
+      "Type": "PERSON",
+      "Text": "Piers Morgan",
+      "BeginOffset": 1083,
+      "EndOffset": 1095
+    },
+    {
+      "Score": 0.7126465439796448,
+      "Type": "QUANTITY",
+      "Text": "17",
+      "BeginOffset": 1115,
+      "EndOffset": 1117
+    },
+    {
+      "Score": 0.8198100924491882,
+      "Type": "TITLE",
+      "Text": "Hairy Nuts Disco",
+      "BeginOffset": 1124,
+      "EndOffset": 1140
+    },
+    {
+      "Score": 0.5321312546730042,
+      "Type": "QUANTITY",
+      "Text": "69",
+      "BeginOffset": 1145,
+      "EndOffset": 1147
+    },
+    {
+      "Score": 0.5044204592704773,
+      "Type": "QUANTITY",
+      "Text": "19",
+      "BeginOffset": 1472,
+      "EndOffset": 1474
+    },
+    {
+      "Score": 0.9978311061859131,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 1499,
+      "EndOffset": 1513
+    },
+    {
+      "Score": 0.7769282460212708,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 1567,
+      "EndOffset": 1574
+    },
+    {
+      "Score": 0.671984076499939,
+      "Type": "TITLE",
+      "Text": "Got Talent",
+      "BeginOffset": 1577,
+      "EndOffset": 1587
+    },
+    {
+      "Score": 0.9156928062438965,
+      "Type": "QUANTITY",
+      "Text": "15 hilarious guesses",
+      "BeginOffset": 1688,
+      "EndOffset": 1708
+    },
+    {
+      "Score": 0.9978956580162048,
+      "Type": "PERSON",
+      "Text": "Angela Merkel",
+      "BeginOffset": 1728,
+      "EndOffset": 1741
+    },
+    {
+      "Score": 0.9986851215362549,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 1746,
+      "EndOffset": 1757
+    },
+    {
+      "Score": 0.9463405013084412,
+      "Type": "QUANTITY",
+      "Text": "14 scathing examples",
+      "BeginOffset": 1879,
+      "EndOffset": 1899
+    },
+    {
+      "Score": 0.9785173535346985,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 1914,
+      "EndOffset": 1918
+    },
+    {
+      "Score": 0.5279295444488525,
+      "Type": "QUANTITY",
+      "Text": "20",
+      "BeginOffset": 1926,
+      "EndOffset": 1928
+    },
+    {
+      "Score": 0.8448957204818726,
+      "Type": "ORGANIZATION",
+      "Text": "T&C",
+      "BeginOffset": 1929,
+      "EndOffset": 1932
+    }
+  ]
+}

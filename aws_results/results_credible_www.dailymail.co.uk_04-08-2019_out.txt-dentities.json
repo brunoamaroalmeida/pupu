@@ -1,0 +1,774 @@
+{
+  "Entities": [
+    {
+      "Score": 0.44006043672561646,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 231,
+      "EndOffset": 233
+    },
+    {
+      "Score": 0.9909474849700928,
+      "Type": "DATE",
+      "Text": "Tuesday, Apr 9th 2019",
+      "BeginOffset": 286,
+      "EndOffset": 307
+    },
+    {
+      "Score": 0.837135910987854,
+      "Type": "DATE",
+      "Text": "2AM",
+      "BeginOffset": 312,
+      "EndOffset": 315
+    },
+    {
+      "Score": 0.6675184369087219,
+      "Type": "QUANTITY",
+      "Text": "1°C",
+      "BeginOffset": 316,
+      "EndOffset": 319
+    },
+    {
+      "Score": 0.8785877227783203,
+      "Type": "QUANTITY",
+      "Text": "5AM",
+      "BeginOffset": 320,
+      "EndOffset": 323
+    },
+    {
+      "Score": 0.7606036067008972,
+      "Type": "QUANTITY",
+      "Text": "1°",
+      "BeginOffset": 324,
+      "EndOffset": 326
+    },
+    {
+      "Score": 0.9378329515457153,
+      "Type": "QUANTITY",
+      "Text": "5-Day",
+      "BeginOffset": 328,
+      "EndOffset": 333
+    },
+    {
+      "Score": 0.7369110584259033,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 344,
+      "EndOffset": 346
+    },
+    {
+      "Score": 0.6800302863121033,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 347,
+      "EndOffset": 350
+    },
+    {
+      "Score": 0.9634717702865601,
+      "Type": "QUANTITY",
+      "Text": "£100m",
+      "BeginOffset": 353,
+      "EndOffset": 358
+    },
+    {
+      "Score": 0.501756489276886,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 359,
+      "EndOffset": 361
+    },
+    {
+      "Score": 0.8821383714675903,
+      "Type": "DATE",
+      "Text": "next\nmonth",
+      "BeginOffset": 411,
+      "EndOffset": 421
+    },
+    {
+      "Score": 0.8452029228210449,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 430,
+      "EndOffset": 436
+    },
+    {
+      "Score": 0.6661350727081299,
+      "Type": "ORGANIZATION",
+      "Text": "Tories",
+      "BeginOffset": 466,
+      "EndOffset": 472
+    },
+    {
+      "Score": 0.556323230266571,
+      "Type": "QUANTITY",
+      "Text": "43",
+      "BeginOffset": 496,
+      "EndOffset": 498
+    },
+    {
+      "Score": 0.8990160226821899,
+      "Type": "DATE",
+      "Text": "next month",
+      "BeginOffset": 532,
+      "EndOffset": 542
+    },
+    {
+      "Score": 0.9350782036781311,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 551,
+      "EndOffset": 557
+    },
+    {
+      "Score": 0.49980220198631287,
+      "Type": "ORGANIZATION",
+      "Text": "PM",
+      "BeginOffset": 584,
+      "EndOffset": 586
+    },
+    {
+      "Score": 0.9233129620552063,
+      "Type": "DATE",
+      "Text": "next month",
+      "BeginOffset": 617,
+      "EndOffset": 627
+    },
+    {
+      "Score": 0.9924674034118652,
+      "Type": "DATE",
+      "Text": "May 23",
+      "BeginOffset": 697,
+      "EndOffset": 703
+    },
+    {
+      "Score": 0.9899650812149048,
+      "Type": "QUANTITY",
+      "Text": "£100 million",
+      "BeginOffset": 749,
+      "EndOffset": 761
+    },
+    {
+      "Score": 0.9573724269866943,
+      "Type": "ORGANIZATION",
+      "Text": "Tories",
+      "BeginOffset": 774,
+      "EndOffset": 780
+    },
+    {
+      "Score": 0.9691274762153625,
+      "Type": "DATE",
+      "Text": "last month",
+      "BeginOffset": 823,
+      "EndOffset": 833
+    },
+    {
+      "Score": 0.8098262548446655,
+      "Type": "QUANTITY",
+      "Text": "almost\n   three years",
+      "BeginOffset": 922,
+      "EndOffset": 943
+    },
+    {
+      "Score": 0.7909461259841919,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 972,
+      "EndOffset": 974
+    },
+    {
+      "Score": 0.6346281170845032,
+      "Type": "ORGANIZATION",
+      "Text": "Tory",
+      "BeginOffset": 992,
+      "EndOffset": 996
+    },
+    {
+      "Score": 0.8284047842025757,
+      "Type": "DATE",
+      "Text": "earlier this evening",
+      "BeginOffset": 1011,
+      "EndOffset": 1031
+    },
+    {
+      "Score": 0.8137624263763428,
+      "Type": "EVENT",
+      "Text": "European Elections",
+      "BeginOffset": 1105,
+      "EndOffset": 1123
+    },
+    {
+      "Score": 0.999923825263977,
+      "Type": "DATE",
+      "Text": "23 May 2019",
+      "BeginOffset": 1127,
+      "EndOffset": 1138
+    },
+    {
+      "Score": 0.9936930537223816,
+      "Type": "DATE",
+      "Text": "24 April",
+      "BeginOffset": 1182,
+      "EndOffset": 1190
+    },
+    {
+      "Score": 0.5423561334609985,
+      "Type": "ORGANIZATION",
+      "Text": "Tory",
+      "BeginOffset": 1236,
+      "EndOffset": 1240
+    },
+    {
+      "Score": 0.9507735371589661,
+      "Type": "PERSON",
+      "Text": "Brandon Lewis",
+      "BeginOffset": 1250,
+      "EndOffset": 1263
+    },
+    {
+      "Score": 0.9956343173980713,
+      "Type": "PERSON",
+      "Text": "Gareth Fox",
+      "BeginOffset": 1342,
+      "EndOffset": 1352
+    },
+    {
+      "Score": 0.5778051614761353,
+      "Type": "PERSON",
+      "Text": "Fox",
+      "BeginOffset": 1373,
+      "EndOffset": 1376
+    },
+    {
+      "Score": 0.9913090467453003,
+      "Type": "PERSON",
+      "Text": "May",
+      "BeginOffset": 1463,
+      "EndOffset": 1466
+    },
+    {
+      "Score": 0.9440668821334839,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 1472,
+      "EndOffset": 1477
+    },
+    {
+      "Score": 0.9872493147850037,
+      "Type": "LOCATION",
+      "Text": "Berlin",
+      "BeginOffset": 1488,
+      "EndOffset": 1494
+    },
+    {
+      "Score": 0.9968172311782837,
+      "Type": "LOCATION",
+      "Text": "Paris",
+      "BeginOffset": 1502,
+      "EndOffset": 1507
+    },
+    {
+      "Score": 0.9781021475791931,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 1543,
+      "EndOffset": 1545
+    },
+    {
+      "Score": 0.7589311003684998,
+      "Type": "OTHER",
+      "Text": "Article 50",
+      "BeginOffset": 1595,
+      "EndOffset": 1605
+    },
+    {
+      "Score": 0.9738082885742188,
+      "Type": "DATE",
+      "Text": "June 30",
+      "BeginOffset": 1611,
+      "EndOffset": 1618
+    },
+    {
+      "Score": 0.9049067497253418,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1652,
+      "EndOffset": 1658
+    },
+    {
+      "Score": 0.9935694932937622,
+      "Type": "DATE",
+      "Text": "Friday",
+      "BeginOffset": 1662,
+      "EndOffset": 1668
+    },
+    {
+      "Score": 0.9047869443893433,
+      "Type": "OTHER",
+      "Text": "German",
+      "BeginOffset": 1685,
+      "EndOffset": 1691
+    },
+    {
+      "Score": 0.9998195767402649,
+      "Type": "PERSON",
+      "Text": "Angela Merkel",
+      "BeginOffset": 1703,
+      "EndOffset": 1716
+    },
+    {
+      "Score": 0.977933406829834,
+      "Type": "ORGANIZATION",
+      "Text": "German Handball\n   Federation",
+      "BeginOffset": 1764,
+      "EndOffset": 1793
+    },
+    {
+      "Score": 0.935453474521637,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 1806,
+      "EndOffset": 1811
+    },
+    {
+      "Score": 0.9355170130729675,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1891,
+      "EndOffset": 1897
+    },
+    {
+      "Score": 0.911684513092041,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 1925,
+      "EndOffset": 1931
+    },
+    {
+      "Score": 0.9544010758399963,
+      "Type": "QUANTITY",
+      "Text": "first day",
+      "BeginOffset": 1951,
+      "EndOffset": 1960
+    },
+    {
+      "Score": 0.9954822659492493,
+      "Type": "PERSON",
+      "Text": "Sadiq Khan",
+      "BeginOffset": 1964,
+      "EndOffset": 1974
+    },
+    {
+      "Score": 0.9734587669372559,
+      "Type": "QUANTITY",
+      "Text": "£12.50",
+      "BeginOffset": 1981,
+      "EndOffset": 1987
+    },
+    {
+      "Score": 0.9476483464241028,
+      "Type": "DATE",
+      "Text": "2021",
+      "BeginOffset": 2098,
+      "EndOffset": 2102
+    },
+    {
+      "Score": 0.9009695053100586,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2143,
+      "EndOffset": 2149
+    },
+    {
+      "Score": 0.9641091227531433,
+      "Type": "QUANTITY",
+      "Text": "£12.50",
+      "BeginOffset": 2152,
+      "EndOffset": 2158
+    },
+    {
+      "Score": 0.9073818325996399,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2235,
+      "EndOffset": 2241
+    },
+    {
+      "Score": 0.9606790542602539,
+      "Type": "QUANTITY",
+      "Text": "£12.50",
+      "BeginOffset": 2244,
+      "EndOffset": 2250
+    },
+    {
+      "Score": 0.9654527306556702,
+      "Type": "QUANTITY",
+      "Text": "£12.50",
+      "BeginOffset": 2362,
+      "EndOffset": 2368
+    },
+    {
+      "Score": 0.9902480244636536,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2393,
+      "EndOffset": 2399
+    },
+    {
+      "Score": 0.9898596405982971,
+      "Type": "ORGANIZATION",
+      "Text": "Twitter",
+      "BeginOffset": 2576,
+      "EndOffset": 2583
+    },
+    {
+      "Score": 0.760043740272522,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 2733,
+      "EndOffset": 2735
+    },
+    {
+      "Score": 0.9265484809875488,
+      "Type": "QUANTITY",
+      "Text": "8 shares",
+      "BeginOffset": 2736,
+      "EndOffset": 2744
+    },
+    {
+      "Score": 0.8633416295051575,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2764,
+      "EndOffset": 2770
+    },
+    {
+      "Score": 0.9759793877601624,
+      "Type": "QUANTITY",
+      "Text": "£12.50",
+      "BeginOffset": 2773,
+      "EndOffset": 2779
+    },
+    {
+      "Score": 0.4836898446083069,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 2798,
+      "EndOffset": 2800
+    },
+    {
+      "Score": 0.863833487033844,
+      "Type": "QUANTITY",
+      "Text": "thousands of women",
+      "BeginOffset": 2899,
+      "EndOffset": 2917
+    },
+    {
+      "Score": 0.9709821343421936,
+      "Type": "ORGANIZATION",
+      "Text": "NHS",
+      "BeginOffset": 3006,
+      "EndOffset": 3009
+    },
+    {
+      "Score": 0.9601702094078064,
+      "Type": "QUANTITY",
+      "Text": "more than 6,000 women",
+      "BeginOffset": 3102,
+      "EndOffset": 3123
+    },
+    {
+      "Score": 0.6183716654777527,
+      "Type": "QUANTITY",
+      "Text": "51",
+      "BeginOffset": 3156,
+      "EndOffset": 3158
+    },
+    {
+      "Score": 0.9984209537506104,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 3230,
+      "EndOffset": 3233
+    },
+    {
+      "Score": 0.9918588995933533,
+      "Type": "PERSON",
+      "Text": "Kourtney",
+      "BeginOffset": 3238,
+      "EndOffset": 3246
+    },
+    {
+      "Score": 0.9947082996368408,
+      "Type": "PERSON",
+      "Text": "Richard",
+      "BeginOffset": 3287,
+      "EndOffset": 3294
+    },
+    {
+      "Score": 0.9985331892967224,
+      "Type": "PERSON",
+      "Text": "Sam Smith",
+      "BeginOffset": 3323,
+      "EndOffset": 3332
+    },
+    {
+      "Score": 0.5035898089408875,
+      "Type": "PERSON",
+      "Text": "Madden",
+      "BeginOffset": 3338,
+      "EndOffset": 3344
+    },
+    {
+      "Score": 0.9994593262672424,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 3356,
+      "EndOffset": 3359
+    },
+    {
+      "Score": 0.9957347512245178,
+      "Type": "PERSON",
+      "Text": "Kourtney",
+      "BeginOffset": 3364,
+      "EndOffset": 3372
+    },
+    {
+      "Score": 0.9815258979797363,
+      "Type": "PERSON",
+      "Text": "Kardashian",
+      "BeginOffset": 3402,
+      "EndOffset": 3412
+    },
+    {
+      "Score": 0.9944255352020264,
+      "Type": "PERSON",
+      "Text": "Beyonce",
+      "BeginOffset": 3424,
+      "EndOffset": 3431
+    },
+    {
+      "Score": 0.994489312171936,
+      "Type": "ORGANIZATION",
+      "Text": "Netflix",
+      "BeginOffset": 3466,
+      "EndOffset": 3473
+    },
+    {
+      "Score": 0.8887532949447632,
+      "Type": "TITLE",
+      "Text": "Line of Duty",
+      "BeginOffset": 3493,
+      "EndOffset": 3505
+    },
+    {
+      "Score": 0.9682715535163879,
+      "Type": "PERSON",
+      "Text": "Martin",
+      "BeginOffset": 3508,
+      "EndOffset": 3514
+    },
+    {
+      "Score": 0.9654129147529602,
+      "Type": "ORGANIZATION",
+      "Text": "Instagram",
+      "BeginOffset": 3528,
+      "EndOffset": 3537
+    },
+    {
+      "Score": 0.8630640506744385,
+      "Type": "PERSON",
+      "Text": "Compston",
+      "BeginOffset": 3543,
+      "EndOffset": 3551
+    },
+    {
+      "Score": 0.9970040917396545,
+      "Type": "PERSON",
+      "Text": "Richard",
+      "BeginOffset": 3563,
+      "EndOffset": 3570
+    },
+    {
+      "Score": 0.9985638856887817,
+      "Type": "PERSON",
+      "Text": "Sam Smith",
+      "BeginOffset": 3599,
+      "EndOffset": 3608
+    },
+    {
+      "Score": 0.5249958634376526,
+      "Type": "PERSON",
+      "Text": "Madden",
+      "BeginOffset": 3614,
+      "EndOffset": 3620
+    },
+    {
+      "Score": 0.9995126724243164,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 3632,
+      "EndOffset": 3635
+    },
+    {
+      "Score": 0.9958446621894836,
+      "Type": "PERSON",
+      "Text": "Kourtney",
+      "BeginOffset": 3640,
+      "EndOffset": 3648
+    },
+    {
+      "Score": 0.9491260647773743,
+      "Type": "PERSON",
+      "Text": "Kardashian",
+      "BeginOffset": 3678,
+      "EndOffset": 3688
+    },
+    {
+      "Score": 0.9811829328536987,
+      "Type": "PERSON",
+      "Text": "Lord Snowdon",
+      "BeginOffset": 3729,
+      "EndOffset": 3741
+    },
+    {
+      "Score": 0.8256643414497375,
+      "Type": "TITLE",
+      "Text": "Face of the 70",
+      "BeginOffset": 3745,
+      "EndOffset": 3759
+    },
+    {
+      "Score": 0.9628903269767761,
+      "Type": "PERSON",
+      "Text": "Sandy Ratcliff",
+      "BeginOffset": 3763,
+      "EndOffset": 3777
+    },
+    {
+      "Score": 0.7129994034767151,
+      "Type": "QUANTITY",
+      "Text": "aged 70",
+      "BeginOffset": 3783,
+      "EndOffset": 3790
+    },
+    {
+      "Score": 0.9991596341133118,
+      "Type": "PERSON",
+      "Text": "Sandy Ratcliff",
+      "BeginOffset": 3853,
+      "EndOffset": 3867
+    },
+    {
+      "Score": 0.9985330700874329,
+      "Type": "PERSON",
+      "Text": "Sue Osman",
+      "BeginOffset": 3901,
+      "EndOffset": 3910
+    },
+    {
+      "Score": 0.8135647177696228,
+      "Type": "TITLE",
+      "Text": "EastEnders",
+      "BeginOffset": 3917,
+      "EndOffset": 3927
+    },
+    {
+      "Score": 0.9830938577651978,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 3962,
+      "EndOffset": 3968
+    },
+    {
+      "Score": 0.9813156723976135,
+      "Type": "QUANTITY",
+      "Text": "70",
+      "BeginOffset": 3979,
+      "EndOffset": 3981
+    },
+    {
+      "Score": 0.997900128364563,
+      "Type": "PERSON",
+      "Text": "Sandy Ratcliff",
+      "BeginOffset": 4085,
+      "EndOffset": 4099
+    },
+    {
+      "Score": 0.5226278901100159,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 4112,
+      "EndOffset": 4114
+    },
+    {
+      "Score": 0.37776288390159607,
+      "Type": "PERSON",
+      "Text": "Waitrose",
+      "BeginOffset": 4115,
+      "EndOffset": 4123
+    },
+    {
+      "Score": 0.9665213823318481,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 4283,
+      "EndOffset": 4285
+    },
+    {
+      "Score": 0.7755481600761414,
+      "Type": "QUANTITY",
+      "Text": "£8",
+      "BeginOffset": 4321,
+      "EndOffset": 4323
+    },
+    {
+      "Score": 0.9544255137443542,
+      "Type": "ORGANIZATION",
+      "Text": "Tufts University",
+      "BeginOffset": 4530,
+      "EndOffset": 4546
+    },
+    {
+      "Score": 0.9353604316711426,
+      "Type": "LOCATION",
+      "Text": "Massachusetts",
+      "BeginOffset": 4548,
+      "EndOffset": 4561
+    },
+    {
+      "Score": 0.7529998421669006,
+      "Type": "OTHER",
+      "Text": "vitamin D",
+      "BeginOffset": 4611,
+      "EndOffset": 4620
+    },
+    {
+      "Score": 0.5124382972717285,
+      "Type": "QUANTITY",
+      "Text": "68",
+      "BeginOffset": 4669,
+      "EndOffset": 4671
+    },
+    {
+      "Score": 0.8246435523033142,
+      "Type": "QUANTITY",
+      "Text": "6 shares",
+      "BeginOffset": 4672,
+      "EndOffset": 4680
+    },
+    {
+      "Score": 0.975348174571991,
+      "Type": "PERSON",
+      "Text": "Felicity Huffman",
+      "BeginOffset": 4779,
+      "EndOffset": 4795
+    },
+    {
+      "Score": 0.9554408192634583,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 4822,
+      "EndOffset": 4824
+    }
+  ]
+}

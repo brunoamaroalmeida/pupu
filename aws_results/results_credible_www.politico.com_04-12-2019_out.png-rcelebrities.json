@@ -1,0 +1,59 @@
+{
+  "CelebrityFaces": [
+    {
+      "Urls": [
+        "www.imdb.com/name/nm0874339"
+      ],
+      "Name": "Donald Trump",
+      "Id": "I4ma5e",
+      "Face": {
+        "BoundingBox": {
+          "Width": 0.3076171875,
+          "Height": 0.39375001192092896,
+          "Left": 0.58984375,
+          "Top": 0.5162500143051147
+        },
+        "Confidence": 99.99844360351562,
+        "Landmarks": [
+          {
+            "Type": "eyeLeft",
+            "X": 0.6808550953865051,
+            "Y": 0.6865909099578857
+          },
+          {
+            "Type": "eyeRight",
+            "X": 0.7800838947296143,
+            "Y": 0.656699001789093
+          },
+          {
+            "Type": "nose",
+            "X": 0.7394630312919617,
+            "Y": 0.743172287940979
+          },
+          {
+            "Type": "mouthLeft",
+            "X": 0.7235816121101379,
+            "Y": 0.8282595276832581
+          },
+          {
+            "Type": "mouthRight",
+            "X": 0.7854501008987427,
+            "Y": 0.8072033524513245
+          }
+        ],
+        "Pose": {
+          "Roll": -13.749664306640625,
+          "Yaw": 0.0234032291918993,
+          "Pitch": 2.1382391452789307
+        },
+        "Quality": {
+          "Brightness": 61.47602081298828,
+          "Sharpness": 96.63640594482422
+        }
+      },
+      "MatchConfidence": 97
+    }
+  ],
+  "UnrecognizedFaces": [],
+  "OrientationCorrection": "ROTATE_0"
+}

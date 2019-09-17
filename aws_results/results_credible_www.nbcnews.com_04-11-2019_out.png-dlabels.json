@@ -1,0 +1,49 @@
+{
+  "Labels": [
+    {
+      "Name": "Text",
+      "Confidence": 98.46913146972656,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Page",
+      "Confidence": 98.08967590332031,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "File",
+      "Confidence": 81.00504302978516,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Word",
+      "Confidence": 59.584877014160156,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 59.01399230957031,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Webpage",
+      "Confidence": 58.47746658325195,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "File"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

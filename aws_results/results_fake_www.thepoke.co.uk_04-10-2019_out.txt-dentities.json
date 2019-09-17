@@ -1,0 +1,207 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9814714193344116,
+      "Type": "PERSON",
+      "Text": "Roald Dahl",
+      "BeginOffset": 62,
+      "EndOffset": 72
+    },
+    {
+      "Score": 0.8563132286071777,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 122,
+      "EndOffset": 127
+    },
+    {
+      "Score": 0.8023161888122559,
+      "Type": "PERSON",
+      "Text": "Piers Morgan",
+      "BeginOffset": 303,
+      "EndOffset": 315
+    },
+    {
+      "Score": 0.7132665514945984,
+      "Type": "QUANTITY",
+      "Text": "17",
+      "BeginOffset": 335,
+      "EndOffset": 337
+    },
+    {
+      "Score": 0.9176068902015686,
+      "Type": "TITLE",
+      "Text": "Hairy Nuts Disco",
+      "BeginOffset": 344,
+      "EndOffset": 360
+    },
+    {
+      "Score": 0.5382735133171082,
+      "Type": "QUANTITY",
+      "Text": "69",
+      "BeginOffset": 365,
+      "EndOffset": 367
+    },
+    {
+      "Score": 0.7812368273735046,
+      "Type": "QUANTITY",
+      "Text": "one golden rule",
+      "BeginOffset": 497,
+      "EndOffset": 512
+    },
+    {
+      "Score": 0.9235239624977112,
+      "Type": "QUANTITY",
+      "Text": "14 scathing examples",
+      "BeginOffset": 595,
+      "EndOffset": 615
+    },
+    {
+      "Score": 0.5706915259361267,
+      "Type": "QUANTITY",
+      "Text": "3",
+      "BeginOffset": 684,
+      "EndOffset": 685
+    },
+    {
+      "Score": 0.7403498291969299,
+      "Type": "COMMERCIAL_ITEM",
+      "Text": "MI5",
+      "BeginOffset": 689,
+      "EndOffset": 692
+    },
+    {
+      "Score": 0.593405544757843,
+      "Type": "ORGANIZATION",
+      "Text": "KGB",
+      "BeginOffset": 716,
+      "EndOffset": 719
+    },
+    {
+      "Score": 0.9950980544090271,
+      "Type": "PERSON",
+      "Text": "Joe Heenan",
+      "BeginOffset": 815,
+      "EndOffset": 825
+    },
+    {
+      "Score": 0.8070108890533447,
+      "Type": "PERSON",
+      "Text": "Yogi Bear",
+      "BeginOffset": 828,
+      "EndOffset": 837
+    },
+    {
+      "Score": 0.47209739685058594,
+      "Type": "PERSON",
+      "Text": "Withnail",
+      "BeginOffset": 838,
+      "EndOffset": 846
+    },
+    {
+      "Score": 0.9622629284858704,
+      "Type": "QUANTITY",
+      "Text": "11",
+      "BeginOffset": 1016,
+      "EndOffset": 1018
+    },
+    {
+      "Score": 0.9962253570556641,
+      "Type": "PERSON",
+      "Text": "Mark Francois",
+      "BeginOffset": 1168,
+      "EndOffset": 1181
+    },
+    {
+      "Score": 0.8413133025169373,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 1197,
+      "EndOffset": 1199
+    },
+    {
+      "Score": 0.6652178764343262,
+      "Type": "ORGANIZATION",
+      "Text": "Perfidious Albion",
+      "BeginOffset": 1205,
+      "EndOffset": 1222
+    },
+    {
+      "Score": 0.91329425573349,
+      "Type": "QUANTITY",
+      "Text": "14 scathing examples",
+      "BeginOffset": 1287,
+      "EndOffset": 1307
+    },
+    {
+      "Score": 0.8585476279258728,
+      "Type": "QUANTITY",
+      "Text": "one golden rule",
+      "BeginOffset": 1324,
+      "EndOffset": 1339
+    },
+    {
+      "Score": 0.604183554649353,
+      "Type": "PERSON",
+      "Text": "Guy",
+      "BeginOffset": 1377,
+      "EndOffset": 1380
+    },
+    {
+      "Score": 0.9288329482078552,
+      "Type": "QUANTITY",
+      "Text": "7 favourite takedowns",
+      "BeginOffset": 1451,
+      "EndOffset": 1472
+    },
+    {
+      "Score": 0.8320625424385071,
+      "Type": "QUANTITY",
+      "Text": "11\n   Daily Mail readers",
+      "BeginOffset": 1715,
+      "EndOffset": 1739
+    },
+    {
+      "Score": 0.8317711353302002,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 1778,
+      "EndOffset": 1783
+    },
+    {
+      "Score": 0.9524825215339661,
+      "Type": "PERSON",
+      "Text": "Bryan",
+      "BeginOffset": 1794,
+      "EndOffset": 1799
+    },
+    {
+      "Score": 0.7345790863037109,
+      "Type": "ORGANIZATION",
+      "Text": "Tesco",
+      "BeginOffset": 1809,
+      "EndOffset": 1814
+    },
+    {
+      "Score": 0.9835270047187805,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 1849,
+      "EndOffset": 1853
+    },
+    {
+      "Score": 0.6447063088417053,
+      "Type": "QUANTITY",
+      "Text": "20",
+      "BeginOffset": 1861,
+      "EndOffset": 1863
+    },
+    {
+      "Score": 0.9316211938858032,
+      "Type": "ORGANIZATION",
+      "Text": "T&C",
+      "BeginOffset": 1864,
+      "EndOffset": 1867
+    }
+  ]
+}

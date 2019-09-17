@@ -1,0 +1,185 @@
+{
+  "Labels": [
+    {
+      "Name": "Human",
+      "Confidence": 99.5870590209961,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 99.5870590209961,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.16451019048690796,
+            "Height": 0.16312134265899658,
+            "Left": 0.3810742497444153,
+            "Top": 0.7874796390533447
+          },
+          "Confidence": 99.5870590209961
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.058556437492370605,
+            "Height": 0.08509078621864319,
+            "Left": 0.8997427821159363,
+            "Top": 0.7650291919708252
+          },
+          "Confidence": 99.18683624267578
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.05588269233703613,
+            "Height": 0.10597183555364609,
+            "Left": 0.5090975165367126,
+            "Top": 0.8354306221008301
+          },
+          "Confidence": 96.345703125
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.0532001256942749,
+            "Height": 0.11712890863418579,
+            "Left": 0.33857735991477966,
+            "Top": 0.7677795886993408
+          },
+          "Confidence": 91.006591796875
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.025278568267822266,
+            "Height": 0.04117889329791069,
+            "Left": 0.8512150049209595,
+            "Top": 0.7539967894554138
+          },
+          "Confidence": 65.71919250488281
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Advertisement",
+      "Confidence": 91.15313720703125,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 89.4070816040039,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Text",
+      "Confidence": 87.97859954833984,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 85.98652648925781,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Brochure",
+      "Confidence": 85.98652648925781,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Poster"
+        }
+      ]
+    },
+    {
+      "Name": "Flyer",
+      "Confidence": 85.98652648925781,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.9802531003952026,
+            "Height": 0.8632120490074158,
+            "Left": 0.010496944189071655,
+            "Top": 0.13308830559253693
+          },
+          "Confidence": 68.81144714355469
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Poster"
+        }
+      ]
+    },
+    {
+      "Name": "Page",
+      "Confidence": 79.8012466430664,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Confidence": 63.925140380859375,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Bowl",
+      "Confidence": 61.94621658325195,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "File",
+      "Confidence": 59.76845932006836,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Newspaper",
+      "Confidence": 55.838871002197266,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "People",
+      "Confidence": 55.80537414550781,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

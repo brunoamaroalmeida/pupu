@@ -1,0 +1,116 @@
+{
+  "Labels": [
+    {
+      "Name": "Advertisement",
+      "Confidence": 97.87418365478516,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 97.50959014892578,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Brochure",
+      "Confidence": 97.07901000976562,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Poster"
+        },
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 97.07901000976562,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Flyer",
+      "Confidence": 97.07901000976562,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.9508169889450073,
+            "Height": 0.895571768283844,
+            "Left": 0.014016956090927124,
+            "Top": 0.09791550040245056
+          },
+          "Confidence": 94.23345184326172
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Poster"
+        },
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Human",
+      "Confidence": 82.17210388183594,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 82.17210388183594,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.04320120811462402,
+            "Height": 0.041179198771715164,
+            "Left": 0.04282793402671814,
+            "Top": 0.7941810488700867
+          },
+          "Confidence": 82.17210388183594
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.03065049648284912,
+            "Height": 0.03336853161454201,
+            "Left": 0.4847816228866577,
+            "Top": 0.7977837324142456
+          },
+          "Confidence": 47.02775955200195
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 73.31397247314453,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Page",
+      "Confidence": 69.82170867919922,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

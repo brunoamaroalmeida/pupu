@@ -1,0 +1,72 @@
+{
+  "Labels": [
+    {
+      "Name": "Text",
+      "Confidence": 99.07413482666016,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "File",
+      "Confidence": 98.14411163330078,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Webpage",
+      "Confidence": 86.4532241821289,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "File"
+        }
+      ]
+    },
+    {
+      "Name": "Page",
+      "Confidence": 86.14177703857422,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Word",
+      "Confidence": 77.6938247680664,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 74.63853454589844,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Business Card",
+      "Confidence": 74.63853454589844,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.9500969648361206,
+            "Height": 0.8554251790046692,
+            "Left": 0.025623440742492676,
+            "Top": 0.06469879299402237
+          },
+          "Confidence": 74.63853454589844
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Text"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

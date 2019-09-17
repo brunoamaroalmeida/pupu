@@ -1,0 +1,928 @@
+{
+  "Entities": [
+    {
+      "Score": 0.44006043672561646,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 231,
+      "EndOffset": 233
+    },
+    {
+      "Score": 0.9869621396064758,
+      "Type": "DATE",
+      "Text": "Wednesday, Apr 10th 2019",
+      "BeginOffset": 286,
+      "EndOffset": 310
+    },
+    {
+      "Score": 0.4876581132411957,
+      "Type": "DATE",
+      "Text": "40",
+      "BeginOffset": 311,
+      "EndOffset": 313
+    },
+    {
+      "Score": 0.9578887224197388,
+      "Type": "DATE",
+      "Text": "8PM",
+      "BeginOffset": 315,
+      "EndOffset": 318
+    },
+    {
+      "Score": 0.6537285447120667,
+      "Type": "QUANTITY",
+      "Text": "1°C",
+      "BeginOffset": 319,
+      "EndOffset": 322
+    },
+    {
+      "Score": 0.7453491687774658,
+      "Type": "QUANTITY",
+      "Text": "11PM",
+      "BeginOffset": 323,
+      "EndOffset": 327
+    },
+    {
+      "Score": 0.8363958597183228,
+      "Type": "QUANTITY",
+      "Text": "1°C",
+      "BeginOffset": 329,
+      "EndOffset": 332
+    },
+    {
+      "Score": 0.9654507637023926,
+      "Type": "QUANTITY",
+      "Text": "5-Day",
+      "BeginOffset": 333,
+      "EndOffset": 338
+    },
+    {
+      "Score": 0.639319658279419,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 349,
+      "EndOffset": 351
+    },
+    {
+      "Score": 0.5340222716331482,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 374,
+      "EndOffset": 376
+    },
+    {
+      "Score": 0.9699296355247498,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 465,
+      "EndOffset": 471
+    },
+    {
+      "Score": 0.9057256579399109,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 524,
+      "EndOffset": 530
+    },
+    {
+      "Score": 0.9750610589981079,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 537,
+      "EndOffset": 541
+    },
+    {
+      "Score": 0.31338363885879517,
+      "Type": "QUANTITY",
+      "Text": "43",
+      "BeginOffset": 546,
+      "EndOffset": 548
+    },
+    {
+      "Score": 0.9116467833518982,
+      "Type": "PERSON",
+      "Text": "President Macron",
+      "BeginOffset": 549,
+      "EndOffset": 565
+    },
+    {
+      "Score": 0.7949293255805969,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 597,
+      "EndOffset": 599
+    },
+    {
+      "Score": 0.9289337396621704,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 610,
+      "EndOffset": 616
+    },
+    {
+      "Score": 0.9635574221611023,
+      "Type": "PERSON",
+      "Text": "President Macron",
+      "BeginOffset": 626,
+      "EndOffset": 642
+    },
+    {
+      "Score": 0.8076934218406677,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 674,
+      "EndOffset": 676
+    },
+    {
+      "Score": 0.9990919828414917,
+      "Type": "PERSON",
+      "Text": "Emmanuel Macron",
+      "BeginOffset": 690,
+      "EndOffset": 705
+    },
+    {
+      "Score": 0.8314040899276733,
+      "Type": "PERSON",
+      "Text": "Belgian Prime Minister\n   Charles Michel",
+      "BeginOffset": 737,
+      "EndOffset": 777
+    },
+    {
+      "Score": 0.9959916472434998,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 796,
+      "EndOffset": 804
+    },
+    {
+      "Score": 0.9360202550888062,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 824,
+      "EndOffset": 826
+    },
+    {
+      "Score": 0.9692715406417847,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 838,
+      "EndOffset": 843
+    },
+    {
+      "Score": 0.9182481169700623,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 866,
+      "EndOffset": 872
+    },
+    {
+      "Score": 0.9758644700050354,
+      "Type": "PERSON",
+      "Text": "Theresa\n   May",
+      "BeginOffset": 900,
+      "EndOffset": 914
+    },
+    {
+      "Score": 0.9946169853210449,
+      "Type": "DATE",
+      "Text": "30 June",
+      "BeginOffset": 954,
+      "EndOffset": 961
+    },
+    {
+      "Score": 0.45090216398239136,
+      "Type": "OTHER",
+      "Text": "French",
+      "BeginOffset": 967,
+      "EndOffset": 973
+    },
+    {
+      "Score": 0.7622423768043518,
+      "Type": "PERSON",
+      "Text": "Prime Minister",
+      "BeginOffset": 1025,
+      "EndOffset": 1039
+    },
+    {
+      "Score": 0.9123932123184204,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1086,
+      "EndOffset": 1092
+    },
+    {
+      "Score": 0.7604573369026184,
+      "Type": "QUANTITY",
+      "Text": "few months",
+      "BeginOffset": 1103,
+      "EndOffset": 1113
+    },
+    {
+      "Score": 0.8173496127128601,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 1132,
+      "EndOffset": 1134
+    },
+    {
+      "Score": 0.9732747077941895,
+      "Type": "EVENT",
+      "Text": "Christmas",
+      "BeginOffset": 1156,
+      "EndOffset": 1165
+    },
+    {
+      "Score": 0.7660092115402222,
+      "Type": "QUANTITY",
+      "Text": "27 EU leaders",
+      "BeginOffset": 1223,
+      "EndOffset": 1236
+    },
+    {
+      "Score": 0.9473015069961548,
+      "Type": "DATE",
+      "Text": "tonight",
+      "BeginOffset": 1289,
+      "EndOffset": 1296
+    },
+    {
+      "Score": 0.8382449150085449,
+      "Type": "PERSON",
+      "Text": "Prime Minister",
+      "BeginOffset": 1302,
+      "EndOffset": 1316
+    },
+    {
+      "Score": 0.9959654808044434,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 1333,
+      "EndOffset": 1341
+    },
+    {
+      "Score": 0.9506821036338806,
+      "Type": "DATE",
+      "Text": "this evening",
+      "BeginOffset": 1342,
+      "EndOffset": 1354
+    },
+    {
+      "Score": 0.7584831714630127,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 1361,
+      "EndOffset": 1363
+    },
+    {
+      "Score": 0.9489653706550598,
+      "Type": "OTHER",
+      "Text": "Article 50",
+      "BeginOffset": 1419,
+      "EndOffset": 1429
+    },
+    {
+      "Score": 0.9796061515808105,
+      "Type": "DATE",
+      "Text": "December 31",
+      "BeginOffset": 1464,
+      "EndOffset": 1475
+    },
+    {
+      "Score": 0.9994632005691528,
+      "Type": "DATE",
+      "Text": "March 31, 2020",
+      "BeginOffset": 1484,
+      "EndOffset": 1498
+    },
+    {
+      "Score": 0.9942282438278198,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 1500,
+      "EndOffset": 1506
+    },
+    {
+      "Score": 0.958800733089447,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 1565,
+      "EndOffset": 1567
+    },
+    {
+      "Score": 0.4549417793750763,
+      "Type": "PERSON",
+      "Text": "Boris",
+      "BeginOffset": 1575,
+      "EndOffset": 1580
+    },
+    {
+      "Score": 0.6164487600326538,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 1650,
+      "EndOffset": 1652
+    },
+    {
+      "Score": 0.9993599653244019,
+      "Type": "PERSON",
+      "Text": "Donald Tusk",
+      "BeginOffset": 1698,
+      "EndOffset": 1709
+    },
+    {
+      "Score": 0.9994245767593384,
+      "Type": "PERSON",
+      "Text": "Angela Merkel",
+      "BeginOffset": 1714,
+      "EndOffset": 1727
+    },
+    {
+      "Score": 0.9971940517425537,
+      "Type": "PERSON",
+      "Text": "Ched Evans",
+      "BeginOffset": 1767,
+      "EndOffset": 1777
+    },
+    {
+      "Score": 0.8915994763374329,
+      "Type": "QUANTITY",
+      "Text": "almost £800,000",
+      "BeginOffset": 1786,
+      "EndOffset": 1801
+    },
+    {
+      "Score": 0.5371696949005127,
+      "Type": "QUANTITY",
+      "Text": "47",
+      "BeginOffset": 1901,
+      "EndOffset": 1903
+    },
+    {
+      "Score": 0.994992733001709,
+      "Type": "PERSON",
+      "Text": "Ched Evans",
+      "BeginOffset": 1904,
+      "EndOffset": 1914
+    },
+    {
+      "Score": 0.9295864701271057,
+      "Type": "QUANTITY",
+      "Text": "nearly £800,000",
+      "BeginOffset": 1923,
+      "EndOffset": 1938
+    },
+    {
+      "Score": 0.9972048401832581,
+      "Type": "PERSON",
+      "Text": "Ched Evans",
+      "BeginOffset": 1995,
+      "EndOffset": 2005
+    },
+    {
+      "Score": 0.9280868768692017,
+      "Type": "QUANTITY",
+      "Text": "nearly £800,000",
+      "BeginOffset": 2014,
+      "EndOffset": 2029
+    },
+    {
+      "Score": 0.9974782466888428,
+      "Type": "PERSON",
+      "Text": "Ched Evans",
+      "BeginOffset": 2089,
+      "EndOffset": 2099
+    },
+    {
+      "Score": 0.9792152643203735,
+      "Type": "QUANTITY",
+      "Text": "£800,000",
+      "BeginOffset": 2150,
+      "EndOffset": 2158
+    },
+    {
+      "Score": 0.9493899345397949,
+      "Type": "QUANTITY",
+      "Text": "two-and-a-half years",
+      "BeginOffset": 2251,
+      "EndOffset": 2271
+    },
+    {
+      "Score": 0.7895859479904175,
+      "Type": "LOCATION",
+      "Text": "Wales",
+      "BeginOffset": 2308,
+      "EndOffset": 2313
+    },
+    {
+      "Score": 0.9527872800827026,
+      "Type": "PERSON",
+      "Text": "Evans",
+      "BeginOffset": 2462,
+      "EndOffset": 2467
+    },
+    {
+      "Score": 0.9842314124107361,
+      "Type": "QUANTITY",
+      "Text": "30-year-old",
+      "BeginOffset": 2487,
+      "EndOffset": 2498
+    },
+    {
+      "Score": 0.8835841417312622,
+      "Type": "ORGANIZATION",
+      "Text": "Fleetwood Town",
+      "BeginOffset": 2533,
+      "EndOffset": 2547
+    },
+    {
+      "Score": 0.7923720479011536,
+      "Type": "LOCATION",
+      "Text": "Sheffield United",
+      "BeginOffset": 2553,
+      "EndOffset": 2569
+    },
+    {
+      "Score": 0.6159731149673462,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 2639,
+      "EndOffset": 2641
+    },
+    {
+      "Score": 0.9091259241104126,
+      "Type": "QUANTITY",
+      "Text": "6 shares",
+      "BeginOffset": 2642,
+      "EndOffset": 2650
+    },
+    {
+      "Score": 0.9849417805671692,
+      "Type": "PERSON",
+      "Text": "Ched Evans",
+      "BeginOffset": 2651,
+      "EndOffset": 2661
+    },
+    {
+      "Score": 0.9764020442962646,
+      "Type": "QUANTITY",
+      "Text": "£800,000",
+      "BeginOffset": 2670,
+      "EndOffset": 2678
+    },
+    {
+      "Score": 0.8656145334243774,
+      "Type": "QUANTITY",
+      "Text": "50",
+      "BeginOffset": 2704,
+      "EndOffset": 2706
+    },
+    {
+      "Score": 0.773236870765686,
+      "Type": "OTHER",
+      "Text": "Irish",
+      "BeginOffset": 2707,
+      "EndOffset": 2712
+    },
+    {
+      "Score": 0.6870877146720886,
+      "Type": "QUANTITY",
+      "Text": "couple",
+      "BeginOffset": 2713,
+      "EndOffset": 2719
+    },
+    {
+      "Score": 0.8928238153457642,
+      "Type": "DATE",
+      "Text": "last decade",
+      "BeginOffset": 2739,
+      "EndOffset": 2750
+    },
+    {
+      "Score": 0.9814018607139587,
+      "Type": "LOCATION",
+      "Text": "Australia",
+      "BeginOffset": 2761,
+      "EndOffset": 2770
+    },
+    {
+      "Score": 0.9981042146682739,
+      "Type": "PERSON",
+      "Text": "Anthony",
+      "BeginOffset": 2842,
+      "EndOffset": 2849
+    },
+    {
+      "Score": 0.9995869398117065,
+      "Type": "PERSON",
+      "Text": "Christine Hyde",
+      "BeginOffset": 2854,
+      "EndOffset": 2868
+    },
+    {
+      "Score": 0.9888414740562439,
+      "Type": "LOCATION",
+      "Text": "Dublin",
+      "BeginOffset": 2880,
+      "EndOffset": 2886
+    },
+    {
+      "Score": 0.9995279312133789,
+      "Type": "DATE",
+      "Text": "2009",
+      "BeginOffset": 2890,
+      "EndOffset": 2894
+    },
+    {
+      "Score": 0.9352034330368042,
+      "Type": "LOCATION",
+      "Text": "Seymour, Victoria",
+      "BeginOffset": 2916,
+      "EndOffset": 2933
+    },
+    {
+      "Score": 0.97454434633255,
+      "Type": "QUANTITY",
+      "Text": "three-year-old",
+      "BeginOffset": 2952,
+      "EndOffset": 2966
+    },
+    {
+      "Score": 0.9930087327957153,
+      "Type": "PERSON",
+      "Text": "Darragh",
+      "BeginOffset": 2971,
+      "EndOffset": 2978
+    },
+    {
+      "Score": 0.3607190251350403,
+      "Type": "OTHER",
+      "Text": "53",
+      "BeginOffset": 2992,
+      "EndOffset": 2994
+    },
+    {
+      "Score": 0.5541146397590637,
+      "Type": "PERSON",
+      "Text": "Darcey QUITS",
+      "BeginOffset": 2995,
+      "EndOffset": 3007
+    },
+    {
+      "Score": 0.8145017623901367,
+      "Type": "DATE",
+      "Text": "after seven years",
+      "BeginOffset": 3017,
+      "EndOffset": 3034
+    },
+    {
+      "Score": 0.9915093183517456,
+      "Type": "PERSON",
+      "Text": "Jodie",
+      "BeginOffset": 3059,
+      "EndOffset": 3064
+    },
+    {
+      "Score": 0.9907059073448181,
+      "Type": "PERSON",
+      "Text": "Joseph",
+      "BeginOffset": 3088,
+      "EndOffset": 3094
+    },
+    {
+      "Score": 0.5451236367225647,
+      "Type": "LOCATION",
+      "Text": "Barbados Kidd",
+      "BeginOffset": 3098,
+      "EndOffset": 3111
+    },
+    {
+      "Score": 0.5396326780319214,
+      "Type": "QUANTITY",
+      "Text": "55",
+      "BeginOffset": 3120,
+      "EndOffset": 3122
+    },
+    {
+      "Score": 0.5943432450294495,
+      "Type": "PERSON",
+      "Text": "Darcey QUITS",
+      "BeginOffset": 3123,
+      "EndOffset": 3135
+    },
+    {
+      "Score": 0.8168567419052124,
+      "Type": "DATE",
+      "Text": "after seven years",
+      "BeginOffset": 3145,
+      "EndOffset": 3162
+    },
+    {
+      "Score": 0.923882246017456,
+      "Type": "PERSON",
+      "Text": "Bussell",
+      "BeginOffset": 3176,
+      "EndOffset": 3183
+    },
+    {
+      "Score": 0.5804709792137146,
+      "Type": "QUANTITY",
+      "Text": "56",
+      "BeginOffset": 3192,
+      "EndOffset": 3194
+    },
+    {
+      "Score": 0.5831071734428406,
+      "Type": "LOCATION",
+      "Text": "Love Island",
+      "BeginOffset": 3206,
+      "EndOffset": 3217
+    },
+    {
+      "Score": 0.9850426912307739,
+      "Type": "PERSON",
+      "Text": "Megan",
+      "BeginOffset": 3220,
+      "EndOffset": 3225
+    },
+    {
+      "Score": 0.9894065260887146,
+      "Type": "PERSON",
+      "Text": "Barton Hanson",
+      "BeginOffset": 3245,
+      "EndOffset": 3258
+    },
+    {
+      "Score": 0.7545133233070374,
+      "Type": "PERSON",
+      "Text": "Billie",
+      "BeginOffset": 3291,
+      "EndOffset": 3297
+    },
+    {
+      "Score": 0.9113717079162598,
+      "Type": "LOCATION",
+      "Text": "Dubai",
+      "BeginOffset": 3300,
+      "EndOffset": 3305
+    },
+    {
+      "Score": 0.9923985600471497,
+      "Type": "PERSON",
+      "Text": "Jodie",
+      "BeginOffset": 3339,
+      "EndOffset": 3344
+    },
+    {
+      "Score": 0.9909675717353821,
+      "Type": "PERSON",
+      "Text": "Joseph",
+      "BeginOffset": 3368,
+      "EndOffset": 3374
+    },
+    {
+      "Score": 0.5310584306716919,
+      "Type": "LOCATION",
+      "Text": "Barbados Kidd",
+      "BeginOffset": 3378,
+      "EndOffset": 3391
+    },
+    {
+      "Score": 0.3781190812587738,
+      "Type": "QUANTITY",
+      "Text": "59",
+      "BeginOffset": 3400,
+      "EndOffset": 3402
+    },
+    {
+      "Score": 0.6072147488594055,
+      "Type": "PERSON",
+      "Text": "Darcey QUITS",
+      "BeginOffset": 3403,
+      "EndOffset": 3415
+    },
+    {
+      "Score": 0.8161994814872742,
+      "Type": "DATE",
+      "Text": "after seven years",
+      "BeginOffset": 3425,
+      "EndOffset": 3442
+    },
+    {
+      "Score": 0.9116945266723633,
+      "Type": "PERSON",
+      "Text": "Bussell",
+      "BeginOffset": 3456,
+      "EndOffset": 3463
+    },
+    {
+      "Score": 0.4989098310470581,
+      "Type": "OTHER",
+      "Text": "62",
+      "BeginOffset": 3465,
+      "EndOffset": 3467
+    },
+    {
+      "Score": 0.9738640785217285,
+      "Type": "QUANTITY",
+      "Text": "£7.99",
+      "BeginOffset": 3550,
+      "EndOffset": 3555
+    },
+    {
+      "Score": 0.9358226656913757,
+      "Type": "QUANTITY",
+      "Text": "ONE WEEK",
+      "BeginOffset": 3605,
+      "EndOffset": 3613
+    },
+    {
+      "Score": 0.992692768573761,
+      "Type": "PERSON",
+      "Text": "Alex Tsui",
+      "BeginOffset": 3617,
+      "EndOffset": 3626
+    },
+    {
+      "Score": 0.6278630495071411,
+      "Type": "LOCATION",
+      "Text": "Borehamwood",
+      "BeginOffset": 3631,
+      "EndOffset": 3642
+    },
+    {
+      "Score": 0.7892052531242371,
+      "Type": "LOCATION",
+      "Text": "Herts",
+      "BeginOffset": 3644,
+      "EndOffset": 3649
+    },
+    {
+      "Score": 0.9786974787712097,
+      "Type": "QUANTITY",
+      "Text": "three months",
+      "BeginOffset": 3660,
+      "EndOffset": 3672
+    },
+    {
+      "Score": 0.8989783525466919,
+      "Type": "PERSON",
+      "Text": "Pui",
+      "BeginOffset": 3768,
+      "EndOffset": 3771
+    },
+    {
+      "Score": 0.9922403693199158,
+      "Type": "QUANTITY",
+      "Text": "£7.99",
+      "BeginOffset": 3786,
+      "EndOffset": 3791
+    },
+    {
+      "Score": 0.9977447986602783,
+      "Type": "PERSON",
+      "Text": "Ryan Giggs",
+      "BeginOffset": 3840,
+      "EndOffset": 3850
+    },
+    {
+      "Score": 0.9878848195075989,
+      "Type": "PERSON",
+      "Text": "Rhodri",
+      "BeginOffset": 3860,
+      "EndOffset": 3866
+    },
+    {
+      "Score": 0.5850352048873901,
+      "Type": "PERSON",
+      "Text": "Man Utd",
+      "BeginOffset": 3889,
+      "EndOffset": 3896
+    },
+    {
+      "Score": 0.9960461258888245,
+      "Type": "PERSON",
+      "Text": "Rhodri Giggs",
+      "BeginOffset": 3960,
+      "EndOffset": 3972
+    },
+    {
+      "Score": 0.9890397787094116,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 3973,
+      "EndOffset": 3978
+    },
+    {
+      "Score": 0.7196958661079407,
+      "Type": "LOCATION",
+      "Text": "Wales",
+      "BeginOffset": 4025,
+      "EndOffset": 4030
+    },
+    {
+      "Score": 0.6597607731819153,
+      "Type": "ORGANIZATION",
+      "Text": "Man Utd",
+      "BeginOffset": 4062,
+      "EndOffset": 4069
+    },
+    {
+      "Score": 0.997890055179596,
+      "Type": "PERSON",
+      "Text": "Ryan",
+      "BeginOffset": 4075,
+      "EndOffset": 4079
+    },
+    {
+      "Score": 0.8865406513214111,
+      "Type": "QUANTITY",
+      "Text": "eight-year",
+      "BeginOffset": 4089,
+      "EndOffset": 4099
+    },
+    {
+      "Score": 0.7197408080101013,
+      "Type": "QUANTITY",
+      "Text": "68",
+      "BeginOffset": 4106,
+      "EndOffset": 4108
+    },
+    {
+      "Score": 0.9939615726470947,
+      "Type": "PERSON",
+      "Text": "Darcey Bussell",
+      "BeginOffset": 4109,
+      "EndOffset": 4123
+    },
+    {
+      "Score": 0.9770184755325317,
+      "Type": "QUANTITY",
+      "Text": "seven years",
+      "BeginOffset": 4158,
+      "EndOffset": 4169
+    },
+    {
+      "Score": 0.9753101468086243,
+      "Type": "QUANTITY",
+      "Text": "49-year-old",
+      "BeginOffset": 4250,
+      "EndOffset": 4261
+    },
+    {
+      "Score": 0.9977744221687317,
+      "Type": "DATE",
+      "Text": "Wednesday",
+      "BeginOffset": 4305,
+      "EndOffset": 4314
+    },
+    {
+      "Score": 0.5153186917304993,
+      "Type": "QUANTITY",
+      "Text": "71",
+      "BeginOffset": 4386,
+      "EndOffset": 4388
+    },
+    {
+      "Score": 0.9874417781829834,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 4402,
+      "EndOffset": 4408
+    },
+    {
+      "Score": 0.7589768171310425,
+      "Type": "QUANTITY",
+      "Text": "£572",
+      "BeginOffset": 4424,
+      "EndOffset": 4428
+    },
+    {
+      "Score": 0.3534073531627655,
+      "Type": "LOCATION",
+      "Text": "Narnia",
+      "BeginOffset": 4451,
+      "EndOffset": 4457
+    },
+    {
+      "Score": 0.9900083541870117,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 4536,
+      "EndOffset": 4542
+    },
+    {
+      "Score": 0.9914583563804626,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 4627,
+      "EndOffset": 4633
+    },
+    {
+      "Score": 0.7803587317466736,
+      "Type": "ORGANIZATION",
+      "Text": "SpareRoom",
+      "BeginOffset": 4837,
+      "EndOffset": 4846
+    }
+  ]
+}

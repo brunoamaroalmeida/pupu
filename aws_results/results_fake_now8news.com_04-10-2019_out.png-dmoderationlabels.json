@@ -1,0 +1,15 @@
+{
+  "ModerationLabels": [
+    {
+      "Confidence": 96.79295349121094,
+      "Name": "Graphic Violence Or Gore",
+      "ParentName": "Violence"
+    },
+    {
+      "Confidence": 96.79295349121094,
+      "Name": "Violence",
+      "ParentName": ""
+    }
+  ],
+  "ModerationModelVersion": "3.0"
+}

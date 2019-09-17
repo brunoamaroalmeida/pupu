@@ -1,0 +1,165 @@
+{
+  "Labels": [
+    {
+      "Name": "Jaw",
+      "Confidence": 99.98973083496094,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 99.44058990478516,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 99.44058990478516,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.07486176490783691,
+            "Height": 0.08674011379480362,
+            "Left": 0.6679621934890747,
+            "Top": 0.8426640033721924
+          },
+          "Confidence": 99.44058990478516
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.06480121612548828,
+            "Height": 0.11112625151872635,
+            "Left": 0.8253993988037109,
+            "Top": 0.8217881917953491
+          },
+          "Confidence": 98.86359405517578
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.10651910305023193,
+            "Height": 0.12374381721019745,
+            "Left": 0.7843531370162964,
+            "Top": 0.48637768626213074
+          },
+          "Confidence": 84.43760681152344
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Head",
+      "Confidence": 91.18388366699219,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Cream",
+      "Confidence": 61.552093505859375,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Dessert"
+        },
+        {
+          "Name": "Food"
+        }
+      ]
+    },
+    {
+      "Name": "Creme",
+      "Confidence": 61.552093505859375,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Dessert"
+        },
+        {
+          "Name": "Food"
+        }
+      ]
+    },
+    {
+      "Name": "Food",
+      "Confidence": 61.552093505859375,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Dessert",
+      "Confidence": 61.552093505859375,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Food"
+        }
+      ]
+    },
+    {
+      "Name": "Ice Cream",
+      "Confidence": 61.552093505859375,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.42438799142837524,
+            "Height": 0.34535256028175354,
+            "Left": 0.19469678401947021,
+            "Top": 0.3662492334842682
+          },
+          "Confidence": 61.552093505859375
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Dessert"
+        },
+        {
+          "Name": "Food"
+        },
+        {
+          "Name": "Cream"
+        }
+      ]
+    },
+    {
+      "Name": "File",
+      "Confidence": 61.17066955566406,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 58.97978591918945,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Injury",
+      "Confidence": 56.01392364501953,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Advertisement",
+      "Confidence": 55.474056243896484,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 55.474056243896484,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Throat",
+      "Confidence": 55.18143081665039,
+      "Instances": [],
+      "Parents": []
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

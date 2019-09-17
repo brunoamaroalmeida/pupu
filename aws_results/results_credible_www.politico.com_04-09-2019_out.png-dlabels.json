@@ -1,0 +1,300 @@
+{
+  "Labels": [
+    {
+      "Name": "Human",
+      "Confidence": 98.92981719970703,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 98.92981719970703,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.06853067874908447,
+            "Height": 0.243152916431427,
+            "Left": 0.3859575092792511,
+            "Top": 0.6989808678627014
+          },
+          "Confidence": 98.92981719970703
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.07110357284545898,
+            "Height": 0.108245849609375,
+            "Left": 0.7030895352363586,
+            "Top": 0.6430584788322449
+          },
+          "Confidence": 98.48897552490234
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.15314054489135742,
+            "Height": 0.32065537571907043,
+            "Left": 0.8114012479782104,
+            "Top": 0.6451119184494019
+          },
+          "Confidence": 97.22889709472656
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.06943118572235107,
+            "Height": 0.1422506719827652,
+            "Left": 0.7631756663322449,
+            "Top": 0.6919307112693787
+          },
+          "Confidence": 96.69796752929688
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.058185458183288574,
+            "Height": 0.11650985479354858,
+            "Left": 0.7535673379898071,
+            "Top": 0.5845232605934143
+          },
+          "Confidence": 68.98054504394531
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Indoors",
+      "Confidence": 97.82141876220703,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Room",
+      "Confidence": 97.82141876220703,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Indoors"
+        }
+      ]
+    },
+    {
+      "Name": "Overcoat",
+      "Confidence": 97.7952651977539,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Coat"
+        }
+      ]
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 97.7952651977539,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Clothing",
+      "Confidence": 97.7952651977539,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Coat",
+      "Confidence": 97.7952651977539,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Suit",
+      "Confidence": 97.7952651977539,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.36533021926879883,
+            "Height": 0.27668625116348267,
+            "Left": 0.4405500888824463,
+            "Top": 0.6829207539558411
+          },
+          "Confidence": 97.7952651977539
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.15177011489868164,
+            "Height": 0.21571137011051178,
+            "Left": 0.8167411684989929,
+            "Top": 0.7419837713241577
+          },
+          "Confidence": 91.97428894042969
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Overcoat"
+        },
+        {
+          "Name": "Coat"
+        }
+      ]
+    },
+    {
+      "Name": "Crowd",
+      "Confidence": 94.90069580078125,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Audience",
+      "Confidence": 89.99988555908203,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Crowd"
+        },
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Text",
+      "Confidence": 78.58267974853516,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Court",
+      "Confidence": 77.48503112792969,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Indoors"
+        },
+        {
+          "Name": "Room"
+        }
+      ]
+    },
+    {
+      "Name": "Speech",
+      "Confidence": 73.79581451416016,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Crowd"
+        },
+        {
+          "Name": "Person"
+        },
+        {
+          "Name": "Audience"
+        }
+      ]
+    },
+    {
+      "Name": "Lecture",
+      "Confidence": 71.3577880859375,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Crowd"
+        },
+        {
+          "Name": "Speech"
+        },
+        {
+          "Name": "Audience"
+        },
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Accessory",
+      "Confidence": 60.953887939453125,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Tie",
+      "Confidence": 60.953887939453125,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.041405558586120605,
+            "Height": 0.11571808159351349,
+            "Left": 0.606433093547821,
+            "Top": 0.7631418108940125
+          },
+          "Confidence": 60.953887939453125
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Accessories"
+        }
+      ]
+    },
+    {
+      "Name": "Accessories",
+      "Confidence": 60.953887939453125,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Jury",
+      "Confidence": 58.64776611328125,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "People",
+      "Confidence": 58.51275634765625,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 58.495750427246094,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Glasses",
+      "Confidence": 56.40996551513672,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.09762883186340332,
+            "Height": 0.046939581632614136,
+            "Left": 0.5833560824394226,
+            "Top": 0.6232031583786011
+          },
+          "Confidence": 56.40996551513672
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Accessories"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

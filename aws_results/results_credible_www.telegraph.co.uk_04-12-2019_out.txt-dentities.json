@@ -1,0 +1,1124 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9974738955497742,
+      "Type": "PERSON",
+      "Text": "Jacob Rees-Mogg",
+      "BeginOffset": 38,
+      "EndOffset": 53
+    },
+    {
+      "Score": 0.746145486831665,
+      "Type": "QUANTITY",
+      "Text": "50",
+      "BeginOffset": 76,
+      "EndOffset": 78
+    },
+    {
+      "Score": 0.9759154319763184,
+      "Type": "PERSON",
+      "Text": "Matthew LynnEquities",
+      "BeginOffset": 79,
+      "EndOffset": 99
+    },
+    {
+      "Score": 0.9911310076713562,
+      "Type": "DATE",
+      "Text": "1987",
+      "BeginOffset": 142,
+      "EndOffset": 146
+    },
+    {
+      "Score": 0.44972947239875793,
+      "Type": "QUANTITY",
+      "Text": "51",
+      "BeginOffset": 150,
+      "EndOffset": 152
+    },
+    {
+      "Score": 0.998070240020752,
+      "Type": "PERSON",
+      "Text": "Andrew KennedyWill",
+      "BeginOffset": 153,
+      "EndOffset": 171
+    },
+    {
+      "Score": 0.8609801530838013,
+      "Type": "PERSON",
+      "Text": "Leaver",
+      "BeginOffset": 185,
+      "EndOffset": 191
+    },
+    {
+      "Score": 0.5348057746887207,
+      "Type": "QUANTITY",
+      "Text": "52",
+      "BeginOffset": 228,
+      "EndOffset": 230
+    },
+    {
+      "Score": 0.6903917193412781,
+      "Type": "EVENT",
+      "Text": "Masters 2019",
+      "BeginOffset": 231,
+      "EndOffset": 243
+    },
+    {
+      "Score": 0.6258717179298401,
+      "Type": "QUANTITY",
+      "Text": "Second round",
+      "BeginOffset": 243,
+      "EndOffset": 255
+    },
+    {
+      "Score": 0.8310742974281311,
+      "Type": "QUANTITY",
+      "Text": "5",
+      "BeginOffset": 297,
+      "EndOffset": 298
+    },
+    {
+      "Score": 0.6184345483779907,
+      "Type": "PERSON",
+      "Text": "Duke",
+      "BeginOffset": 304,
+      "EndOffset": 308
+    },
+    {
+      "Score": 0.9544495940208435,
+      "Type": "PERSON",
+      "Text": "Duchess of Sussex",
+      "BeginOffset": 313,
+      "EndOffset": 330
+    },
+    {
+      "Score": 0.9819388389587402,
+      "Type": "ORGANIZATION",
+      "Text": "Instagram",
+      "BeginOffset": 350,
+      "EndOffset": 359
+    },
+    {
+      "Score": 0.4843480587005615,
+      "Type": "OTHER",
+      "Text": "53",
+      "BeginOffset": 369,
+      "EndOffset": 371
+    },
+    {
+      "Score": 0.9927389025688171,
+      "Type": "PERSON",
+      "Text": "Harry",
+      "BeginOffset": 375,
+      "EndOffset": 380
+    },
+    {
+      "Score": 0.9931327700614929,
+      "Type": "PERSON",
+      "Text": "Meghan",
+      "BeginOffset": 385,
+      "EndOffset": 391
+    },
+    {
+      "Score": 0.9764230847358704,
+      "Type": "ORGANIZATION",
+      "Text": "Instagram",
+      "BeginOffset": 402,
+      "EndOffset": 411
+    },
+    {
+      "Score": 0.4778016209602356,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 447,
+      "EndOffset": 449
+    },
+    {
+      "Score": 0.7220051884651184,
+      "Type": "QUANTITY",
+      "Text": "55",
+      "BeginOffset": 526,
+      "EndOffset": 528
+    },
+    {
+      "Score": 0.9914798736572266,
+      "Type": "ORGANIZATION",
+      "Text": "Newcastle Falcons",
+      "BeginOffset": 529,
+      "EndOffset": 546
+    },
+    {
+      "Score": 0.8731456398963928,
+      "Type": "ORGANIZATION",
+      "Text": "Leicester Tigers",
+      "BeginOffset": 550,
+      "EndOffset": 566
+    },
+    {
+      "Score": 0.6049060225486755,
+      "Type": "ORGANIZATION",
+      "Text": "Gallagher Premiership",
+      "BeginOffset": 568,
+      "EndOffset": 589
+    },
+    {
+      "Score": 0.47691625356674194,
+      "Type": "QUANTITY",
+      "Text": "56",
+      "BeginOffset": 593,
+      "EndOffset": 595
+    },
+    {
+      "Score": 0.9975953698158264,
+      "Type": "PERSON",
+      "Text": "Ian Cognito",
+      "BeginOffset": 605,
+      "EndOffset": 616
+    },
+    {
+      "Score": 0.8166213631629944,
+      "Type": "QUANTITY",
+      "Text": "3",
+      "BeginOffset": 672,
+      "EndOffset": 673
+    },
+    {
+      "Score": 0.9991627931594849,
+      "Type": "PERSON",
+      "Text": "Alex Hepburn",
+      "BeginOffset": 675,
+      "EndOffset": 687
+    },
+    {
+      "Score": 0.44975215196609497,
+      "Type": "QUANTITY",
+      "Text": "57",
+      "BeginOffset": 738,
+      "EndOffset": 740
+    },
+    {
+      "Score": 0.9994568228721619,
+      "Type": "PERSON",
+      "Text": "Alex Hepburn",
+      "BeginOffset": 751,
+      "EndOffset": 763
+    },
+    {
+      "Score": 0.9997166395187378,
+      "Type": "PERSON",
+      "Text": "Susan Boyle",
+      "BeginOffset": 816,
+      "EndOffset": 827
+    },
+    {
+      "Score": 0.5505030751228333,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 841,
+      "EndOffset": 848
+    },
+    {
+      "Score": 0.6915580630302429,
+      "Type": "TITLE",
+      "Text": "Got Talent",
+      "BeginOffset": 851,
+      "EndOffset": 861
+    },
+    {
+      "Score": 0.9988769888877869,
+      "Type": "DATE",
+      "Text": "April 2009",
+      "BeginOffset": 863,
+      "EndOffset": 873
+    },
+    {
+      "Score": 0.5354094505310059,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 875,
+      "EndOffset": 877
+    },
+    {
+      "Score": 0.9998729228973389,
+      "Type": "PERSON",
+      "Text": "Susan Boyle",
+      "BeginOffset": 878,
+      "EndOffset": 889
+    },
+    {
+      "Score": 0.7437198162078857,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 912,
+      "EndOffset": 919
+    },
+    {
+      "Score": 0.8014452457427979,
+      "Type": "TITLE",
+      "Text": "Got Talent",
+      "BeginOffset": 922,
+      "EndOffset": 932
+    },
+    {
+      "Score": 0.9436548948287964,
+      "Type": "PERSON",
+      "Text": "Annunziata Rees-Mogg",
+      "BeginOffset": 958,
+      "EndOffset": 978
+    },
+    {
+      "Score": 0.9601218104362488,
+      "Type": "PERSON",
+      "Text": "Annunziata Rees-Mogg",
+      "BeginOffset": 1023,
+      "EndOffset": 1043
+    },
+    {
+      "Score": 0.8784311413764954,
+      "Type": "QUANTITY",
+      "Text": "6",
+      "BeginOffset": 1095,
+      "EndOffset": 1096
+    },
+    {
+      "Score": 0.5808624029159546,
+      "Type": "QUANTITY",
+      "Text": "60",
+      "BeginOffset": 1160,
+      "EndOffset": 1162
+    },
+    {
+      "Score": 0.9935306906700134,
+      "Type": "QUANTITY",
+      "Text": "16 years",
+      "BeginOffset": 1205,
+      "EndOffset": 1213
+    },
+    {
+      "Score": 0.5589204430580139,
+      "Type": "ORGANIZATION",
+      "Text": "Tinder",
+      "BeginOffset": 1217,
+      "EndOffset": 1223
+    },
+    {
+      "Score": 0.7348990440368652,
+      "Type": "PERSON",
+      "Text": "Chloe Mac",
+      "BeginOffset": 1228,
+      "EndOffset": 1237
+    },
+    {
+      "Score": 0.7072027921676636,
+      "Type": "PERSON",
+      "Text": "DonnellHow Coachella",
+      "BeginOffset": 1238,
+      "EndOffset": 1258
+    },
+    {
+      "Score": 0.6540296077728271,
+      "Type": "QUANTITY",
+      "Text": "62",
+      "BeginOffset": 1284,
+      "EndOffset": 1286
+    },
+    {
+      "Score": 0.7913762331008911,
+      "Type": "QUANTITY",
+      "Text": "one person",
+      "BeginOffset": 1292,
+      "EndOffset": 1302
+    },
+    {
+      "Score": 0.992038369178772,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 1334,
+      "EndOffset": 1349
+    },
+    {
+      "Score": 0.999096691608429,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 1368,
+      "EndOffset": 1380
+    },
+    {
+      "Score": 0.9990317225456238,
+      "Type": "PERSON",
+      "Text": "Gerard Batten",
+      "BeginOffset": 1385,
+      "EndOffset": 1398
+    },
+    {
+      "Score": 0.735079824924469,
+      "Type": "QUANTITY",
+      "Text": "two pro-Brexit party leaders",
+      "BeginOffset": 1400,
+      "EndOffset": 1428
+    },
+    {
+      "Score": 0.7707905173301697,
+      "Type": "QUANTITY",
+      "Text": "both",
+      "BeginOffset": 1429,
+      "EndOffset": 1433
+    },
+    {
+      "Score": 0.8750854134559631,
+      "Type": "QUANTITY",
+      "Text": "69",
+      "BeginOffset": 1435,
+      "EndOffset": 1437
+    },
+    {
+      "Score": 0.6345407962799072,
+      "Type": "ORGANIZATION",
+      "Text": "Brexit Party",
+      "BeginOffset": 1451,
+      "EndOffset": 1463
+    },
+    {
+      "Score": 0.9658237099647522,
+      "Type": "ORGANIZATION",
+      "Text": "Ukip",
+      "BeginOffset": 1468,
+      "EndOffset": 1472
+    },
+    {
+      "Score": 0.998820424079895,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 1517,
+      "EndOffset": 1529
+    },
+    {
+      "Score": 0.3944796025753021,
+      "Type": "EVENT",
+      "Text": "Brexiteers",
+      "BeginOffset": 1551,
+      "EndOffset": 1561
+    },
+    {
+      "Score": 0.7253835797309875,
+      "Type": "LOCATION",
+      "Text": "Parliament Square",
+      "BeginOffset": 1565,
+      "EndOffset": 1582
+    },
+    {
+      "Score": 0.6270536780357361,
+      "Type": "QUANTITY",
+      "Text": "70",
+      "BeginOffset": 1584,
+      "EndOffset": 1586
+    },
+    {
+      "Score": 0.5968498587608337,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1599,
+      "EndOffset": 1605
+    },
+    {
+      "Score": 0.9954447746276855,
+      "Type": "DATE",
+      "Text": "2017",
+      "BeginOffset": 1685,
+      "EndOffset": 1689
+    },
+    {
+      "Score": 0.9970085024833679,
+      "Type": "DATE",
+      "Text": "January",
+      "BeginOffset": 1691,
+      "EndOffset": 1698
+    },
+    {
+      "Score": 0.9745581150054932,
+      "Type": "PERSON",
+      "Text": "Prime Minister Theresa May",
+      "BeginOffset": 1700,
+      "EndOffset": 1726
+    },
+    {
+      "Score": 0.9320674538612366,
+      "Type": "PERSON",
+      "Text": "US President Donald Trump",
+      "BeginOffset": 1740,
+      "EndOffset": 1765
+    },
+    {
+      "Score": 0.9917990565299988,
+      "Type": "PERSON",
+      "Text": "Winston\n       Churchill",
+      "BeginOffset": 1796,
+      "EndOffset": 1820
+    },
+    {
+      "Score": 0.4868285059928894,
+      "Type": "LOCATION",
+      "Text": "Oval Office",
+      "BeginOffset": 1828,
+      "EndOffset": 1839
+    },
+    {
+      "Score": 0.818808376789093,
+      "Type": "LOCATION",
+      "Text": "White House",
+      "BeginOffset": 1847,
+      "EndOffset": 1858
+    },
+    {
+      "Score": 0.9570522904396057,
+      "Type": "LOCATION",
+      "Text": "Washington DC,\n       USA",
+      "BeginOffset": 1863,
+      "EndOffset": 1888
+    },
+    {
+      "Score": 0.6607933640480042,
+      "Type": "EVENT",
+      "Text": "XMAS Year",
+      "BeginOffset": 1928,
+      "EndOffset": 1937
+    },
+    {
+      "Score": 0.9931783080101013,
+      "Type": "PERSON",
+      "Text": "Stefan Rousseau",
+      "BeginOffset": 1972,
+      "EndOffset": 1987
+    },
+    {
+      "Score": 0.8253269195556641,
+      "Type": "ORGANIZATION",
+      "Text": "PA Wire",
+      "BeginOffset": 1988,
+      "EndOffset": 1995
+    },
+    {
+      "Score": 0.5835416913032532,
+      "Type": "OTHER",
+      "Text": "71",
+      "BeginOffset": 1997,
+      "EndOffset": 1999
+    },
+    {
+      "Score": 0.6256939172744751,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 2014,
+      "EndOffset": 2021
+    },
+    {
+      "Score": 0.9600588083267212,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 2033,
+      "EndOffset": 2041
+    },
+    {
+      "Score": 0.758735716342926,
+      "Type": "QUANTITY",
+      "Text": "4. 193983826_REUTERS_WikiLeaks",
+      "BeginOffset": 2075,
+      "EndOffset": 2105
+    },
+    {
+      "Score": 0.8623594641685486,
+      "Type": "PERSON",
+      "Text": "Julian-Assange",
+      "BeginOffset": 2114,
+      "EndOffset": 2128
+    },
+    {
+      "Score": 0.4733359217643738,
+      "Type": "OTHER",
+      "Text": "72",
+      "BeginOffset": 2134,
+      "EndOffset": 2136
+    },
+    {
+      "Score": 0.6206377148628235,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 2175,
+      "EndOffset": 2182
+    },
+    {
+      "Score": 0.9991095662117004,
+      "Type": "PERSON",
+      "Text": "David Davis",
+      "BeginOffset": 2213,
+      "EndOffset": 2224
+    },
+    {
+      "Score": 0.6096091270446777,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2233,
+      "EndOffset": 2239
+    },
+    {
+      "Score": 0.9818055033683777,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2251,
+      "EndOffset": 2257
+    },
+    {
+      "Score": 0.7221680283546448,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 2349,
+      "EndOffset": 2351
+    },
+    {
+      "Score": 0.6524367332458496,
+      "Type": "QUANTITY",
+      "Text": "second",
+      "BeginOffset": 2377,
+      "EndOffset": 2383
+    },
+    {
+      "Score": 0.9905354380607605,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2384,
+      "EndOffset": 2390
+    },
+    {
+      "Score": 0.4726558029651642,
+      "Type": "ORGANIZATION",
+      "Text": "Telegraph",
+      "BeginOffset": 2432,
+      "EndOffset": 2441
+    },
+    {
+      "Score": 0.9997114539146423,
+      "Type": "PERSON",
+      "Text": "Bob Moran",
+      "BeginOffset": 2453,
+      "EndOffset": 2462
+    },
+    {
+      "Score": 0.4177524745464325,
+      "Type": "ORGANIZATION",
+      "Text": "Remainers",
+      "BeginOffset": 2470,
+      "EndOffset": 2479
+    },
+    {
+      "Score": 0.926185131072998,
+      "Type": "EVENT",
+      "Text": "Halloween",
+      "BeginOffset": 2481,
+      "EndOffset": 2490
+    },
+    {
+      "Score": 0.586260199546814,
+      "Type": "QUANTITY",
+      "Text": "74",
+      "BeginOffset": 2498,
+      "EndOffset": 2500
+    },
+    {
+      "Score": 0.6898683905601501,
+      "Type": "PERSON",
+      "Text": "Prime Minister",
+      "BeginOffset": 2585,
+      "EndOffset": 2599
+    },
+    {
+      "Score": 0.9387746453285217,
+      "Type": "QUANTITY",
+      "Text": "six months",
+      "BeginOffset": 2631,
+      "EndOffset": 2641
+    },
+    {
+      "Score": 0.8875393867492676,
+      "Type": "QUANTITY",
+      "Text": "1",
+      "BeginOffset": 2649,
+      "EndOffset": 2650
+    },
+    {
+      "Score": 0.4237890839576721,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 2672,
+      "EndOffset": 2676
+    },
+    {
+      "Score": 0.7855992913246155,
+      "Type": "DATE",
+      "Text": "4.12",
+      "BeginOffset": 2677,
+      "EndOffset": 2681
+    },
+    {
+      "Score": 0.8329495787620544,
+      "Type": "DATE",
+      "Text": "14.18",
+      "BeginOffset": 2682,
+      "EndOffset": 2687
+    },
+    {
+      "Score": 0.5171438455581665,
+      "Type": "QUANTITY",
+      "Text": "98",
+      "BeginOffset": 2700,
+      "EndOffset": 2702
+    },
+    {
+      "Score": 0.828622043132782,
+      "Type": "QUANTITY",
+      "Text": "Fifty communal toilets",
+      "BeginOffset": 2703,
+      "EndOffset": 2725
+    },
+    {
+      "Score": 0.3891925811767578,
+      "Type": "PERSON",
+      "Text": "Nero",
+      "BeginOffset": 2767,
+      "EndOffset": 2771
+    },
+    {
+      "Score": 0.685527503490448,
+      "Type": "QUANTITY",
+      "Text": "99",
+      "BeginOffset": 2775,
+      "EndOffset": 2777
+    },
+    {
+      "Score": 0.8610119223594666,
+      "Type": "QUANTITY",
+      "Text": "Thousands of retired soldiers",
+      "BeginOffset": 2778,
+      "EndOffset": 2807
+    },
+    {
+      "Score": 0.8790270686149597,
+      "Type": "QUANTITY",
+      "Text": "100",
+      "BeginOffset": 2849,
+      "EndOffset": 2852
+    },
+    {
+      "Score": 0.5920433402061462,
+      "Type": "EVENT",
+      "Text": "Easter",
+      "BeginOffset": 2853,
+      "EndOffset": 2859
+    },
+    {
+      "Score": 0.8672656416893005,
+      "Type": "ORGANIZATION",
+      "Text": "Network Rail",
+      "BeginOffset": 2876,
+      "EndOffset": 2888
+    },
+    {
+      "Score": 0.9737492203712463,
+      "Type": "QUANTITY",
+      "Text": "£100m",
+      "BeginOffset": 2908,
+      "EndOffset": 2913
+    },
+    {
+      "Score": 0.9516831040382385,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 2957,
+      "EndOffset": 2962
+    },
+    {
+      "Score": 0.8674120903015137,
+      "Type": "LOCATION",
+      "Text": "Khartoum",
+      "BeginOffset": 2976,
+      "EndOffset": 2984
+    },
+    {
+      "Score": 0.7105662226676941,
+      "Type": "DATE",
+      "Text": "Friday",
+      "BeginOffset": 2986,
+      "EndOffset": 2992
+    },
+    {
+      "Score": 0.63431715965271,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 2994,
+      "EndOffset": 2999
+    },
+    {
+      "Score": 0.3851822316646576,
+      "Type": "QUANTITY",
+      "Text": "101",
+      "BeginOffset": 3001,
+      "EndOffset": 3004
+    },
+    {
+      "Score": 0.7791954874992371,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 3005,
+      "EndOffset": 3010
+    },
+    {
+      "Score": 0.9927008152008057,
+      "Type": "PERSON",
+      "Text": "Danny Johnston",
+      "BeginOffset": 3081,
+      "EndOffset": 3095
+    },
+    {
+      "Score": 0.9958621263504028,
+      "Type": "QUANTITY",
+      "Text": "35",
+      "BeginOffset": 3097,
+      "EndOffset": 3099
+    },
+    {
+      "Score": 0.962877094745636,
+      "Type": "QUANTITY",
+      "Text": "14 years",
+      "BeginOffset": 3122,
+      "EndOffset": 3130
+    },
+    {
+      "Score": 0.26076221466064453,
+      "Type": "QUANTITY",
+      "Text": "102",
+      "BeginOffset": 3150,
+      "EndOffset": 3153
+    },
+    {
+      "Score": 0.9928202629089355,
+      "Type": "PERSON",
+      "Text": "Devey Waterhouse",
+      "BeginOffset": 3235,
+      "EndOffset": 3251
+    },
+    {
+      "Score": 0.3717900216579437,
+      "Type": "QUANTITY",
+      "Text": "103",
+      "BeginOffset": 3285,
+      "EndOffset": 3288
+    },
+    {
+      "Score": 0.7228332161903381,
+      "Type": "QUANTITY",
+      "Text": "1",
+      "BeginOffset": 3364,
+      "EndOffset": 3365
+    },
+    {
+      "Score": 0.5781786441802979,
+      "Type": "PERSON",
+      "Text": "Duke",
+      "BeginOffset": 3371,
+      "EndOffset": 3375
+    },
+    {
+      "Score": 0.9149933457374573,
+      "Type": "PERSON",
+      "Text": "Duchess of Sussex",
+      "BeginOffset": 3380,
+      "EndOffset": 3397
+    },
+    {
+      "Score": 0.9735680818557739,
+      "Type": "ORGANIZATION",
+      "Text": "Instagram",
+      "BeginOffset": 3417,
+      "EndOffset": 3426
+    },
+    {
+      "Score": 0.509527325630188,
+      "Type": "QUANTITY",
+      "Text": "104",
+      "BeginOffset": 3436,
+      "EndOffset": 3439
+    },
+    {
+      "Score": 0.9955819249153137,
+      "Type": "PERSON",
+      "Text": "Harry",
+      "BeginOffset": 3443,
+      "EndOffset": 3448
+    },
+    {
+      "Score": 0.9956287145614624,
+      "Type": "PERSON",
+      "Text": "Meghan",
+      "BeginOffset": 3453,
+      "EndOffset": 3459
+    },
+    {
+      "Score": 0.9754648804664612,
+      "Type": "ORGANIZATION",
+      "Text": "Instagram",
+      "BeginOffset": 3470,
+      "EndOffset": 3479
+    },
+    {
+      "Score": 0.9545215368270874,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 3538,
+      "EndOffset": 3543
+    },
+    {
+      "Score": 0.8728964924812317,
+      "Type": "LOCATION",
+      "Text": "Khartoum",
+      "BeginOffset": 3557,
+      "EndOffset": 3565
+    },
+    {
+      "Score": 0.7182456254959106,
+      "Type": "DATE",
+      "Text": "Friday",
+      "BeginOffset": 3567,
+      "EndOffset": 3573
+    },
+    {
+      "Score": 0.5464004874229431,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 3575,
+      "EndOffset": 3580
+    },
+    {
+      "Score": 0.47302576899528503,
+      "Type": "OTHER",
+      "Text": "105",
+      "BeginOffset": 3582,
+      "EndOffset": 3585
+    },
+    {
+      "Score": 0.8218019008636475,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 3586,
+      "EndOffset": 3591
+    },
+    {
+      "Score": 0.5134669542312622,
+      "Type": "QUANTITY",
+      "Text": "106",
+      "BeginOffset": 3656,
+      "EndOffset": 3659
+    },
+    {
+      "Score": 0.8858602046966553,
+      "Type": "QUANTITY",
+      "Text": "Thousands of retired soldiers",
+      "BeginOffset": 3660,
+      "EndOffset": 3689
+    },
+    {
+      "Score": 0.9873402714729309,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 3706,
+      "EndOffset": 3712
+    },
+    {
+      "Score": 0.8714395761489868,
+      "Type": "QUANTITY",
+      "Text": "4",
+      "BeginOffset": 3734,
+      "EndOffset": 3735
+    },
+    {
+      "Score": 0.945120096206665,
+      "Type": "PERSON",
+      "Text": "Annunziata Rees-Mogg",
+      "BeginOffset": 3737,
+      "EndOffset": 3757
+    },
+    {
+      "Score": 0.5110130310058594,
+      "Type": "QUANTITY",
+      "Text": "107",
+      "BeginOffset": 3799,
+      "EndOffset": 3802
+    },
+    {
+      "Score": 0.9578224420547485,
+      "Type": "PERSON",
+      "Text": "Annunziata Rees-Mogg",
+      "BeginOffset": 3803,
+      "EndOffset": 3823
+    },
+    {
+      "Score": 0.5817040205001831,
+      "Type": "QUANTITY",
+      "Text": "108",
+      "BeginOffset": 3872,
+      "EndOffset": 3875
+    },
+    {
+      "Score": 0.7412421107292175,
+      "Type": "ORGANIZATION",
+      "Text": "Network Rail",
+      "BeginOffset": 3899,
+      "EndOffset": 3911
+    },
+    {
+      "Score": 0.9686368703842163,
+      "Type": "QUANTITY",
+      "Text": "£100m",
+      "BeginOffset": 3931,
+      "EndOffset": 3936
+    },
+    {
+      "Score": 0.8327478170394897,
+      "Type": "QUANTITY",
+      "Text": "6. 18 month-old",
+      "BeginOffset": 3953,
+      "EndOffset": 3968
+    },
+    {
+      "Score": 0.6501567363739014,
+      "Type": "QUANTITY",
+      "Text": "109",
+      "BeginOffset": 4005,
+      "EndOffset": 4008
+    },
+    {
+      "Score": 0.8564810752868652,
+      "Type": "OTHER",
+      "Text": "German",
+      "BeginOffset": 4009,
+      "EndOffset": 4015
+    },
+    {
+      "Score": 0.606081485748291,
+      "Type": "QUANTITY",
+      "Text": "7",
+      "BeginOffset": 4086,
+      "EndOffset": 4087
+    },
+    {
+      "Score": 0.6384514570236206,
+      "Type": "OTHER",
+      "Text": "Indonesian",
+      "BeginOffset": 4165,
+      "EndOffset": 4175
+    },
+    {
+      "Score": 0.9927768111228943,
+      "Type": "DATE",
+      "Text": "April 17",
+      "BeginOffset": 4189,
+      "EndOffset": 4197
+    },
+    {
+      "Score": 0.4988640248775482,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 4199,
+      "EndOffset": 4202
+    },
+    {
+      "Score": 0.9583879709243774,
+      "Type": "LOCATION",
+      "Text": "Indonesia",
+      "BeginOffset": 4203,
+      "EndOffset": 4212
+    },
+    {
+      "Score": 0.9042842984199524,
+      "Type": "LOCATION",
+      "Text": "Malaysia",
+      "BeginOffset": 4246,
+      "EndOffset": 4254
+    },
+    {
+      "Score": 0.9985643625259399,
+      "Type": "PERSON",
+      "Text": "Alex Hepburn",
+      "BeginOffset": 4262,
+      "EndOffset": 4274
+    },
+    {
+      "Score": 0.9993925094604492,
+      "Type": "PERSON",
+      "Text": "Alex Hepburn",
+      "BeginOffset": 4339,
+      "EndOffset": 4351
+    },
+    {
+      "Score": 0.9457038044929504,
+      "Type": "TITLE",
+      "Text": "The Raven: A Game of Thrones",
+      "BeginOffset": 4428,
+      "EndOffset": 4456
+    },
+    {
+      "Score": 0.9123032093048096,
+      "Type": "PERSON",
+      "Text": "Ambrose Evans-Pritchard",
+      "BeginOffset": 4558,
+      "EndOffset": 4581
+    },
+    {
+      "Score": 0.9989739656448364,
+      "Type": "PERSON",
+      "Text": "Jeremy Warner",
+      "BeginOffset": 4586,
+      "EndOffset": 4599
+    },
+    {
+      "Score": 0.6426507830619812,
+      "Type": "QUANTITY",
+      "Text": "101",
+      "BeginOffset": 4617,
+      "EndOffset": 4620
+    },
+    {
+      "Score": 0.9395811557769775,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 4621,
+      "EndOffset": 4629
+    },
+    {
+      "Score": 0.8768184185028076,
+      "Type": "DATE",
+      "Text": "202019-03-26%20",
+      "BeginOffset": 4698,
+      "EndOffset": 4713
+    },
+    {
+      "Score": 0.8646479845046997,
+      "Type": "DATE",
+      "Text": "2011.08.29",
+      "BeginOffset": 4716,
+      "EndOffset": 4726
+    },
+    {
+      "Score": 0.45624151825904846,
+      "Type": "ORGANIZATION",
+      "Text": "SnapchatA",
+      "BeginOffset": 4753,
+      "EndOffset": 4762
+    },
+    {
+      "Score": 0.7530343532562256,
+      "Type": "ORGANIZATION",
+      "Text": "The Telegraph",
+      "BeginOffset": 4797,
+      "EndOffset": 4810
+    }
+  ]
+}

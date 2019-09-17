@@ -1,0 +1,89 @@
+{
+  "Labels": [
+    {
+      "Name": "Text",
+      "Confidence": 99.6265869140625,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Newspaper",
+      "Confidence": 93.70259094238281,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Menu",
+      "Confidence": 93.63949584960938,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.9828954935073853,
+            "Height": 0.9419668316841125,
+            "Left": 0.016127943992614746,
+            "Top": 0.056783102452754974
+          },
+          "Confidence": 93.63949584960938
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Word",
+      "Confidence": 71.3861312866211,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 67.65335845947266,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.06222130358219147,
+            "Height": 0.06686050444841385,
+            "Left": 0.2434457391500473,
+            "Top": 0.8706823587417603
+          },
+          "Confidence": 60.61103439331055
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "People",
+      "Confidence": 67.65335845947266,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Human",
+      "Confidence": 67.65335845947266,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Page",
+      "Confidence": 63.24784469604492,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

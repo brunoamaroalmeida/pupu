@@ -1,0 +1,550 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8283506631851196,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 49,
+      "EndOffset": 64
+    },
+    {
+      "Score": 0.9310365319252014,
+      "Type": "PERSON",
+      "Text": "Kirstjen Nielsen",
+      "BeginOffset": 73,
+      "EndOffset": 89
+    },
+    {
+      "Score": 0.9090743660926819,
+      "Type": "QUANTITY",
+      "Text": "Season 7",
+      "BeginOffset": 140,
+      "EndOffset": 148
+    },
+    {
+      "Score": 0.9995712041854858,
+      "Type": "PERSON",
+      "Text": "Adam Higginbotham",
+      "BeginOffset": 187,
+      "EndOffset": 204
+    },
+    {
+      "Score": 0.5726705193519592,
+      "Type": "PERSON",
+      "Text": "Chernobyl\nBarr",
+      "BeginOffset": 240,
+      "EndOffset": 254
+    },
+    {
+      "Score": 0.9591718316078186,
+      "Type": "ORGANIZATION",
+      "Text": "Congress",
+      "BeginOffset": 261,
+      "EndOffset": 269
+    },
+    {
+      "Score": 0.7420340180397034,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 286,
+      "EndOffset": 293
+    },
+    {
+      "Score": 0.9134551286697388,
+      "Type": "PERSON",
+      "Text": "Attorney General William P. Barr",
+      "BeginOffset": 322,
+      "EndOffset": 354
+    },
+    {
+      "Score": 0.9930758476257324,
+      "Type": "ORGANIZATION",
+      "Text": "Congress",
+      "BeginOffset": 371,
+      "EndOffset": 379
+    },
+    {
+      "Score": 0.4672758877277374,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 447,
+      "EndOffset": 454
+    },
+    {
+      "Score": 0.9272304773330688,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 462,
+      "EndOffset": 472
+    },
+    {
+      "Score": 0.9192199110984802,
+      "Type": "PERSON",
+      "Text": "Attorney General William P. Barr",
+      "BeginOffset": 586,
+      "EndOffset": 618
+    },
+    {
+      "Score": 0.9886506795883179,
+      "Type": "ORGANIZATION",
+      "Text": "House\n   Appropriations Committee",
+      "BeginOffset": 644,
+      "EndOffset": 677
+    },
+    {
+      "Score": 0.9725208282470703,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 701,
+      "EndOffset": 711
+    },
+    {
+      "Score": 0.7419643998146057,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 774,
+      "EndOffset": 781
+    },
+    {
+      "Score": 0.992902934551239,
+      "Type": "PERSON",
+      "Text": "Erin\nMnuchin",
+      "BeginOffset": 790,
+      "EndOffset": 802
+    },
+    {
+      "Score": 0.886364758014679,
+      "Type": "ORGANIZATION",
+      "Text": "White House",
+      "BeginOffset": 808,
+      "EndOffset": 819
+    },
+    {
+      "Score": 0.6129834651947021,
+      "Type": "ORGANIZATION",
+      "Text": "Treasury Discussed Trump Tax Return",
+      "BeginOffset": 824,
+      "EndOffset": 859
+    },
+    {
+      "Score": 0.9990426898002625,
+      "Type": "PERSON",
+      "Text": "Steven Mnuchin",
+      "BeginOffset": 890,
+      "EndOffset": 904
+    },
+    {
+      "Score": 0.7668846845626831,
+      "Type": "ORGANIZATION",
+      "Text": "House",
+      "BeginOffset": 931,
+      "EndOffset": 936
+    },
+    {
+      "Score": 0.9989128112792969,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1011,
+      "EndOffset": 1016
+    },
+    {
+      "Score": 0.7030705213546753,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 1026,
+      "EndOffset": 1030
+    },
+    {
+      "Score": 0.9099063873291016,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 1079,
+      "EndOffset": 1094
+    },
+    {
+      "Score": 0.7631141543388367,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 1248,
+      "EndOffset": 1252
+    },
+    {
+      "Score": 0.8611254692077637,
+      "Type": "ORGANIZATION",
+      "Text": "Trump Organization",
+      "BeginOffset": 1328,
+      "EndOffset": 1346
+    },
+    {
+      "Score": 0.9978066682815552,
+      "Type": "LOCATION",
+      "Text": "South Florida",
+      "BeginOffset": 1434,
+      "EndOffset": 1447
+    },
+    {
+      "Score": 0.6701640486717224,
+      "Type": "QUANTITY",
+      "Text": "Nearly half",
+      "BeginOffset": 1452,
+      "EndOffset": 1463
+    },
+    {
+      "Score": 0.5056434869766235,
+      "Type": "LOCATION",
+      "Text": "Americans",
+      "BeginOffset": 1467,
+      "EndOffset": 1476
+    },
+    {
+      "Score": 0.7060517072677612,
+      "Type": "QUANTITY",
+      "Text": "ages 25",
+      "BeginOffset": 1537,
+      "EndOffset": 1544
+    },
+    {
+      "Score": 0.9903194904327393,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 1548,
+      "EndOffset": 1550
+    },
+    {
+      "Score": 0.8984951972961426,
+      "Type": "DATE",
+      "Text": "last decade",
+      "BeginOffset": 1568,
+      "EndOffset": 1579
+    },
+    {
+      "Score": 0.4459492564201355,
+      "Type": "OTHER",
+      "Text": "Israelis",
+      "BeginOffset": 1659,
+      "EndOffset": 1667
+    },
+    {
+      "Score": 0.9914427399635315,
+      "Type": "PERSON",
+      "Text": "Prime\n       Minister Benjamin Netanyahu",
+      "BeginOffset": 1715,
+      "EndOffset": 1755
+    },
+    {
+      "Score": 0.7667542695999146,
+      "Type": "QUANTITY",
+      "Text": "first indication",
+      "BeginOffset": 1782,
+      "EndOffset": 1798
+    },
+    {
+      "Score": 0.6781141757965088,
+      "Type": "DATE",
+      "Text": "after 3\n       p.m.",
+      "BeginOffset": 1837,
+      "EndOffset": 1856
+    },
+    {
+      "Score": 0.9969165325164795,
+      "Type": "LOCATION",
+      "Text": "Tel Aviv",
+      "BeginOffset": 1941,
+      "EndOffset": 1949
+    },
+    {
+      "Score": 0.9977503418922424,
+      "Type": "DATE",
+      "Text": "Tuesday",
+      "BeginOffset": 1953,
+      "EndOffset": 1960
+    },
+    {
+      "Score": 0.8740719556808472,
+      "Type": "DATE",
+      "Text": "10 p.m.",
+      "BeginOffset": 1977,
+      "EndOffset": 1984
+    },
+    {
+      "Score": 0.9988749623298645,
+      "Type": "PERSON",
+      "Text": "Dan Balilty",
+      "BeginOffset": 2000,
+      "EndOffset": 2011
+    },
+    {
+      "Score": 0.9550745487213135,
+      "Type": "ORGANIZATION",
+      "Text": "The New York Times",
+      "BeginOffset": 2016,
+      "EndOffset": 2034
+    },
+    {
+      "Score": 0.8778022527694702,
+      "Type": "LOCATION",
+      "Text": "New York City",
+      "BeginOffset": 2035,
+      "EndOffset": 2048
+    },
+    {
+      "Score": 0.9836298823356628,
+      "Type": "LOCATION",
+      "Text": "Brooklyn",
+      "BeginOffset": 2094,
+      "EndOffset": 2102
+    },
+    {
+      "Score": 0.9492425918579102,
+      "Type": "PERSON",
+      "Text": "Mayor Bill de Blasio",
+      "BeginOffset": 2110,
+      "EndOffset": 2130
+    },
+    {
+      "Score": 0.8769904375076294,
+      "Type": "OTHER",
+      "Text": "Jewish",
+      "BeginOffset": 2330,
+      "EndOffset": 2336
+    },
+    {
+      "Score": 0.9972438812255859,
+      "Type": "LOCATION",
+      "Text": "Brooklyn",
+      "BeginOffset": 2354,
+      "EndOffset": 2362
+    },
+    {
+      "Score": 0.7969973683357239,
+      "Type": "OTHER",
+      "Text": "Jewish",
+      "BeginOffset": 2429,
+      "EndOffset": 2435
+    },
+    {
+      "Score": 0.8797793984413147,
+      "Type": "PERSON",
+      "Text": "Jane Doe Ponytail",
+      "BeginOffset": 2437,
+      "EndOffset": 2454
+    },
+    {
+      "Score": 0.8292334079742432,
+      "Type": "LOCATION",
+      "Text": "N.Y.",
+      "BeginOffset": 2475,
+      "EndOffset": 2479
+    },
+    {
+      "Score": 0.530479907989502,
+      "Type": "LOCATION",
+      "Text": "Queens",
+      "BeginOffset": 2623,
+      "EndOffset": 2629
+    },
+    {
+      "Score": 0.9200676679611206,
+      "Type": "ORGANIZATION",
+      "Text": "Chun Fook Funeral Services",
+      "BeginOffset": 2658,
+      "EndOffset": 2684
+    },
+    {
+      "Score": 0.5610599517822266,
+      "Type": "ORGANIZATION",
+      "Text": "Song Hai",
+      "BeginOffset": 2686,
+      "EndOffset": 2694
+    },
+    {
+      "Score": 0.9408437013626099,
+      "Type": "PERSON",
+      "Text": "Song Yang",
+      "BeginOffset": 2756,
+      "EndOffset": 2765
+    },
+    {
+      "Score": 0.9987515211105347,
+      "Type": "PERSON",
+      "Text": "Todd Heisler",
+      "BeginOffset": 2767,
+      "EndOffset": 2779
+    },
+    {
+      "Score": 0.930517852306366,
+      "Type": "ORGANIZATION",
+      "Text": "The New York\nDemocratic Electorate",
+      "BeginOffset": 2780,
+      "EndOffset": 2814
+    },
+    {
+      "Score": 0.9817379117012024,
+      "Type": "ORGANIZATION",
+      "Text": "Twitter",
+      "BeginOffset": 2818,
+      "EndOffset": 2825
+    },
+    {
+      "Score": 0.9309977293014526,
+      "Type": "ORGANIZATION",
+      "Text": "Democrats",
+      "BeginOffset": 2882,
+      "EndOffset": 2891
+    },
+    {
+      "Score": 0.7849372029304504,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 2967,
+      "EndOffset": 2977
+    },
+    {
+      "Score": 0.9021990299224854,
+      "Type": "ORGANIZATION",
+      "Text": "Democrats",
+      "BeginOffset": 3065,
+      "EndOffset": 3074
+    },
+    {
+      "Score": 0.9509585499763489,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 3263,
+      "EndOffset": 3278
+    },
+    {
+      "Score": 0.9515257477760315,
+      "Type": "DATE",
+      "Text": "2016",
+      "BeginOffset": 3305,
+      "EndOffset": 3309
+    },
+    {
+      "Score": 0.9740304946899414,
+      "Type": "PERSON",
+      "Text": "King Mohammed VI",
+      "BeginOffset": 3394,
+      "EndOffset": 3410
+    },
+    {
+      "Score": 0.9994993209838867,
+      "Type": "PERSON",
+      "Text": "Jim Inhofe",
+      "BeginOffset": 3520,
+      "EndOffset": 3530
+    },
+    {
+      "Score": 0.9990798234939575,
+      "Type": "PERSON",
+      "Text": "Jack Reed",
+      "BeginOffset": 3532,
+      "EndOffset": 3541
+    },
+    {
+      "Score": 0.999949038028717,
+      "Type": "PERSON",
+      "Text": "Jim Risch",
+      "BeginOffset": 3543,
+      "EndOffset": 3552
+    },
+    {
+      "Score": 0.9976377487182617,
+      "Type": "PERSON",
+      "Text": "Bob Menendez",
+      "BeginOffset": 3557,
+      "EndOffset": 3569
+    },
+    {
+      "Score": 0.8215341567993164,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 3572,
+      "EndOffset": 3576
+    },
+    {
+      "Score": 0.5735802054405212,
+      "Type": "OTHER",
+      "Text": "Russian",
+      "BeginOffset": 3594,
+      "EndOffset": 3601
+    },
+    {
+      "Score": 0.8456658720970154,
+      "Type": "QUANTITY",
+      "Text": "Both",
+      "BeginOffset": 3622,
+      "EndOffset": 3626
+    },
+    {
+      "Score": 0.4220900237560272,
+      "Type": "LOCATION",
+      "Text": "Brunei",
+      "BeginOffset": 3715,
+      "EndOffset": 3721
+    },
+    {
+      "Score": 0.9992983937263489,
+      "Type": "PERSON",
+      "Text": "Meghan Markle",
+      "BeginOffset": 3840,
+      "EndOffset": 3853
+    },
+    {
+      "Score": 0.843321681022644,
+      "Type": "PERSON",
+      "Text": "Prince\n   The Jiu Valley",
+      "BeginOffset": 3858,
+      "EndOffset": 3882
+    },
+    {
+      "Score": 0.9958283305168152,
+      "Type": "LOCATION",
+      "Text": "Romania",
+      "BeginOffset": 3886,
+      "EndOffset": 3893
+    },
+    {
+      "Score": 0.843035876750946,
+      "Type": "QUANTITY",
+      "Text": "millions of tons of coal",
+      "BeginOffset": 3940,
+      "EndOffset": 3964
+    },
+    {
+      "Score": 0.8006767630577087,
+      "Type": "EVENT",
+      "Text": "Revolutionary War",
+      "BeginOffset": 4027,
+      "EndOffset": 4044
+    },
+    {
+      "Score": 0.9229878187179565,
+      "Type": "PERSON",
+      "Text": "Casimir Pulaski",
+      "BeginOffset": 4106,
+      "EndOffset": 4121
+    },
+    {
+      "Score": 0.8068215250968933,
+      "Type": "QUANTITY",
+      "Text": "one\n   catch",
+      "BeginOffset": 4226,
+      "EndOffset": 4238
+    },
+    {
+      "Score": 0.9584495425224304,
+      "Type": "ORGANIZATION",
+      "Text": "New York Times",
+      "BeginOffset": 4309,
+      "EndOffset": 4323
+    },
+    {
+      "Score": 0.4692269265651703,
+      "Type": "PERSON",
+      "Text": "Azqo1rYDLgYhmTnSjPqw",
+      "BeginOffset": 4382,
+      "EndOffset": 4402
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "Entities": [
+    {
+      "Score": 0.6048448085784912,
+      "Type": "LOCATION",
+      "Text": "Israel",
+      "BeginOffset": 46,
+      "EndOffset": 52
+    },
+    {
+      "Score": 0.7953892946243286,
+      "Type": "OTHER",
+      "Text": "Palestinian",
+      "BeginOffset": 93,
+      "EndOffset": 104
+    },
+    {
+      "Score": 0.8639617562294006,
+      "Type": "OTHER",
+      "Text": "American",
+      "BeginOffset": 116,
+      "EndOffset": 124
+    },
+    {
+      "Score": 0.9985544085502625,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 207,
+      "EndOffset": 212
+    },
+    {
+      "Score": 0.9450574517250061,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 284,
+      "EndOffset": 299
+    },
+    {
+      "Score": 0.6711530089378357,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 390,
+      "EndOffset": 400
+    },
+    {
+      "Score": 0.9997033476829529,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 423,
+      "EndOffset": 428
+    },
+    {
+      "Score": 0.998542308807373,
+      "Type": "LOCATION",
+      "Text": "San Antonio",
+      "BeginOffset": 581,
+      "EndOffset": 592
+    },
+    {
+      "Score": 0.9793863892555237,
+      "Type": "ORGANIZATION",
+      "Text": "Border Patrol",
+      "BeginOffset": 620,
+      "EndOffset": 633
+    },
+    {
+      "Score": 0.9583441019058228,
+      "Type": "PERSON",
+      "Text": "Callaghan O'Hare",
+      "BeginOffset": 642,
+      "EndOffset": 658
+    },
+    {
+      "Score": 0.9537119269371033,
+      "Type": "ORGANIZATION",
+      "Text": "The New York Times",
+      "BeginOffset": 663,
+      "EndOffset": 681
+    },
+    {
+      "Score": 0.7608475685119629,
+      "Type": "OTHER",
+      "Text": "American",
+      "BeginOffset": 834,
+      "EndOffset": 842
+    },
+    {
+      "Score": 0.9605253338813782,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 882,
+      "EndOffset": 896
+    },
+    {
+      "Score": 0.9965474009513855,
+      "Type": "LOCATION",
+      "Text": "Australia",
+      "BeginOffset": 998,
+      "EndOffset": 1007
+    },
+    {
+      "Score": 0.9167478084564209,
+      "Type": "DATE",
+      "Text": "this week",
+      "BeginOffset": 1029,
+      "EndOffset": 1038
+    },
+    {
+      "Score": 0.9970601201057434,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 1042,
+      "EndOffset": 1048
+    },
+    {
+      "Score": 0.990704357624054,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 1054,
+      "EndOffset": 1063
+    },
+    {
+      "Score": 0.9990381002426147,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 1280,
+      "EndOffset": 1287
+    },
+    {
+      "Score": 0.7523412704467773,
+      "Type": "DATE",
+      "Text": "Over 3 A.M",
+      "BeginOffset": 1295,
+      "EndOffset": 1305
+    },
+    {
+      "Score": 0.8686742186546326,
+      "Type": "ORGANIZATION",
+      "Text": "Supreme Court",
+      "BeginOffset": 1316,
+      "EndOffset": 1329
+    },
+    {
+      "Score": 0.7373819947242737,
+      "Type": "LOCATION",
+      "Text": "Alabama",
+      "BeginOffset": 1335,
+      "EndOffset": 1342
+    },
+    {
+      "Score": 0.8874754309654236,
+      "Type": "ORGANIZATION",
+      "Text": "Supreme Court",
+      "BeginOffset": 1382,
+      "EndOffset": 1395
+    },
+    {
+      "Score": 0.7636963129043579,
+      "Type": "LOCATION",
+      "Text": "Alabama",
+      "BeginOffset": 1410,
+      "EndOffset": 1417
+    },
+    {
+      "Score": 0.9996212720870972,
+      "Type": "PERSON",
+      "Text": "Stephen G. Breyer",
+      "BeginOffset": 1797,
+      "EndOffset": 1814
+    },
+    {
+      "Score": 0.9935488104820251,
+      "Type": "PERSON",
+      "Text": "T.J. Kirkpatrick",
+      "BeginOffset": 1837,
+      "EndOffset": 1853
+    },
+    {
+      "Score": 0.6548073291778564,
+      "Type": "ORGANIZATION",
+      "Text": "The New\nDrivers",
+      "BeginOffset": 1858,
+      "EndOffset": 1873
+    },
+    {
+      "Score": 0.9303197860717773,
+      "Type": "ORGANIZATION",
+      "Text": "Uber",
+      "BeginOffset": 1889,
+      "EndOffset": 1893
+    },
+    {
+      "Score": 0.9849454164505005,
+      "Type": "ORGANIZATION",
+      "Text": "Uber",
+      "BeginOffset": 1944,
+      "EndOffset": 1948
+    },
+    {
+      "Score": 0.8661758899688721,
+      "Type": "QUANTITY",
+      "Text": "millions of low-paid workers",
+      "BeginOffset": 1959,
+      "EndOffset": 1987
+    },
+    {
+      "Score": 0.9905530214309692,
+      "Type": "ORGANIZATION",
+      "Text": "Uber",
+      "BeginOffset": 2161,
+      "EndOffset": 2165
+    },
+    {
+      "Score": 0.9915046095848083,
+      "Type": "ORGANIZATION",
+      "Text": "Lyft",
+      "BeginOffset": 2170,
+      "EndOffset": 2174
+    },
+    {
+      "Score": 0.8679212331771851,
+      "Type": "QUANTITY",
+      "Text": "four charts",
+      "BeginOffset": 2187,
+      "EndOffset": 2198
+    },
+    {
+      "Score": 0.7025816440582275,
+      "Type": "OTHER",
+      "Text": "Chinese",
+      "BeginOffset": 2208,
+      "EndOffset": 2215
+    },
+    {
+      "Score": 0.7387778759002686,
+      "Type": "ORGANIZATION",
+      "Text": "White Restaurateur",
+      "BeginOffset": 2224,
+      "EndOffset": 2242
+    },
+    {
+      "Score": 0.9961611032485962,
+      "Type": "LOCATION",
+      "Text": "Manhattan",
+      "BeginOffset": 2298,
+      "EndOffset": 2307
+    },
+    {
+      "Score": 0.9922361373901367,
+      "Type": "PERSON",
+      "Text": "Arielle Haspel",
+      "BeginOffset": 2393,
+      "EndOffset": 2407
+    },
+    {
+      "Score": 0.8928230404853821,
+      "Type": "OTHER",
+      "Text": "Chinese",
+      "BeginOffset": 2512,
+      "EndOffset": 2519
+    },
+    {
+      "Score": 0.9976811408996582,
+      "Type": "PERSON",
+      "Text": "Arielle Haspel",
+      "BeginOffset": 2540,
+      "EndOffset": 2554
+    },
+    {
+      "Score": 0.804289698600769,
+      "Type": "PERSON",
+      "Text": "Lucky Lee",
+      "BeginOffset": 2570,
+      "EndOffset": 2579
+    },
+    {
+      "Score": 0.991153359413147,
+      "Type": "PERSON",
+      "Text": "Gabriella Angotti-Jones",
+      "BeginOffset": 2583,
+      "EndOffset": 2606
+    },
+    {
+      "Score": 0.9982922673225403,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 2714,
+      "EndOffset": 2722
+    },
+    {
+      "Score": 0.999118447303772,
+      "Type": "PERSON",
+      "Text": "Kara Swisher",
+      "BeginOffset": 2921,
+      "EndOffset": 2933
+    },
+    {
+      "Score": 0.6926052570343018,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 2961,
+      "EndOffset": 2968
+    },
+    {
+      "Score": 0.798060953617096,
+      "Type": "ORGANIZATION",
+      "Text": "Copenhagen Zoo",
+      "BeginOffset": 3229,
+      "EndOffset": 3243
+    },
+    {
+      "Score": 0.8685000538825989,
+      "Type": "QUANTITY",
+      "Text": "thousands of visitors",
+      "BeginOffset": 3326,
+      "EndOffset": 3347
+    },
+    {
+      "Score": 0.6554144024848938,
+      "Type": "LOCATION",
+      "Text": "China",
+      "BeginOffset": 3412,
+      "EndOffset": 3417
+    },
+    {
+      "Score": 0.7894259095191956,
+      "Type": "ORGANIZATION",
+      "Text": "Uber",
+      "BeginOffset": 3437,
+      "EndOffset": 3441
+    },
+    {
+      "Score": 0.9523400068283081,
+      "Type": "ORGANIZATION",
+      "Text": "New York Times",
+      "BeginOffset": 3675,
+      "EndOffset": 3689
+    },
+    {
+      "Score": 0.4977914094924927,
+      "Type": "ORGANIZATION",
+      "Text": "Azqo1",
+      "BeginOffset": 3748,
+      "EndOffset": 3753
+    }
+  ]
+}

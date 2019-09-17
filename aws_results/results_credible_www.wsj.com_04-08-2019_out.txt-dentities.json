@@ -1,0 +1,823 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9149407744407654,
+      "Type": "TITLE",
+      "Text": "Chrome",
+      "BeginOffset": 92,
+      "EndOffset": 98
+    },
+    {
+      "Score": 0.9334260821342468,
+      "Type": "TITLE",
+      "Text": "Safari",
+      "BeginOffset": 104,
+      "EndOffset": 110
+    },
+    {
+      "Score": 0.9600818753242493,
+      "Type": "TITLE",
+      "Text": "Firefox",
+      "BeginOffset": 116,
+      "EndOffset": 123
+    },
+    {
+      "Score": 0.7964184284210205,
+      "Type": "TITLE",
+      "Text": "Internet Explorer",
+      "BeginOffset": 129,
+      "EndOffset": 146
+    },
+    {
+      "Score": 0.9991469979286194,
+      "Type": "TITLE",
+      "Text": "Internet Explorer 10",
+      "BeginOffset": 175,
+      "EndOffset": 195
+    },
+    {
+      "Score": 0.6138503551483154,
+      "Type": "TITLE",
+      "Text": "News Corp",
+      "BeginOffset": 223,
+      "EndOffset": 232
+    },
+    {
+      "Score": 0.42000287771224976,
+      "Type": "QUANTITY",
+      "Text": "143",
+      "BeginOffset": 356,
+      "EndOffset": 359
+    },
+    {
+      "Score": 0.640045702457428,
+      "Type": "QUANTITY",
+      "Text": "178",
+      "BeginOffset": 401,
+      "EndOffset": 404
+    },
+    {
+      "Score": 0.6783545017242432,
+      "Type": "ORGANIZATION",
+      "Text": "White House",
+      "BeginOffset": 548,
+      "EndOffset": 559
+    },
+    {
+      "Score": 0.9879385232925415,
+      "Type": "ORGANIZATION",
+      "Text": "Department of Homeland Security",
+      "BeginOffset": 646,
+      "EndOffset": 677
+    },
+    {
+      "Score": 0.8499179482460022,
+      "Type": "ORGANIZATION",
+      "Text": "U.S. Secret Service",
+      "BeginOffset": 740,
+      "EndOffset": 759
+    },
+    {
+      "Score": 0.978785514831543,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 794,
+      "EndOffset": 799
+    },
+    {
+      "Score": 0.6978880763053894,
+      "Type": "LOCATION",
+      "Text": "Mexico",
+      "BeginOffset": 838,
+      "EndOffset": 844
+    },
+    {
+      "Score": 0.7367501854896545,
+      "Type": "QUANTITY",
+      "Text": "14 Pleading Guilty",
+      "BeginOffset": 872,
+      "EndOffset": 890
+    },
+    {
+      "Score": 0.5432289838790894,
+      "Type": "OTHER",
+      "Text": "65424",
+      "BeginOffset": 925,
+      "EndOffset": 930
+    },
+    {
+      "Score": 0.695541501045227,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 937,
+      "EndOffset": 940
+    },
+    {
+      "Score": 0.8866073489189148,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 952,
+      "EndOffset": 954
+    },
+    {
+      "Score": 0.9803898334503174,
+      "Type": "PERSON",
+      "Text": "Felicity Huffman",
+      "BeginOffset": 967,
+      "EndOffset": 983
+    },
+    {
+      "Score": 0.9706969261169434,
+      "Type": "QUANTITY",
+      "Text": "13 parents",
+      "BeginOffset": 993,
+      "EndOffset": 1003
+    },
+    {
+      "Score": 0.892684280872345,
+      "Type": "QUANTITY",
+      "Text": "one coach",
+      "BeginOffset": 1008,
+      "EndOffset": 1017
+    },
+    {
+      "Score": 0.40515702962875366,
+      "Type": "QUANTITY",
+      "Text": "213",
+      "BeginOffset": 1100,
+      "EndOffset": 1103
+    },
+    {
+      "Score": 0.6855428218841553,
+      "Type": "ORGANIZATION",
+      "Text": "U.S. Labels Iran's Guard Corps",
+      "BeginOffset": 1104,
+      "EndOffset": 1134
+    },
+    {
+      "Score": 0.6677283048629761,
+      "Type": "OTHER",
+      "Text": "65303",
+      "BeginOffset": 1172,
+      "EndOffset": 1177
+    },
+    {
+      "Score": 0.7087176442146301,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 1184,
+      "EndOffset": 1187
+    },
+    {
+      "Score": 0.9552279114723206,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 1199,
+      "EndOffset": 1201
+    },
+    {
+      "Score": 0.9169461727142334,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1210,
+      "EndOffset": 1215
+    },
+    {
+      "Score": 0.7255628108978271,
+      "Type": "LOCATION",
+      "Text": "Iran",
+      "BeginOffset": 1242,
+      "EndOffset": 1246
+    },
+    {
+      "Score": 0.9960908889770508,
+      "Type": "ORGANIZATION",
+      "Text": "Islamic Revolutionary Guard\n   Corps",
+      "BeginOffset": 1249,
+      "EndOffset": 1285
+    },
+    {
+      "Score": 0.7967388033866882,
+      "Type": "QUANTITY",
+      "Text": "first time",
+      "BeginOffset": 1335,
+      "EndOffset": 1345
+    },
+    {
+      "Score": 0.4308757483959198,
+      "Type": "QUANTITY",
+      "Text": "216",
+      "BeginOffset": 1423,
+      "EndOffset": 1426
+    },
+    {
+      "Score": 0.7000095844268799,
+      "Type": "OTHER",
+      "Text": "65109",
+      "BeginOffset": 1509,
+      "EndOffset": 1514
+    },
+    {
+      "Score": 0.7200155854225159,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 1521,
+      "EndOffset": 1524
+    },
+    {
+      "Score": 0.8911400437355042,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 1536,
+      "EndOffset": 1538
+    },
+    {
+      "Score": 0.9621536135673523,
+      "Type": "ORGANIZATION",
+      "Text": "Bayer AG",
+      "BeginOffset": 1543,
+      "EndOffset": 1551
+    },
+    {
+      "Score": 0.8581951856613159,
+      "Type": "QUANTITY",
+      "Text": "hundreds of studies",
+      "BeginOffset": 1557,
+      "EndOffset": 1576
+    },
+    {
+      "Score": 0.9697122573852539,
+      "Type": "QUANTITY",
+      "Text": "Two\n   juries",
+      "BeginOffset": 1680,
+      "EndOffset": 1693
+    },
+    {
+      "Score": 0.6212253570556641,
+      "Type": "OTHER",
+      "Text": "65331",
+      "BeginOffset": 1764,
+      "EndOffset": 1769
+    },
+    {
+      "Score": 0.4682976305484772,
+      "Type": "QUANTITY",
+      "Text": "380",
+      "BeginOffset": 1776,
+      "EndOffset": 1779
+    },
+    {
+      "Score": 0.8790851831436157,
+      "Type": "QUANTITY",
+      "Text": "253",
+      "BeginOffset": 1791,
+      "EndOffset": 1794
+    },
+    {
+      "Score": 0.9639495611190796,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 1797,
+      "EndOffset": 1800
+    },
+    {
+      "Score": 0.806238055229187,
+      "Type": "PERSON",
+      "Text": "Netanyahu",
+      "BeginOffset": 1801,
+      "EndOffset": 1810
+    },
+    {
+      "Score": 0.9028312563896179,
+      "Type": "PERSON",
+      "Text": "Prime Minister Benjamin Netanyahu",
+      "BeginOffset": 1868,
+      "EndOffset": 1901
+    },
+    {
+      "Score": 0.5351517796516418,
+      "Type": "PERSON",
+      "Text": "Netanyahu",
+      "BeginOffset": 2091,
+      "EndOffset": 2100
+    },
+    {
+      "Score": 0.5806954503059387,
+      "Type": "PERSON",
+      "Text": "Netanyahu",
+      "BeginOffset": 2193,
+      "EndOffset": 2202
+    },
+    {
+      "Score": 0.5634422898292542,
+      "Type": "OTHER",
+      "Text": "65398",
+      "BeginOffset": 2215,
+      "EndOffset": 2220
+    },
+    {
+      "Score": 0.7122577428817749,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 2227,
+      "EndOffset": 2230
+    },
+    {
+      "Score": 0.9228130578994751,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 2242,
+      "EndOffset": 2244
+    },
+    {
+      "Score": 0.8825904130935669,
+      "Type": "QUANTITY",
+      "Text": "224",
+      "BeginOffset": 2247,
+      "EndOffset": 2250
+    },
+    {
+      "Score": 0.4032016396522522,
+      "Type": "ORGANIZATION",
+      "Text": "Aramco",
+      "BeginOffset": 2251,
+      "EndOffset": 2257
+    },
+    {
+      "Score": 0.9558605551719666,
+      "Type": "QUANTITY",
+      "Text": "$60 Billion",
+      "BeginOffset": 2298,
+      "EndOffset": 2309
+    },
+    {
+      "Score": 0.7601861953735352,
+      "Type": "ORGANIZATION",
+      "Text": "Aramco",
+      "BeginOffset": 2313,
+      "EndOffset": 2319
+    },
+    {
+      "Score": 0.912696123123169,
+      "Type": "QUANTITY",
+      "Text": "about $60 billion",
+      "BeginOffset": 2328,
+      "EndOffset": 2345
+    },
+    {
+      "Score": 0.9969934225082397,
+      "Type": "QUANTITY",
+      "Text": "$10 billion",
+      "BeginOffset": 2421,
+      "EndOffset": 2432
+    },
+    {
+      "Score": 0.7512138485908508,
+      "Type": "LOCATION",
+      "Text": "Saudi",
+      "BeginOffset": 2449,
+      "EndOffset": 2454
+    },
+    {
+      "Score": 0.8444191813468933,
+      "Type": "ORGANIZATION",
+      "Text": "Aramco",
+      "BeginOffset": 2539,
+      "EndOffset": 2545
+    },
+    {
+      "Score": 0.5943583846092224,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 2605,
+      "EndOffset": 2608
+    },
+    {
+      "Score": 0.8917694091796875,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 2620,
+      "EndOffset": 2622
+    },
+    {
+      "Score": 0.9209224581718445,
+      "Type": "QUANTITY",
+      "Text": "227",
+      "BeginOffset": 2625,
+      "EndOffset": 2628
+    },
+    {
+      "Score": 0.6343216896057129,
+      "Type": "PERSON",
+      "Text": "Libyan Warlord",
+      "BeginOffset": 2629,
+      "EndOffset": 2643
+    },
+    {
+      "Score": 0.6292613744735718,
+      "Type": "LOCATION",
+      "Text": "Tripoli Airport",
+      "BeginOffset": 2662,
+      "EndOffset": 2677
+    },
+    {
+      "Score": 0.822021484375,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 2687,
+      "EndOffset": 2691
+    },
+    {
+      "Score": 0.9860438704490662,
+      "Type": "PERSON",
+      "Text": "Khalifa Haftar",
+      "BeginOffset": 2727,
+      "EndOffset": 2741
+    },
+    {
+      "Score": 0.581803023815155,
+      "Type": "LOCATION",
+      "Text": "Libyan",
+      "BeginOffset": 2754,
+      "EndOffset": 2760
+    },
+    {
+      "Score": 0.872296154499054,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 2839,
+      "EndOffset": 2843
+    },
+    {
+      "Score": 0.32669496536254883,
+      "Type": "QUANTITY",
+      "Text": "228",
+      "BeginOffset": 2858,
+      "EndOffset": 2861
+    },
+    {
+      "Score": 0.7943008542060852,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 2862,
+      "EndOffset": 2866
+    },
+    {
+      "Score": 0.8774631023406982,
+      "Type": "LOCATION",
+      "Text": "Libya",
+      "BeginOffset": 2887,
+      "EndOffset": 2892
+    },
+    {
+      "Score": 0.47654005885124207,
+      "Type": "QUANTITY",
+      "Text": "229",
+      "BeginOffset": 2922,
+      "EndOffset": 2925
+    },
+    {
+      "Score": 0.7734835743904114,
+      "Type": "OTHER",
+      "Text": "65477",
+      "BeginOffset": 2930,
+      "EndOffset": 2935
+    },
+    {
+      "Score": 0.6704947352409363,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 2942,
+      "EndOffset": 2945
+    },
+    {
+      "Score": 0.8507394194602966,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 2957,
+      "EndOffset": 2960
+    },
+    {
+      "Score": 0.9055066108703613,
+      "Type": "QUANTITY",
+      "Text": "230",
+      "BeginOffset": 2963,
+      "EndOffset": 2966
+    },
+    {
+      "Score": 0.905723512172699,
+      "Type": "LOCATION",
+      "Text": "D.C.",
+      "BeginOffset": 3020,
+      "EndOffset": 3024
+    },
+    {
+      "Score": 0.6381409168243408,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 3049,
+      "EndOffset": 3052
+    },
+    {
+      "Score": 0.8347309827804565,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 3064,
+      "EndOffset": 3067
+    },
+    {
+      "Score": 0.9487502574920654,
+      "Type": "QUANTITY",
+      "Text": "232",
+      "BeginOffset": 3070,
+      "EndOffset": 3073
+    },
+    {
+      "Score": 0.9575897455215454,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 3103,
+      "EndOffset": 3109
+    },
+    {
+      "Score": 0.7410507798194885,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 3162,
+      "EndOffset": 3165
+    },
+    {
+      "Score": 0.888327956199646,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 3177,
+      "EndOffset": 3180
+    },
+    {
+      "Score": 0.9532473087310791,
+      "Type": "QUANTITY",
+      "Text": "234",
+      "BeginOffset": 3183,
+      "EndOffset": 3186
+    },
+    {
+      "Score": 0.6825947761535645,
+      "Type": "LOCATION",
+      "Text": "Europe",
+      "BeginOffset": 3218,
+      "EndOffset": 3224
+    },
+    {
+      "Score": 0.7649766206741333,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 3269,
+      "EndOffset": 3272
+    },
+    {
+      "Score": 0.8760467767715454,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 3284,
+      "EndOffset": 3287
+    },
+    {
+      "Score": 0.9531696438789368,
+      "Type": "QUANTITY",
+      "Text": "236",
+      "BeginOffset": 3290,
+      "EndOffset": 3293
+    },
+    {
+      "Score": 0.6115171909332275,
+      "Type": "QUANTITY",
+      "Text": "237",
+      "BeginOffset": 3353,
+      "EndOffset": 3356
+    },
+    {
+      "Score": 0.6510845422744751,
+      "Type": "QUANTITY",
+      "Text": "238",
+      "BeginOffset": 3399,
+      "EndOffset": 3402
+    },
+    {
+      "Score": 0.9727239608764648,
+      "Type": "LOCATION",
+      "Text": "America",
+      "BeginOffset": 3412,
+      "EndOffset": 3419
+    },
+    {
+      "Score": 0.9901717305183411,
+      "Type": "PERSON",
+      "Text": "Rick Pitino",
+      "BeginOffset": 3421,
+      "EndOffset": 3432
+    },
+    {
+      "Score": 0.6740953326225281,
+      "Type": "DATE",
+      "Text": "March",
+      "BeginOffset": 3445,
+      "EndOffset": 3450
+    },
+    {
+      "Score": 0.796561598777771,
+      "Type": "QUANTITY",
+      "Text": "239",
+      "BeginOffset": 3460,
+      "EndOffset": 3463
+    },
+    {
+      "Score": 0.5178319215774536,
+      "Type": "QUANTITY",
+      "Text": "240",
+      "BeginOffset": 3533,
+      "EndOffset": 3536
+    },
+    {
+      "Score": 0.6841461062431335,
+      "Type": "QUANTITY",
+      "Text": "Three Americans",
+      "BeginOffset": 3546,
+      "EndOffset": 3561
+    },
+    {
+      "Score": 0.9430873394012451,
+      "Type": "LOCATION",
+      "Text": "Afghanistan",
+      "BeginOffset": 3572,
+      "EndOffset": 3583
+    },
+    {
+      "Score": 0.681534469127655,
+      "Type": "QUANTITY",
+      "Text": "three",
+      "BeginOffset": 3602,
+      "EndOffset": 3607
+    },
+    {
+      "Score": 0.6432372331619263,
+      "Type": "OTHER",
+      "Text": "American",
+      "BeginOffset": 3608,
+      "EndOffset": 3616
+    },
+    {
+      "Score": 0.4485481381416321,
+      "Type": "LOCATION",
+      "Text": "Taliban",
+      "BeginOffset": 3679,
+      "EndOffset": 3686
+    },
+    {
+      "Score": 0.9991347193717957,
+      "Type": "LOCATION",
+      "Text": "Afghanistan",
+      "BeginOffset": 3709,
+      "EndOffset": 3720
+    },
+    {
+      "Score": 0.9584965109825134,
+      "Type": "DATE",
+      "Text": "Monday",
+      "BeginOffset": 3724,
+      "EndOffset": 3730
+    },
+    {
+      "Score": 0.8014587163925171,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 3732,
+      "EndOffset": 3736
+    },
+    {
+      "Score": 0.31799718737602234,
+      "Type": "QUANTITY",
+      "Text": "241",
+      "BeginOffset": 3738,
+      "EndOffset": 3741
+    },
+    {
+      "Score": 0.8492906093597412,
+      "Type": "ORGANIZATION",
+      "Text": "U.S. Secret Service",
+      "BeginOffset": 3742,
+      "EndOffset": 3761
+    },
+    {
+      "Score": 0.9902374148368835,
+      "Type": "ORGANIZATION",
+      "Text": "U.S. Secret Service",
+      "BeginOffset": 3807,
+      "EndOffset": 3826
+    },
+    {
+      "Score": 0.9364907145500183,
+      "Type": "PERSON",
+      "Text": "Randolph Alles",
+      "BeginOffset": 3828,
+      "EndOffset": 3842
+    },
+    {
+      "Score": 0.9957247376441956,
+      "Type": "PERSON",
+      "Text": "James Murray",
+      "BeginOffset": 3919,
+      "EndOffset": 3931
+    },
+    {
+      "Score": 0.643243134021759,
+      "Type": "QUANTITY",
+      "Text": "242",
+      "BeginOffset": 3934,
+      "EndOffset": 3937
+    },
+    {
+      "Score": 0.8777754902839661,
+      "Type": "ORGANIZATION",
+      "Text": "Nissan",
+      "BeginOffset": 3938,
+      "EndOffset": 3944
+    },
+    {
+      "Score": 0.9879176616668701,
+      "Type": "PERSON",
+      "Text": "Carlos Ghosn",
+      "BeginOffset": 3983,
+      "EndOffset": 3995
+    },
+    {
+      "Score": 0.9674693942070007,
+      "Type": "ORGANIZATION",
+      "Text": "Nissan",
+      "BeginOffset": 4004,
+      "EndOffset": 4010
+    },
+    {
+      "Score": 0.9979071617126465,
+      "Type": "PERSON",
+      "Text": "Hiroto\n   Saikawa",
+      "BeginOffset": 4058,
+      "EndOffset": 4075
+    },
+    {
+      "Score": 0.7820624709129333,
+      "Type": "QUANTITY",
+      "Text": "243",
+      "BeginOffset": 4141,
+      "EndOffset": 4144
+    },
+    {
+      "Score": 0.46545150876045227,
+      "Type": "LOCATION",
+      "Text": "India",
+      "BeginOffset": 4145,
+      "EndOffset": 4150
+    },
+    {
+      "Score": 0.5851904153823853,
+      "Type": "OTHER",
+      "Text": "Indian",
+      "BeginOffset": 4210,
+      "EndOffset": 4216
+    },
+    {
+      "Score": 0.9953011274337769,
+      "Type": "DATE",
+      "Text": "Monday",
+      "BeginOffset": 4232,
+      "EndOffset": 4238
+    },
+    {
+      "Score": 0.8711732029914856,
+      "Type": "ORGANIZATION",
+      "Text": "Catholic",
+      "BeginOffset": 4273,
+      "EndOffset": 4281
+    },
+    {
+      "Score": 0.9991829991340637,
+      "Type": "LOCATION",
+      "Text": "Kerala",
+      "BeginOffset": 4335,
+      "EndOffset": 4341
+    },
+    {
+      "Score": 0.787439227104187,
+      "Type": "QUANTITY",
+      "Text": "two months",
+      "BeginOffset": 4343,
+      "EndOffset": 4353
+    },
+    {
+      "Score": 0.9919214844703674,
+      "Type": "PERSON",
+      "Text": "Pope Francis",
+      "BeginOffset": 4363,
+      "EndOffset": 4375
+    }
+  ]
+}

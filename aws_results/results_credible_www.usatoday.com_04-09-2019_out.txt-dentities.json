@@ -1,0 +1,781 @@
+{
+  "Entities": [
+    {
+      "Score": 0.6651903390884399,
+      "Type": "ORGANIZATION",
+      "Text": "USA TODAY",
+      "BeginOffset": 11,
+      "EndOffset": 20
+    },
+    {
+      "Score": 0.8157855868339539,
+      "Type": "DATE",
+      "Text": "this year",
+      "BeginOffset": 168,
+      "EndOffset": 177
+    },
+    {
+      "Score": 0.9986711144447327,
+      "Type": "PERSON",
+      "Text": "Lori Loughlin",
+      "BeginOffset": 189,
+      "EndOffset": 202
+    },
+    {
+      "Score": 0.9956781268119812,
+      "Type": "LOCATION",
+      "Text": "Afghanistan",
+      "BeginOffset": 253,
+      "EndOffset": 264
+    },
+    {
+      "Score": 0.9484787583351135,
+      "Type": "LOCATION",
+      "Text": "NYC",
+      "BeginOffset": 279,
+      "EndOffset": 282
+    },
+    {
+      "Score": 0.9984266757965088,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 330,
+      "EndOffset": 338
+    },
+    {
+      "Score": 0.9998069405555725,
+      "Type": "DATE",
+      "Text": "April 9, 2019",
+      "BeginOffset": 343,
+      "EndOffset": 356
+    },
+    {
+      "Score": 0.607617974281311,
+      "Type": "ORGANIZATION",
+      "Text": "Fire\n   Department",
+      "BeginOffset": 364,
+      "EndOffset": 382
+    },
+    {
+      "Score": 0.98674476146698,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 386,
+      "EndOffset": 394
+    },
+    {
+      "Score": 0.9883342385292053,
+      "Type": "PERSON",
+      "Text": "Christopher Slutman",
+      "BeginOffset": 407,
+      "EndOffset": 426
+    },
+    {
+      "Score": 0.6823994517326355,
+      "Type": "PERSON",
+      "Text": "Slutman",
+      "BeginOffset": 428,
+      "EndOffset": 435
+    },
+    {
+      "Score": 0.8842489123344421,
+      "Type": "QUANTITY",
+      "Text": "15-year",
+      "BeginOffset": 442,
+      "EndOffset": 449
+    },
+    {
+      "Score": 0.6104379892349243,
+      "Type": "ORGANIZATION",
+      "Text": "Fire Dept",
+      "BeginOffset": 464,
+      "EndOffset": 473
+    },
+    {
+      "Score": 0.9858526587486267,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 478,
+      "EndOffset": 486
+    },
+    {
+      "Score": 0.8137122988700867,
+      "Type": "QUANTITY",
+      "Text": "three",
+      "BeginOffset": 498,
+      "EndOffset": 503
+    },
+    {
+      "Score": 0.6661019325256348,
+      "Type": "OTHER",
+      "Text": "American",
+      "BeginOffset": 504,
+      "EndOffset": 512
+    },
+    {
+      "Score": 0.9984063506126404,
+      "Type": "LOCATION",
+      "Text": "Afghanistan",
+      "BeginOffset": 561,
+      "EndOffset": 572
+    },
+    {
+      "Score": 0.9973402619361877,
+      "Type": "DATE",
+      "Text": "Monday",
+      "BeginOffset": 576,
+      "EndOffset": 582
+    },
+    {
+      "Score": 0.5006794929504395,
+      "Type": "LOCATION",
+      "Text": "Auburn",
+      "BeginOffset": 637,
+      "EndOffset": 643
+    },
+    {
+      "Score": 0.999848484992981,
+      "Type": "PERSON",
+      "Text": "Samantha Cerio",
+      "BeginOffset": 652,
+      "EndOffset": 666
+    },
+    {
+      "Score": 0.8401309847831726,
+      "Type": "QUANTITY",
+      "Text": "both",
+      "BeginOffset": 701,
+      "EndOffset": 705
+    },
+    {
+      "Score": 0.9940975308418274,
+      "Type": "ORGANIZATION",
+      "Text": "AT&T",
+      "BeginOffset": 709,
+      "EndOffset": 713
+    },
+    {
+      "Score": 0.6082695722579956,
+      "Type": "QUANTITY",
+      "Text": "seven",
+      "BeginOffset": 723,
+      "EndOffset": 728
+    },
+    {
+      "Score": 0.7592905759811401,
+      "Type": "QUANTITY",
+      "Text": "5G cities",
+      "BeginOffset": 734,
+      "EndOffset": 743
+    },
+    {
+      "Score": 0.7967096567153931,
+      "Type": "QUANTITY",
+      "Text": "19",
+      "BeginOffset": 755,
+      "EndOffset": 757
+    },
+    {
+      "Score": 0.9994131922721863,
+      "Type": "PERSON",
+      "Text": "Jamie Siminoff",
+      "BeginOffset": 833,
+      "EndOffset": 847
+    },
+    {
+      "Score": 0.8059490919113159,
+      "Type": "QUANTITY",
+      "Text": "first time",
+      "BeginOffset": 936,
+      "EndOffset": 946
+    },
+    {
+      "Score": 0.6426246762275696,
+      "Type": "LOCATION",
+      "Text": "Virginia",
+      "BeginOffset": 950,
+      "EndOffset": 958
+    },
+    {
+      "Score": 0.6913523077964783,
+      "Type": "ORGANIZATION",
+      "Text": "Texas Tech",
+      "BeginOffset": 982,
+      "EndOffset": 992
+    },
+    {
+      "Score": 0.9719288349151611,
+      "Type": "ORGANIZATION",
+      "Text": "Texas Tech",
+      "BeginOffset": 1004,
+      "EndOffset": 1014
+    },
+    {
+      "Score": 0.9996696710586548,
+      "Type": "PERSON",
+      "Text": "Chris Beard",
+      "BeginOffset": 1021,
+      "EndOffset": 1032
+    },
+    {
+      "Score": 0.9986414313316345,
+      "Type": "PERSON",
+      "Text": "Jarrett Culver",
+      "BeginOffset": 1048,
+      "EndOffset": 1062
+    },
+    {
+      "Score": 0.936939537525177,
+      "Type": "LOCATION",
+      "Text": "Virginia",
+      "BeginOffset": 1082,
+      "EndOffset": 1090
+    },
+    {
+      "Score": 0.8668482899665833,
+      "Type": "EVENT",
+      "Text": "2019 NCAA tournament national title game",
+      "BeginOffset": 1098,
+      "EndOffset": 1138
+    },
+    {
+      "Score": 0.5531138181686401,
+      "Type": "ORGANIZATION",
+      "Text": "U.S. Sen",
+      "BeginOffset": 1191,
+      "EndOffset": 1199
+    },
+    {
+      "Score": 0.9950861930847168,
+      "Type": "PERSON",
+      "Text": "Cory Booker",
+      "BeginOffset": 1201,
+      "EndOffset": 1212
+    },
+    {
+      "Score": 0.8043214678764343,
+      "Type": "ORGANIZATION",
+      "Text": "D-N.J.",
+      "BeginOffset": 1214,
+      "EndOffset": 1220
+    },
+    {
+      "Score": 0.9523308873176575,
+      "Type": "LOCATION",
+      "Text": "Portsmouth, N.H.",
+      "BeginOffset": 1273,
+      "EndOffset": 1289
+    },
+    {
+      "Score": 0.9963003396987915,
+      "Type": "DATE",
+      "Text": "Saturday, Feb. 16, 2019",
+      "BeginOffset": 1291,
+      "EndOffset": 1314
+    },
+    {
+      "Score": 0.9945711493492126,
+      "Type": "PERSON",
+      "Text": "Barr",
+      "BeginOffset": 1501,
+      "EndOffset": 1505
+    },
+    {
+      "Score": 0.9565418362617493,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 1524,
+      "EndOffset": 1531
+    },
+    {
+      "Score": 0.9419521689414978,
+      "Type": "PERSON",
+      "Text": "Attorney General William Barr",
+      "BeginOffset": 1558,
+      "EndOffset": 1587
+    },
+    {
+      "Score": 0.684096097946167,
+      "Type": "ORGANIZATION",
+      "Text": "House Appropriation",
+      "BeginOffset": 1609,
+      "EndOffset": 1628
+    },
+    {
+      "Score": 0.5499683022499084,
+      "Type": "ORGANIZATION",
+      "Text": "UVA",
+      "BeginOffset": 1744,
+      "EndOffset": 1747
+    },
+    {
+      "Score": 0.9843205213546753,
+      "Type": "ORGANIZATION",
+      "Text": "Virginia Cavaliers",
+      "BeginOffset": 1755,
+      "EndOffset": 1773
+    },
+    {
+      "Score": 0.9802327752113342,
+      "Type": "ORGANIZATION",
+      "Text": "Texas Tech Red Raiders",
+      "BeginOffset": 1831,
+      "EndOffset": 1853
+    },
+    {
+      "Score": 0.8481875658035278,
+      "Type": "QUANTITY",
+      "Text": "200 million",
+      "BeginOffset": 1933,
+      "EndOffset": 1944
+    },
+    {
+      "Score": 0.6965691447257996,
+      "Type": "PERSON",
+      "Text": "Penza Lemba",
+      "BeginOffset": 1966,
+      "EndOffset": 1977
+    },
+    {
+      "Score": 0.858595609664917,
+      "Type": "LOCATION",
+      "Text": "Jefferson Street",
+      "BeginOffset": 2013,
+      "EndOffset": 2029
+    },
+    {
+      "Score": 0.9499971866607666,
+      "Type": "LOCATION",
+      "Text": "Lewiston, Maine",
+      "BeginOffset": 2036,
+      "EndOffset": 2051
+    },
+    {
+      "Score": 0.9990785717964172,
+      "Type": "DATE",
+      "Text": "Monday, April 8, 2019",
+      "BeginOffset": 2056,
+      "EndOffset": 2077
+    },
+    {
+      "Score": 0.9418620467185974,
+      "Type": "LOCATION",
+      "Text": "New England",
+      "BeginOffset": 2116,
+      "EndOffset": 2127
+    },
+    {
+      "Score": 0.8591594696044922,
+      "Type": "QUANTITY",
+      "Text": "one storm",
+      "BeginOffset": 2142,
+      "EndOffset": 2151
+    },
+    {
+      "Score": 0.9977464079856873,
+      "Type": "DATE",
+      "Text": "Jan. 10, 2017",
+      "BeginOffset": 2251,
+      "EndOffset": 2264
+    },
+    {
+      "Score": 0.878377377986908,
+      "Type": "ORGANIZATION",
+      "Text": "British Airways",
+      "BeginOffset": 2277,
+      "EndOffset": 2292
+    },
+    {
+      "Score": 0.9713385701179504,
+      "Type": "LOCATION",
+      "Text": "Heathrow Airport",
+      "BeginOffset": 2317,
+      "EndOffset": 2333
+    },
+    {
+      "Score": 0.9977800250053406,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2337,
+      "EndOffset": 2343
+    },
+    {
+      "Score": 0.9203605651855469,
+      "Type": "ORGANIZATION",
+      "Text": "British Airways",
+      "BeginOffset": 2347,
+      "EndOffset": 2362
+    },
+    {
+      "Score": 0.9895198345184326,
+      "Type": "LOCATION",
+      "Text": "Pakistan",
+      "BeginOffset": 2389,
+      "EndOffset": 2397
+    },
+    {
+      "Score": 0.9981061816215515,
+      "Type": "DATE",
+      "Text": "June 2019",
+      "BeginOffset": 2401,
+      "EndOffset": 2410
+    },
+    {
+      "Score": 0.860230565071106,
+      "Type": "ORGANIZATION",
+      "Text": "Marriott Hotel",
+      "BeginOffset": 2479,
+      "EndOffset": 2493
+    },
+    {
+      "Score": 0.9980270266532898,
+      "Type": "LOCATION",
+      "Text": "Islamabad",
+      "BeginOffset": 2497,
+      "EndOffset": 2506
+    },
+    {
+      "Score": 0.7782474160194397,
+      "Type": "QUANTITY",
+      "Text": "dozens",
+      "BeginOffset": 2522,
+      "EndOffset": 2528
+    },
+    {
+      "Score": 0.8891063332557678,
+      "Type": "ORGANIZATION",
+      "Text": "British Airways",
+      "BeginOffset": 2545,
+      "EndOffset": 2560
+    },
+    {
+      "Score": 0.982600748538971,
+      "Type": "DATE",
+      "Text": "Tuesday Dec. 18. 2018",
+      "BeginOffset": 2585,
+      "EndOffset": 2606
+    },
+    {
+      "Score": 0.6537958979606628,
+      "Type": "ORGANIZATION",
+      "Text": "AP",
+      "BeginOffset": 2609,
+      "EndOffset": 2611
+    },
+    {
+      "Score": 0.9950422644615173,
+      "Type": "PERSON",
+      "Text": "Frank Augstein",
+      "BeginOffset": 2618,
+      "EndOffset": 2632
+    },
+    {
+      "Score": 0.673703670501709,
+      "Type": "ORGANIZATION",
+      "Text": "ISL101",
+      "BeginOffset": 2650,
+      "EndOffset": 2656
+    },
+    {
+      "Score": 0.7750939726829529,
+      "Type": "ORGANIZATION",
+      "Text": "USA TODAY Network",
+      "BeginOffset": 2660,
+      "EndOffset": 2677
+    },
+    {
+      "Score": 0.9548385143280029,
+      "Type": "QUANTITY",
+      "Text": "10 cities",
+      "BeginOffset": 2703,
+      "EndOffset": 2712
+    },
+    {
+      "Score": 0.980713427066803,
+      "Type": "PERSON",
+      "Text": "Martha Stewart",
+      "BeginOffset": 2716,
+      "EndOffset": 2730
+    },
+    {
+      "Score": 0.8720818758010864,
+      "Type": "LOCATION",
+      "Text": "Naples, Fla",
+      "BeginOffset": 2763,
+      "EndOffset": 2774
+    },
+    {
+      "Score": 0.7769120335578918,
+      "Type": "LOCATION",
+      "Text": "NYC",
+      "BeginOffset": 2839,
+      "EndOffset": 2842
+    },
+    {
+      "Score": 0.9993741512298584,
+      "Type": "PERSON",
+      "Text": "Steve Sierzega",
+      "BeginOffset": 2896,
+      "EndOffset": 2910
+    },
+    {
+      "Score": 0.9888791441917419,
+      "Type": "ORGANIZATION",
+      "Text": "Rockland County Health Department",
+      "BeginOffset": 2967,
+      "EndOffset": 3000
+    },
+    {
+      "Score": 0.9863695502281189,
+      "Type": "LOCATION",
+      "Text": "Pomona, New York",
+      "BeginOffset": 3004,
+      "EndOffset": 3020
+    },
+    {
+      "Score": 0.9848817586898804,
+      "Type": "DATE",
+      "Text": "March 27",
+      "BeginOffset": 3025,
+      "EndOffset": 3033
+    },
+    {
+      "Score": 0.9187061786651611,
+      "Type": "PERSON",
+      "Text": "Pelosi",
+      "BeginOffset": 3053,
+      "EndOffset": 3059
+    },
+    {
+      "Score": 0.9882885217666626,
+      "Type": "PERSON",
+      "Text": "Nancy Pelosi",
+      "BeginOffset": 3110,
+      "EndOffset": 3122
+    },
+    {
+      "Score": 0.9995729923248291,
+      "Type": "PERSON",
+      "Text": "Cathy Jenkins",
+      "BeginOffset": 3128,
+      "EndOffset": 3141
+    },
+    {
+      "Score": 0.9493340849876404,
+      "Type": "ORGANIZATION",
+      "Text": "Cathy's Kitchen",
+      "BeginOffset": 3159,
+      "EndOffset": 3174
+    },
+    {
+      "Score": 0.8903471231460571,
+      "Type": "LOCATION",
+      "Text": "Ferguson, Mo",
+      "BeginOffset": 3178,
+      "EndOffset": 3190
+    },
+    {
+      "Score": 0.998256266117096,
+      "Type": "PERSON",
+      "Text": "Lacy Clay",
+      "BeginOffset": 3197,
+      "EndOffset": 3206
+    },
+    {
+      "Score": 0.9935007095336914,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 3227,
+      "EndOffset": 3242
+    },
+    {
+      "Score": 0.9895992875099182,
+      "Type": "PERSON",
+      "Text": "O'Donnell",
+      "BeginOffset": 3279,
+      "EndOffset": 3288
+    },
+    {
+      "Score": 0.9918493032455444,
+      "Type": "PERSON",
+      "Text": "Rosie O'Donnell",
+      "BeginOffset": 3332,
+      "EndOffset": 3347
+    },
+    {
+      "Score": 0.9378945827484131,
+      "Type": "QUANTITY",
+      "Text": "Season 8",
+      "BeginOffset": 3360,
+      "EndOffset": 3368
+    },
+    {
+      "Score": 0.9997010827064514,
+      "Type": "TITLE",
+      "Text": "Game Of Thrones",
+      "BeginOffset": 3382,
+      "EndOffset": 3397
+    },
+    {
+      "Score": 0.9491724967956543,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 3430,
+      "EndOffset": 3432
+    },
+    {
+      "Score": 0.93471759557724,
+      "Type": "LOCATION",
+      "Text": "Washington",
+      "BeginOffset": 3494,
+      "EndOffset": 3504
+    },
+    {
+      "Score": 0.996826708316803,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3594,
+      "EndOffset": 3599
+    },
+    {
+      "Score": 0.9720330834388733,
+      "Type": "PERSON",
+      "Text": "President Donald Trump",
+      "BeginOffset": 3645,
+      "EndOffset": 3667
+    },
+    {
+      "Score": 0.8418095707893372,
+      "Type": "ORGANIZATION",
+      "Text": "Republican",
+      "BeginOffset": 3713,
+      "EndOffset": 3723
+    },
+    {
+      "Score": 0.9703351259231567,
+      "Type": "QUANTITY",
+      "Text": "$1.5 trillion",
+      "BeginOffset": 3724,
+      "EndOffset": 3737
+    },
+    {
+      "Score": 0.9549696445465088,
+      "Type": "PERSON",
+      "Text": "Omar",
+      "BeginOffset": 3788,
+      "EndOffset": 3792
+    },
+    {
+      "Score": 0.9527327418327332,
+      "Type": "OTHER",
+      "Text": "Jewish",
+      "BeginOffset": 3799,
+      "EndOffset": 3805
+    },
+    {
+      "Score": 0.9976515769958496,
+      "Type": "PERSON",
+      "Text": "Stephen Miller",
+      "BeginOffset": 3806,
+      "EndOffset": 3820
+    },
+    {
+      "Score": 0.991637647151947,
+      "Type": "PERSON",
+      "Text": "Ilhan Omar",
+      "BeginOffset": 3849,
+      "EndOffset": 3859
+    },
+    {
+      "Score": 0.6679643392562866,
+      "Type": "ORGANIZATION",
+      "Text": "D-Minn",
+      "BeginOffset": 3861,
+      "EndOffset": 3867
+    },
+    {
+      "Score": 0.7862780094146729,
+      "Type": "ORGANIZATION",
+      "Text": "NATO",
+      "BeginOffset": 3892,
+      "EndOffset": 3896
+    },
+    {
+      "Score": 0.9987843632698059,
+      "Type": "PERSON",
+      "Text": "Jens Stoltenberg",
+      "BeginOffset": 3918,
+      "EndOffset": 3934
+    },
+    {
+      "Score": 0.9945486187934875,
+      "Type": "ORGANIZATION",
+      "Text": "Congress",
+      "BeginOffset": 3957,
+      "EndOffset": 3965
+    },
+    {
+      "Score": 0.9483880400657654,
+      "Type": "LOCATION",
+      "Text": "Capitol Hill",
+      "BeginOffset": 3970,
+      "EndOffset": 3982
+    },
+    {
+      "Score": 0.9900552034378052,
+      "Type": "QUANTITY",
+      "Text": "99 years",
+      "BeginOffset": 4001,
+      "EndOffset": 4009
+    },
+    {
+      "Score": 0.9477885365486145,
+      "Type": "PERSON",
+      "Text": "Rose Marie Bentley",
+      "BeginOffset": 4061,
+      "EndOffset": 4079
+    },
+    {
+      "Score": 0.9942402839660645,
+      "Type": "QUANTITY",
+      "Text": "99 years",
+      "BeginOffset": 4158,
+      "EndOffset": 4166
+    },
+    {
+      "Score": 0.997973620891571,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 4274,
+      "EndOffset": 4279
+    },
+    {
+      "Score": 0.9019693732261658,
+      "Type": "PERSON",
+      "Text": "Homeland Security Secretary Kirstjen Nielsen",
+      "BeginOffset": 4333,
+      "EndOffset": 4377
+    },
+    {
+      "Score": 0.9976295232772827,
+      "Type": "PERSON",
+      "Text": "Olivia Jade",
+      "BeginOffset": 4390,
+      "EndOffset": 4401
+    },
+    {
+      "Score": 0.9993243217468262,
+      "Type": "PERSON",
+      "Text": "Lori Loughlin",
+      "BeginOffset": 4444,
+      "EndOffset": 4457
+    },
+    {
+      "Score": 0.996208131313324,
+      "Type": "PERSON",
+      "Text": "Olivia Jade Giannulli",
+      "BeginOffset": 4476,
+      "EndOffset": 4497
+    }
+  ]
+}

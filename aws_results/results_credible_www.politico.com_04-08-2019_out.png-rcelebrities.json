@@ -1,0 +1,57 @@
+{
+  "CelebrityFaces": [
+    {
+      "Urls": [],
+      "Name": "Chris Murphy",
+      "Id": "3Ny5Ao9n",
+      "Face": {
+        "BoundingBox": {
+          "Width": 0.1767578125,
+          "Height": 0.22624999284744263,
+          "Left": 0.59375,
+          "Top": 0.5950000286102295
+        },
+        "Confidence": 99.94840240478516,
+        "Landmarks": [
+          {
+            "Type": "eyeLeft",
+            "X": 0.6469964385032654,
+            "Y": 0.6881507039070129
+          },
+          {
+            "Type": "eyeRight",
+            "X": 0.703835666179657,
+            "Y": 0.6711464524269104
+          },
+          {
+            "Type": "nose",
+            "X": 0.6685506105422974,
+            "Y": 0.7104710340499878
+          },
+          {
+            "Type": "mouthLeft",
+            "X": 0.6598277688026428,
+            "Y": 0.7694641351699829
+          },
+          {
+            "Type": "mouthRight",
+            "X": 0.707394003868103,
+            "Y": 0.7568568587303162
+          }
+        ],
+        "Pose": {
+          "Roll": -12.572525024414062,
+          "Yaw": -11.089158058166504,
+          "Pitch": 18.5645809173584
+        },
+        "Quality": {
+          "Brightness": 38.581199645996094,
+          "Sharpness": 94.1185531616211
+        }
+      },
+      "MatchConfidence": 100
+    }
+  ],
+  "UnrecognizedFaces": [],
+  "OrientationCorrection": "ROTATE_0"
+}

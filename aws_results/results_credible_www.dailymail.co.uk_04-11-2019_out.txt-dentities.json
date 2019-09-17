@@ -1,0 +1,942 @@
+{
+  "Entities": [
+    {
+      "Score": 0.44006043672561646,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 231,
+      "EndOffset": 233
+    },
+    {
+      "Score": 0.9882798194885254,
+      "Type": "DATE",
+      "Text": "Thursday, Apr 11th 2019",
+      "BeginOffset": 286,
+      "EndOffset": 309
+    },
+    {
+      "Score": 0.8447422981262207,
+      "Type": "DATE",
+      "Text": "2PM",
+      "BeginOffset": 314,
+      "EndOffset": 317
+    },
+    {
+      "Score": 0.6380119919776917,
+      "Type": "QUANTITY",
+      "Text": "3°C",
+      "BeginOffset": 318,
+      "EndOffset": 321
+    },
+    {
+      "Score": 0.8943774700164795,
+      "Type": "QUANTITY",
+      "Text": "5PM",
+      "BeginOffset": 322,
+      "EndOffset": 325
+    },
+    {
+      "Score": 0.7881913185119629,
+      "Type": "QUANTITY",
+      "Text": "3°",
+      "BeginOffset": 326,
+      "EndOffset": 328
+    },
+    {
+      "Score": 0.9286743402481079,
+      "Type": "QUANTITY",
+      "Text": "5-Day",
+      "BeginOffset": 330,
+      "EndOffset": 335
+    },
+    {
+      "Score": 0.6780033111572266,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 346,
+      "EndOffset": 348
+    },
+    {
+      "Score": 0.8634659647941589,
+      "Type": "ORGANIZATION",
+      "Text": "Wikileaks",
+      "BeginOffset": 370,
+      "EndOffset": 379
+    },
+    {
+      "Score": 0.9995870590209961,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 388,
+      "EndOffset": 402
+    },
+    {
+      "Score": 0.7980076670646667,
+      "Type": "ORGANIZATION",
+      "Text": "Ecuadorian Embassy",
+      "BeginOffset": 414,
+      "EndOffset": 432
+    },
+    {
+      "Score": 0.9994584918022156,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 436,
+      "EndOffset": 442
+    },
+    {
+      "Score": 0.944451630115509,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 471,
+      "EndOffset": 473
+    },
+    {
+      "Score": 0.9128316640853882,
+      "Type": "DATE",
+      "Text": "seven years after",
+      "BeginOffset": 496,
+      "EndOffset": 513
+    },
+    {
+      "Score": 0.864118754863739,
+      "Type": "QUANTITY",
+      "Text": "964",
+      "BeginOffset": 538,
+      "EndOffset": 541
+    },
+    {
+      "Score": 0.6271874308586121,
+      "Type": "QUANTITY",
+      "Text": "580",
+      "BeginOffset": 542,
+      "EndOffset": 545
+    },
+    {
+      "Score": 0.9982031583786011,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 585,
+      "EndOffset": 599
+    },
+    {
+      "Score": 0.6309770941734314,
+      "Type": "LOCATION",
+      "Text": "British",
+      "BeginOffset": 621,
+      "EndOffset": 628
+    },
+    {
+      "Score": 0.7855679988861084,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 636,
+      "EndOffset": 641
+    },
+    {
+      "Score": 0.8928481936454773,
+      "Type": "LOCATION",
+      "Text": "Ecuador",
+      "BeginOffset": 648,
+      "EndOffset": 655
+    },
+    {
+      "Score": 0.9224485158920288,
+      "Type": "DATE",
+      "Text": "seven years after",
+      "BeginOffset": 702,
+      "EndOffset": 719
+    },
+    {
+      "Score": 0.9660389423370361,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 760,
+      "EndOffset": 766
+    },
+    {
+      "Score": 0.9453997015953064,
+      "Type": "ORGANIZATION",
+      "Text": "Wikileaks",
+      "BeginOffset": 780,
+      "EndOffset": 789
+    },
+    {
+      "Score": 0.7935165166854858,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 906,
+      "EndOffset": 911
+    },
+    {
+      "Score": 0.8849493265151978,
+      "Type": "QUANTITY",
+      "Text": "seven\n   men",
+      "BeginOffset": 939,
+      "EndOffset": 951
+    },
+    {
+      "Score": 0.8966066837310791,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 1009,
+      "EndOffset": 1011
+    },
+    {
+      "Score": 0.8937757015228271,
+      "Type": "LOCATION",
+      "Text": "Ecuador",
+      "BeginOffset": 1029,
+      "EndOffset": 1036
+    },
+    {
+      "Score": 0.9990730881690979,
+      "Type": "PERSON",
+      "Text": "Lenin Moreno",
+      "BeginOffset": 1049,
+      "EndOffset": 1061
+    },
+    {
+      "Score": 0.7482872009277344,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 1095,
+      "EndOffset": 1102
+    },
+    {
+      "Score": 0.9817001223564148,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 1202,
+      "EndOffset": 1211
+    },
+    {
+      "Score": 0.9942916631698608,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 1244,
+      "EndOffset": 1251
+    },
+    {
+      "Score": 0.9969281554222107,
+      "Type": "QUANTITY",
+      "Text": "47",
+      "BeginOffset": 1253,
+      "EndOffset": 1255
+    },
+    {
+      "Score": 0.7897641062736511,
+      "Type": "LOCATION",
+      "Text": "Ecuador",
+      "BeginOffset": 1270,
+      "EndOffset": 1277
+    },
+    {
+      "Score": 0.998602569103241,
+      "Type": "DATE",
+      "Text": "2012",
+      "BeginOffset": 1305,
+      "EndOffset": 1309
+    },
+    {
+      "Score": 0.9996286630630493,
+      "Type": "LOCATION",
+      "Text": "Sweden",
+      "BeginOffset": 1399,
+      "EndOffset": 1405
+    },
+    {
+      "Score": 0.9257796406745911,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 1503,
+      "EndOffset": 1510
+    },
+    {
+      "Score": 0.9642324447631836,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 1551,
+      "EndOffset": 1553
+    },
+    {
+      "Score": 0.9703933596611023,
+      "Type": "DATE",
+      "Text": "last year",
+      "BeginOffset": 1701,
+      "EndOffset": 1710
+    },
+    {
+      "Score": 0.8944408893585205,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 1716,
+      "EndOffset": 1723
+    },
+    {
+      "Score": 0.9742365479469299,
+      "Type": "ORGANIZATION",
+      "Text": "US Justice Department",
+      "BeginOffset": 1761,
+      "EndOffset": 1782
+    },
+    {
+      "Score": 0.9985294938087463,
+      "Type": "PERSON",
+      "Text": "Pamela Anderson",
+      "BeginOffset": 1807,
+      "EndOffset": 1822
+    },
+    {
+      "Score": 0.7325321435928345,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 1832,
+      "EndOffset": 1839
+    },
+    {
+      "Score": 0.6210955381393433,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 1856,
+      "EndOffset": 1863
+    },
+    {
+      "Score": 0.891028106212616,
+      "Type": "LOCATION",
+      "Text": "America",
+      "BeginOffset": 1868,
+      "EndOffset": 1875
+    },
+    {
+      "Score": 0.7309276461601257,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1927,
+      "EndOffset": 1933
+    },
+    {
+      "Score": 0.9988090991973877,
+      "Type": "PERSON",
+      "Text": "Pamela Anderson",
+      "BeginOffset": 1947,
+      "EndOffset": 1962
+    },
+    {
+      "Score": 0.875647246837616,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 1980,
+      "EndOffset": 1982
+    },
+    {
+      "Score": 0.9995427131652832,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 1989,
+      "EndOffset": 2003
+    },
+    {
+      "Score": 0.5987777709960938,
+      "Type": "LOCATION",
+      "Text": "Ecuadorian",
+      "BeginOffset": 2027,
+      "EndOffset": 2037
+    },
+    {
+      "Score": 0.9995689988136292,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2049,
+      "EndOffset": 2055
+    },
+    {
+      "Score": 0.9658492207527161,
+      "Type": "QUANTITY",
+      "Text": "seven years",
+      "BeginOffset": 2071,
+      "EndOffset": 2082
+    },
+    {
+      "Score": 0.5835250020027161,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 2084,
+      "EndOffset": 2086
+    },
+    {
+      "Score": 0.995762825012207,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 2098,
+      "EndOffset": 2112
+    },
+    {
+      "Score": 0.8341701626777649,
+      "Type": "OTHER",
+      "Text": "Swedish",
+      "BeginOffset": 2123,
+      "EndOffset": 2130
+    },
+    {
+      "Score": 0.8396603465080261,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 2230,
+      "EndOffset": 2237
+    },
+    {
+      "Score": 0.9516296982765198,
+      "Type": "ORGANIZATION",
+      "Text": "Wikileaks",
+      "BeginOffset": 2338,
+      "EndOffset": 2347
+    },
+    {
+      "Score": 0.7104862928390503,
+      "Type": "QUANTITY",
+      "Text": "52",
+      "BeginOffset": 2368,
+      "EndOffset": 2370
+    },
+    {
+      "Score": 0.896903932094574,
+      "Type": "QUANTITY",
+      "Text": "9 shares",
+      "BeginOffset": 2371,
+      "EndOffset": 2379
+    },
+    {
+      "Score": 0.6701093316078186,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 2390,
+      "EndOffset": 2397
+    },
+    {
+      "Score": 0.5439226031303406,
+      "Type": "QUANTITY",
+      "Text": "53",
+      "BeginOffset": 2435,
+      "EndOffset": 2437
+    },
+    {
+      "Score": 0.9992229342460632,
+      "Type": "PERSON",
+      "Text": "Edward Snowden",
+      "BeginOffset": 2438,
+      "EndOffset": 2452
+    },
+    {
+      "Score": 0.925273060798645,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 2459,
+      "EndOffset": 2466
+    },
+    {
+      "Score": 0.9753479957580566,
+      "Type": "ORGANIZATION",
+      "Text": "Wikileaks",
+      "BeginOffset": 2536,
+      "EndOffset": 2545
+    },
+    {
+      "Score": 0.7278271913528442,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 2582,
+      "EndOffset": 2584
+    },
+    {
+      "Score": 0.9944478273391724,
+      "Type": "ORGANIZATION",
+      "Text": "FBI",
+      "BeginOffset": 2596,
+      "EndOffset": 2599
+    },
+    {
+      "Score": 0.9603665471076965,
+      "Type": "LOCATION",
+      "Text": "Russia",
+      "BeginOffset": 2702,
+      "EndOffset": 2708
+    },
+    {
+      "Score": 0.9930619597434998,
+      "Type": "ORGANIZATION",
+      "Text": "FBI",
+      "BeginOffset": 2723,
+      "EndOffset": 2726
+    },
+    {
+      "Score": 0.5508918762207031,
+      "Type": "LOCATION",
+      "Text": "Russia",
+      "BeginOffset": 2829,
+      "EndOffset": 2835
+    },
+    {
+      "Score": 0.9664870500564575,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 2839,
+      "EndOffset": 2848
+    },
+    {
+      "Score": 0.9464883804321289,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 2857,
+      "EndOffset": 2864
+    },
+    {
+      "Score": 0.9890913963317871,
+      "Type": "QUANTITY",
+      "Text": "47",
+      "BeginOffset": 2866,
+      "EndOffset": 2868
+    },
+    {
+      "Score": 0.9986812472343445,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2896,
+      "EndOffset": 2902
+    },
+    {
+      "Score": 0.9771885275840759,
+      "Type": "DATE",
+      "Text": "this\n   morning",
+      "BeginOffset": 2903,
+      "EndOffset": 2918
+    },
+    {
+      "Score": 0.5898190140724182,
+      "Type": "LOCATION",
+      "Text": "Ecuador",
+      "BeginOffset": 2925,
+      "EndOffset": 2932
+    },
+    {
+      "Score": 0.9011349678039551,
+      "Type": "DATE",
+      "Text": "seven\n   years after",
+      "BeginOffset": 2976,
+      "EndOffset": 2996
+    },
+    {
+      "Score": 0.8130969405174255,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 3000,
+      "EndOffset": 3005
+    },
+    {
+      "Score": 0.653808057308197,
+      "Type": "QUANTITY",
+      "Text": "57",
+      "BeginOffset": 3035,
+      "EndOffset": 3037
+    },
+    {
+      "Score": 0.801767110824585,
+      "Type": "QUANTITY",
+      "Text": "1k",
+      "BeginOffset": 3038,
+      "EndOffset": 3040
+    },
+    {
+      "Score": 0.9966980218887329,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 3048,
+      "EndOffset": 3062
+    },
+    {
+      "Score": 0.6956263780593872,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 3094,
+      "EndOffset": 3096
+    },
+    {
+      "Score": 0.44201210141181946,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 3097,
+      "EndOffset": 3100
+    },
+    {
+      "Score": 0.5543058514595032,
+      "Type": "ORGANIZATION",
+      "Text": "MPs",
+      "BeginOffset": 3160,
+      "EndOffset": 3163
+    },
+    {
+      "Score": 0.9620168209075928,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 3170,
+      "EndOffset": 3172
+    },
+    {
+      "Score": 0.9523720145225525,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3196,
+      "EndOffset": 3202
+    },
+    {
+      "Score": 0.9948539733886719,
+      "Type": "DATE",
+      "Text": "October 31",
+      "BeginOffset": 3223,
+      "EndOffset": 3233
+    },
+    {
+      "Score": 0.8297916054725647,
+      "Type": "ORGANIZATION",
+      "Text": "Spartan Brexiteers",
+      "BeginOffset": 3247,
+      "EndOffset": 3265
+    },
+    {
+      "Score": 0.6414687633514404,
+      "Type": "QUANTITY",
+      "Text": "59",
+      "BeginOffset": 3298,
+      "EndOffset": 3300
+    },
+    {
+      "Score": 0.9110129475593567,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3301,
+      "EndOffset": 3307
+    },
+    {
+      "Score": 0.6249415874481201,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 3309,
+      "EndOffset": 3312
+    },
+    {
+      "Score": 0.9704940319061279,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 3333,
+      "EndOffset": 3335
+    },
+    {
+      "Score": 0.968725323677063,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3370,
+      "EndOffset": 3376
+    },
+    {
+      "Score": 0.6268877983093262,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 3378,
+      "EndOffset": 3381
+    },
+    {
+      "Score": 0.9712971448898315,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 3402,
+      "EndOffset": 3404
+    },
+    {
+      "Score": 0.9239607453346252,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 3521,
+      "EndOffset": 3523
+    },
+    {
+      "Score": 0.5557781457901001,
+      "Type": "ORGANIZATION",
+      "Text": "Britain",
+      "BeginOffset": 3539,
+      "EndOffset": 3546
+    },
+    {
+      "Score": 0.8585776686668396,
+      "Type": "EVENT",
+      "Text": "Halloween",
+      "BeginOffset": 3567,
+      "EndOffset": 3576
+    },
+    {
+      "Score": 0.986916184425354,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3580,
+      "EndOffset": 3586
+    },
+    {
+      "Score": 0.6197460293769836,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 3599,
+      "EndOffset": 3607
+    },
+    {
+      "Score": 0.9600261449813843,
+      "Type": "DATE",
+      "Text": "2am today",
+      "BeginOffset": 3629,
+      "EndOffset": 3638
+    },
+    {
+      "Score": 0.7357386350631714,
+      "Type": "ORGANIZATION",
+      "Text": "European\n   Council",
+      "BeginOffset": 3640,
+      "EndOffset": 3659
+    },
+    {
+      "Score": 0.9998472332954407,
+      "Type": "PERSON",
+      "Text": "Donald Tusk",
+      "BeginOffset": 3670,
+      "EndOffset": 3681
+    },
+    {
+      "Score": 0.7920618057250977,
+      "Type": "PERSON",
+      "Text": "May",
+      "BeginOffset": 3691,
+      "EndOffset": 3694
+    },
+    {
+      "Score": 0.5393664836883545,
+      "Type": "ORGANIZATION",
+      "Text": "UK",
+      "BeginOffset": 3725,
+      "EndOffset": 3727
+    },
+    {
+      "Score": 0.9942001104354858,
+      "Type": "DATE",
+      "Text": "October",
+      "BeginOffset": 3747,
+      "EndOffset": 3754
+    },
+    {
+      "Score": 0.8184323906898499,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 3807,
+      "EndOffset": 3809
+    },
+    {
+      "Score": 0.9957861304283142,
+      "Type": "PERSON",
+      "Text": "May",
+      "BeginOffset": 3866,
+      "EndOffset": 3869
+    },
+    {
+      "Score": 0.8691103458404541,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 3901,
+      "EndOffset": 3908
+    },
+    {
+      "Score": 0.9991506934165955,
+      "Type": "DATE",
+      "Text": "June 30",
+      "BeginOffset": 3927,
+      "EndOffset": 3934
+    },
+    {
+      "Score": 0.9983423352241516,
+      "Type": "PERSON",
+      "Text": "Jeremy Corbyn",
+      "BeginOffset": 3957,
+      "EndOffset": 3970
+    },
+    {
+      "Score": 0.9131433963775635,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 4093,
+      "EndOffset": 4100
+    },
+    {
+      "Score": 0.8235005140304565,
+      "Type": "LOCATION",
+      "Text": "EU",
+      "BeginOffset": 4116,
+      "EndOffset": 4118
+    },
+    {
+      "Score": 0.669140100479126,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 4157,
+      "EndOffset": 4163
+    },
+    {
+      "Score": 0.6147599816322327,
+      "Type": "OTHER",
+      "Text": "Britons",
+      "BeginOffset": 4192,
+      "EndOffset": 4199
+    },
+    {
+      "Score": 0.9559943675994873,
+      "Type": "EVENT",
+      "Text": "Halloween",
+      "BeginOffset": 4216,
+      "EndOffset": 4225
+    },
+    {
+      "Score": 0.9922637939453125,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 4281,
+      "EndOffset": 4284
+    },
+    {
+      "Score": 0.9005235433578491,
+      "Type": "PERSON",
+      "Text": "JLo",
+      "BeginOffset": 4341,
+      "EndOffset": 4344
+    },
+    {
+      "Score": 0.893020749092102,
+      "Type": "PERSON",
+      "Text": "Diddy",
+      "BeginOffset": 4363,
+      "EndOffset": 4368
+    },
+    {
+      "Score": 0.9942551255226135,
+      "Type": "PERSON",
+      "Text": "Alex",
+      "BeginOffset": 4383,
+      "EndOffset": 4387
+    },
+    {
+      "Score": 0.9739272594451904,
+      "Type": "PERSON",
+      "Text": "Lopez",
+      "BeginOffset": 4397,
+      "EndOffset": 4402
+    },
+    {
+      "Score": 0.9911388754844666,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 4414,
+      "EndOffset": 4417
+    },
+    {
+      "Score": 0.9548607468605042,
+      "Type": "PERSON",
+      "Text": "Kardashian",
+      "BeginOffset": 4463,
+      "EndOffset": 4473
+    },
+    {
+      "Score": 0.9996108412742615,
+      "Type": "PERSON",
+      "Text": "Tana",
+      "BeginOffset": 4485,
+      "EndOffset": 4489
+    },
+    {
+      "Score": 0.9714621901512146,
+      "Type": "QUANTITY",
+      "Text": "44",
+      "BeginOffset": 4491,
+      "EndOffset": 4493
+    },
+    {
+      "Score": 0.7695789337158203,
+      "Type": "QUANTITY",
+      "Text": "first public outing",
+      "BeginOffset": 4501,
+      "EndOffset": 4520
+    },
+    {
+      "Score": 0.9900421500205994,
+      "Type": "PERSON",
+      "Text": "Oscar Ramsay",
+      "BeginOffset": 4531,
+      "EndOffset": 4543
+    },
+    {
+      "Score": 0.7751396894454956,
+      "Type": "PERSON",
+      "Text": "Pregnant Abbey",
+      "BeginOffset": 4555,
+      "EndOffset": 4569
+    },
+    {
+      "Score": 0.9422794580459595,
+      "Type": "PERSON",
+      "Text": "Clancy",
+      "BeginOffset": 4600,
+      "EndOffset": 4606
+    },
+    {
+      "Score": 0.9092382788658142,
+      "Type": "PERSON",
+      "Text": "JLo",
+      "BeginOffset": 4618,
+      "EndOffset": 4621
+    },
+    {
+      "Score": 0.8975188732147217,
+      "Type": "PERSON",
+      "Text": "Diddy",
+      "BeginOffset": 4640,
+      "EndOffset": 4645
+    },
+    {
+      "Score": 0.9953868985176086,
+      "Type": "PERSON",
+      "Text": "Alex",
+      "BeginOffset": 4660,
+      "EndOffset": 4664
+    },
+    {
+      "Score": 0.9737668633460999,
+      "Type": "PERSON",
+      "Text": "Lopez",
+      "BeginOffset": 4674,
+      "EndOffset": 4679
+    },
+    {
+      "Score": 0.9905174374580383,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 4691,
+      "EndOffset": 4694
+    },
+    {
+      "Score": 0.8576565384864807,
+      "Type": "PERSON",
+      "Text": "Kardashian",
+      "BeginOffset": 4740,
+      "EndOffset": 4750
+    },
+    {
+      "Score": 0.8905078172683716,
+      "Type": "QUANTITY",
+      "Text": "TEN-point",
+      "BeginOffset": 4799,
+      "EndOffset": 4808
+    }
+  ]
+}

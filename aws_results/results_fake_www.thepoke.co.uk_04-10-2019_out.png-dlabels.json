@@ -1,0 +1,123 @@
+{
+  "Labels": [
+    {
+      "Name": "Person",
+      "Confidence": 99.54657745361328,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.2949482798576355,
+            "Height": 0.42268532514572144,
+            "Left": 0.3465788960456848,
+            "Top": 0.2692074477672577
+          },
+          "Confidence": 99.54657745361328
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.15769138932228088,
+            "Height": 0.1426907330751419,
+            "Left": 0.028948791325092316,
+            "Top": 0.8492906093597412
+          },
+          "Confidence": 98.308349609375
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.05000180006027222,
+            "Height": 0.0840425118803978,
+            "Left": 0.4355420768260956,
+            "Top": 0.9133699536323547
+          },
+          "Confidence": 97.72393035888672
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.06745386123657227,
+            "Height": 0.09754272550344467,
+            "Left": 0.35650211572647095,
+            "Top": 0.8988021612167358
+          },
+          "Confidence": 97.39432525634766
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.03396594524383545,
+            "Height": 0.07519576698541641,
+            "Left": 0.48241323232650757,
+            "Top": 0.9208662509918213
+          },
+          "Confidence": 92.11042022705078
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 99.54657745361328,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Accessory",
+      "Confidence": 98.86602020263672,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Glasses",
+      "Confidence": 98.86602020263672,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.19844254851341248,
+            "Height": 0.0796954333782196,
+            "Left": 0.4401370584964752,
+            "Top": 0.39324721693992615
+          },
+          "Confidence": 98.86602020263672
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Accessories"
+        }
+      ]
+    },
+    {
+      "Name": "Accessories",
+      "Confidence": 98.86602020263672,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Head",
+      "Confidence": 90.93402862548828,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 83.27405548095703,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Face",
+      "Confidence": 70.02528381347656,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "File",
+      "Confidence": 55.78773498535156,
+      "Instances": [],
+      "Parents": []
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

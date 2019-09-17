@@ -1,0 +1,228 @@
+{
+  "Labels": [
+    {
+      "Name": "Person",
+      "Confidence": 96.35201263427734,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.11948469281196594,
+            "Height": 0.130787193775177,
+            "Left": 0.48377808928489685,
+            "Top": 0.7282794713973999
+          },
+          "Confidence": 96.35201263427734
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.18449237942695618,
+            "Height": 0.3773379623889923,
+            "Left": 0.4613740146160126,
+            "Top": 0.14397165179252625
+          },
+          "Confidence": 85.71983337402344
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.14428597688674927,
+            "Height": 0.11086013913154602,
+            "Left": 0.30982762575149536,
+            "Top": 0.7375888824462891
+          },
+          "Confidence": 80.12010955810547
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 96.35201263427734,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 86.38750457763672,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Clothing",
+      "Confidence": 86.38750457763672,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 70.79793548583984,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Doctor",
+      "Confidence": 67.56300354003906,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Confidence": 66.10884094238281,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Advertisement",
+      "Confidence": 63.08852767944336,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 63.08852767944336,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Flyer",
+      "Confidence": 60.1703987121582,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.7852892875671387,
+            "Height": 0.9186540842056274,
+            "Left": 0.07455965876579285,
+            "Top": 0.06835433840751648
+          },
+          "Confidence": 60.1703987121582
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Poster"
+        }
+      ]
+    },
+    {
+      "Name": "Brochure",
+      "Confidence": 60.1703987121582,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Poster"
+        }
+      ]
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 60.1703987121582,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Headband",
+      "Confidence": 57.632225036621094,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Hat"
+        }
+      ]
+    },
+    {
+      "Name": "Hat",
+      "Confidence": 57.632225036621094,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Turban",
+      "Confidence": 57.632225036621094,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Headband"
+        },
+        {
+          "Name": "Hat"
+        }
+      ]
+    },
+    {
+      "Name": "Display",
+      "Confidence": 55.83429718017578,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Electronics"
+        },
+        {
+          "Name": "Screen"
+        }
+      ]
+    },
+    {
+      "Name": "Monitor",
+      "Confidence": 55.83429718017578,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Electronics"
+        },
+        {
+          "Name": "Screen"
+        }
+      ]
+    },
+    {
+      "Name": "Electronics",
+      "Confidence": 55.83429718017578,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Screen",
+      "Confidence": 55.83429718017578,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Electronics"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

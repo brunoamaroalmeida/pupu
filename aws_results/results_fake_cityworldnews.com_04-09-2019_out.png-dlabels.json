@@ -1,0 +1,320 @@
+{
+  "Labels": [
+    {
+      "Name": "Person",
+      "Confidence": 99.50784301757812,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.40876030921936035,
+            "Height": 0.3306313455104828,
+            "Left": 0.13438482582569122,
+            "Top": 0.31172531843185425
+          },
+          "Confidence": 99.50784301757812
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.10699997842311859,
+            "Height": 0.1334391087293625,
+            "Left": 0.023587048053741455,
+            "Top": 0.4965721368789673
+          },
+          "Confidence": 99.47477722167969
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.08865039050579071,
+            "Height": 0.13566863536834717,
+            "Left": 0.021762821823358536,
+            "Top": 0.8579943776130676
+          },
+          "Confidence": 99.1910400390625
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.05294907093048096,
+            "Height": 0.1026405319571495,
+            "Left": 0.5988785624504089,
+            "Top": 0.8922211527824402
+          },
+          "Confidence": 99.02699279785156
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.14551687240600586,
+            "Height": 0.1449914574623108,
+            "Left": 0.18605086207389832,
+            "Top": 0.8502534627914429
+          },
+          "Confidence": 98.97244262695312
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.054120659828186035,
+            "Height": 0.1246560662984848,
+            "Left": 0.34754008054733276,
+            "Top": 0.8714296817779541
+          },
+          "Confidence": 98.8084716796875
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.14947840571403503,
+            "Height": 0.22720466554164886,
+            "Left": 0.463527649641037,
+            "Top": 0.3937653601169586
+          },
+          "Confidence": 98.51158142089844
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.07226407527923584,
+            "Height": 0.21026626229286194,
+            "Left": 0.5771175622940063,
+            "Top": 0.41786015033721924
+          },
+          "Confidence": 98.25086212158203
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.09525847434997559,
+            "Height": 0.16655997931957245,
+            "Left": 0.6882161498069763,
+            "Top": 0.39920851588249207
+          },
+          "Confidence": 84.68495178222656
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 99.50784301757812,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Coat",
+      "Confidence": 97.41059112548828,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 97.41059112548828,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Clothing",
+      "Confidence": 97.41059112548828,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Suit",
+      "Confidence": 97.41059112548828,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.38577598333358765,
+            "Height": 0.13783134520053864,
+            "Left": 0.14468133449554443,
+            "Top": 0.502052366733551
+          },
+          "Confidence": 97.41059112548828
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Coat"
+        },
+        {
+          "Name": "Overcoat"
+        },
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Overcoat",
+      "Confidence": 97.41059112548828,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Coat"
+        },
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Confidence": 94.80233001708984,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Accessory",
+      "Confidence": 88.9660873413086,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Accessories",
+      "Confidence": 88.9660873413086,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Tie",
+      "Confidence": 88.9660873413086,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.05058729648590088,
+            "Height": 0.07489341497421265,
+            "Left": 0.2707982063293457,
+            "Top": 0.5599537491798401
+          },
+          "Confidence": 88.9660873413086
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Accessories"
+        }
+      ]
+    },
+    {
+      "Name": "Plant",
+      "Confidence": 83.81082916259766,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Glasses",
+      "Confidence": 73.49348449707031,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.08215510845184326,
+            "Height": 0.030531005933880806,
+            "Left": 0.02573499083518982,
+            "Top": 0.9239033460617065
+          },
+          "Confidence": 73.49348449707031
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Accessories"
+        }
+      ]
+    },
+    {
+      "Name": "Text",
+      "Confidence": 65.7154312133789,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "File",
+      "Confidence": 65.0505599975586,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Document",
+      "Confidence": 64.7275390625,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Id Cards",
+      "Confidence": 64.7275390625,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.9525062441825867,
+            "Height": 0.9294220209121704,
+            "Left": 0.0116349458694458,
+            "Top": 0.06932803988456726
+          },
+          "Confidence": 64.7275390625
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Text"
+        },
+        {
+          "Name": "Document"
+        }
+      ]
+    },
+    {
+      "Name": "Food",
+      "Confidence": 60.60151672363281,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Head",
+      "Confidence": 60.495670318603516,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Advertisement",
+      "Confidence": 59.07304000854492,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Collage",
+      "Confidence": 59.061466217041016,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Poster"
+        }
+      ]
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 59.061466217041016,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Hair",
+      "Confidence": 56.190982818603516,
+      "Instances": [],
+      "Parents": []
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

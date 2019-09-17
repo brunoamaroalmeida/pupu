@@ -1,0 +1,606 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8981371521949768,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 70,
+      "EndOffset": 73
+    },
+    {
+      "Score": 0.9591524004936218,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 115,
+      "EndOffset": 118
+    },
+    {
+      "Score": 0.33823126554489136,
+      "Type": "ORGANIZATION",
+      "Text": "Sudan",
+      "BeginOffset": 123,
+      "EndOffset": 128
+    },
+    {
+      "Score": 0.977470874786377,
+      "Type": "DATE",
+      "Text": "Thursday",
+      "BeginOffset": 211,
+      "EndOffset": 219
+    },
+    {
+      "Score": 0.813204288482666,
+      "Type": "QUANTITY",
+      "Text": "32",
+      "BeginOffset": 244,
+      "EndOffset": 246
+    },
+    {
+      "Score": 0.3856244385242462,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 247,
+      "EndOffset": 252
+    },
+    {
+      "Score": 0.9965853691101074,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 294,
+      "EndOffset": 306
+    },
+    {
+      "Score": 0.9373608827590942,
+      "Type": "PERSON",
+      "Text": "Annunziata Rees-Mogg",
+      "BeginOffset": 311,
+      "EndOffset": 331
+    },
+    {
+      "Score": 0.9964165687561035,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 343,
+      "EndOffset": 355
+    },
+    {
+      "Score": 0.6962156295776367,
+      "Type": "ORGANIZATION",
+      "Text": "Brexit Party",
+      "BeginOffset": 365,
+      "EndOffset": 377
+    },
+    {
+      "Score": 0.6101506948471069,
+      "Type": "QUANTITY",
+      "Text": "36",
+      "BeginOffset": 379,
+      "EndOffset": 381
+    },
+    {
+      "Score": 0.814236581325531,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 382,
+      "EndOffset": 384
+    },
+    {
+      "Score": 0.4366595447063446,
+      "Type": "QUANTITY",
+      "Text": "38",
+      "BeginOffset": 432,
+      "EndOffset": 434
+    },
+    {
+      "Score": 0.8387306332588196,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 435,
+      "EndOffset": 437
+    },
+    {
+      "Score": 0.33907848596572876,
+      "Type": "LOCATION",
+      "Text": "Finisterre",
+      "BeginOffset": 494,
+      "EndOffset": 504
+    },
+    {
+      "Score": 0.7246952652931213,
+      "Type": "OTHER",
+      "Text": "Latin",
+      "BeginOffset": 509,
+      "EndOffset": 514
+    },
+    {
+      "Score": 0.9099330306053162,
+      "Type": "LOCATION",
+      "Text": "Earth",
+      "BeginOffset": 531,
+      "EndOffset": 536
+    },
+    {
+      "Score": 0.42118754982948303,
+      "Type": "QUANTITY",
+      "Text": "41",
+      "BeginOffset": 546,
+      "EndOffset": 548
+    },
+    {
+      "Score": 0.5161281824111938,
+      "Type": "QUANTITY",
+      "Text": "44",
+      "BeginOffset": 591,
+      "EndOffset": 593
+    },
+    {
+      "Score": 0.6337275505065918,
+      "Type": "QUANTITY",
+      "Text": "46",
+      "BeginOffset": 629,
+      "EndOffset": 631
+    },
+    {
+      "Score": 0.8188285827636719,
+      "Type": "LOCATION",
+      "Text": "Sweden",
+      "BeginOffset": 632,
+      "EndOffset": 638
+    },
+    {
+      "Score": 0.4244585335254669,
+      "Type": "ORGANIZATION",
+      "Text": "Assange",
+      "BeginOffset": 659,
+      "EndOffset": 666
+    },
+    {
+      "Score": 0.8604122996330261,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 759,
+      "EndOffset": 761
+    },
+    {
+      "Score": 0.7432284355163574,
+      "Type": "LOCATION",
+      "Text": "Sweden",
+      "BeginOffset": 762,
+      "EndOffset": 768
+    },
+    {
+      "Score": 0.5122038125991821,
+      "Type": "ORGANIZATION",
+      "Text": "Assange",
+      "BeginOffset": 789,
+      "EndOffset": 796
+    },
+    {
+      "Score": 0.8784505128860474,
+      "Type": "QUANTITY",
+      "Text": "more than a dozen red\n       candles",
+      "BeginOffset": 856,
+      "EndOffset": 892
+    },
+    {
+      "Score": 0.96322101354599,
+      "Type": "QUANTITY",
+      "Text": "two photos",
+      "BeginOffset": 907,
+      "EndOffset": 917
+    },
+    {
+      "Score": 0.9970410466194153,
+      "Type": "PERSON",
+      "Text": "Jan Kuciak",
+      "BeginOffset": 921,
+      "EndOffset": 931
+    },
+    {
+      "Score": 0.3770395517349243,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 949,
+      "EndOffset": 951
+    },
+    {
+      "Score": 0.3871663510799408,
+      "Type": "LOCATION",
+      "Text": "Slovak",
+      "BeginOffset": 979,
+      "EndOffset": 985
+    },
+    {
+      "Score": 0.9578781723976135,
+      "Type": "QUANTITY",
+      "Text": "Four suspects",
+      "BeginOffset": 1005,
+      "EndOffset": 1018
+    },
+    {
+      "Score": 0.9970653653144836,
+      "Type": "PERSON",
+      "Text": "Jan Kuciak",
+      "BeginOffset": 1047,
+      "EndOffset": 1057
+    },
+    {
+      "Score": 0.39457082748413086,
+      "Type": "LOCATION",
+      "Text": "Slovak",
+      "BeginOffset": 1149,
+      "EndOffset": 1155
+    },
+    {
+      "Score": 0.9998552203178406,
+      "Type": "PERSON",
+      "Text": "Ben Hunte",
+      "BeginOffset": 1194,
+      "EndOffset": 1203
+    },
+    {
+      "Score": 0.9279608130455017,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 1272,
+      "EndOffset": 1274
+    },
+    {
+      "Score": 0.9971651434898376,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1304,
+      "EndOffset": 1309
+    },
+    {
+      "Score": 0.8516456484794617,
+      "Type": "QUANTITY",
+      "Text": "second round",
+      "BeginOffset": 1343,
+      "EndOffset": 1355
+    },
+    {
+      "Score": 0.7423028349876404,
+      "Type": "PERSON",
+      "Text": "Poulter",
+      "BeginOffset": 1357,
+      "EndOffset": 1364
+    },
+    {
+      "Score": 0.9918091893196106,
+      "Type": "PERSON",
+      "Text": "Molinari",
+      "BeginOffset": 1367,
+      "EndOffset": 1375
+    },
+    {
+      "Score": 0.9993542432785034,
+      "Type": "PERSON",
+      "Text": "Ian Poulter",
+      "BeginOffset": 1425,
+      "EndOffset": 1436
+    },
+    {
+      "Score": 0.9997164607048035,
+      "Type": "PERSON",
+      "Text": "Francesco\n       Molinari",
+      "BeginOffset": 1441,
+      "EndOffset": 1466
+    },
+    {
+      "Score": 0.9987339377403259,
+      "Type": "PERSON",
+      "Text": "Tiger Woods",
+      "BeginOffset": 1486,
+      "EndOffset": 1497
+    },
+    {
+      "Score": 0.999866247177124,
+      "Type": "PERSON",
+      "Text": "Rory McIlroy",
+      "BeginOffset": 1502,
+      "EndOffset": 1514
+    },
+    {
+      "Score": 0.5878133773803711,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 1534,
+      "EndOffset": 1536
+    },
+    {
+      "Score": 0.8102886080741882,
+      "Type": "QUANTITY",
+      "Text": "second round",
+      "BeginOffset": 1545,
+      "EndOffset": 1557
+    },
+    {
+      "Score": 0.8872835636138916,
+      "Type": "PERSON",
+      "Text": "Poulter",
+      "BeginOffset": 1559,
+      "EndOffset": 1566
+    },
+    {
+      "Score": 0.9931782484054565,
+      "Type": "PERSON",
+      "Text": "Molinari",
+      "BeginOffset": 1569,
+      "EndOffset": 1577
+    },
+    {
+      "Score": 0.989620566368103,
+      "Type": "PERSON",
+      "Text": "Solskjaer",
+      "BeginOffset": 1587,
+      "EndOffset": 1596
+    },
+    {
+      "Score": 0.48742660880088806,
+      "Type": "LOCATION",
+      "Text": "Norwegian",
+      "BeginOffset": 1617,
+      "EndOffset": 1626
+    },
+    {
+      "Score": 0.9594234824180603,
+      "Type": "ORGANIZATION",
+      "Text": "BBC Sport",
+      "BeginOffset": 1700,
+      "EndOffset": 1709
+    },
+    {
+      "Score": 0.9829813838005066,
+      "Type": "LOCATION",
+      "Text": "Kristiansund",
+      "BeginOffset": 1728,
+      "EndOffset": 1740
+    },
+    {
+      "Score": 0.9921061992645264,
+      "Type": "LOCATION",
+      "Text": "Norway",
+      "BeginOffset": 1744,
+      "EndOffset": 1750
+    },
+    {
+      "Score": 0.9816303849220276,
+      "Type": "PERSON",
+      "Text": "Ole Gunnar Solskjaer",
+      "BeginOffset": 1752,
+      "EndOffset": 1772
+    },
+    {
+      "Score": 0.9855480790138245,
+      "Type": "PERSON",
+      "Text": "Solskjaer",
+      "BeginOffset": 1796,
+      "EndOffset": 1805
+    },
+    {
+      "Score": 0.5479226112365723,
+      "Type": "LOCATION",
+      "Text": "Norwegian",
+      "BeginOffset": 1826,
+      "EndOffset": 1835
+    },
+    {
+      "Score": 0.8348717093467712,
+      "Type": "QUANTITY",
+      "Text": "second-round",
+      "BeginOffset": 1875,
+      "EndOffset": 1887
+    },
+    {
+      "Score": 0.5309100151062012,
+      "Type": "QUANTITY",
+      "Text": "83rd",
+      "BeginOffset": 1909,
+      "EndOffset": 1913
+    },
+    {
+      "Score": 0.9316481351852417,
+      "Type": "LOCATION",
+      "Text": "Augusta National",
+      "BeginOffset": 1932,
+      "EndOffset": 1948
+    },
+    {
+      "Score": 0.9976352453231812,
+      "Type": "PERSON",
+      "Text": "Patrick Reed",
+      "BeginOffset": 1956,
+      "EndOffset": 1968
+    },
+    {
+      "Score": 0.9272520542144775,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 2024,
+      "EndOffset": 2027
+    },
+    {
+      "Score": 0.9175809621810913,
+      "Type": "LOCATION",
+      "Text": "Norway",
+      "BeginOffset": 2049,
+      "EndOffset": 2055
+    },
+    {
+      "Score": 0.9631623029708862,
+      "Type": "LOCATION",
+      "Text": "Norway",
+      "BeginOffset": 2097,
+      "EndOffset": 2103
+    },
+    {
+      "Score": 0.5474568605422974,
+      "Type": "QUANTITY",
+      "Text": "one",
+      "BeginOffset": 2141,
+      "EndOffset": 2144
+    },
+    {
+      "Score": 0.9641371369361877,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 2402,
+      "EndOffset": 2406
+    },
+    {
+      "Score": 0.6037209033966064,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 2489,
+      "EndOffset": 2491
+    },
+    {
+      "Score": 0.9915714263916016,
+      "Type": "PERSON",
+      "Text": "Ellen Pao",
+      "BeginOffset": 2655,
+      "EndOffset": 2664
+    },
+    {
+      "Score": 0.9949961304664612,
+      "Type": "PERSON",
+      "Text": "Ellen Pao",
+      "BeginOffset": 2714,
+      "EndOffset": 2723
+    },
+    {
+      "Score": 0.5748186707496643,
+      "Type": "QUANTITY",
+      "Text": "78",
+      "BeginOffset": 2774,
+      "EndOffset": 2776
+    },
+    {
+      "Score": 0.9994417428970337,
+      "Type": "DATE",
+      "Text": "3 December 1967",
+      "BeginOffset": 2824,
+      "EndOffset": 2839
+    },
+    {
+      "Score": 0.9120499491691589,
+      "Type": "LOCATION",
+      "Text": "Cape Town",
+      "BeginOffset": 2844,
+      "EndOffset": 2853
+    },
+    {
+      "Score": 0.9250327348709106,
+      "Type": "ORGANIZATION",
+      "Text": "Groote Schuur Hospital",
+      "BeginOffset": 2856,
+      "EndOffset": 2878
+    },
+    {
+      "Score": 0.9996827244758606,
+      "Type": "DATE",
+      "Text": "3 December 1967",
+      "BeginOffset": 2898,
+      "EndOffset": 2913
+    },
+    {
+      "Score": 0.9025009870529175,
+      "Type": "LOCATION",
+      "Text": "Cape Town",
+      "BeginOffset": 2918,
+      "EndOffset": 2927
+    },
+    {
+      "Score": 0.9132052659988403,
+      "Type": "ORGANIZATION",
+      "Text": "Groote Schuur Hospital",
+      "BeginOffset": 2930,
+      "EndOffset": 2952
+    },
+    {
+      "Score": 0.9297645092010498,
+      "Type": "ORGANIZATION",
+      "Text": "Hollywood",
+      "BeginOffset": 3093,
+      "EndOffset": 3102
+    },
+    {
+      "Score": 0.9630007147789001,
+      "Type": "ORGANIZATION",
+      "Text": "Hollywood",
+      "BeginOffset": 3217,
+      "EndOffset": 3226
+    },
+    {
+      "Score": 0.6360982656478882,
+      "Type": "QUANTITY",
+      "Text": "90",
+      "BeginOffset": 3428,
+      "EndOffset": 3430
+    },
+    {
+      "Score": 0.8678830862045288,
+      "Type": "ORGANIZATION",
+      "Text": "Jet Airways",
+      "BeginOffset": 3469,
+      "EndOffset": 3480
+    },
+    {
+      "Score": 0.964983344078064,
+      "Type": "ORGANIZATION",
+      "Text": "Disney",
+      "BeginOffset": 3518,
+      "EndOffset": 3524
+    },
+    {
+      "Score": 0.49530908465385437,
+      "Type": "QUANTITY",
+      "Text": "98",
+      "BeginOffset": 3563,
+      "EndOffset": 3565
+    },
+    {
+      "Score": 0.5572152137756348,
+      "Type": "QUANTITY",
+      "Text": "99",
+      "BeginOffset": 3627,
+      "EndOffset": 3629
+    },
+    {
+      "Score": 0.8723238110542297,
+      "Type": "PERSON",
+      "Text": "Nipsey\n   Hussle",
+      "BeginOffset": 3792,
+      "EndOffset": 3808
+    },
+    {
+      "Score": 0.9993875622749329,
+      "Type": "LOCATION",
+      "Text": "Los Angeles",
+      "BeginOffset": 3812,
+      "EndOffset": 3823
+    },
+    {
+      "Score": 0.9462450742721558,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 3897,
+      "EndOffset": 3910
+    },
+    {
+      "Score": 0.9632769823074341,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 3943,
+      "EndOffset": 3956
+    },
+    {
+      "Score": 0.9217720627784729,
+      "Type": "LOCATION",
+      "Text": "Australia",
+      "BeginOffset": 3962,
+      "EndOffset": 3971
+    }
+  ]
+}

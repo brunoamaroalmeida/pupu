@@ -1,0 +1,942 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9925569295883179,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 19,
+      "EndOffset": 30
+    },
+    {
+      "Score": 0.9869045615196228,
+      "Type": "PERSON",
+      "Text": "David Davis",
+      "BeginOffset": 104,
+      "EndOffset": 115
+    },
+    {
+      "Score": 0.9584497809410095,
+      "Type": "DATE",
+      "Text": "June 21",
+      "BeginOffset": 143,
+      "EndOffset": 150
+    },
+    {
+      "Score": 0.9940515160560608,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 157,
+      "EndOffset": 163
+    },
+    {
+      "Score": 0.9058939814567566,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 195,
+      "EndOffset": 197
+    },
+    {
+      "Score": 0.5718863010406494,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 265,
+      "EndOffset": 272
+    },
+    {
+      "Score": 0.9680455327033997,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 275,
+      "EndOffset": 277
+    },
+    {
+      "Score": 0.483455091714859,
+      "Type": "QUANTITY",
+      "Text": "51",
+      "BeginOffset": 317,
+      "EndOffset": 319
+    },
+    {
+      "Score": 0.7561599612236023,
+      "Type": "PERSON",
+      "Text": "AnalysisEmmanuel Macron",
+      "BeginOffset": 320,
+      "EndOffset": 343
+    },
+    {
+      "Score": 0.9793540239334106,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 366,
+      "EndOffset": 374
+    },
+    {
+      "Score": 0.5810847282409668,
+      "Type": "QUANTITY",
+      "Text": "52",
+      "BeginOffset": 395,
+      "EndOffset": 397
+    },
+    {
+      "Score": 0.9717068076133728,
+      "Type": "PERSON",
+      "Text": "Janet DaleyAny",
+      "BeginOffset": 398,
+      "EndOffset": 412
+    },
+    {
+      "Score": 0.5956965088844299,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 413,
+      "EndOffset": 419
+    },
+    {
+      "Score": 0.9973214268684387,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 434,
+      "EndOffset": 445
+    },
+    {
+      "Score": 0.9798809885978699,
+      "Type": "QUANTITY",
+      "Text": "six month",
+      "BeginOffset": 536,
+      "EndOffset": 545
+    },
+    {
+      "Score": 0.8046925067901611,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 547,
+      "EndOffset": 549
+    },
+    {
+      "Score": 0.9717231392860413,
+      "Type": "PERSON",
+      "Text": "Peter FosterBrexit",
+      "BeginOffset": 550,
+      "EndOffset": 568
+    },
+    {
+      "Score": 0.8926931619644165,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 600,
+      "EndOffset": 602
+    },
+    {
+      "Score": 0.9976086020469666,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 630,
+      "EndOffset": 641
+    },
+    {
+      "Score": 0.7660773992538452,
+      "Type": "ORGANIZATION",
+      "Text": "PMQs",
+      "BeginOffset": 651,
+      "EndOffset": 655
+    },
+    {
+      "Score": 0.6063441038131714,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 675,
+      "EndOffset": 677
+    },
+    {
+      "Score": 0.9949520826339722,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 705,
+      "EndOffset": 713
+    },
+    {
+      "Score": 0.9983555674552917,
+      "Type": "DATE",
+      "Text": "June 30",
+      "BeginOffset": 737,
+      "EndOffset": 744
+    },
+    {
+      "Score": 0.9063189625740051,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 754,
+      "EndOffset": 760
+    },
+    {
+      "Score": 0.6500075459480286,
+      "Type": "QUANTITY",
+      "Text": "55",
+      "BeginOffset": 762,
+      "EndOffset": 764
+    },
+    {
+      "Score": 0.9896926283836365,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 781,
+      "EndOffset": 792
+    },
+    {
+      "Score": 0.5371124148368835,
+      "Type": "ORGANIZATION",
+      "Text": "MPs",
+      "BeginOffset": 796,
+      "EndOffset": 799
+    },
+    {
+      "Score": 0.995552122592926,
+      "Type": "QUANTITY",
+      "Text": "10,000 signatures",
+      "BeginOffset": 818,
+      "EndOffset": 835
+    },
+    {
+      "Score": 0.85625159740448,
+      "Type": "QUANTITY",
+      "Text": "56",
+      "BeginOffset": 840,
+      "EndOffset": 842
+    },
+    {
+      "Score": 0.9994983673095703,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 843,
+      "EndOffset": 857
+    },
+    {
+      "Score": 0.447845995426178,
+      "Type": "ORGANIZATION",
+      "Text": "Met",
+      "BeginOffset": 870,
+      "EndOffset": 873
+    },
+    {
+      "Score": 0.6799572110176086,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 887,
+      "EndOffset": 889
+    },
+    {
+      "Score": 0.8988324999809265,
+      "Type": "PERSON",
+      "Text": "Ambrose Evans",
+      "BeginOffset": 917,
+      "EndOffset": 930
+    },
+    {
+      "Score": 0.6234115958213806,
+      "Type": "ORGANIZATION",
+      "Text": "PritchardItaly",
+      "BeginOffset": 931,
+      "EndOffset": 945
+    },
+    {
+      "Score": 0.5627083778381348,
+      "Type": "QUANTITY",
+      "Text": "one shock",
+      "BeginOffset": 949,
+      "EndOffset": 958
+    },
+    {
+      "Score": 0.6965851187705994,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 997,
+      "EndOffset": 999
+    },
+    {
+      "Score": 0.9750194549560547,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1022,
+      "EndOffset": 1028
+    },
+    {
+      "Score": 0.7283027768135071,
+      "Type": "ORGANIZATION",
+      "Text": "Bank\n    4",
+      "BeginOffset": 1057,
+      "EndOffset": 1067
+    },
+    {
+      "Score": 0.5848844647407532,
+      "Type": "QUANTITY",
+      "Text": "59",
+      "BeginOffset": 1108,
+      "EndOffset": 1110
+    },
+    {
+      "Score": 0.9326269626617432,
+      "Type": "QUANTITY",
+      "Text": "five essential tips",
+      "BeginOffset": 1149,
+      "EndOffset": 1168
+    },
+    {
+      "Score": 0.8667807579040527,
+      "Type": "QUANTITY",
+      "Text": "5",
+      "BeginOffset": 1186,
+      "EndOffset": 1187
+    },
+    {
+      "Score": 0.9497013688087463,
+      "Type": "QUANTITY",
+      "Text": "10th hole",
+      "BeginOffset": 1211,
+      "EndOffset": 1220
+    },
+    {
+      "Score": 0.7115734219551086,
+      "Type": "QUANTITY",
+      "Text": "60",
+      "BeginOffset": 1261,
+      "EndOffset": 1263
+    },
+    {
+      "Score": 0.7006278038024902,
+      "Type": "EVENT",
+      "Text": "Masters 2019",
+      "BeginOffset": 1264,
+      "EndOffset": 1276
+    },
+    {
+      "Score": 0.735819935798645,
+      "Type": "QUANTITY",
+      "Text": "First round",
+      "BeginOffset": 1276,
+      "EndOffset": 1287
+    },
+    {
+      "Score": 0.6223779320716858,
+      "Type": "ORGANIZATION",
+      "Text": "Domes Miramare",
+      "BeginOffset": 1330,
+      "EndOffset": 1344
+    },
+    {
+      "Score": 0.998202919960022,
+      "Type": "LOCATION",
+      "Text": "Greece",
+      "BeginOffset": 1429,
+      "EndOffset": 1435
+    },
+    {
+      "Score": 0.6638884544372559,
+      "Type": "OTHER",
+      "Text": "asian",
+      "BeginOffset": 1470,
+      "EndOffset": 1475
+    },
+    {
+      "Score": 0.8685817718505859,
+      "Type": "LOCATION",
+      "Text": "Midlands",
+      "BeginOffset": 1490,
+      "EndOffset": 1498
+    },
+    {
+      "Score": 0.4107002317905426,
+      "Type": "QUANTITY",
+      "Text": "62",
+      "BeginOffset": 1512,
+      "EndOffset": 1514
+    },
+    {
+      "Score": 0.6437037587165833,
+      "Type": "OTHER",
+      "Text": "British",
+      "BeginOffset": 1566,
+      "EndOffset": 1573
+    },
+    {
+      "Score": 0.7007514238357544,
+      "Type": "ORGANIZATION",
+      "Text": "IBS",
+      "BeginOffset": 1590,
+      "EndOffset": 1593
+    },
+    {
+      "Score": 0.8817421793937683,
+      "Type": "QUANTITY",
+      "Text": "up to 20 per cent of people",
+      "BeginOffset": 1602,
+      "EndOffset": 1629
+    },
+    {
+      "Score": 0.7991467714309692,
+      "Type": "QUANTITY",
+      "Text": "63",
+      "BeginOffset": 1631,
+      "EndOffset": 1633
+    },
+    {
+      "Score": 0.7934101223945618,
+      "Type": "QUANTITY",
+      "Text": "4.11",
+      "BeginOffset": 1729,
+      "EndOffset": 1733
+    },
+    {
+      "Score": 0.8347100615501404,
+      "Type": "QUANTITY",
+      "Text": "11.33-small.png",
+      "BeginOffset": 1734,
+      "EndOffset": 1749
+    },
+    {
+      "Score": 0.6199512481689453,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 1752,
+      "EndOffset": 1754
+    },
+    {
+      "Score": 0.9585632085800171,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 1778,
+      "EndOffset": 1783
+    },
+    {
+      "Score": 0.8044377565383911,
+      "Type": "ORGANIZATION",
+      "Text": "Google",
+      "BeginOffset": 1839,
+      "EndOffset": 1845
+    },
+    {
+      "Score": 0.7589307427406311,
+      "Type": "QUANTITY",
+      "Text": "5",
+      "BeginOffset": 1901,
+      "EndOffset": 1902
+    },
+    {
+      "Score": 0.9996424317359924,
+      "Type": "PERSON",
+      "Text": "Gary Barlow",
+      "BeginOffset": 1904,
+      "EndOffset": 1915
+    },
+    {
+      "Score": 0.9987817406654358,
+      "Type": "PERSON",
+      "Text": "Gary Barlow",
+      "BeginOffset": 1970,
+      "EndOffset": 1981
+    },
+    {
+      "Score": 0.7742536664009094,
+      "Type": "PERSON",
+      "Text": "Williams",
+      "BeginOffset": 2056,
+      "EndOffset": 2064
+    },
+    {
+      "Score": 0.9862396121025085,
+      "Type": "QUANTITY",
+      "Text": "10 years",
+      "BeginOffset": 2065,
+      "EndOffset": 2073
+    },
+    {
+      "Score": 0.6078274846076965,
+      "Type": "QUANTITY",
+      "Text": "68",
+      "BeginOffset": 2117,
+      "EndOffset": 2119
+    },
+    {
+      "Score": 0.9798650741577148,
+      "Type": "PERSON",
+      "Text": "Princess Diana",
+      "BeginOffset": 2168,
+      "EndOffset": 2182
+    },
+    {
+      "Score": 0.9089542031288147,
+      "Type": "PERSON",
+      "Text": "Prime Minster Theresa May",
+      "BeginOffset": 2258,
+      "EndOffset": 2283
+    },
+    {
+      "Score": 0.8373157382011414,
+      "Type": "ORGANIZATION",
+      "Text": "Netherton\n       Conservative Club",
+      "BeginOffset": 2311,
+      "EndOffset": 2345
+    },
+    {
+      "Score": 0.7155380845069885,
+      "Type": "LOCATION",
+      "Text": "Dudley",
+      "BeginOffset": 2349,
+      "EndOffset": 2355
+    },
+    {
+      "Score": 0.9797291159629822,
+      "Type": "LOCATION",
+      "Text": "West Midlands",
+      "BeginOffset": 2363,
+      "EndOffset": 2376
+    },
+    {
+      "Score": 0.9550817608833313,
+      "Type": "ORGANIZATION",
+      "Text": "Conservative Party",
+      "BeginOffset": 2396,
+      "EndOffset": 2414
+    },
+    {
+      "Score": 0.37808623909950256,
+      "Type": "QUANTITY",
+      "Text": "76",
+      "BeginOffset": 2436,
+      "EndOffset": 2438
+    },
+    {
+      "Score": 0.5761626362800598,
+      "Type": "QUANTITY",
+      "Text": "77",
+      "BeginOffset": 2507,
+      "EndOffset": 2509
+    },
+    {
+      "Score": 0.9326034784317017,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2524,
+      "EndOffset": 2530
+    },
+    {
+      "Score": 0.8335747718811035,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 2547,
+      "EndOffset": 2549
+    },
+    {
+      "Score": 0.638403058052063,
+      "Type": "QUANTITY",
+      "Text": "78",
+      "BeginOffset": 2582,
+      "EndOffset": 2584
+    },
+    {
+      "Score": 0.45788654685020447,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 2594,
+      "EndOffset": 2597
+    },
+    {
+      "Score": 0.8004806637763977,
+      "Type": "QUANTITY",
+      "Text": "more\n    4",
+      "BeginOffset": 2651,
+      "EndOffset": 2661
+    },
+    {
+      "Score": 0.9959651231765747,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 2692,
+      "EndOffset": 2703
+    },
+    {
+      "Score": 0.8129419088363647,
+      "Type": "ORGANIZATION",
+      "Text": "European\n       Union",
+      "BeginOffset": 2722,
+      "EndOffset": 2743
+    },
+    {
+      "Score": 0.42755985260009766,
+      "Type": "QUANTITY",
+      "Text": "80",
+      "BeginOffset": 2855,
+      "EndOffset": 2857
+    },
+    {
+      "Score": 0.4928695261478424,
+      "Type": "QUANTITY",
+      "Text": "billions",
+      "BeginOffset": 2895,
+      "EndOffset": 2903
+    },
+    {
+      "Score": 0.5743816494941711,
+      "Type": "QUANTITY",
+      "Text": "81",
+      "BeginOffset": 2932,
+      "EndOffset": 2934
+    },
+    {
+      "Score": 0.8327548503875732,
+      "Type": "LOCATION",
+      "Text": "India",
+      "BeginOffset": 2944,
+      "EndOffset": 2949
+    },
+    {
+      "Score": 0.5401890277862549,
+      "Type": "QUANTITY",
+      "Text": "7",
+      "BeginOffset": 3007,
+      "EndOffset": 3008
+    },
+    {
+      "Score": 0.7788358330726624,
+      "Type": "LOCATION",
+      "Text": "U.K.",
+      "BeginOffset": 3010,
+      "EndOffset": 3014
+    },
+    {
+      "Score": 0.5326077938079834,
+      "Type": "QUANTITY",
+      "Text": "82",
+      "BeginOffset": 3055,
+      "EndOffset": 3057
+    },
+    {
+      "Score": 0.8075040578842163,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3078,
+      "EndOffset": 3084
+    },
+    {
+      "Score": 0.9563605785369873,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 3100,
+      "EndOffset": 3102
+    },
+    {
+      "Score": 0.5734241604804993,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 3118,
+      "EndOffset": 3125
+    },
+    {
+      "Score": 0.3829330503940582,
+      "Type": "ORGANIZATION",
+      "Text": "Duke",
+      "BeginOffset": 3139,
+      "EndOffset": 3143
+    },
+    {
+      "Score": 0.4760841131210327,
+      "Type": "PERSON",
+      "Text": "Duchess",
+      "BeginOffset": 3148,
+      "EndOffset": 3155
+    },
+    {
+      "Score": 0.7548778057098389,
+      "Type": "QUANTITY",
+      "Text": "first child",
+      "BeginOffset": 3181,
+      "EndOffset": 3192
+    },
+    {
+      "Score": 0.8570318222045898,
+      "Type": "DATE",
+      "Text": "later\n       this month",
+      "BeginOffset": 3193,
+      "EndOffset": 3216
+    },
+    {
+      "Score": 0.7349046468734741,
+      "Type": "QUANTITY",
+      "Text": "105",
+      "BeginOffset": 3270,
+      "EndOffset": 3273
+    },
+    {
+      "Score": 0.9988918900489807,
+      "Type": "PERSON",
+      "Text": "Harry",
+      "BeginOffset": 3274,
+      "EndOffset": 3279
+    },
+    {
+      "Score": 0.9995050430297852,
+      "Type": "PERSON",
+      "Text": "Meghan",
+      "BeginOffset": 3284,
+      "EndOffset": 3290
+    },
+    {
+      "Score": 0.8368080258369446,
+      "Type": "QUANTITY",
+      "Text": "106",
+      "BeginOffset": 3343,
+      "EndOffset": 3346
+    },
+    {
+      "Score": 0.9921001195907593,
+      "Type": "PERSON",
+      "Text": "Jack Shepherd",
+      "BeginOffset": 3347,
+      "EndOffset": 3360
+    },
+    {
+      "Score": 0.991755485534668,
+      "Type": "QUANTITY",
+      "Text": "six months",
+      "BeginOffset": 3376,
+      "EndOffset": 3386
+    },
+    {
+      "Score": 0.995944082736969,
+      "Type": "ORGANIZATION",
+      "Text": "Amazon",
+      "BeginOffset": 3427,
+      "EndOffset": 3433
+    },
+    {
+      "Score": 0.7105548977851868,
+      "Type": "QUANTITY",
+      "Text": "thousands",
+      "BeginOffset": 3457,
+      "EndOffset": 3466
+    },
+    {
+      "Score": 0.914890468120575,
+      "Type": "TITLE",
+      "Text": "Alexa",
+      "BeginOffset": 3470,
+      "EndOffset": 3475
+    },
+    {
+      "Score": 0.5820738077163696,
+      "Type": "QUANTITY",
+      "Text": "107",
+      "BeginOffset": 3488,
+      "EndOffset": 3491
+    },
+    {
+      "Score": 0.9987021684646606,
+      "Type": "ORGANIZATION",
+      "Text": "Amazon",
+      "BeginOffset": 3492,
+      "EndOffset": 3498
+    },
+    {
+      "Score": 0.5582003593444824,
+      "Type": "QUANTITY",
+      "Text": "thousands",
+      "BeginOffset": 3522,
+      "EndOffset": 3531
+    },
+    {
+      "Score": 0.9306748509407043,
+      "Type": "TITLE",
+      "Text": "Alexa",
+      "BeginOffset": 3541,
+      "EndOffset": 3546
+    },
+    {
+      "Score": 0.853669285774231,
+      "Type": "OTHER",
+      "Text": "South Korean",
+      "BeginOffset": 3565,
+      "EndOffset": 3577
+    },
+    {
+      "Score": 0.7367475628852844,
+      "Type": "QUANTITY",
+      "Text": "108",
+      "BeginOffset": 3631,
+      "EndOffset": 3634
+    },
+    {
+      "Score": 0.8433074355125427,
+      "Type": "LOCATION",
+      "Text": "South Korea",
+      "BeginOffset": 3635,
+      "EndOffset": 3646
+    },
+    {
+      "Score": 0.6898573040962219,
+      "Type": "OTHER",
+      "Text": "Chinese",
+      "BeginOffset": 3754,
+      "EndOffset": 3761
+    },
+    {
+      "Score": 0.4264279901981354,
+      "Type": "QUANTITY",
+      "Text": "109",
+      "BeginOffset": 3772,
+      "EndOffset": 3775
+    },
+    {
+      "Score": 0.8072315454483032,
+      "Type": "QUANTITY",
+      "Text": "Second major haul of pangolin scales",
+      "BeginOffset": 3776,
+      "EndOffset": 3812
+    },
+    {
+      "Score": 0.5898298025131226,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 3838,
+      "EndOffset": 3841
+    },
+    {
+      "Score": 0.9897851943969727,
+      "Type": "PERSON",
+      "Text": "Ted Baker",
+      "BeginOffset": 3842,
+      "EndOffset": 3851
+    },
+    {
+      "Score": 0.9782297015190125,
+      "Type": "PERSON",
+      "Text": "Laleh Shahravesh",
+      "BeginOffset": 4057,
+      "EndOffset": 4073
+    },
+    {
+      "Score": 0.9908620119094849,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 4088,
+      "EndOffset": 4094
+    },
+    {
+      "Score": 0.8433322310447693,
+      "Type": "LOCATION",
+      "Text": "Paris",
+      "BeginOffset": 4113,
+      "EndOffset": 4118
+    },
+    {
+      "Score": 0.45590776205062866,
+      "Type": "OTHER",
+      "Text": "112",
+      "BeginOffset": 4197,
+      "EndOffset": 4200
+    },
+    {
+      "Score": 0.830682098865509,
+      "Type": "OTHER",
+      "Text": "British",
+      "BeginOffset": 4201,
+      "EndOffset": 4208
+    },
+    {
+      "Score": 0.9976761937141418,
+      "Type": "LOCATION",
+      "Text": "Dubai",
+      "BeginOffset": 4227,
+      "EndOffset": 4232
+    },
+    {
+      "Score": 0.9916766881942749,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 4238,
+      "EndOffset": 4246
+    },
+    {
+      "Score": 0.9931043386459351,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 4279,
+      "EndOffset": 4290
+    },
+    {
+      "Score": 0.5988812446594238,
+      "Type": "ORGANIZATION",
+      "Text": "IBS",
+      "BeginOffset": 4353,
+      "EndOffset": 4356
+    },
+    {
+      "Score": 0.8924543857574463,
+      "Type": "QUANTITY",
+      "Text": "up to 20 per cent of people",
+      "BeginOffset": 4365,
+      "EndOffset": 4392
+    },
+    {
+      "Score": 0.529394805431366,
+      "Type": "QUANTITY",
+      "Text": "114",
+      "BeginOffset": 4394,
+      "EndOffset": 4397
+    },
+    {
+      "Score": 0.9060240983963013,
+      "Type": "OTHER",
+      "Text": "Chinese",
+      "BeginOffset": 4518,
+      "EndOffset": 4525
+    },
+    {
+      "Score": 0.4641164541244507,
+      "Type": "QUANTITY",
+      "Text": "115",
+      "BeginOffset": 4536,
+      "EndOffset": 4539
+    },
+    {
+      "Score": 0.8164060711860657,
+      "Type": "QUANTITY",
+      "Text": "Second major haul of pangolin scales",
+      "BeginOffset": 4540,
+      "EndOffset": 4576
+    },
+    {
+      "Score": 0.638282835483551,
+      "Type": "ORGANIZATION",
+      "Text": "Kashmiri Muslim",
+      "BeginOffset": 4608,
+      "EndOffset": 4623
+    },
+    {
+      "Score": 0.7257729172706604,
+      "Type": "ORGANIZATION",
+      "Text": "Indian Border\n       Security",
+      "BeginOffset": 4654,
+      "EndOffset": 4683
+    },
+    {
+      "Score": 0.6099072694778442,
+      "Type": "QUANTITY",
+      "Text": "116",
+      "BeginOffset": 4725,
+      "EndOffset": 4728
+    },
+    {
+      "Score": 0.7145962715148926,
+      "Type": "OTHER",
+      "Text": "Indian",
+      "BeginOffset": 4729,
+      "EndOffset": 4735
+    },
+    {
+      "Score": 0.7086621522903442,
+      "Type": "QUANTITY",
+      "Text": "900 million",
+      "BeginOffset": 4754,
+      "EndOffset": 4765
+    }
+  ]
+}

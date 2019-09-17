@@ -1,0 +1,438 @@
+{
+  "Entities": [
+    {
+      "Score": 0.6444692611694336,
+      "Type": "ORGANIZATION",
+      "Text": "Empire Herald",
+      "BeginOffset": 8,
+      "EndOffset": 21
+    },
+    {
+      "Score": 0.6628916263580322,
+      "Type": "ORGANIZATION",
+      "Text": "Empire Herald",
+      "BeginOffset": 32,
+      "EndOffset": 45
+    },
+    {
+      "Score": 0.7997893691062927,
+      "Type": "QUANTITY",
+      "Text": "5 Benefits",
+      "BeginOffset": 72,
+      "EndOffset": 82
+    },
+    {
+      "Score": 0.5203173756599426,
+      "Type": "QUANTITY",
+      "Text": "5",
+      "BeginOffset": 136,
+      "EndOffset": 137
+    },
+    {
+      "Score": 0.9342750310897827,
+      "Type": "QUANTITY",
+      "Text": "5 Ways",
+      "BeginOffset": 138,
+      "EndOffset": 144
+    },
+    {
+      "Score": 0.48706984519958496,
+      "Type": "QUANTITY",
+      "Text": "6",
+      "BeginOffset": 208,
+      "EndOffset": 209
+    },
+    {
+      "Score": 0.9040926098823547,
+      "Type": "QUANTITY",
+      "Text": "5 Ways",
+      "BeginOffset": 210,
+      "EndOffset": 216
+    },
+    {
+      "Score": 0.616158664226532,
+      "Type": "QUANTITY",
+      "Text": "7",
+      "BeginOffset": 263,
+      "EndOffset": 264
+    },
+    {
+      "Score": 0.8017668128013611,
+      "Type": "QUANTITY",
+      "Text": "6 Ways",
+      "BeginOffset": 265,
+      "EndOffset": 271
+    },
+    {
+      "Score": 0.7065042853355408,
+      "Type": "QUANTITY",
+      "Text": "8",
+      "BeginOffset": 335,
+      "EndOffset": 336
+    },
+    {
+      "Score": 0.9026873707771301,
+      "Type": "QUANTITY",
+      "Text": "Four Reasons",
+      "BeginOffset": 337,
+      "EndOffset": 349
+    },
+    {
+      "Score": 0.6343029737472534,
+      "Type": "TITLE",
+      "Text": "Windows",
+      "BeginOffset": 366,
+      "EndOffset": 373
+    },
+    {
+      "Score": 0.48618456721305847,
+      "Type": "QUANTITY",
+      "Text": "9",
+      "BeginOffset": 382,
+      "EndOffset": 383
+    },
+    {
+      "Score": 0.9127982258796692,
+      "Type": "QUANTITY",
+      "Text": "7 Ways",
+      "BeginOffset": 384,
+      "EndOffset": 390
+    },
+    {
+      "Score": 0.6057410836219788,
+      "Type": "QUANTITY",
+      "Text": "10",
+      "BeginOffset": 452,
+      "EndOffset": 454
+    },
+    {
+      "Score": 0.9043586254119873,
+      "Type": "QUANTITY",
+      "Text": "11 Promotional Products",
+      "BeginOffset": 464,
+      "EndOffset": 487
+    },
+    {
+      "Score": 0.7042026519775391,
+      "Type": "QUANTITY",
+      "Text": "21",
+      "BeginOffset": 508,
+      "EndOffset": 510
+    },
+    {
+      "Score": 0.8591011762619019,
+      "Type": "QUANTITY",
+      "Text": "5 Benefits",
+      "BeginOffset": 511,
+      "EndOffset": 521
+    },
+    {
+      "Score": 0.5866984128952026,
+      "Type": "QUANTITY",
+      "Text": "27",
+      "BeginOffset": 710,
+      "EndOffset": 712
+    },
+    {
+      "Score": 0.9541889429092407,
+      "Type": "QUANTITY",
+      "Text": "5 Ways",
+      "BeginOffset": 713,
+      "EndOffset": 719
+    },
+    {
+      "Score": 0.9649009704589844,
+      "Type": "QUANTITY",
+      "Text": "$1",
+      "BeginOffset": 844,
+      "EndOffset": 846
+    },
+    {
+      "Score": 0.9998453259468079,
+      "Type": "QUANTITY",
+      "Text": "$1,500",
+      "BeginOffset": 854,
+      "EndOffset": 860
+    },
+    {
+      "Score": 0.7473110556602478,
+      "Type": "QUANTITY",
+      "Text": "30",
+      "BeginOffset": 894,
+      "EndOffset": 896
+    },
+    {
+      "Score": 0.9036542177200317,
+      "Type": "QUANTITY",
+      "Text": "5 Ways",
+      "BeginOffset": 897,
+      "EndOffset": 903
+    },
+    {
+      "Score": 0.759428083896637,
+      "Type": "QUANTITY",
+      "Text": "33",
+      "BeginOffset": 1018,
+      "EndOffset": 1020
+    },
+    {
+      "Score": 0.7945034503936768,
+      "Type": "QUANTITY",
+      "Text": "6 Ways",
+      "BeginOffset": 1021,
+      "EndOffset": 1027
+    },
+    {
+      "Score": 0.7638266682624817,
+      "Type": "QUANTITY",
+      "Text": "at least 40",
+      "BeginOffset": 1224,
+      "EndOffset": 1235
+    },
+    {
+      "Score": 0.9256688356399536,
+      "Type": "QUANTITY",
+      "Text": "39",
+      "BeginOffset": 1237,
+      "EndOffset": 1239
+    },
+    {
+      "Score": 0.883935272693634,
+      "Type": "QUANTITY",
+      "Text": "7 Ways",
+      "BeginOffset": 1240,
+      "EndOffset": 1246
+    },
+    {
+      "Score": 0.6728193163871765,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 1379,
+      "EndOffset": 1381
+    },
+    {
+      "Score": 0.9372154474258423,
+      "Type": "QUANTITY",
+      "Text": "11 Promotional Products",
+      "BeginOffset": 1391,
+      "EndOffset": 1414
+    },
+    {
+      "Score": 0.5702078342437744,
+      "Type": "QUANTITY",
+      "Text": "both",
+      "BeginOffset": 1583,
+      "EndOffset": 1587
+    },
+    {
+      "Score": 0.5396307706832886,
+      "Type": "QUANTITY",
+      "Text": "One",
+      "BeginOffset": 1610,
+      "EndOffset": 1613
+    },
+    {
+      "Score": 0.8554419279098511,
+      "Type": "QUANTITY",
+      "Text": "4-Step Process",
+      "BeginOffset": 1858,
+      "EndOffset": 1872
+    },
+    {
+      "Score": 0.8331791162490845,
+      "Type": "QUANTITY",
+      "Text": "four-step process",
+      "BeginOffset": 2197,
+      "EndOffset": 2214
+    },
+    {
+      "Score": 0.7161335349082947,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 2287,
+      "EndOffset": 2289
+    },
+    {
+      "Score": 0.8867346048355103,
+      "Type": "QUANTITY",
+      "Text": "5 Corporate Holiday Promo Products",
+      "BeginOffset": 2294,
+      "EndOffset": 2328
+    },
+    {
+      "Score": 0.9084169864654541,
+      "Type": "QUANTITY",
+      "Text": "4 Reasons",
+      "BeginOffset": 2867,
+      "EndOffset": 2876
+    },
+    {
+      "Score": 0.6118428707122803,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 2923,
+      "EndOffset": 2925
+    },
+    {
+      "Score": 0.839512288570404,
+      "Type": "QUANTITY",
+      "Text": "6 Benefits",
+      "BeginOffset": 2926,
+      "EndOffset": 2936
+    },
+    {
+      "Score": 0.727013111114502,
+      "Type": "QUANTITY",
+      "Text": "66",
+      "BeginOffset": 2979,
+      "EndOffset": 2981
+    },
+    {
+      "Score": 0.8939418196678162,
+      "Type": "QUANTITY",
+      "Text": "6 Main Types",
+      "BeginOffset": 2982,
+      "EndOffset": 2994
+    },
+    {
+      "Score": 0.7801839709281921,
+      "Type": "QUANTITY",
+      "Text": "68",
+      "BeginOffset": 3033,
+      "EndOffset": 3035
+    },
+    {
+      "Score": 0.8983550071716309,
+      "Type": "QUANTITY",
+      "Text": "5 Reasons",
+      "BeginOffset": 3036,
+      "EndOffset": 3045
+    },
+    {
+      "Score": 0.8337845802307129,
+      "Type": "QUANTITY",
+      "Text": "70",
+      "BeginOffset": 3087,
+      "EndOffset": 3089
+    },
+    {
+      "Score": 0.9151062369346619,
+      "Type": "QUANTITY",
+      "Text": "Six Qualities",
+      "BeginOffset": 3090,
+      "EndOffset": 3103
+    },
+    {
+      "Score": 0.6396793127059937,
+      "Type": "QUANTITY",
+      "Text": "72",
+      "BeginOffset": 3161,
+      "EndOffset": 3163
+    },
+    {
+      "Score": 0.9470652937889099,
+      "Type": "QUANTITY",
+      "Text": "4 Things",
+      "BeginOffset": 3164,
+      "EndOffset": 3172
+    },
+    {
+      "Score": 0.42094042897224426,
+      "Type": "QUANTITY",
+      "Text": "74",
+      "BeginOffset": 3209,
+      "EndOffset": 3211
+    },
+    {
+      "Score": 0.7225937247276306,
+      "Type": "QUANTITY",
+      "Text": "76",
+      "BeginOffset": 3275,
+      "EndOffset": 3277
+    },
+    {
+      "Score": 0.7960445284843445,
+      "Type": "QUANTITY",
+      "Text": "90",
+      "BeginOffset": 3336,
+      "EndOffset": 3338
+    },
+    {
+      "Score": 0.7508827447891235,
+      "Type": "QUANTITY",
+      "Text": "5 Benefits",
+      "BeginOffset": 3339,
+      "EndOffset": 3349
+    },
+    {
+      "Score": 0.8295992612838745,
+      "Type": "QUANTITY",
+      "Text": "91",
+      "BeginOffset": 3408,
+      "EndOffset": 3410
+    },
+    {
+      "Score": 0.8807855844497681,
+      "Type": "QUANTITY",
+      "Text": "4 Vital Car Rental Services",
+      "BeginOffset": 3411,
+      "EndOffset": 3438
+    },
+    {
+      "Score": 0.8089956045150757,
+      "Type": "QUANTITY",
+      "Text": "92",
+      "BeginOffset": 3452,
+      "EndOffset": 3454
+    },
+    {
+      "Score": 0.9537132978439331,
+      "Type": "QUANTITY",
+      "Text": "5 Ways",
+      "BeginOffset": 3455,
+      "EndOffset": 3461
+    },
+    {
+      "Score": 0.8392804265022278,
+      "Type": "QUANTITY",
+      "Text": "93",
+      "BeginOffset": 3523,
+      "EndOffset": 3525
+    },
+    {
+      "Score": 0.9118584394454956,
+      "Type": "QUANTITY",
+      "Text": "5 Ways",
+      "BeginOffset": 3526,
+      "EndOffset": 3532
+    },
+    {
+      "Score": 0.8375982046127319,
+      "Type": "QUANTITY",
+      "Text": "94",
+      "BeginOffset": 3584,
+      "EndOffset": 3586
+    },
+    {
+      "Score": 0.7679024934768677,
+      "Type": "QUANTITY",
+      "Text": "6 Ways",
+      "BeginOffset": 3587,
+      "EndOffset": 3593
+    },
+    {
+      "Score": 0.7294382452964783,
+      "Type": "QUANTITY",
+      "Text": "96",
+      "BeginOffset": 3646,
+      "EndOffset": 3648
+    },
+    {
+      "Score": 0.8111216425895691,
+      "Type": "QUANTITY",
+      "Text": "5 Benefits",
+      "BeginOffset": 3649,
+      "EndOffset": 3659
+    }
+  ]
+}

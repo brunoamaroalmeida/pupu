@@ -1,0 +1,138 @@
+{
+  "Labels": [
+    {
+      "Name": "Jaw",
+      "Confidence": 99.96824645996094,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 99.58170318603516,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 99.58170318603516,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.17298877239227295,
+            "Height": 0.19232559204101562,
+            "Left": 0.7052608132362366,
+            "Top": 0.716663122177124
+          },
+          "Confidence": 99.58170318603516
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.09206569194793701,
+            "Height": 0.19648849964141846,
+            "Left": 0.7865371704101562,
+            "Top": 0.4168355464935303
+          },
+          "Confidence": 98.67090606689453
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.11893355846405029,
+            "Height": 0.18995292484760284,
+            "Left": 0.6499860286712646,
+            "Top": 0.42207467555999756
+          },
+          "Confidence": 97.61053466796875
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Head",
+      "Confidence": 94.76930236816406,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 93.73355865478516,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Face",
+      "Confidence": 91.14370727539062,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Accessories",
+      "Confidence": 81.15975189208984,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Accessory",
+      "Confidence": 81.15975189208984,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Sunglasses",
+      "Confidence": 81.15975189208984,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.04170370101928711,
+            "Height": 0.02756805345416069,
+            "Left": 0.6943272352218628,
+            "Top": 0.43594950437545776
+          },
+          "Confidence": 81.15975189208984
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Accessories"
+        }
+      ]
+    },
+    {
+      "Name": "Document",
+      "Confidence": 71.35151672363281,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Id Cards",
+      "Confidence": 71.35151672363281,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.9234179258346558,
+            "Height": 0.934979259967804,
+            "Left": 0.038025885820388794,
+            "Top": 0.05916309356689453
+          },
+          "Confidence": 62.12818145751953
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Document"
+        },
+        {
+          "Name": "Text"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

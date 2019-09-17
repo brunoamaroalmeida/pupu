@@ -1,0 +1,176 @@
+{
+  "Labels": [
+    {
+      "Name": "Clothing",
+      "Confidence": 99.71222686767578,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 99.71222686767578,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Hat",
+      "Confidence": 99.71222686767578,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.2261362075805664,
+            "Height": 0.14678047597408295,
+            "Left": 0.6757626533508301,
+            "Top": 0.37170565128326416
+          },
+          "Confidence": 99.71222686767578
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Person",
+      "Confidence": 99.68724822998047,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.3459508419036865,
+            "Height": 0.43745994567871094,
+            "Left": 0.6384875774383545,
+            "Top": 0.3708646297454834
+          },
+          "Confidence": 99.68724822998047
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.286382794380188,
+            "Height": 0.49211788177490234,
+            "Left": 0.3714389204978943,
+            "Top": 0.31409886479377747
+          },
+          "Confidence": 99.52191162109375
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 99.68724822998047,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Military",
+      "Confidence": 97.2080078125,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Military Uniform",
+      "Confidence": 97.2080078125,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Military"
+        }
+      ]
+    },
+    {
+      "Name": "Army",
+      "Confidence": 93.45548248291016,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Military Uniform"
+        },
+        {
+          "Name": "Military"
+        },
+        {
+          "Name": "Armored"
+        },
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Armored",
+      "Confidence": 93.45548248291016,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Soldier",
+      "Confidence": 81.93094635009766,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Military Uniform"
+        },
+        {
+          "Name": "Military"
+        },
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "People",
+      "Confidence": 80.07379913330078,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Text",
+      "Confidence": 72.62020874023438,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Troop",
+      "Confidence": 57.833702087402344,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Military"
+        },
+        {
+          "Name": "Person"
+        },
+        {
+          "Name": "People"
+        },
+        {
+          "Name": "Armored"
+        },
+        {
+          "Name": "Military Uniform"
+        },
+        {
+          "Name": "Army"
+        }
+      ]
+    },
+    {
+      "Name": "Face",
+      "Confidence": 57.06509017944336,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

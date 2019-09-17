@@ -1,0 +1,851 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8862407207489014,
+      "Type": "LOCATION",
+      "Text": "Australia",
+      "BeginOffset": 377,
+      "EndOffset": 386
+    },
+    {
+      "Score": 0.5447486639022827,
+      "Type": "QUANTITY",
+      "Text": "78",
+      "BeginOffset": 523,
+      "EndOffset": 525
+    },
+    {
+      "Score": 0.8974239230155945,
+      "Type": "LOCATION",
+      "Text": "Australia",
+      "BeginOffset": 540,
+      "EndOffset": 549
+    },
+    {
+      "Score": 0.37808990478515625,
+      "Type": "OTHER",
+      "Text": "111",
+      "BeginOffset": 618,
+      "EndOffset": 621
+    },
+    {
+      "Score": 0.9895328283309937,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 637,
+      "EndOffset": 642
+    },
+    {
+      "Score": 0.970812201499939,
+      "Type": "PERSON",
+      "Text": "Randolph Alles",
+      "BeginOffset": 697,
+      "EndOffset": 711
+    },
+    {
+      "Score": 0.9466766715049744,
+      "Type": "PERSON",
+      "Text": "Kirstjen Nielsen",
+      "BeginOffset": 802,
+      "EndOffset": 818
+    },
+    {
+      "Score": 0.9968454241752625,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 850,
+      "EndOffset": 855
+    },
+    {
+      "Score": 0.858000636100769,
+      "Type": "LOCATION",
+      "Text": "El Paso",
+      "BeginOffset": 889,
+      "EndOffset": 896
+    },
+    {
+      "Score": 0.32490816712379456,
+      "Type": "OTHER",
+      "Text": "113",
+      "BeginOffset": 910,
+      "EndOffset": 913
+    },
+    {
+      "Score": 0.6733251810073853,
+      "Type": "PERSON",
+      "Text": "Kirstjen Nielsen",
+      "BeginOffset": 914,
+      "EndOffset": 930
+    },
+    {
+      "Score": 0.5860543251037598,
+      "Type": "QUANTITY",
+      "Text": "115",
+      "BeginOffset": 993,
+      "EndOffset": 996
+    },
+    {
+      "Score": 0.972059428691864,
+      "Type": "PERSON",
+      "Text": "Kirstjen Nielsen",
+      "BeginOffset": 997,
+      "EndOffset": 1013
+    },
+    {
+      "Score": 0.5321402549743652,
+      "Type": "QUANTITY",
+      "Text": "116",
+      "BeginOffset": 1047,
+      "EndOffset": 1050
+    },
+    {
+      "Score": 0.997825026512146,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1056,
+      "EndOffset": 1061
+    },
+    {
+      "Score": 0.8667770028114319,
+      "Type": "LOCATION",
+      "Text": "El Paso",
+      "BeginOffset": 1095,
+      "EndOffset": 1102
+    },
+    {
+      "Score": 0.6231631636619568,
+      "Type": "QUANTITY",
+      "Text": "117",
+      "BeginOffset": 1116,
+      "EndOffset": 1119
+    },
+    {
+      "Score": 0.6597941517829895,
+      "Type": "PERSON",
+      "Text": "Kirstjen Nielsen",
+      "BeginOffset": 1120,
+      "EndOffset": 1136
+    },
+    {
+      "Score": 0.3575049638748169,
+      "Type": "QUANTITY",
+      "Text": "118",
+      "BeginOffset": 1186,
+      "EndOffset": 1189
+    },
+    {
+      "Score": 0.5320790410041809,
+      "Type": "QUANTITY",
+      "Text": "119",
+      "BeginOffset": 1199,
+      "EndOffset": 1202
+    },
+    {
+      "Score": 0.9735539555549622,
+      "Type": "PERSON",
+      "Text": "Kirstjen Nielsen",
+      "BeginOffset": 1203,
+      "EndOffset": 1219
+    },
+    {
+      "Score": 0.5373579263687134,
+      "Type": "QUANTITY",
+      "Text": "120",
+      "BeginOffset": 1248,
+      "EndOffset": 1251
+    },
+    {
+      "Score": 0.9906759262084961,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1252,
+      "EndOffset": 1257
+    },
+    {
+      "Score": 0.6796673536300659,
+      "Type": "LOCATION",
+      "Text": "Tripoli",
+      "BeginOffset": 1336,
+      "EndOffset": 1343
+    },
+    {
+      "Score": 0.9486563801765442,
+      "Type": "LOCATION",
+      "Text": "Libya",
+      "BeginOffset": 1465,
+      "EndOffset": 1470
+    },
+    {
+      "Score": 0.3533460795879364,
+      "Type": "LOCATION",
+      "Text": "Tripoli",
+      "BeginOffset": 1513,
+      "EndOffset": 1520
+    },
+    {
+      "Score": 0.945550262928009,
+      "Type": "LOCATION",
+      "Text": "Libya",
+      "BeginOffset": 1538,
+      "EndOffset": 1543
+    },
+    {
+      "Score": 0.9522005915641785,
+      "Type": "LOCATION",
+      "Text": "Tripoli",
+      "BeginOffset": 1586,
+      "EndOffset": 1593
+    },
+    {
+      "Score": 0.8648005127906799,
+      "Type": "LOCATION",
+      "Text": "Tripoli",
+      "BeginOffset": 1606,
+      "EndOffset": 1613
+    },
+    {
+      "Score": 0.6146512627601624,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 1661,
+      "EndOffset": 1664
+    },
+    {
+      "Score": 0.6714960336685181,
+      "Type": "ORGANIZATION",
+      "Text": "Tory Brexiters",
+      "BeginOffset": 1680,
+      "EndOffset": 1694
+    },
+    {
+      "Score": 0.7307807207107544,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 1709,
+      "EndOffset": 1711
+    },
+    {
+      "Score": 0.7688759565353394,
+      "Type": "PERSON",
+      "Text": "Merkel",
+      "BeginOffset": 1743,
+      "EndOffset": 1749
+    },
+    {
+      "Score": 0.9988203644752502,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 1754,
+      "EndOffset": 1760
+    },
+    {
+      "Score": 0.9301575422286987,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1767,
+      "EndOffset": 1773
+    },
+    {
+      "Score": 0.6783413290977478,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 1795,
+      "EndOffset": 1797
+    },
+    {
+      "Score": 0.947337806224823,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 1817,
+      "EndOffset": 1819
+    },
+    {
+      "Score": 0.4588715136051178,
+      "Type": "QUANTITY",
+      "Text": "128",
+      "BeginOffset": 1859,
+      "EndOffset": 1862
+    },
+    {
+      "Score": 0.7906531691551208,
+      "Type": "ORGANIZATION",
+      "Text": "Live Government",
+      "BeginOffset": 1863,
+      "EndOffset": 1878
+    },
+    {
+      "Score": 0.5334425568580627,
+      "Type": "EVENT",
+      "Text": "EU\n          +",
+      "BeginOffset": 1910,
+      "EndOffset": 1924
+    },
+    {
+      "Score": 0.5248221755027771,
+      "Type": "QUANTITY",
+      "Text": "129",
+      "BeginOffset": 1926,
+      "EndOffset": 1929
+    },
+    {
+      "Score": 0.8248267769813538,
+      "Type": "PERSON",
+      "Text": "Merkel",
+      "BeginOffset": 1952,
+      "EndOffset": 1958
+    },
+    {
+      "Score": 0.9977380037307739,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 1963,
+      "EndOffset": 1969
+    },
+    {
+      "Score": 0.7646570205688477,
+      "Type": "PERSON",
+      "Text": "May",
+      "BeginOffset": 1973,
+      "EndOffset": 1976
+    },
+    {
+      "Score": 0.7934679985046387,
+      "Type": "QUANTITY",
+      "Text": "130",
+      "BeginOffset": 2001,
+      "EndOffset": 2004
+    },
+    {
+      "Score": 0.8028720021247864,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2005,
+      "EndOffset": 2011
+    },
+    {
+      "Score": 0.6319556832313538,
+      "Type": "ORGANIZATION",
+      "Text": "EU\n          +",
+      "BeginOffset": 2060,
+      "EndOffset": 2074
+    },
+    {
+      "Score": 0.8044542670249939,
+      "Type": "ORGANIZATION",
+      "Text": "Live Government",
+      "BeginOffset": 2080,
+      "EndOffset": 2095
+    },
+    {
+      "Score": 0.5286499261856079,
+      "Type": "EVENT",
+      "Text": "EU\n          +",
+      "BeginOffset": 2127,
+      "EndOffset": 2141
+    },
+    {
+      "Score": 0.4293074905872345,
+      "Type": "QUANTITY",
+      "Text": "132",
+      "BeginOffset": 2143,
+      "EndOffset": 2146
+    },
+    {
+      "Score": 0.8779542446136475,
+      "Type": "PERSON",
+      "Text": "Merkel",
+      "BeginOffset": 2169,
+      "EndOffset": 2175
+    },
+    {
+      "Score": 0.9984458088874817,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 2180,
+      "EndOffset": 2186
+    },
+    {
+      "Score": 0.7896877527236938,
+      "Type": "PERSON",
+      "Text": "May",
+      "BeginOffset": 2190,
+      "EndOffset": 2193
+    },
+    {
+      "Score": 0.5703614950180054,
+      "Type": "QUANTITY",
+      "Text": "133",
+      "BeginOffset": 2218,
+      "EndOffset": 2221
+    },
+    {
+      "Score": 0.7818677425384521,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2222,
+      "EndOffset": 2228
+    },
+    {
+      "Score": 0.9126065373420715,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 2277,
+      "EndOffset": 2279
+    },
+    {
+      "Score": 0.43351781368255615,
+      "Type": "QUANTITY",
+      "Text": "134",
+      "BeginOffset": 2288,
+      "EndOffset": 2291
+    },
+    {
+      "Score": 0.7028656005859375,
+      "Type": "ORGANIZATION",
+      "Text": "Tory Brexiters",
+      "BeginOffset": 2311,
+      "EndOffset": 2325
+    },
+    {
+      "Score": 0.9620344042778015,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 2340,
+      "EndOffset": 2342
+    },
+    {
+      "Score": 0.545632004737854,
+      "Type": "QUANTITY",
+      "Text": "135",
+      "BeginOffset": 2353,
+      "EndOffset": 2356
+    },
+    {
+      "Score": 0.4872150123119354,
+      "Type": "LOCATION",
+      "Text": "Brazil",
+      "BeginOffset": 2357,
+      "EndOffset": 2363
+    },
+    {
+      "Score": 0.9293999671936035,
+      "Type": "QUANTITY",
+      "Text": "10 soldiers",
+      "BeginOffset": 2364,
+      "EndOffset": 2375
+    },
+    {
+      "Score": 0.9574886560440063,
+      "Type": "QUANTITY",
+      "Text": "more than 80 bullets",
+      "BeginOffset": 2398,
+      "EndOffset": 2418
+    },
+    {
+      "Score": 0.9191666841506958,
+      "Type": "QUANTITY",
+      "Text": "One man",
+      "BeginOffset": 2436,
+      "EndOffset": 2443
+    },
+    {
+      "Score": 0.8124759793281555,
+      "Type": "QUANTITY",
+      "Text": "two others",
+      "BeginOffset": 2459,
+      "EndOffset": 2469
+    },
+    {
+      "Score": 0.8756605982780457,
+      "Type": "QUANTITY",
+      "Text": "136",
+      "BeginOffset": 2568,
+      "EndOffset": 2571
+    },
+    {
+      "Score": 0.9356691241264343,
+      "Type": "QUANTITY",
+      "Text": "10 soldiers",
+      "BeginOffset": 2572,
+      "EndOffset": 2583
+    },
+    {
+      "Score": 0.9693784713745117,
+      "Type": "QUANTITY",
+      "Text": "more than 80 bullets",
+      "BeginOffset": 2606,
+      "EndOffset": 2626
+    },
+    {
+      "Score": 0.8455440402030945,
+      "Type": "QUANTITY",
+      "Text": "137",
+      "BeginOffset": 2628,
+      "EndOffset": 2631
+    },
+    {
+      "Score": 0.6939892172813416,
+      "Type": "PERSON",
+      "Text": "Felicity Huffman",
+      "BeginOffset": 2632,
+      "EndOffset": 2648
+    },
+    {
+      "Score": 0.44051438570022583,
+      "Type": "QUANTITY",
+      "Text": "138",
+      "BeginOffset": 2715,
+      "EndOffset": 2718
+    },
+    {
+      "Score": 0.6037775874137878,
+      "Type": "QUANTITY",
+      "Text": "139",
+      "BeginOffset": 2778,
+      "EndOffset": 2781
+    },
+    {
+      "Score": 0.8417748808860779,
+      "Type": "QUANTITY",
+      "Text": "140",
+      "BeginOffset": 2862,
+      "EndOffset": 2865
+    },
+    {
+      "Score": 0.7463351488113403,
+      "Type": "QUANTITY",
+      "Text": "141",
+      "BeginOffset": 2923,
+      "EndOffset": 2926
+    },
+    {
+      "Score": 0.7672535181045532,
+      "Type": "QUANTITY",
+      "Text": "142",
+      "BeginOffset": 3007,
+      "EndOffset": 3010
+    },
+    {
+      "Score": 0.803090512752533,
+      "Type": "QUANTITY",
+      "Text": "143",
+      "BeginOffset": 3064,
+      "EndOffset": 3067
+    },
+    {
+      "Score": 0.9264232516288757,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 3068,
+      "EndOffset": 3073
+    },
+    {
+      "Score": 0.884590208530426,
+      "Type": "QUANTITY",
+      "Text": "nearly $1m",
+      "BeginOffset": 3118,
+      "EndOffset": 3128
+    },
+    {
+      "Score": 0.7179460525512695,
+      "Type": "QUANTITY",
+      "Text": "144",
+      "BeginOffset": 3150,
+      "EndOffset": 3153
+    },
+    {
+      "Score": 0.8810532093048096,
+      "Type": "QUANTITY",
+      "Text": "nearly $1m",
+      "BeginOffset": 3198,
+      "EndOffset": 3208
+    },
+    {
+      "Score": 0.625691294670105,
+      "Type": "QUANTITY",
+      "Text": "145",
+      "BeginOffset": 3213,
+      "EndOffset": 3216
+    },
+    {
+      "Score": 0.9539173245429993,
+      "Type": "LOCATION",
+      "Text": "Europe",
+      "BeginOffset": 3281,
+      "EndOffset": 3287
+    },
+    {
+      "Score": 0.41078123450279236,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 3301,
+      "EndOffset": 3304
+    },
+    {
+      "Score": 0.6647454500198364,
+      "Type": "QUANTITY",
+      "Text": "147",
+      "BeginOffset": 3358,
+      "EndOffset": 3361
+    },
+    {
+      "Score": 0.7359669804573059,
+      "Type": "ORGANIZATION",
+      "Text": "European Union",
+      "BeginOffset": 3362,
+      "EndOffset": 3376
+    },
+    {
+      "Score": 0.6248141527175903,
+      "Type": "QUANTITY",
+      "Text": "148",
+      "BeginOffset": 3440,
+      "EndOffset": 3443
+    },
+    {
+      "Score": 0.707274854183197,
+      "Type": "QUANTITY",
+      "Text": "149",
+      "BeginOffset": 3495,
+      "EndOffset": 3498
+    },
+    {
+      "Score": 0.5266977548599243,
+      "Type": "ORGANIZATION",
+      "Text": "Iran Trump",
+      "BeginOffset": 3499,
+      "EndOffset": 3509
+    },
+    {
+      "Score": 0.6140916347503662,
+      "Type": "QUANTITY",
+      "Text": "150",
+      "BeginOffset": 3576,
+      "EndOffset": 3579
+    },
+    {
+      "Score": 0.9947611689567566,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3580,
+      "EndOffset": 3585
+    },
+    {
+      "Score": 0.9944366216659546,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 3638,
+      "EndOffset": 3646
+    },
+    {
+      "Score": 0.9943328499794006,
+      "Type": "PERSON",
+      "Text": "Alex Hern",
+      "BeginOffset": 3713,
+      "EndOffset": 3722
+    },
+    {
+      "Score": 0.9953376650810242,
+      "Type": "PERSON",
+      "Text": "George Monbiot",
+      "BeginOffset": 3730,
+      "EndOffset": 3744
+    },
+    {
+      "Score": 0.5835862159729004,
+      "Type": "QUANTITY",
+      "Text": "152",
+      "BeginOffset": 3789,
+      "EndOffset": 3792
+    },
+    {
+      "Score": 0.9019755721092224,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 3793,
+      "EndOffset": 3798
+    },
+    {
+      "Score": 0.7140248417854309,
+      "Type": "QUANTITY",
+      "Text": "153",
+      "BeginOffset": 3809,
+      "EndOffset": 3812
+    },
+    {
+      "Score": 0.7863823771476746,
+      "Type": "ORGANIZATION",
+      "Text": "Google",
+      "BeginOffset": 3813,
+      "EndOffset": 3819
+    },
+    {
+      "Score": 0.5781176090240479,
+      "Type": "QUANTITY",
+      "Text": "154",
+      "BeginOffset": 3830,
+      "EndOffset": 3833
+    },
+    {
+      "Score": 0.969691276550293,
+      "Type": "ORGANIZATION",
+      "Text": "Spotify",
+      "BeginOffset": 3834,
+      "EndOffset": 3841
+    },
+    {
+      "Score": 0.8123235702514648,
+      "Type": "QUANTITY",
+      "Text": "155",
+      "BeginOffset": 3857,
+      "EndOffset": 3860
+    },
+    {
+      "Score": 0.9591085314750671,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 3861,
+      "EndOffset": 3866
+    },
+    {
+      "Score": 0.7846711874008179,
+      "Type": "QUANTITY",
+      "Text": "156",
+      "BeginOffset": 3877,
+      "EndOffset": 3880
+    },
+    {
+      "Score": 0.8677365779876709,
+      "Type": "ORGANIZATION",
+      "Text": "Google",
+      "BeginOffset": 3881,
+      "EndOffset": 3887
+    },
+    {
+      "Score": 0.5869634747505188,
+      "Type": "QUANTITY",
+      "Text": "157",
+      "BeginOffset": 3898,
+      "EndOffset": 3901
+    },
+    {
+      "Score": 0.9744654893875122,
+      "Type": "ORGANIZATION",
+      "Text": "Spotify",
+      "BeginOffset": 3902,
+      "EndOffset": 3909
+    },
+    {
+      "Score": 0.5083574056625366,
+      "Type": "QUANTITY",
+      "Text": "161",
+      "BeginOffset": 3911,
+      "EndOffset": 3914
+    },
+    {
+      "Score": 0.981033444404602,
+      "Type": "LOCATION",
+      "Text": "America",
+      "BeginOffset": 4005,
+      "EndOffset": 4012
+    },
+    {
+      "Score": 0.9590166211128235,
+      "Type": "PERSON",
+      "Text": "Dream McClinton",
+      "BeginOffset": 4140,
+      "EndOffset": 4155
+    },
+    {
+      "Score": 0.6011151075363159,
+      "Type": "QUANTITY",
+      "Text": "162",
+      "BeginOffset": 4200,
+      "EndOffset": 4203
+    },
+    {
+      "Score": 0.5229706764221191,
+      "Type": "QUANTITY",
+      "Text": "163",
+      "BeginOffset": 4265,
+      "EndOffset": 4268
+    },
+    {
+      "Score": 0.7108418345451355,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 4334,
+      "EndOffset": 4336
+    },
+    {
+      "Score": 0.6318085789680481,
+      "Type": "QUANTITY",
+      "Text": "single adults",
+      "BeginOffset": 4367,
+      "EndOffset": 4380
+    },
+    {
+      "Score": 0.9691562056541443,
+      "Type": "LOCATION",
+      "Text": "Central America",
+      "BeginOffset": 4388,
+      "EndOffset": 4403
+    },
+    {
+      "Score": 0.9957244396209717,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 4462,
+      "EndOffset": 4467
+    },
+    {
+      "Score": 0.39966028928756714,
+      "Type": "QUANTITY",
+      "Text": "164",
+      "BeginOffset": 4490,
+      "EndOffset": 4493
+    },
+    {
+      "Score": 0.9597293138504028,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 4543,
+      "EndOffset": 4545
+    },
+    {
+      "Score": 0.29857680201530457,
+      "Type": "OTHER",
+      "Text": "165",
+      "BeginOffset": 4547,
+      "EndOffset": 4550
+    },
+    {
+      "Score": 0.9361452460289001,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 4577,
+      "EndOffset": 4585
+    },
+    {
+      "Score": 0.9577853083610535,
+      "Type": "QUANTITY",
+      "Text": "$475m",
+      "BeginOffset": 4588,
+      "EndOffset": 4593
+    },
+    {
+      "Score": 0.9997017979621887,
+      "Type": "PERSON",
+      "Text": "Ben Whishaw",
+      "BeginOffset": 4732,
+      "EndOffset": 4743
+    },
+    {
+      "Score": 0.9994040131568909,
+      "Type": "PERSON",
+      "Text": "Steve McQueen",
+      "BeginOffset": 4747,
+      "EndOffset": 4760
+    }
+  ]
+}

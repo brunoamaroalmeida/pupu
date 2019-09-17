@@ -1,0 +1,270 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9477412104606628,
+      "Type": "PERSON",
+      "Text": "Roald Dahl",
+      "BeginOffset": 137,
+      "EndOffset": 147
+    },
+    {
+      "Score": 0.8541909456253052,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 197,
+      "EndOffset": 202
+    },
+    {
+      "Score": 0.977176308631897,
+      "Type": "PERSON",
+      "Text": "Jake Humphrey",
+      "BeginOffset": 216,
+      "EndOffset": 229
+    },
+    {
+      "Score": 0.9933850765228271,
+      "Type": "PERSON",
+      "Text": "Mark Francois",
+      "BeginOffset": 278,
+      "EndOffset": 291
+    },
+    {
+      "Score": 0.9045551419258118,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 331,
+      "EndOffset": 342
+    },
+    {
+      "Score": 0.8065507411956787,
+      "Type": "ORGANIZATION",
+      "Text": "BBC Science Focus",
+      "BeginOffset": 369,
+      "EndOffset": 386
+    },
+    {
+      "Score": 0.7729557156562805,
+      "Type": "ORGANIZATION",
+      "Text": "LBC",
+      "BeginOffset": 426,
+      "EndOffset": 429
+    },
+    {
+      "Score": 0.8624305725097656,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 432,
+      "EndOffset": 438
+    },
+    {
+      "Score": 0.9673110246658325,
+      "Type": "QUANTITY",
+      "Text": "4-year-old",
+      "BeginOffset": 480,
+      "EndOffset": 490
+    },
+    {
+      "Score": 0.41145697236061096,
+      "Type": "QUANTITY",
+      "Text": "one",
+      "BeginOffset": 544,
+      "EndOffset": 547
+    },
+    {
+      "Score": 0.9413398504257202,
+      "Type": "DATE",
+      "Text": "this week",
+      "BeginOffset": 578,
+      "EndOffset": 587
+    },
+    {
+      "Score": 0.9328428506851196,
+      "Type": "TITLE",
+      "Text": "Pulp Fiction",
+      "BeginOffset": 635,
+      "EndOffset": 647
+    },
+    {
+      "Score": 0.9494011998176575,
+      "Type": "ORGANIZATION",
+      "Text": "Wikipedia",
+      "BeginOffset": 724,
+      "EndOffset": 733
+    },
+    {
+      "Score": 0.9795607924461365,
+      "Type": "QUANTITY",
+      "Text": "23 times",
+      "BeginOffset": 763,
+      "EndOffset": 771
+    },
+    {
+      "Score": 0.9993851184844971,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 835,
+      "EndOffset": 847
+    },
+    {
+      "Score": 0.7445234060287476,
+      "Type": "ORGANIZATION",
+      "Text": "World Health Organization",
+      "BeginOffset": 874,
+      "EndOffset": 899
+    },
+    {
+      "Score": 0.49500399827957153,
+      "Type": "DATE",
+      "Text": "11",
+      "BeginOffset": 902,
+      "EndOffset": 904
+    },
+    {
+      "Score": 0.9913938045501709,
+      "Type": "QUANTITY",
+      "Text": "5 times",
+      "BeginOffset": 932,
+      "EndOffset": 939
+    },
+    {
+      "Score": 0.8380624651908875,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 1021,
+      "EndOffset": 1023
+    },
+    {
+      "Score": 0.8470258712768555,
+      "Type": "QUANTITY",
+      "Text": "14 three-word",
+      "BeginOffset": 1055,
+      "EndOffset": 1068
+    },
+    {
+      "Score": 0.9434943199157715,
+      "Type": "ORGANIZATION",
+      "Text": "Tinder",
+      "BeginOffset": 1117,
+      "EndOffset": 1123
+    },
+    {
+      "Score": 0.9858932495117188,
+      "Type": "QUANTITY",
+      "Text": "23 times",
+      "BeginOffset": 1237,
+      "EndOffset": 1245
+    },
+    {
+      "Score": 0.9376645684242249,
+      "Type": "ORGANIZATION",
+      "Text": "Tinder",
+      "BeginOffset": 1369,
+      "EndOffset": 1375
+    },
+    {
+      "Score": 0.9236453175544739,
+      "Type": "QUANTITY",
+      "Text": "33 celebrity marriages",
+      "BeginOffset": 1419,
+      "EndOffset": 1441
+    },
+    {
+      "Score": 0.9399294853210449,
+      "Type": "PERSON",
+      "Text": "Krishnan Guru-Murthy",
+      "BeginOffset": 1478,
+      "EndOffset": 1498
+    },
+    {
+      "Score": 0.2838395833969116,
+      "Type": "EVENT",
+      "Text": "Brexiter",
+      "BeginOffset": 1521,
+      "EndOffset": 1529
+    },
+    {
+      "Score": 0.9352222681045532,
+      "Type": "DATE",
+      "Text": "this week",
+      "BeginOffset": 1536,
+      "EndOffset": 1545
+    },
+    {
+      "Score": 0.9863421320915222,
+      "Type": "PERSON",
+      "Text": "Jake Humphrey",
+      "BeginOffset": 1556,
+      "EndOffset": 1569
+    },
+    {
+      "Score": 0.762645959854126,
+      "Type": "QUANTITY",
+      "Text": "15+",
+      "BeginOffset": 1618,
+      "EndOffset": 1621
+    },
+    {
+      "Score": 0.9993070363998413,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 1668,
+      "EndOffset": 1680
+    },
+    {
+      "Score": 0.8209050297737122,
+      "Type": "ORGANIZATION",
+      "Text": "World Health Organization",
+      "BeginOffset": 1707,
+      "EndOffset": 1732
+    },
+    {
+      "Score": 0.5225191712379456,
+      "Type": "DATE",
+      "Text": "11",
+      "BeginOffset": 1735,
+      "EndOffset": 1737
+    },
+    {
+      "Score": 0.8051120042800903,
+      "Type": "QUANTITY",
+      "Text": "first question",
+      "BeginOffset": 1772,
+      "EndOffset": 1786
+    },
+    {
+      "Score": 0.5607715249061584,
+      "Type": "EVENT",
+      "Text": "Brexiter",
+      "BeginOffset": 1818,
+      "EndOffset": 1826
+    },
+    {
+      "Score": 0.9526342749595642,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 1854,
+      "EndOffset": 1856
+    },
+    {
+      "Score": 0.9874507188796997,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 1893,
+      "EndOffset": 1897
+    },
+    {
+      "Score": 0.6715068221092224,
+      "Type": "QUANTITY",
+      "Text": "20",
+      "BeginOffset": 1905,
+      "EndOffset": 1907
+    },
+    {
+      "Score": 0.9469049572944641,
+      "Type": "ORGANIZATION",
+      "Text": "T&C",
+      "BeginOffset": 1908,
+      "EndOffset": 1911
+    }
+  ]
+}

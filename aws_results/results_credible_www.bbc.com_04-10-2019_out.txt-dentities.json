@@ -1,0 +1,522 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8981371521949768,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 70,
+      "EndOffset": 73
+    },
+    {
+      "Score": 0.7721691727638245,
+      "Type": "ORGANIZATION",
+      "Text": "BBC\n       Astronomers",
+      "BeginOffset": 115,
+      "EndOffset": 137
+    },
+    {
+      "Score": 0.7850687503814697,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 153,
+      "EndOffset": 158
+    },
+    {
+      "Score": 0.5349029898643494,
+      "Type": "QUANTITY",
+      "Text": "32",
+      "BeginOffset": 201,
+      "EndOffset": 203
+    },
+    {
+      "Score": 0.8546585440635681,
+      "Type": "QUANTITY",
+      "Text": "First",
+      "BeginOffset": 204,
+      "EndOffset": 209
+    },
+    {
+      "Score": 0.7776567339897156,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 256,
+      "EndOffset": 262
+    },
+    {
+      "Score": 0.812681257724762,
+      "Type": "LOCATION",
+      "Text": "Europe",
+      "BeginOffset": 281,
+      "EndOffset": 287
+    },
+    {
+      "Score": 0.638882040977478,
+      "Type": "QUANTITY",
+      "Text": "35",
+      "BeginOffset": 296,
+      "EndOffset": 298
+    },
+    {
+      "Score": 0.9093829989433289,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 310,
+      "EndOffset": 316
+    },
+    {
+      "Score": 0.8409609198570251,
+      "Type": "LOCATION",
+      "Text": "Europe",
+      "BeginOffset": 335,
+      "EndOffset": 341
+    },
+    {
+      "Score": 0.5277090668678284,
+      "Type": "QUANTITY",
+      "Text": "36",
+      "BeginOffset": 343,
+      "EndOffset": 345
+    },
+    {
+      "Score": 0.9539250731468201,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 378,
+      "EndOffset": 388
+    },
+    {
+      "Score": 0.940049946308136,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 437,
+      "EndOffset": 447
+    },
+    {
+      "Score": 0.9527031183242798,
+      "Type": "QUANTITY",
+      "Text": "two countries",
+      "BeginOffset": 482,
+      "EndOffset": 495
+    },
+    {
+      "Score": 0.7377752065658569,
+      "Type": "QUANTITY",
+      "Text": "41",
+      "BeginOffset": 504,
+      "EndOffset": 506
+    },
+    {
+      "Score": 0.9643452763557434,
+      "Type": "QUANTITY",
+      "Text": "two countries",
+      "BeginOffset": 532,
+      "EndOffset": 545
+    },
+    {
+      "Score": 0.9914395809173584,
+      "Type": "ORGANIZATION",
+      "Text": "Getty Images",
+      "BeginOffset": 585,
+      "EndOffset": 597
+    },
+    {
+      "Score": 0.9693337082862854,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 713,
+      "EndOffset": 724
+    },
+    {
+      "Score": 0.9934282898902893,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 736,
+      "EndOffset": 744
+    },
+    {
+      "Score": 0.7761354446411133,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 805,
+      "EndOffset": 807
+    },
+    {
+      "Score": 0.7468270659446716,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 829,
+      "EndOffset": 831
+    },
+    {
+      "Score": 0.6486363410949707,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 841,
+      "EndOffset": 843
+    },
+    {
+      "Score": 0.8476329445838928,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 844,
+      "EndOffset": 850
+    },
+    {
+      "Score": 0.9512633085250854,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 852,
+      "EndOffset": 854
+    },
+    {
+      "Score": 0.7607021331787109,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 882,
+      "EndOffset": 884
+    },
+    {
+      "Score": 0.9980074763298035,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 885,
+      "EndOffset": 890
+    },
+    {
+      "Score": 0.9989525079727173,
+      "Type": "ORGANIZATION",
+      "Text": "FBI",
+      "BeginOffset": 914,
+      "EndOffset": 917
+    },
+    {
+      "Score": 0.6103535294532776,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 937,
+      "EndOffset": 939
+    },
+    {
+      "Score": 0.9980752468109131,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1010,
+      "EndOffset": 1015
+    },
+    {
+      "Score": 0.9977827668190002,
+      "Type": "ORGANIZATION",
+      "Text": "FBI",
+      "BeginOffset": 1039,
+      "EndOffset": 1042
+    },
+    {
+      "Score": 0.49574944376945496,
+      "Type": "LOCATION",
+      "Text": "India",
+      "BeginOffset": 1058,
+      "EndOffset": 1063
+    },
+    {
+      "Score": 0.9962035417556763,
+      "Type": "PERSON",
+      "Text": "Harry Kane",
+      "BeginOffset": 1130,
+      "EndOffset": 1140
+    },
+    {
+      "Score": 0.9928465485572815,
+      "Type": "PERSON",
+      "Text": "Kane",
+      "BeginOffset": 1269,
+      "EndOffset": 1273
+    },
+    {
+      "Score": 0.7858017086982727,
+      "Type": "ORGANIZATION",
+      "Text": "Rugby Australia",
+      "BeginOffset": 1310,
+      "EndOffset": 1325
+    },
+    {
+      "Score": 0.7419751286506653,
+      "Type": "ORGANIZATION",
+      "Text": "Israel Folau",
+      "BeginOffset": 1339,
+      "EndOffset": 1351
+    },
+    {
+      "Score": 0.8850301504135132,
+      "Type": "PERSON",
+      "Text": "Folau",
+      "BeginOffset": 1446,
+      "EndOffset": 1451
+    },
+    {
+      "Score": 0.31078672409057617,
+      "Type": "LOCATION",
+      "Text": "Porto",
+      "BeginOffset": 1487,
+      "EndOffset": 1492
+    },
+    {
+      "Score": 0.9720004796981812,
+      "Type": "PERSON",
+      "Text": "Lawrenson",
+      "BeginOffset": 1509,
+      "EndOffset": 1518
+    },
+    {
+      "Score": 0.9469722509384155,
+      "Type": "ORGANIZATION",
+      "Text": "Liverpool",
+      "BeginOffset": 1537,
+      "EndOffset": 1546
+    },
+    {
+      "Score": 0.9992712736129761,
+      "Type": "PERSON",
+      "Text": "Jurgen Klopp",
+      "BeginOffset": 1552,
+      "EndOffset": 1564
+    },
+    {
+      "Score": 0.6598767042160034,
+      "Type": "LOCATION",
+      "Text": "Porto",
+      "BeginOffset": 1590,
+      "EndOffset": 1595
+    },
+    {
+      "Score": 0.9283073544502258,
+      "Type": "QUANTITY",
+      "Text": "second leg",
+      "BeginOffset": 1610,
+      "EndOffset": 1620
+    },
+    {
+      "Score": 0.8277897238731384,
+      "Type": "EVENT",
+      "Text": "Champions League",
+      "BeginOffset": 1630,
+      "EndOffset": 1646
+    },
+    {
+      "Score": 0.9382709860801697,
+      "Type": "ORGANIZATION",
+      "Text": "Reds",
+      "BeginOffset": 1670,
+      "EndOffset": 1674
+    },
+    {
+      "Score": 0.6251065731048584,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 1683,
+      "EndOffset": 1685
+    },
+    {
+      "Score": 0.5898867845535278,
+      "Type": "ORGANIZATION",
+      "Text": "Porto",
+      "BeginOffset": 1687,
+      "EndOffset": 1692
+    },
+    {
+      "Score": 0.9230549335479736,
+      "Type": "PERSON",
+      "Text": "Lawrenson",
+      "BeginOffset": 1709,
+      "EndOffset": 1718
+    },
+    {
+      "Score": 0.9684692025184631,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 1758,
+      "EndOffset": 1761
+    },
+    {
+      "Score": 0.652286171913147,
+      "Type": "QUANTITY",
+      "Text": "70",
+      "BeginOffset": 2069,
+      "EndOffset": 2071
+    },
+    {
+      "Score": 0.4925750195980072,
+      "Type": "QUANTITY",
+      "Text": "78",
+      "BeginOffset": 2429,
+      "EndOffset": 2431
+    },
+    {
+      "Score": 0.9287165999412537,
+      "Type": "LOCATION",
+      "Text": "South America",
+      "BeginOffset": 2432,
+      "EndOffset": 2445
+    },
+    {
+      "Score": 0.5987436175346375,
+      "Type": "QUANTITY",
+      "Text": "82",
+      "BeginOffset": 2644,
+      "EndOffset": 2646
+    },
+    {
+      "Score": 0.782340407371521,
+      "Type": "QUANTITY",
+      "Text": "84",
+      "BeginOffset": 2766,
+      "EndOffset": 2768
+    },
+    {
+      "Score": 0.4895292818546295,
+      "Type": "QUANTITY",
+      "Text": "85",
+      "BeginOffset": 2874,
+      "EndOffset": 2876
+    },
+    {
+      "Score": 0.9987146258354187,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 2899,
+      "EndOffset": 2914
+    },
+    {
+      "Score": 0.4888603091239929,
+      "Type": "QUANTITY",
+      "Text": "87",
+      "BeginOffset": 2989,
+      "EndOffset": 2991
+    },
+    {
+      "Score": 0.9943951964378357,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 3014,
+      "EndOffset": 3029
+    },
+    {
+      "Score": 0.4524286389350891,
+      "Type": "QUANTITY",
+      "Text": "88",
+      "BeginOffset": 3032,
+      "EndOffset": 3034
+    },
+    {
+      "Score": 0.44575655460357666,
+      "Type": "QUANTITY",
+      "Text": "One",
+      "BeginOffset": 3035,
+      "EndOffset": 3038
+    },
+    {
+      "Score": 0.6594693064689636,
+      "Type": "QUANTITY",
+      "Text": "one bit",
+      "BeginOffset": 3119,
+      "EndOffset": 3126
+    },
+    {
+      "Score": 0.7558009028434753,
+      "Type": "QUANTITY",
+      "Text": "90",
+      "BeginOffset": 3155,
+      "EndOffset": 3157
+    },
+    {
+      "Score": 0.4743659496307373,
+      "Type": "QUANTITY",
+      "Text": "One",
+      "BeginOffset": 3158,
+      "EndOffset": 3161
+    },
+    {
+      "Score": 0.6507894992828369,
+      "Type": "TITLE",
+      "Text": "Avengers",
+      "BeginOffset": 3200,
+      "EndOffset": 3208
+    },
+    {
+      "Score": 0.8344244360923767,
+      "Type": "QUANTITY",
+      "Text": "98",
+      "BeginOffset": 3243,
+      "EndOffset": 3245
+    },
+    {
+      "Score": 0.8491716384887695,
+      "Type": "QUANTITY",
+      "Text": "10",
+      "BeginOffset": 3246,
+      "EndOffset": 3248
+    },
+    {
+      "Score": 0.7936918139457703,
+      "Type": "QUANTITY",
+      "Text": "99",
+      "BeginOffset": 3301,
+      "EndOffset": 3303
+    },
+    {
+      "Score": 0.882610559463501,
+      "Type": "QUANTITY",
+      "Text": "10",
+      "BeginOffset": 3304,
+      "EndOffset": 3306
+    },
+    {
+      "Score": 0.5008357167243958,
+      "Type": "QUANTITY",
+      "Text": "104",
+      "BeginOffset": 3475,
+      "EndOffset": 3478
+    },
+    {
+      "Score": 0.7989688515663147,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 3548,
+      "EndOffset": 3553
+    },
+    {
+      "Score": 0.4928969442844391,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 3638,
+      "EndOffset": 3641
+    },
+    {
+      "Score": 0.5973836183547974,
+      "Type": "QUANTITY",
+      "Text": "115",
+      "BeginOffset": 3740,
+      "EndOffset": 3743
+    },
+    {
+      "Score": 0.9992383718490601,
+      "Type": "PERSON",
+      "Text": "Jacinda Ardern",
+      "BeginOffset": 3779,
+      "EndOffset": 3793
+    },
+    {
+      "Score": 0.9993466734886169,
+      "Type": "PERSON",
+      "Text": "Jacinda Ardern",
+      "BeginOffset": 3837,
+      "EndOffset": 3851
+    },
+    {
+      "Score": 0.39704132080078125,
+      "Type": "QUANTITY",
+      "Text": "122",
+      "BeginOffset": 3884,
+      "EndOffset": 3887
+    }
+  ]
+}

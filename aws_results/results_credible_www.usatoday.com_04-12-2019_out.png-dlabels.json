@@ -1,0 +1,220 @@
+{
+  "Labels": [
+    {
+      "Name": "Human",
+      "Confidence": 96.9049301147461,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 96.9049301147461,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.3267011046409607,
+            "Height": 0.3816162049770355,
+            "Left": 0.11519895493984222,
+            "Top": 0.1974562257528305
+          },
+          "Confidence": 96.9049301147461
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Crowd",
+      "Confidence": 95.43685150146484,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Audience",
+      "Confidence": 94.367919921875,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        },
+        {
+          "Name": "Crowd"
+        }
+      ]
+    },
+    {
+      "Name": "File",
+      "Confidence": 88.62486267089844,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Lecture",
+      "Confidence": 84.987060546875,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        },
+        {
+          "Name": "Speech"
+        },
+        {
+          "Name": "Audience"
+        },
+        {
+          "Name": "Crowd"
+        }
+      ]
+    },
+    {
+      "Name": "Speech",
+      "Confidence": 84.987060546875,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        },
+        {
+          "Name": "Audience"
+        },
+        {
+          "Name": "Crowd"
+        }
+      ]
+    },
+    {
+      "Name": "Webpage",
+      "Confidence": 74.05894470214844,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "File"
+        }
+      ]
+    },
+    {
+      "Name": "Text",
+      "Confidence": 74.05622100830078,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Face",
+      "Confidence": 70.15381622314453,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Female",
+      "Confidence": 63.202392578125,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "People",
+      "Confidence": 59.4797248840332,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 58.94487762451172,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Brochure",
+      "Confidence": 58.94487762451172,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Poster"
+        },
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Flyer",
+      "Confidence": 58.94487762451172,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.8897603750228882,
+            "Height": 0.9015377759933472,
+            "Left": 0.041265398263931274,
+            "Top": 0.08158061653375626
+          },
+          "Confidence": 58.94487762451172
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Poster"
+        },
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Advertisement",
+      "Confidence": 58.94487762451172,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 58.94487762451172,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Home Decor",
+      "Confidence": 57.05006408691406,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Smile",
+      "Confidence": 57.01068115234375,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        },
+        {
+          "Name": "Face"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

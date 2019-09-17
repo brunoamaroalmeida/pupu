@@ -1,0 +1,739 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9149407744407654,
+      "Type": "TITLE",
+      "Text": "Chrome",
+      "BeginOffset": 92,
+      "EndOffset": 98
+    },
+    {
+      "Score": 0.9334260821342468,
+      "Type": "TITLE",
+      "Text": "Safari",
+      "BeginOffset": 104,
+      "EndOffset": 110
+    },
+    {
+      "Score": 0.9600818753242493,
+      "Type": "TITLE",
+      "Text": "Firefox",
+      "BeginOffset": 116,
+      "EndOffset": 123
+    },
+    {
+      "Score": 0.7964184284210205,
+      "Type": "TITLE",
+      "Text": "Internet Explorer",
+      "BeginOffset": 129,
+      "EndOffset": 146
+    },
+    {
+      "Score": 0.9991469979286194,
+      "Type": "TITLE",
+      "Text": "Internet Explorer 10",
+      "BeginOffset": 175,
+      "EndOffset": 195
+    },
+    {
+      "Score": 0.6138503551483154,
+      "Type": "TITLE",
+      "Text": "News Corp",
+      "BeginOffset": 223,
+      "EndOffset": 232
+    },
+    {
+      "Score": 0.42000287771224976,
+      "Type": "QUANTITY",
+      "Text": "143",
+      "BeginOffset": 356,
+      "EndOffset": 359
+    },
+    {
+      "Score": 0.640045702457428,
+      "Type": "QUANTITY",
+      "Text": "178",
+      "BeginOffset": 401,
+      "EndOffset": 404
+    },
+    {
+      "Score": 0.9900510907173157,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 488,
+      "EndOffset": 493
+    },
+    {
+      "Score": 0.9029903411865234,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 546,
+      "EndOffset": 561
+    },
+    {
+      "Score": 0.5293678641319275,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 684,
+      "EndOffset": 689
+    },
+    {
+      "Score": 0.9340861439704895,
+      "Type": "DATE",
+      "Text": "last year",
+      "BeginOffset": 714,
+      "EndOffset": 723
+    },
+    {
+      "Score": 0.6253785490989685,
+      "Type": "QUANTITY",
+      "Text": "209",
+      "BeginOffset": 726,
+      "EndOffset": 729
+    },
+    {
+      "Score": 0.7412939667701721,
+      "Type": "QUANTITY",
+      "Text": "51",
+      "BeginOffset": 730,
+      "EndOffset": 732
+    },
+    {
+      "Score": 0.9849513173103333,
+      "Type": "QUANTITY",
+      "Text": "210",
+      "BeginOffset": 734,
+      "EndOffset": 737
+    },
+    {
+      "Score": 0.6803003549575806,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 800,
+      "EndOffset": 803
+    },
+    {
+      "Score": 0.8855710625648499,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 815,
+      "EndOffset": 817
+    },
+    {
+      "Score": 0.7960345149040222,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 822,
+      "EndOffset": 826
+    },
+    {
+      "Score": 0.9214867353439331,
+      "Type": "ORGANIZATION",
+      "Text": "JPMorgan",
+      "BeginOffset": 849,
+      "EndOffset": 857
+    },
+    {
+      "Score": 0.9929179549217224,
+      "Type": "ORGANIZATION",
+      "Text": "Wells Fargo",
+      "BeginOffset": 862,
+      "EndOffset": 873
+    },
+    {
+      "Score": 0.7346640825271606,
+      "Type": "QUANTITY",
+      "Text": "two",
+      "BeginOffset": 875,
+      "EndOffset": 878
+    },
+    {
+      "Score": 0.4659090042114258,
+      "Type": "QUANTITY",
+      "Text": "212",
+      "BeginOffset": 967,
+      "EndOffset": 970
+    },
+    {
+      "Score": 0.8802518248558044,
+      "Type": "ORGANIZATION",
+      "Text": "JPMorgan",
+      "BeginOffset": 971,
+      "EndOffset": 979
+    },
+    {
+      "Score": 0.7306099534034729,
+      "Type": "ORGANIZATION",
+      "Text": "Consumer Unit",
+      "BeginOffset": 991,
+      "EndOffset": 1004
+    },
+    {
+      "Score": 0.7292051315307617,
+      "Type": "ORGANIZATION",
+      "Text": "Wells Fargo",
+      "BeginOffset": 1017,
+      "EndOffset": 1028
+    },
+    {
+      "Score": 0.8545383214950562,
+      "Type": "ORGANIZATION",
+      "Text": "Chevron",
+      "BeginOffset": 1054,
+      "EndOffset": 1061
+    },
+    {
+      "Score": 0.8371831774711609,
+      "Type": "ORGANIZATION",
+      "Text": "Anadarko Petroleum",
+      "BeginOffset": 1069,
+      "EndOffset": 1087
+    },
+    {
+      "Score": 0.9736679792404175,
+      "Type": "QUANTITY",
+      "Text": "$33 Billion",
+      "BeginOffset": 1091,
+      "EndOffset": 1102
+    },
+    {
+      "Score": 0.8029953837394714,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 1132,
+      "EndOffset": 1135
+    },
+    {
+      "Score": 0.9848180413246155,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 1147,
+      "EndOffset": 1149
+    },
+    {
+      "Score": 0.9730848073959351,
+      "Type": "ORGANIZATION",
+      "Text": "Chevron",
+      "BeginOffset": 1154,
+      "EndOffset": 1161
+    },
+    {
+      "Score": 0.9893121123313904,
+      "Type": "ORGANIZATION",
+      "Text": "Anadarko",
+      "BeginOffset": 1207,
+      "EndOffset": 1215
+    },
+    {
+      "Score": 0.978471040725708,
+      "Type": "QUANTITY",
+      "Text": "$33\n   billion",
+      "BeginOffset": 1221,
+      "EndOffset": 1235
+    },
+    {
+      "Score": 0.9875465035438538,
+      "Type": "ORGANIZATION",
+      "Text": "Uber",
+      "BeginOffset": 1402,
+      "EndOffset": 1406
+    },
+    {
+      "Score": 0.7473230361938477,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 1453,
+      "EndOffset": 1456
+    },
+    {
+      "Score": 0.9811615943908691,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 1468,
+      "EndOffset": 1470
+    },
+    {
+      "Score": 0.9973613619804382,
+      "Type": "ORGANIZATION",
+      "Text": "Uber",
+      "BeginOffset": 1475,
+      "EndOffset": 1479
+    },
+    {
+      "Score": 0.7531465291976929,
+      "Type": "QUANTITY",
+      "Text": "218",
+      "BeginOffset": 1660,
+      "EndOffset": 1663
+    },
+    {
+      "Score": 0.5522052645683289,
+      "Type": "OTHER",
+      "Text": "219",
+      "BeginOffset": 1698,
+      "EndOffset": 1701
+    },
+    {
+      "Score": 0.8380811214447021,
+      "Type": "OTHER",
+      "Text": "64619",
+      "BeginOffset": 1706,
+      "EndOffset": 1711
+    },
+    {
+      "Score": 0.4463740289211273,
+      "Type": "OTHER",
+      "Text": "380",
+      "BeginOffset": 1718,
+      "EndOffset": 1721
+    },
+    {
+      "Score": 0.8912923336029053,
+      "Type": "OTHER",
+      "Text": "253",
+      "BeginOffset": 1733,
+      "EndOffset": 1736
+    },
+    {
+      "Score": 0.9281588792800903,
+      "Type": "OTHER",
+      "Text": "220",
+      "BeginOffset": 1739,
+      "EndOffset": 1742
+    },
+    {
+      "Score": 0.6315081715583801,
+      "Type": "QUANTITY",
+      "Text": "One Teen Killed Himself",
+      "BeginOffset": 1743,
+      "EndOffset": 1766
+    },
+    {
+      "Score": 0.8639748692512512,
+      "Type": "QUANTITY",
+      "Text": "Six More Followed",
+      "BeginOffset": 1768,
+      "EndOffset": 1785
+    },
+    {
+      "Score": 0.656075656414032,
+      "Type": "OTHER",
+      "Text": "221",
+      "BeginOffset": 1992,
+      "EndOffset": 1995
+    },
+    {
+      "Score": 0.9221129417419434,
+      "Type": "OTHER",
+      "Text": "267",
+      "BeginOffset": 1996,
+      "EndOffset": 1999
+    },
+    {
+      "Score": 0.9584317803382874,
+      "Type": "OTHER",
+      "Text": "222",
+      "BeginOffset": 2008,
+      "EndOffset": 2011
+    },
+    {
+      "Score": 0.762329638004303,
+      "Type": "QUANTITY",
+      "Text": "One Year",
+      "BeginOffset": 2031,
+      "EndOffset": 2039
+    },
+    {
+      "Score": 0.7783901691436768,
+      "Type": "QUANTITY",
+      "Text": "One High School",
+      "BeginOffset": 2041,
+      "EndOffset": 2056
+    },
+    {
+      "Score": 0.5849291086196899,
+      "Type": "OTHER",
+      "Text": "223",
+      "BeginOffset": 2061,
+      "EndOffset": 2064
+    },
+    {
+      "Score": 0.9850353002548218,
+      "Type": "OTHER",
+      "Text": "66584",
+      "BeginOffset": 2069,
+      "EndOffset": 2074
+    },
+    {
+      "Score": 0.8121647238731384,
+      "Type": "OTHER",
+      "Text": "110",
+      "BeginOffset": 2081,
+      "EndOffset": 2084
+    },
+    {
+      "Score": 0.8369326591491699,
+      "Type": "OTHER",
+      "Text": "73",
+      "BeginOffset": 2096,
+      "EndOffset": 2098
+    },
+    {
+      "Score": 0.9549618363380432,
+      "Type": "OTHER",
+      "Text": "224",
+      "BeginOffset": 2101,
+      "EndOffset": 2104
+    },
+    {
+      "Score": 0.2807639241218567,
+      "Type": "LOCATION",
+      "Text": "Saudi",
+      "BeginOffset": 2105,
+      "EndOffset": 2110
+    },
+    {
+      "Score": 0.9560161828994751,
+      "Type": "LOCATION",
+      "Text": "Arabia",
+      "BeginOffset": 2111,
+      "EndOffset": 2117
+    },
+    {
+      "Score": 0.36626219749450684,
+      "Type": "OTHER",
+      "Text": "Libyan",
+      "BeginOffset": 2138,
+      "EndOffset": 2144
+    },
+    {
+      "Score": 0.7171650528907776,
+      "Type": "OTHER",
+      "Text": "Libyan",
+      "BeginOffset": 2168,
+      "EndOffset": 2174
+    },
+    {
+      "Score": 0.9924235343933105,
+      "Type": "PERSON",
+      "Text": "Khalifa Haftar",
+      "BeginOffset": 2194,
+      "EndOffset": 2208
+    },
+    {
+      "Score": 0.8944899439811707,
+      "Type": "LOCATION",
+      "Text": "Saudi Arabia",
+      "BeginOffset": 2315,
+      "EndOffset": 2327
+    },
+    {
+      "Score": 0.9848442673683167,
+      "Type": "QUANTITY",
+      "Text": "tens of millions of dollars",
+      "BeginOffset": 2337,
+      "EndOffset": 2364
+    },
+    {
+      "Score": 0.5693120956420898,
+      "Type": "LOCATION",
+      "Text": "Saudi",
+      "BeginOffset": 2419,
+      "EndOffset": 2424
+    },
+    {
+      "Score": 0.8231281042098999,
+      "Type": "OTHER",
+      "Text": "225",
+      "BeginOffset": 2439,
+      "EndOffset": 2442
+    },
+    {
+      "Score": 0.994629979133606,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 2457,
+      "EndOffset": 2471
+    },
+    {
+      "Score": 0.9691651463508606,
+      "Type": "LOCATION",
+      "Text": "Ecuador",
+      "BeginOffset": 2475,
+      "EndOffset": 2482
+    },
+    {
+      "Score": 0.9989584684371948,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2496,
+      "EndOffset": 2502
+    },
+    {
+      "Score": 0.9770694375038147,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 2521,
+      "EndOffset": 2530
+    },
+    {
+      "Score": 0.5802803039550781,
+      "Type": "OTHER",
+      "Text": "Latin American",
+      "BeginOffset": 2563,
+      "EndOffset": 2577
+    },
+    {
+      "Score": 0.3806847929954529,
+      "Type": "QUANTITY",
+      "Text": "226",
+      "BeginOffset": 2579,
+      "EndOffset": 2582
+    },
+    {
+      "Score": 0.7380642890930176,
+      "Type": "PERSON",
+      "Text": "Jilted Assange",
+      "BeginOffset": 2591,
+      "EndOffset": 2605
+    },
+    {
+      "Score": 0.7235476970672607,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 2638,
+      "EndOffset": 2642
+    },
+    {
+      "Score": 0.5618491768836975,
+      "Type": "LOCATION",
+      "Text": "Ecuador",
+      "BeginOffset": 2646,
+      "EndOffset": 2653
+    },
+    {
+      "Score": 0.8511532545089722,
+      "Type": "PERSON",
+      "Text": "President Lenín Moreno",
+      "BeginOffset": 2654,
+      "EndOffset": 2676
+    },
+    {
+      "Score": 0.9851142168045044,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 2692,
+      "EndOffset": 2701
+    },
+    {
+      "Score": 0.9995465874671936,
+      "Type": "PERSON",
+      "Text": "Julian\n   Assange",
+      "BeginOffset": 2710,
+      "EndOffset": 2727
+    },
+    {
+      "Score": 0.853304386138916,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 2796,
+      "EndOffset": 2800
+    },
+    {
+      "Score": 0.39920517802238464,
+      "Type": "QUANTITY",
+      "Text": "227",
+      "BeginOffset": 2865,
+      "EndOffset": 2868
+    },
+    {
+      "Score": 0.6276240944862366,
+      "Type": "QUANTITY",
+      "Text": "228",
+      "BeginOffset": 2926,
+      "EndOffset": 2929
+    },
+    {
+      "Score": 0.7875038981437683,
+      "Type": "QUANTITY",
+      "Text": "229",
+      "BeginOffset": 2970,
+      "EndOffset": 2973
+    },
+    {
+      "Score": 0.3500656485557556,
+      "Type": "QUANTITY",
+      "Text": "230",
+      "BeginOffset": 3018,
+      "EndOffset": 3021
+    },
+    {
+      "Score": 0.6992892026901245,
+      "Type": "ORGANIZATION",
+      "Text": "Fidelity",
+      "BeginOffset": 3066,
+      "EndOffset": 3074
+    },
+    {
+      "Score": 0.9123972654342651,
+      "Type": "LOCATION",
+      "Text": "Saudi Arabia",
+      "BeginOffset": 3178,
+      "EndOffset": 3190
+    },
+    {
+      "Score": 0.6694590449333191,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 3250,
+      "EndOffset": 3253
+    },
+    {
+      "Score": 0.8520752191543579,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 3265,
+      "EndOffset": 3268
+    },
+    {
+      "Score": 0.9669985771179199,
+      "Type": "QUANTITY",
+      "Text": "235",
+      "BeginOffset": 3271,
+      "EndOffset": 3274
+    },
+    {
+      "Score": 0.5824881196022034,
+      "Type": "LOCATION",
+      "Text": "Paris",
+      "BeginOffset": 3275,
+      "EndOffset": 3280
+    },
+    {
+      "Score": 0.6916183829307556,
+      "Type": "LOCATION",
+      "Text": "Roubaix",
+      "BeginOffset": 3281,
+      "EndOffset": 3288
+    },
+    {
+      "Score": 0.5375548005104065,
+      "Type": "OTHER",
+      "Text": "66175",
+      "BeginOffset": 3331,
+      "EndOffset": 3336
+    },
+    {
+      "Score": 0.6566464304924011,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 3343,
+      "EndOffset": 3346
+    },
+    {
+      "Score": 0.8493869304656982,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 3358,
+      "EndOffset": 3361
+    },
+    {
+      "Score": 0.9148950576782227,
+      "Type": "QUANTITY",
+      "Text": "237",
+      "BeginOffset": 3364,
+      "EndOffset": 3367
+    },
+    {
+      "Score": 0.6362022161483765,
+      "Type": "QUANTITY",
+      "Text": "First Look",
+      "BeginOffset": 3398,
+      "EndOffset": 3408
+    },
+    {
+      "Score": 0.758935272693634,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 3426,
+      "EndOffset": 3435
+    },
+    {
+      "Score": 0.4620891213417053,
+      "Type": "ORGANIZATION",
+      "Text": "NCAA",
+      "BeginOffset": 3478,
+      "EndOffset": 3482
+    },
+    {
+      "Score": 0.6181260943412781,
+      "Type": "QUANTITY",
+      "Text": "238",
+      "BeginOffset": 3494,
+      "EndOffset": 3497
+    },
+    {
+      "Score": 0.755017876625061,
+      "Type": "QUANTITY",
+      "Text": "239",
+      "BeginOffset": 3549,
+      "EndOffset": 3552
+    },
+    {
+      "Score": 0.8476281762123108,
+      "Type": "QUANTITY",
+      "Text": "240",
+      "BeginOffset": 3593,
+      "EndOffset": 3596
+    },
+    {
+      "Score": 0.9848769307136536,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 3598,
+      "EndOffset": 3613
+    },
+    {
+      "Score": 0.4701945185661316,
+      "Type": "QUANTITY",
+      "Text": "241",
+      "BeginOffset": 3666,
+      "EndOffset": 3669
+    },
+    {
+      "Score": 0.8392432332038879,
+      "Type": "QUANTITY",
+      "Text": "242",
+      "BeginOffset": 3940,
+      "EndOffset": 3943
+    },
+    {
+      "Score": 0.9308399558067322,
+      "Type": "ORGANIZATION",
+      "Text": "Tesla",
+      "BeginOffset": 3944,
+      "EndOffset": 3949
+    },
+    {
+      "Score": 0.9958540797233582,
+      "Type": "QUANTITY",
+      "Text": "$35,000",
+      "BeginOffset": 3972,
+      "EndOffset": 3979
+    },
+    {
+      "Score": 0.8707223534584045,
+      "Type": "ORGANIZATION",
+      "Text": "Tesla",
+      "BeginOffset": 3991,
+      "EndOffset": 3996
+    },
+    {
+      "Score": 0.7490411400794983,
+      "Type": "QUANTITY",
+      "Text": "3 version weeks",
+      "BeginOffset": 4045,
+      "EndOffset": 4060
+    }
+  ]
+}

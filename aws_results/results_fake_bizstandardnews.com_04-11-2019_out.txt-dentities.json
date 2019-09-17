@@ -1,0 +1,676 @@
+{
+  "Entities": [
+    {
+      "Score": 0.7775276303291321,
+      "Type": "DATE",
+      "Text": "14 hours ago",
+      "BeginOffset": 80,
+      "EndOffset": 92
+    },
+    {
+      "Score": 0.9604143500328064,
+      "Type": "DATE",
+      "Text": "April 10, 2019",
+      "BeginOffset": 93,
+      "EndOffset": 107
+    },
+    {
+      "Score": 0.99879390001297,
+      "Type": "DATE",
+      "Text": "April 10, 2019",
+      "BeginOffset": 107,
+      "EndOffset": 121
+    },
+    {
+      "Score": 0.7284621000289917,
+      "Type": "PERSON",
+      "Text": "Peterson",
+      "BeginOffset": 125,
+      "EndOffset": 133
+    },
+    {
+      "Score": 0.37687215209007263,
+      "Type": "DATE",
+      "Text": "10",
+      "BeginOffset": 199,
+      "EndOffset": 201
+    },
+    {
+      "Score": 0.7933747172355652,
+      "Type": "DATE",
+      "Text": "1 day ago",
+      "BeginOffset": 202,
+      "EndOffset": 211
+    },
+    {
+      "Score": 0.9599331021308899,
+      "Type": "DATE",
+      "Text": "April 9, 2019",
+      "BeginOffset": 212,
+      "EndOffset": 225
+    },
+    {
+      "Score": 0.9984291791915894,
+      "Type": "DATE",
+      "Text": "April 9, 2019",
+      "BeginOffset": 225,
+      "EndOffset": 238
+    },
+    {
+      "Score": 0.9839286804199219,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 243,
+      "EndOffset": 248
+    },
+    {
+      "Score": 0.9973949790000916,
+      "Type": "PERSON",
+      "Text": "Joe Arpaio",
+      "BeginOffset": 274,
+      "EndOffset": 284
+    },
+    {
+      "Score": 0.9246194362640381,
+      "Type": "ORGANIZATION",
+      "Text": "DHS",
+      "BeginOffset": 289,
+      "EndOffset": 292
+    },
+    {
+      "Score": 0.6040679812431335,
+      "Type": "DATE",
+      "Text": "13",
+      "BeginOffset": 307,
+      "EndOffset": 309
+    },
+    {
+      "Score": 0.8536726236343384,
+      "Type": "DATE",
+      "Text": "6 days ago",
+      "BeginOffset": 310,
+      "EndOffset": 320
+    },
+    {
+      "Score": 0.968212902545929,
+      "Type": "DATE",
+      "Text": "April 5, 2019",
+      "BeginOffset": 321,
+      "EndOffset": 334
+    },
+    {
+      "Score": 0.9986069798469543,
+      "Type": "DATE",
+      "Text": "April 5, 2019",
+      "BeginOffset": 334,
+      "EndOffset": 347
+    },
+    {
+      "Score": 0.8396235704421997,
+      "Type": "ORGANIZATION",
+      "Text": "Black Nationalist Group",
+      "BeginOffset": 352,
+      "EndOffset": 375
+    },
+    {
+      "Score": 0.35251280665397644,
+      "Type": "ORGANIZATION",
+      "Text": "Illuminati",
+      "BeginOffset": 377,
+      "EndOffset": 387
+    },
+    {
+      "Score": 0.8226480484008789,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 395,
+      "EndOffset": 408
+    },
+    {
+      "Score": 0.5807161331176758,
+      "Type": "DATE",
+      "Text": "15",
+      "BeginOffset": 430,
+      "EndOffset": 432
+    },
+    {
+      "Score": 0.8206278085708618,
+      "Type": "DATE",
+      "Text": "7 days ago",
+      "BeginOffset": 433,
+      "EndOffset": 443
+    },
+    {
+      "Score": 0.9633737802505493,
+      "Type": "DATE",
+      "Text": "April 4, 2019",
+      "BeginOffset": 444,
+      "EndOffset": 457
+    },
+    {
+      "Score": 0.9984865188598633,
+      "Type": "DATE",
+      "Text": "April 4, 2019",
+      "BeginOffset": 457,
+      "EndOffset": 470
+    },
+    {
+      "Score": 0.9769246578216553,
+      "Type": "PERSON",
+      "Text": "Bakker",
+      "BeginOffset": 475,
+      "EndOffset": 481
+    },
+    {
+      "Score": 0.9954043626785278,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 483,
+      "EndOffset": 488
+    },
+    {
+      "Score": 0.457511305809021,
+      "Type": "DATE",
+      "Text": "17",
+      "BeginOffset": 553,
+      "EndOffset": 555
+    },
+    {
+      "Score": 0.8173898458480835,
+      "Type": "DATE",
+      "Text": "1 week ago",
+      "BeginOffset": 556,
+      "EndOffset": 566
+    },
+    {
+      "Score": 0.9649827480316162,
+      "Type": "DATE",
+      "Text": "April 3, 2019",
+      "BeginOffset": 567,
+      "EndOffset": 580
+    },
+    {
+      "Score": 0.9986997842788696,
+      "Type": "DATE",
+      "Text": "April 3, 2019",
+      "BeginOffset": 580,
+      "EndOffset": 593
+    },
+    {
+      "Score": 0.4821527302265167,
+      "Type": "ORGANIZATION",
+      "Text": "Robertson Claims",
+      "BeginOffset": 598,
+      "EndOffset": 614
+    },
+    {
+      "Score": 0.8267515301704407,
+      "Type": "PERSON",
+      "Text": "Jesus",
+      "BeginOffset": 625,
+      "EndOffset": 630
+    },
+    {
+      "Score": 0.8349685072898865,
+      "Type": "DATE",
+      "Text": "19]1 week ago April 1, 2019",
+      "BeginOffset": 676,
+      "EndOffset": 703
+    },
+    {
+      "Score": 0.999095618724823,
+      "Type": "DATE",
+      "Text": "April 1, 2019",
+      "BeginOffset": 703,
+      "EndOffset": 716
+    },
+    {
+      "Score": 0.7648680806159973,
+      "Type": "PERSON",
+      "Text": "Dollar",
+      "BeginOffset": 721,
+      "EndOffset": 727
+    },
+    {
+      "Score": 0.9914016127586365,
+      "Type": "PERSON",
+      "Text": "John Gray",
+      "BeginOffset": 743,
+      "EndOffset": 752
+    },
+    {
+      "Score": 0.5240404009819031,
+      "Type": "PERSON",
+      "Text": "Lambo",
+      "BeginOffset": 767,
+      "EndOffset": 772
+    },
+    {
+      "Score": 0.9987617135047913,
+      "Type": "PERSON",
+      "Text": "Andrew Napolitano",
+      "BeginOffset": 799,
+      "EndOffset": 816
+    },
+    {
+      "Score": 0.5919687747955322,
+      "Type": "DATE",
+      "Text": "22",
+      "BeginOffset": 840,
+      "EndOffset": 842
+    },
+    {
+      "Score": 0.8804829716682434,
+      "Type": "DATE",
+      "Text": "2 weeks ago",
+      "BeginOffset": 843,
+      "EndOffset": 854
+    },
+    {
+      "Score": 0.9648001194000244,
+      "Type": "DATE",
+      "Text": "March 31, 2019",
+      "BeginOffset": 855,
+      "EndOffset": 869
+    },
+    {
+      "Score": 0.996749222278595,
+      "Type": "DATE",
+      "Text": "March 31, 2019",
+      "BeginOffset": 869,
+      "EndOffset": 883
+    },
+    {
+      "Score": 0.8284505009651184,
+      "Type": "PERSON",
+      "Text": "Napolitano",
+      "BeginOffset": 902,
+      "EndOffset": 912
+    },
+    {
+      "Score": 0.6607118248939514,
+      "Type": "OTHER",
+      "Text": "Jewish",
+      "BeginOffset": 923,
+      "EndOffset": 929
+    },
+    {
+      "Score": 0.5272240042686462,
+      "Type": "DATE",
+      "Text": "24",
+      "BeginOffset": 962,
+      "EndOffset": 964
+    },
+    {
+      "Score": 0.8915935158729553,
+      "Type": "DATE",
+      "Text": "2 weeks ago",
+      "BeginOffset": 965,
+      "EndOffset": 976
+    },
+    {
+      "Score": 0.9514294862747192,
+      "Type": "DATE",
+      "Text": "March 30, 2019",
+      "BeginOffset": 977,
+      "EndOffset": 991
+    },
+    {
+      "Score": 0.9963974952697754,
+      "Type": "DATE",
+      "Text": "March 30, 2019",
+      "BeginOffset": 991,
+      "EndOffset": 1005
+    },
+    {
+      "Score": 0.9118074178695679,
+      "Type": "ORGANIZATION",
+      "Text": "GOP",
+      "BeginOffset": 1010,
+      "EndOffset": 1013
+    },
+    {
+      "Score": 0.9481745362281799,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 1015,
+      "EndOffset": 1023
+    },
+    {
+      "Score": 0.6552326679229736,
+      "Type": "DATE",
+      "Text": "27",
+      "BeginOffset": 1084,
+      "EndOffset": 1086
+    },
+    {
+      "Score": 0.8895450830459595,
+      "Type": "DATE",
+      "Text": "2 weeks ago",
+      "BeginOffset": 1087,
+      "EndOffset": 1098
+    },
+    {
+      "Score": 0.9696398973464966,
+      "Type": "DATE",
+      "Text": "March 29, 2019",
+      "BeginOffset": 1099,
+      "EndOffset": 1113
+    },
+    {
+      "Score": 0.9953447580337524,
+      "Type": "DATE",
+      "Text": "March 30, 2019",
+      "BeginOffset": 1113,
+      "EndOffset": 1127
+    },
+    {
+      "Score": 0.9799460768699646,
+      "Type": "PERSON",
+      "Text": "Jussie Smollett",
+      "BeginOffset": 1148,
+      "EndOffset": 1163
+    },
+    {
+      "Score": 0.9880877137184143,
+      "Type": "PERSON",
+      "Text": "Michelle Obama",
+      "BeginOffset": 1187,
+      "EndOffset": 1201
+    },
+    {
+      "Score": 0.4116665720939636,
+      "Type": "DATE",
+      "Text": "30",
+      "BeginOffset": 1208,
+      "EndOffset": 1210
+    },
+    {
+      "Score": 0.8815710544586182,
+      "Type": "DATE",
+      "Text": "2 weeks ago",
+      "BeginOffset": 1211,
+      "EndOffset": 1222
+    },
+    {
+      "Score": 0.963567852973938,
+      "Type": "DATE",
+      "Text": "March 28, 2019",
+      "BeginOffset": 1223,
+      "EndOffset": 1237
+    },
+    {
+      "Score": 0.9970852136611938,
+      "Type": "DATE",
+      "Text": "March 28, 2019",
+      "BeginOffset": 1237,
+      "EndOffset": 1251
+    },
+    {
+      "Score": 0.8316429853439331,
+      "Type": "PERSON",
+      "Text": "Pastor Robert Jeffress",
+      "BeginOffset": 1256,
+      "EndOffset": 1278
+    },
+    {
+      "Score": 0.8223403692245483,
+      "Type": "PERSON",
+      "Text": "Obama",
+      "BeginOffset": 1286,
+      "EndOffset": 1291
+    },
+    {
+      "Score": 0.5980557203292847,
+      "Type": "QUANTITY",
+      "Text": "35",
+      "BeginOffset": 1330,
+      "EndOffset": 1332
+    },
+    {
+      "Score": 0.9284876585006714,
+      "Type": "OTHER",
+      "Text": "rcm-na.amazon-adsystem.com/e/cm?o=1&p=29&l=ur1&category=electroni\n   cs&f=ifr&linkID=d7712e1b0c860f07ba2044b4159",
+      "BeginOffset": 1335,
+      "EndOffset": 1447
+    },
+    {
+      "Score": 0.8267732262611389,
+      "Type": "OTHER",
+      "Text": "3176",
+      "BeginOffset": 1448,
+      "EndOffset": 1452
+    },
+    {
+      "Score": 0.7085839509963989,
+      "Type": "OTHER",
+      "Text": "70-20",
+      "BeginOffset": 1462,
+      "EndOffset": 1467
+    },
+    {
+      "Score": 0.8903817534446716,
+      "Type": "QUANTITY",
+      "Text": "36",
+      "BeginOffset": 1484,
+      "EndOffset": 1486
+    },
+    {
+      "Score": 0.6676246523857117,
+      "Type": "DATE",
+      "Text": "MONDAY",
+      "BeginOffset": 1487,
+      "EndOffset": 1493
+    },
+    {
+      "Score": 0.6903458833694458,
+      "Type": "ORGANIZATION",
+      "Text": "Baltimore Cop Resigns",
+      "BeginOffset": 1505,
+      "EndOffset": 1526
+    },
+    {
+      "Score": 0.7328983545303345,
+      "Type": "ORGANIZATION",
+      "Text": "NFL",
+      "BeginOffset": 1528,
+      "EndOffset": 1531
+    },
+    {
+      "Score": 0.7020121812820435,
+      "Type": "PERSON",
+      "Text": "Omarosa",
+      "BeginOffset": 1551,
+      "EndOffset": 1558
+    },
+    {
+      "Score": 0.5996782183647156,
+      "Type": "PERSON",
+      "Text": "Trenz",
+      "BeginOffset": 1569,
+      "EndOffset": 1574
+    },
+    {
+      "Score": 0.9685966968536377,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 1575,
+      "EndOffset": 1580
+    },
+    {
+      "Score": 0.5645699501037598,
+      "Type": "QUANTITY",
+      "Text": "37",
+      "BeginOffset": 1585,
+      "EndOffset": 1587
+    },
+    {
+      "Score": 0.9894524812698364,
+      "Type": "PERSON",
+      "Text": "Graham",
+      "BeginOffset": 1588,
+      "EndOffset": 1594
+    },
+    {
+      "Score": 0.7249372005462646,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 1596,
+      "EndOffset": 1606
+    },
+    {
+      "Score": 0.9870842099189758,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1654,
+      "EndOffset": 1659
+    },
+    {
+      "Score": 0.7664331197738647,
+      "Type": "DATE",
+      "Text": "MONDAY",
+      "BeginOffset": 1685,
+      "EndOffset": 1691
+    },
+    {
+      "Score": 0.7779058218002319,
+      "Type": "ORGANIZATION",
+      "Text": "Baltimore Cop Resigns",
+      "BeginOffset": 1703,
+      "EndOffset": 1724
+    },
+    {
+      "Score": 0.5708315968513489,
+      "Type": "ORGANIZATION",
+      "Text": "NFL",
+      "BeginOffset": 1726,
+      "EndOffset": 1729
+    },
+    {
+      "Score": 0.8825920820236206,
+      "Type": "PERSON",
+      "Text": "Omarosa",
+      "BeginOffset": 1749,
+      "EndOffset": 1756
+    },
+    {
+      "Score": 0.5240782499313354,
+      "Type": "EVENT",
+      "Text": "NFL",
+      "BeginOffset": 1767,
+      "EndOffset": 1770
+    },
+    {
+      "Score": 0.9641304612159729,
+      "Type": "PERSON",
+      "Text": "Graham",
+      "BeginOffset": 1839,
+      "EndOffset": 1845
+    },
+    {
+      "Score": 0.6718423366546631,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 1847,
+      "EndOffset": 1857
+    },
+    {
+      "Score": 0.6217451691627502,
+      "Type": "QUANTITY",
+      "Text": "40",
+      "BeginOffset": 1898,
+      "EndOffset": 1900
+    },
+    {
+      "Score": 0.9671832919120789,
+      "Type": "PERSON",
+      "Text": "Graham",
+      "BeginOffset": 1901,
+      "EndOffset": 1907
+    },
+    {
+      "Score": 0.6546333432197571,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 1909,
+      "EndOffset": 1919
+    },
+    {
+      "Score": 0.9891250133514404,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1967,
+      "EndOffset": 1972
+    },
+    {
+      "Score": 0.9564663767814636,
+      "Type": "PERSON",
+      "Text": "Graham",
+      "BeginOffset": 2023,
+      "EndOffset": 2029
+    },
+    {
+      "Score": 0.6725566983222961,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 2038,
+      "EndOffset": 2048
+    },
+    {
+      "Score": 0.9868367910385132,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2089,
+      "EndOffset": 2094
+    },
+    {
+      "Score": 0.9634127020835876,
+      "Type": "PERSON",
+      "Text": "Peterson",
+      "BeginOffset": 2111,
+      "EndOffset": 2119
+    },
+    {
+      "Score": 0.9924210906028748,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2180,
+      "EndOffset": 2185
+    },
+    {
+      "Score": 0.9971124529838562,
+      "Type": "PERSON",
+      "Text": "Joe Arpaio",
+      "BeginOffset": 2211,
+      "EndOffset": 2221
+    },
+    {
+      "Score": 0.937272310256958,
+      "Type": "ORGANIZATION",
+      "Text": "DHS",
+      "BeginOffset": 2226,
+      "EndOffset": 2229
+    },
+    {
+      "Score": 0.7968215346336365,
+      "Type": "ORGANIZATION",
+      "Text": "Black Nationalist Group",
+      "BeginOffset": 2251,
+      "EndOffset": 2274
+    },
+    {
+      "Score": 0.3884597420692444,
+      "Type": "ORGANIZATION",
+      "Text": "Illuminati",
+      "BeginOffset": 2276,
+      "EndOffset": 2286
+    },
+    {
+      "Score": 0.8975538015365601,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 2294,
+      "EndOffset": 2307
+    }
+  ]
+}

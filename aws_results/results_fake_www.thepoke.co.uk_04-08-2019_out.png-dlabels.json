@@ -1,0 +1,87 @@
+{
+  "Labels": [
+    {
+      "Name": "Human",
+      "Confidence": 98.23706817626953,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 98.23706817626953,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.15673105418682098,
+            "Height": 0.1415260285139084,
+            "Left": 0.029005423188209534,
+            "Top": 0.8501395583152771
+          },
+          "Confidence": 98.23706817626953
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 96.44759368896484,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Face",
+      "Confidence": 66.02175903320312,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Electronics",
+      "Confidence": 65.29071044921875,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 62.820987701416016,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "People",
+      "Confidence": 62.59657669067383,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 62.253021240234375,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Clothing",
+      "Confidence": 62.253021240234375,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Female",
+      "Confidence": 55.415931701660156,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

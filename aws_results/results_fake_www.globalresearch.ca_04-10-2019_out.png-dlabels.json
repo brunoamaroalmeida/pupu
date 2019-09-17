@@ -1,0 +1,181 @@
+{
+  "Labels": [
+    {
+      "Name": "Flyer",
+      "Confidence": 98.46977996826172,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.972684919834137,
+            "Height": 0.9829121232032776,
+            "Left": 0.018060915172100067,
+            "Top": 0.01583782210946083
+          },
+          "Confidence": 98.46977996826172
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Poster"
+        }
+      ]
+    },
+    {
+      "Name": "Advertisement",
+      "Confidence": 98.46977996826172,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Brochure",
+      "Confidence": 98.46977996826172,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Poster"
+        }
+      ]
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 98.46977996826172,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 98.46977996826172,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Person",
+      "Confidence": 97.40257263183594,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.04086974263191223,
+            "Height": 0.10153854638338089,
+            "Left": 0.36431893706321716,
+            "Top": 0.7468379139900208
+          },
+          "Confidence": 97.40257263183594
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.0369858592748642,
+            "Height": 0.09754989296197891,
+            "Left": 0.30825790762901306,
+            "Top": 0.7489458322525024
+          },
+          "Confidence": 93.00144958496094
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.08087053894996643,
+            "Height": 0.0768878161907196,
+            "Left": 0.5433311462402344,
+            "Top": 0.9207911491394043
+          },
+          "Confidence": 86.28526306152344
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.031517144292593,
+            "Height": 0.07246231287717819,
+            "Left": 0.3857766091823578,
+            "Top": 0.45307713747024536
+          },
+          "Confidence": 83.16262817382812
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.05953820422291756,
+            "Height": 0.08313766121864319,
+            "Left": 0.11536812037229538,
+            "Top": 0.9129418730735779
+          },
+          "Confidence": 67.29315185546875
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 97.40257263183594,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 95.37651062011719,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "File",
+      "Confidence": 90.17605590820312,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Newspaper",
+      "Confidence": 72.03060150146484,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Page",
+      "Confidence": 68.35547637939453,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Webpage",
+      "Confidence": 64.86631774902344,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "File"
+        }
+      ]
+    },
+    {
+      "Name": "Clothing",
+      "Confidence": 56.050933837890625,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 56.050933837890625,
+      "Instances": [],
+      "Parents": []
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

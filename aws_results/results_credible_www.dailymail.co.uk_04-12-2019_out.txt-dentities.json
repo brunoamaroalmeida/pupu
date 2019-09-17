@@ -1,0 +1,690 @@
+{
+  "Entities": [
+    {
+      "Score": 0.44006043672561646,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 231,
+      "EndOffset": 233
+    },
+    {
+      "Score": 0.9704274535179138,
+      "Type": "DATE",
+      "Text": "Friday, Apr 12th 2019",
+      "BeginOffset": 286,
+      "EndOffset": 307
+    },
+    {
+      "Score": 0.49857333302497864,
+      "Type": "DATE",
+      "Text": "40",
+      "BeginOffset": 308,
+      "EndOffset": 310
+    },
+    {
+      "Score": 0.9582271575927734,
+      "Type": "DATE",
+      "Text": "8PM",
+      "BeginOffset": 312,
+      "EndOffset": 315
+    },
+    {
+      "Score": 0.6610629558563232,
+      "Type": "QUANTITY",
+      "Text": "1°C",
+      "BeginOffset": 316,
+      "EndOffset": 319
+    },
+    {
+      "Score": 0.7369299530982971,
+      "Type": "QUANTITY",
+      "Text": "11PM",
+      "BeginOffset": 320,
+      "EndOffset": 324
+    },
+    {
+      "Score": 0.7219081521034241,
+      "Type": "QUANTITY",
+      "Text": "1°",
+      "BeginOffset": 325,
+      "EndOffset": 327
+    },
+    {
+      "Score": 0.9402325749397278,
+      "Type": "QUANTITY",
+      "Text": "5-Day",
+      "BeginOffset": 329,
+      "EndOffset": 334
+    },
+    {
+      "Score": 0.6805660128593445,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 345,
+      "EndOffset": 347
+    },
+    {
+      "Score": 0.9992911219596863,
+      "Type": "PERSON",
+      "Text": "Alex Hepburn",
+      "BeginOffset": 398,
+      "EndOffset": 410
+    },
+    {
+      "Score": 0.8619903922080994,
+      "Type": "ORGANIZATION",
+      "Text": "WhatsApp",
+      "BeginOffset": 418,
+      "EndOffset": 426
+    },
+    {
+      "Score": 0.9965444803237915,
+      "Type": "PERSON",
+      "Text": "Alex Hepburn",
+      "BeginOffset": 556,
+      "EndOffset": 568
+    },
+    {
+      "Score": 0.9937443137168884,
+      "Type": "QUANTITY",
+      "Text": "23",
+      "BeginOffset": 570,
+      "EndOffset": 572
+    },
+    {
+      "Score": 0.9971994757652283,
+      "Type": "PERSON",
+      "Text": "Alex Hepburn",
+      "BeginOffset": 630,
+      "EndOffset": 642
+    },
+    {
+      "Score": 0.9978368878364563,
+      "Type": "QUANTITY",
+      "Text": "23",
+      "BeginOffset": 644,
+      "EndOffset": 646
+    },
+    {
+      "Score": 0.9113980531692505,
+      "Type": "ORGANIZATION",
+      "Text": "Whatsapp",
+      "BeginOffset": 843,
+      "EndOffset": 851
+    },
+    {
+      "Score": 0.6474175453186035,
+      "Type": "QUANTITY",
+      "Text": "one",
+      "BeginOffset": 863,
+      "EndOffset": 866
+    },
+    {
+      "Score": 0.6566271781921387,
+      "Type": "ORGANIZATION",
+      "Text": "Worcestershire",
+      "BeginOffset": 968,
+      "EndOffset": 982
+    },
+    {
+      "Score": 0.9997337460517883,
+      "Type": "PERSON",
+      "Text": "Alex Hepburn",
+      "BeginOffset": 988,
+      "EndOffset": 1000
+    },
+    {
+      "Score": 0.8828374743461609,
+      "Type": "PERSON",
+      "Text": "Lucy\n   Street",
+      "BeginOffset": 1031,
+      "EndOffset": 1045
+    },
+    {
+      "Score": 0.8938020467758179,
+      "Type": "QUANTITY",
+      "Text": "two counts",
+      "BeginOffset": 1076,
+      "EndOffset": 1086
+    },
+    {
+      "Score": 0.9450094103813171,
+      "Type": "DATE",
+      "Text": "early hours of April 1, 2017",
+      "BeginOffset": 1130,
+      "EndOffset": 1158
+    },
+    {
+      "Score": 0.9665997624397278,
+      "Type": "LOCATION",
+      "Text": "Worcester",
+      "BeginOffset": 1174,
+      "EndOffset": 1183
+    },
+    {
+      "Score": 0.8298860192298889,
+      "Type": "QUANTITY",
+      "Text": "one charge",
+      "BeginOffset": 1208,
+      "EndOffset": 1218
+    },
+    {
+      "Score": 0.8150646686553955,
+      "Type": "ORGANIZATION",
+      "Text": "Worcester Crown Court",
+      "BeginOffset": 1222,
+      "EndOffset": 1243
+    },
+    {
+      "Score": 0.9319773316383362,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 1244,
+      "EndOffset": 1249
+    },
+    {
+      "Score": 0.8042502999305725,
+      "Type": "QUANTITY",
+      "Text": "second rape charge",
+      "BeginOffset": 1275,
+      "EndOffset": 1293
+    },
+    {
+      "Score": 0.9794068336486816,
+      "Type": "PERSON",
+      "Text": "Hepburn",
+      "BeginOffset": 1323,
+      "EndOffset": 1330
+    },
+    {
+      "Score": 0.9995486736297607,
+      "Type": "PERSON",
+      "Text": "Joe Clarke",
+      "BeginOffset": 1642,
+      "EndOffset": 1652
+    },
+    {
+      "Score": 0.9835601449012756,
+      "Type": "QUANTITY",
+      "Text": "23-year-old",
+      "BeginOffset": 1718,
+      "EndOffset": 1729
+    },
+    {
+      "Score": 0.8094164729118347,
+      "Type": "QUANTITY",
+      "Text": "one\n   message",
+      "BeginOffset": 1748,
+      "EndOffset": 1762
+    },
+    {
+      "Score": 0.9920902252197266,
+      "Type": "PERSON",
+      "Text": "Hepburn",
+      "BeginOffset": 1829,
+      "EndOffset": 1836
+    },
+    {
+      "Score": 0.5965762734413147,
+      "Type": "PERSON",
+      "Text": "Hepperdawg",
+      "BeginOffset": 1870,
+      "EndOffset": 1880
+    },
+    {
+      "Score": 0.997459352016449,
+      "Type": "PERSON",
+      "Text": "Ian Cognito",
+      "BeginOffset": 1997,
+      "EndOffset": 2008
+    },
+    {
+      "Score": 0.7252182364463806,
+      "Type": "OTHER",
+      "Text": "British",
+      "BeginOffset": 2121,
+      "EndOffset": 2128
+    },
+    {
+      "Score": 0.9983311295509338,
+      "Type": "PERSON",
+      "Text": "Ian Cognito",
+      "BeginOffset": 2147,
+      "EndOffset": 2158
+    },
+    {
+      "Score": 0.8296001553535461,
+      "Type": "OTHER",
+      "Text": "British",
+      "BeginOffset": 2215,
+      "EndOffset": 2222
+    },
+    {
+      "Score": 0.998343825340271,
+      "Type": "PERSON",
+      "Text": "Ian Cognito",
+      "BeginOffset": 2241,
+      "EndOffset": 2252
+    },
+    {
+      "Score": 0.9679471254348755,
+      "Type": "QUANTITY",
+      "Text": "five minutes",
+      "BeginOffset": 2398,
+      "EndOffset": 2410
+    },
+    {
+      "Score": 0.4310694634914398,
+      "Type": "LOCATION",
+      "Text": "Atic bar",
+      "BeginOffset": 2419,
+      "EndOffset": 2427
+    },
+    {
+      "Score": 0.9646361470222473,
+      "Type": "LOCATION",
+      "Text": "Bicester",
+      "BeginOffset": 2431,
+      "EndOffset": 2439
+    },
+    {
+      "Score": 0.9686133861541748,
+      "Type": "ORGANIZATION",
+      "Text": "Lone\n   Wolf Comedy Club",
+      "BeginOffset": 2450,
+      "EndOffset": 2474
+    },
+    {
+      "Score": 0.9932969212532043,
+      "Type": "DATE",
+      "Text": "Thursday",
+      "BeginOffset": 2493,
+      "EndOffset": 2501
+    },
+    {
+      "Score": 0.6091542840003967,
+      "Type": "ORGANIZATION",
+      "Text": "Cognito",
+      "BeginOffset": 2645,
+      "EndOffset": 2652
+    },
+    {
+      "Score": 0.9990123510360718,
+      "Type": "PERSON",
+      "Text": "John Ostojak",
+      "BeginOffset": 2675,
+      "EndOffset": 2687
+    },
+    {
+      "Score": 0.9937700629234314,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 2721,
+      "EndOffset": 2724
+    },
+    {
+      "Score": 0.7984469532966614,
+      "Type": "QUANTITY",
+      "Text": "10 minutes",
+      "BeginOffset": 2732,
+      "EndOffset": 2742
+    },
+    {
+      "Score": 0.4938482344150543,
+      "Type": "OTHER",
+      "Text": "Welsh",
+      "BeginOffset": 2857,
+      "EndOffset": 2862
+    },
+    {
+      "Score": 0.9968693256378174,
+      "Type": "PERSON",
+      "Text": "Jimmy Carr",
+      "BeginOffset": 2898,
+      "EndOffset": 2908
+    },
+    {
+      "Score": 0.9959065318107605,
+      "Type": "PERSON",
+      "Text": "Rufus Hound",
+      "BeginOffset": 2927,
+      "EndOffset": 2938
+    },
+    {
+      "Score": 0.985465943813324,
+      "Type": "PERSON",
+      "Text": "Katy Brand",
+      "BeginOffset": 2943,
+      "EndOffset": 2953
+    },
+    {
+      "Score": 0.4001271426677704,
+      "Type": "ORGANIZATION",
+      "Text": "Incognito",
+      "BeginOffset": 2978,
+      "EndOffset": 2987
+    },
+    {
+      "Score": 0.9994845986366272,
+      "Type": "PERSON",
+      "Text": "Iain Lee",
+      "BeginOffset": 3035,
+      "EndOffset": 3043
+    },
+    {
+      "Score": 0.9989892840385437,
+      "Type": "PERSON",
+      "Text": "Iain Lee",
+      "BeginOffset": 3260,
+      "EndOffset": 3268
+    },
+    {
+      "Score": 0.929965615272522,
+      "Type": "DATE",
+      "Text": "last night",
+      "BeginOffset": 3287,
+      "EndOffset": 3297
+    },
+    {
+      "Score": 0.3531874120235443,
+      "Type": "ORGANIZATION",
+      "Text": "talkRadio",
+      "BeginOffset": 3394,
+      "EndOffset": 3403
+    },
+    {
+      "Score": 0.6192639470100403,
+      "Type": "QUANTITY",
+      "Text": "52",
+      "BeginOffset": 3451,
+      "EndOffset": 3453
+    },
+    {
+      "Score": 0.8682049512863159,
+      "Type": "QUANTITY",
+      "Text": "3 shares",
+      "BeginOffset": 3454,
+      "EndOffset": 3462
+    },
+    {
+      "Score": 0.9994993805885315,
+      "Type": "PERSON",
+      "Text": "Iain Lee",
+      "BeginOffset": 3479,
+      "EndOffset": 3487
+    },
+    {
+      "Score": 0.9920377731323242,
+      "Type": "PERSON",
+      "Text": "Caroline",
+      "BeginOffset": 3523,
+      "EndOffset": 3531
+    },
+    {
+      "Score": 0.9960733652114868,
+      "Type": "PERSON",
+      "Text": "Robbie",
+      "BeginOffset": 3583,
+      "EndOffset": 3589
+    },
+    {
+      "Score": 0.5114204287528992,
+      "Type": "PERSON",
+      "Text": "Ayda",
+      "BeginOffset": 3594,
+      "EndOffset": 3598
+    },
+    {
+      "Score": 0.7826048135757446,
+      "Type": "TITLE",
+      "Text": "X Factor",
+      "BeginOffset": 3608,
+      "EndOffset": 3616
+    },
+    {
+      "Score": 0.8518449068069458,
+      "Type": "QUANTITY",
+      "Text": "one series",
+      "BeginOffset": 3623,
+      "EndOffset": 3633
+    },
+    {
+      "Score": 0.6381533741950989,
+      "Type": "TITLE",
+      "Text": "Williams\n     * [55]",
+      "BeginOffset": 3634,
+      "EndOffset": 3654
+    },
+    {
+      "Score": 0.9826318025588989,
+      "Type": "PERSON",
+      "Text": "Caroline",
+      "BeginOffset": 3654,
+      "EndOffset": 3662
+    },
+    {
+      "Score": 0.960004448890686,
+      "Type": "PERSON",
+      "Text": "Flack",
+      "BeginOffset": 3703,
+      "EndOffset": 3708
+    },
+    {
+      "Score": 0.5368814468383789,
+      "Type": "QUANTITY",
+      "Text": "56",
+      "BeginOffset": 3717,
+      "EndOffset": 3719
+    },
+    {
+      "Score": 0.7406375408172607,
+      "Type": "PERSON",
+      "Text": "Axed Shila",
+      "BeginOffset": 3731,
+      "EndOffset": 3741
+    },
+    {
+      "Score": 0.9923824667930603,
+      "Type": "PERSON",
+      "Text": "Helena",
+      "BeginOffset": 3788,
+      "EndOffset": 3794
+    },
+    {
+      "Score": 0.9809344410896301,
+      "Type": "QUANTITY",
+      "Text": "50",
+      "BeginOffset": 3796,
+      "EndOffset": 3798
+    },
+    {
+      "Score": 0.965364396572113,
+      "Type": "PERSON",
+      "Text": "Christensen",
+      "BeginOffset": 3840,
+      "EndOffset": 3851
+    },
+    {
+      "Score": 0.9975097179412842,
+      "Type": "PERSON",
+      "Text": "Robbie",
+      "BeginOffset": 3863,
+      "EndOffset": 3869
+    },
+    {
+      "Score": 0.6891018748283386,
+      "Type": "PERSON",
+      "Text": "Ayda QUIT",
+      "BeginOffset": 3874,
+      "EndOffset": 3883
+    },
+    {
+      "Score": 0.8137044310569763,
+      "Type": "TITLE",
+      "Text": "The X Factor",
+      "BeginOffset": 3884,
+      "EndOffset": 3896
+    },
+    {
+      "Score": 0.8864468932151794,
+      "Type": "QUANTITY",
+      "Text": "one series",
+      "BeginOffset": 3903,
+      "EndOffset": 3913
+    },
+    {
+      "Score": 0.6593746542930603,
+      "Type": "TITLE",
+      "Text": "Williams\n     * [59]",
+      "BeginOffset": 3914,
+      "EndOffset": 3934
+    },
+    {
+      "Score": 0.9860515594482422,
+      "Type": "PERSON",
+      "Text": "Caroline",
+      "BeginOffset": 3934,
+      "EndOffset": 3942
+    },
+    {
+      "Score": 0.7160540819168091,
+      "Type": "PERSON",
+      "Text": "Flack",
+      "BeginOffset": 3983,
+      "EndOffset": 3988
+    },
+    {
+      "Score": 0.7918825149536133,
+      "Type": "ORGANIZATION",
+      "Text": "Liverpool",
+      "BeginOffset": 3993,
+      "EndOffset": 4002
+    },
+    {
+      "Score": 0.999004065990448,
+      "Type": "PERSON",
+      "Text": "Tommy Smith",
+      "BeginOffset": 4029,
+      "EndOffset": 4040
+    },
+    {
+      "Score": 0.6362743973731995,
+      "Type": "QUANTITY",
+      "Text": "74",
+      "BeginOffset": 4051,
+      "EndOffset": 4053
+    },
+    {
+      "Score": 0.9692219495773315,
+      "Type": "ORGANIZATION",
+      "Text": "Liverpool",
+      "BeginOffset": 4067,
+      "EndOffset": 4076
+    },
+    {
+      "Score": 0.9991424679756165,
+      "Type": "PERSON",
+      "Text": "Tommy Smith",
+      "BeginOffset": 4084,
+      "EndOffset": 4095
+    },
+    {
+      "Score": 0.8337314128875732,
+      "Type": "QUANTITY",
+      "Text": "age of 74",
+      "BeginOffset": 4119,
+      "EndOffset": 4128
+    },
+    {
+      "Score": 0.9864029884338379,
+      "Type": "ORGANIZATION",
+      "Text": "Reds",
+      "BeginOffset": 4144,
+      "EndOffset": 4148
+    },
+    {
+      "Score": 0.990854024887085,
+      "Type": "DATE",
+      "Text": "Friday afternoon",
+      "BeginOffset": 4165,
+      "EndOffset": 4181
+    },
+    {
+      "Score": 0.7968851327896118,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 4215,
+      "EndOffset": 4217
+    },
+    {
+      "Score": 0.9537962079048157,
+      "Type": "ORGANIZATION",
+      "Text": "Liverpool",
+      "BeginOffset": 4224,
+      "EndOffset": 4233
+    },
+    {
+      "Score": 0.9987753033638,
+      "Type": "PERSON",
+      "Text": "Tommy Smith",
+      "BeginOffset": 4260,
+      "EndOffset": 4271
+    },
+    {
+      "Score": 0.8327823281288147,
+      "Type": "QUANTITY",
+      "Text": "65",
+      "BeginOffset": 4283,
+      "EndOffset": 4285
+    },
+    {
+      "Score": 0.9860223531723022,
+      "Type": "PERSON",
+      "Text": "Victoria Parry",
+      "BeginOffset": 4438,
+      "EndOffset": 4452
+    },
+    {
+      "Score": 0.9769415259361267,
+      "Type": "QUANTITY",
+      "Text": "30",
+      "BeginOffset": 4454,
+      "EndOffset": 4456
+    },
+    {
+      "Score": 0.371209055185318,
+      "Type": "LOCATION",
+      "Text": "Stratford",
+      "BeginOffset": 4461,
+      "EndOffset": 4470
+    },
+    {
+      "Score": 0.5789519548416138,
+      "Type": "LOCATION",
+      "Text": "Avon",
+      "BeginOffset": 4476,
+      "EndOffset": 4480
+    },
+    {
+      "Score": 0.7982217669487,
+      "Type": "ORGANIZATION",
+      "Text": "Warwick Crown Court",
+      "BeginOffset": 4514,
+      "EndOffset": 4533
+    },
+    {
+      "Score": 0.9798046350479126,
+      "Type": "PERSON",
+      "Text": "Pete",
+      "BeginOffset": 4670,
+      "EndOffset": 4674
+    },
+    {
+      "Score": 0.9908668994903564,
+      "Type": "PERSON",
+      "Text": "Joe",
+      "BeginOffset": 4691,
+      "EndOffset": 4694
+    }
+  ]
+}

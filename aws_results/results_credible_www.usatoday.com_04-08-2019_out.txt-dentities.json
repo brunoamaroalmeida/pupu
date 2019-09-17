@@ -1,0 +1,795 @@
+{
+  "Entities": [
+    {
+      "Score": 0.6651903390884399,
+      "Type": "ORGANIZATION",
+      "Text": "USA TODAY",
+      "BeginOffset": 11,
+      "EndOffset": 20
+    },
+    {
+      "Score": 0.9617346525192261,
+      "Type": "PERSON",
+      "Text": "Felicity Huffman",
+      "BeginOffset": 60,
+      "EndOffset": 76
+    },
+    {
+      "Score": 0.8243187665939331,
+      "Type": "PERSON",
+      "Text": "John J Moakley",
+      "BeginOffset": 88,
+      "EndOffset": 102
+    },
+    {
+      "Score": 0.9461990594863892,
+      "Type": "PERSON",
+      "Text": "Felicity Huffman",
+      "BeginOffset": 114,
+      "EndOffset": 130
+    },
+    {
+      "Score": 0.9960081577301025,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 186,
+      "EndOffset": 191
+    },
+    {
+      "Score": 0.9886870384216309,
+      "Type": "LOCATION",
+      "Text": "Mexico",
+      "BeginOffset": 205,
+      "EndOffset": 211
+    },
+    {
+      "Score": 0.9939169883728027,
+      "Type": "LOCATION",
+      "Text": "United States",
+      "BeginOffset": 259,
+      "EndOffset": 272
+    },
+    {
+      "Score": 0.8627991080284119,
+      "Type": "LOCATION",
+      "Text": "Reynosa, Mexico",
+      "BeginOffset": 306,
+      "EndOffset": 321
+    },
+    {
+      "Score": 0.9407303929328918,
+      "Type": "LOCATION",
+      "Text": "Hidalgo, Texas",
+      "BeginOffset": 326,
+      "EndOffset": 340
+    },
+    {
+      "Score": 0.9992626309394836,
+      "Type": "DATE",
+      "Text": "March 15, 2019",
+      "BeginOffset": 345,
+      "EndOffset": 359
+    },
+    {
+      "Score": 0.7164096832275391,
+      "Type": "ORGANIZATION",
+      "Text": "White House",
+      "BeginOffset": 422,
+      "EndOffset": 433
+    },
+    {
+      "Score": 0.9984573125839233,
+      "Type": "DATE",
+      "Text": "October 29, 2008",
+      "BeginOffset": 448,
+      "EndOffset": 464
+    },
+    {
+      "Score": 0.9892659187316895,
+      "Type": "LOCATION",
+      "Text": "Washington, DC",
+      "BeginOffset": 469,
+      "EndOffset": 483
+    },
+    {
+      "Score": 0.808971107006073,
+      "Type": "QUANTITY",
+      "Text": "Three",
+      "BeginOffset": 488,
+      "EndOffset": 493
+    },
+    {
+      "Score": 0.9176366925239563,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 494,
+      "EndOffset": 498
+    },
+    {
+      "Score": 0.780715823173523,
+      "Type": "QUANTITY",
+      "Text": "one contractor",
+      "BeginOffset": 507,
+      "EndOffset": 521
+    },
+    {
+      "Score": 0.5999463796615601,
+      "Type": "LOCATION",
+      "Text": "Afghanistan",
+      "BeginOffset": 532,
+      "EndOffset": 543
+    },
+    {
+      "Score": 0.9842445254325867,
+      "Type": "LOCATION",
+      "Text": "Brazil",
+      "BeginOffset": 547,
+      "EndOffset": 553
+    },
+    {
+      "Score": 0.9681075215339661,
+      "Type": "LOCATION",
+      "Text": "Scotland",
+      "BeginOffset": 568,
+      "EndOffset": 576
+    },
+    {
+      "Score": 0.9054547548294067,
+      "Type": "QUANTITY",
+      "Text": "1",
+      "BeginOffset": 577,
+      "EndOffset": 578
+    },
+    {
+      "Score": 0.9874339699745178,
+      "Type": "QUANTITY",
+      "Text": "0",
+      "BeginOffset": 579,
+      "EndOffset": 580
+    },
+    {
+      "Score": 0.9988868832588196,
+      "Type": "PERSON",
+      "Text": "Greg Giannini",
+      "BeginOffset": 602,
+      "EndOffset": 615
+    },
+    {
+      "Score": 0.702294111251831,
+      "Type": "QUANTITY",
+      "Text": "four wheel",
+      "BeginOffset": 771,
+      "EndOffset": 781
+    },
+    {
+      "Score": 0.8344867825508118,
+      "Type": "LOCATION",
+      "Text": "North Gate Blvd",
+      "BeginOffset": 921,
+      "EndOffset": 936
+    },
+    {
+      "Score": 0.9896974563598633,
+      "Type": "LOCATION",
+      "Text": "Colorado Springs,\n   Colorado",
+      "BeginOffset": 941,
+      "EndOffset": 970
+    },
+    {
+      "Score": 0.999367356300354,
+      "Type": "DATE",
+      "Text": "Wednesday, March 13, 2019",
+      "BeginOffset": 975,
+      "EndOffset": 1000
+    },
+    {
+      "Score": 0.7655085325241089,
+      "Type": "ORGANIZATION",
+      "Text": "Texas Tech",
+      "BeginOffset": 1025,
+      "EndOffset": 1035
+    },
+    {
+      "Score": 0.8782420754432678,
+      "Type": "TITLE",
+      "Text": "Guns Up",
+      "BeginOffset": 1039,
+      "EndOffset": 1046
+    },
+    {
+      "Score": 0.4587003290653229,
+      "Type": "LOCATION",
+      "Text": "Texas",
+      "BeginOffset": 1051,
+      "EndOffset": 1056
+    },
+    {
+      "Score": 0.9510758519172668,
+      "Type": "TITLE",
+      "Text": "Smallville",
+      "BeginOffset": 1125,
+      "EndOffset": 1135
+    },
+    {
+      "Score": 0.9980930685997009,
+      "Type": "PERSON",
+      "Text": "Allison Mack",
+      "BeginOffset": 1142,
+      "EndOffset": 1154
+    },
+    {
+      "Score": 0.9743273854255676,
+      "Type": "PERSON",
+      "Text": "Allison Mack",
+      "BeginOffset": 1189,
+      "EndOffset": 1201
+    },
+    {
+      "Score": 0.9993725419044495,
+      "Type": "DATE",
+      "Text": "Tuesday, April 24",
+      "BeginOffset": 1223,
+      "EndOffset": 1240
+    },
+    {
+      "Score": 0.9891523718833923,
+      "Type": "PERSON",
+      "Text": "Jenna Bush Hager",
+      "BeginOffset": 1245,
+      "EndOffset": 1261
+    },
+    {
+      "Score": 0.7722309827804565,
+      "Type": "DATE",
+      "Text": "Today",
+      "BeginOffset": 1279,
+      "EndOffset": 1284
+    },
+    {
+      "Score": 0.9801769852638245,
+      "Type": "PERSON",
+      "Text": "Jenna Bush Hager",
+      "BeginOffset": 1295,
+      "EndOffset": 1311
+    },
+    {
+      "Score": 0.9991756677627563,
+      "Type": "PERSON",
+      "Text": "Hoda Kotb",
+      "BeginOffset": 1316,
+      "EndOffset": 1325
+    },
+    {
+      "Score": 0.9993704557418823,
+      "Type": "DATE",
+      "Text": "Feb. 27, 2019",
+      "BeginOffset": 1337,
+      "EndOffset": 1350
+    },
+    {
+      "Score": 0.9193764925003052,
+      "Type": "PERSON",
+      "Text": "Gannett",
+      "BeginOffset": 1355,
+      "EndOffset": 1362
+    },
+    {
+      "Score": 0.4993724822998047,
+      "Type": "LOCATION",
+      "Text": "Texas",
+      "BeginOffset": 1475,
+      "EndOffset": 1480
+    },
+    {
+      "Score": 0.9544906616210938,
+      "Type": "LOCATION",
+      "Text": "Virginia",
+      "BeginOffset": 1486,
+      "EndOffset": 1494
+    },
+    {
+      "Score": 0.9755914211273193,
+      "Type": "TITLE",
+      "Text": "Final Four: Texas Tech Red Raiders",
+      "BeginOffset": 1509,
+      "EndOffset": 1543
+    },
+    {
+      "Score": 0.9994513988494873,
+      "Type": "PERSON",
+      "Text": "Matt Mooney",
+      "BeginOffset": 1550,
+      "EndOffset": 1561
+    },
+    {
+      "Score": 0.9766921401023865,
+      "Type": "ORGANIZATION",
+      "Text": "Michigan State Spartans",
+      "BeginOffset": 1595,
+      "EndOffset": 1618
+    },
+    {
+      "Score": 0.9933584928512573,
+      "Type": "PERSON",
+      "Text": "Cassius Winston",
+      "BeginOffset": 1625,
+      "EndOffset": 1640
+    },
+    {
+      "Score": 0.984639048576355,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1670,
+      "EndOffset": 1675
+    },
+    {
+      "Score": 0.9443472027778625,
+      "Type": "PERSON",
+      "Text": "President Donald Trump",
+      "BeginOffset": 1712,
+      "EndOffset": 1734
+    },
+    {
+      "Score": 0.9911304116249084,
+      "Type": "ORGANIZATION",
+      "Text": "National Republican Congressional\n   Committee",
+      "BeginOffset": 1749,
+      "EndOffset": 1795
+    },
+    {
+      "Score": 0.9668557643890381,
+      "Type": "LOCATION",
+      "Text": "Washington",
+      "BeginOffset": 1822,
+      "EndOffset": 1832
+    },
+    {
+      "Score": 0.9997974634170532,
+      "Type": "DATE",
+      "Text": "April 2, 2019",
+      "BeginOffset": 1834,
+      "EndOffset": 1847
+    },
+    {
+      "Score": 0.5069642066955566,
+      "Type": "QUANTITY",
+      "Text": "both",
+      "BeginOffset": 1909,
+      "EndOffset": 1913
+    },
+    {
+      "Score": 0.6441392302513123,
+      "Type": "ORGANIZATION",
+      "Text": "Auburn",
+      "BeginOffset": 1922,
+      "EndOffset": 1928
+    },
+    {
+      "Score": 0.9997830390930176,
+      "Type": "PERSON",
+      "Text": "Samantha Cerio",
+      "BeginOffset": 1937,
+      "EndOffset": 1951
+    },
+    {
+      "Score": 0.8593254685401917,
+      "Type": "QUANTITY",
+      "Text": "both",
+      "BeginOffset": 1986,
+      "EndOffset": 1990
+    },
+    {
+      "Score": 0.9990079998970032,
+      "Type": "PERSON",
+      "Text": "Carrie Underwood",
+      "BeginOffset": 1994,
+      "EndOffset": 2010
+    },
+    {
+      "Score": 0.9996063709259033,
+      "Type": "PERSON",
+      "Text": "Carrie Underwood",
+      "BeginOffset": 2039,
+      "EndOffset": 2055
+    },
+    {
+      "Score": 0.9045483469963074,
+      "Type": "QUANTITY",
+      "Text": "second child",
+      "BeginOffset": 2069,
+      "EndOffset": 2081
+    },
+    {
+      "Score": 0.9982178807258606,
+      "Type": "DATE",
+      "Text": "January",
+      "BeginOffset": 2085,
+      "EndOffset": 2092
+    },
+    {
+      "Score": 0.9913594722747803,
+      "Type": "PERSON",
+      "Text": "Tiger Woods",
+      "BeginOffset": 2097,
+      "EndOffset": 2108
+    },
+    {
+      "Score": 0.9708548188209534,
+      "Type": "QUANTITY",
+      "Text": "65",
+      "BeginOffset": 2114,
+      "EndOffset": 2116
+    },
+    {
+      "Score": 0.814513623714447,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 2120,
+      "EndOffset": 2125
+    },
+    {
+      "Score": 0.7532116174697876,
+      "Type": "EVENT",
+      "Text": "Masters",
+      "BeginOffset": 2126,
+      "EndOffset": 2133
+    },
+    {
+      "Score": 0.9982901215553284,
+      "Type": "PERSON",
+      "Text": "Tiger Woods",
+      "BeginOffset": 2146,
+      "EndOffset": 2157
+    },
+    {
+      "Score": 0.9996259808540344,
+      "Type": "PERSON",
+      "Text": "Joe LaCava",
+      "BeginOffset": 2169,
+      "EndOffset": 2179
+    },
+    {
+      "Score": 0.8179470896720886,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 2216,
+      "EndOffset": 2220
+    },
+    {
+      "Score": 0.6279762983322144,
+      "Type": "ORGANIZATION",
+      "Text": "Iran",
+      "BeginOffset": 2234,
+      "EndOffset": 2238
+    },
+    {
+      "Score": 0.8532858490943909,
+      "Type": "ORGANIZATION",
+      "Text": "Iran",
+      "BeginOffset": 2269,
+      "EndOffset": 2273
+    },
+    {
+      "Score": 0.800883948802948,
+      "Type": "ORGANIZATION",
+      "Text": "Revolutionary Guard",
+      "BeginOffset": 2276,
+      "EndOffset": 2295
+    },
+    {
+      "Score": 0.9443728923797607,
+      "Type": "QUANTITY",
+      "Text": "36th anniversary",
+      "BeginOffset": 2345,
+      "EndOffset": 2361
+    },
+    {
+      "Score": 0.4562471807003021,
+      "Type": "LOCATION",
+      "Text": "Iraq",
+      "BeginOffset": 2365,
+      "EndOffset": 2369
+    },
+    {
+      "Score": 0.9687539339065552,
+      "Type": "DATE",
+      "Text": "1980",
+      "BeginOffset": 2372,
+      "EndOffset": 2376
+    },
+    {
+      "Score": 0.5209031105041504,
+      "Type": "LOCATION",
+      "Text": "Iran",
+      "BeginOffset": 2389,
+      "EndOffset": 2393
+    },
+    {
+      "Score": 0.8308917880058289,
+      "Type": "DATE",
+      "Text": "Sept. 21",
+      "BeginOffset": 2402,
+      "EndOffset": 2410
+    },
+    {
+      "Score": 0.9556120038032532,
+      "Type": "QUANTITY",
+      "Text": "17-year-old",
+      "BeginOffset": 2415,
+      "EndOffset": 2426
+    },
+    {
+      "Score": 0.9703623056411743,
+      "Type": "QUANTITY",
+      "Text": "No. 1",
+      "BeginOffset": 2437,
+      "EndOffset": 2442
+    },
+    {
+      "Score": 0.7820468544960022,
+      "Type": "LOCATION",
+      "Text": "LOS ANGELES",
+      "BeginOffset": 2463,
+      "EndOffset": 2474
+    },
+    {
+      "Score": 0.9949447512626648,
+      "Type": "LOCATION",
+      "Text": "CALIFORNIA",
+      "BeginOffset": 2476,
+      "EndOffset": 2486
+    },
+    {
+      "Score": 0.9989655613899231,
+      "Type": "DATE",
+      "Text": "JANUARY 05",
+      "BeginOffset": 2489,
+      "EndOffset": 2499
+    },
+    {
+      "Score": 0.9963626265525818,
+      "Type": "PERSON",
+      "Text": "Billie Eilish",
+      "BeginOffset": 2501,
+      "EndOffset": 2514
+    },
+    {
+      "Score": 0.8258258700370789,
+      "Type": "PERSON",
+      "Text": "Sean\n   Penn",
+      "BeginOffset": 2527,
+      "EndOffset": 2539
+    },
+    {
+      "Score": 0.7479467391967773,
+      "Type": "PERSON",
+      "Text": "J/P HRO",
+      "BeginOffset": 2540,
+      "EndOffset": 2547
+    },
+    {
+      "Score": 0.8854316473007202,
+      "Type": "PERSON",
+      "Text": "J/P Haitian Relief Organization",
+      "BeginOffset": 2564,
+      "EndOffset": 2595
+    },
+    {
+      "Score": 0.9477653503417969,
+      "Type": "LOCATION",
+      "Text": "Wiltern Theatre",
+      "BeginOffset": 2651,
+      "EndOffset": 2666
+    },
+    {
+      "Score": 0.998026430606842,
+      "Type": "DATE",
+      "Text": "January 05, 2019",
+      "BeginOffset": 2673,
+      "EndOffset": 2689
+    },
+    {
+      "Score": 0.9137994647026062,
+      "Type": "LOCATION",
+      "Text": "Los Angeles, California",
+      "BeginOffset": 2693,
+      "EndOffset": 2716
+    },
+    {
+      "Score": 0.996946394443512,
+      "Type": "PERSON",
+      "Text": "Rich Fury",
+      "BeginOffset": 2728,
+      "EndOffset": 2737
+    },
+    {
+      "Score": 0.9981913566589355,
+      "Type": "ORGANIZATION",
+      "Text": "Getty\n   Images",
+      "BeginOffset": 2738,
+      "EndOffset": 2753
+    },
+    {
+      "Score": 0.9939070343971252,
+      "Type": "OTHER",
+      "Text": "775269689",
+      "BeginOffset": 2765,
+      "EndOffset": 2774
+    },
+    {
+      "Score": 0.9965261816978455,
+      "Type": "OTHER",
+      "Text": "1090315150",
+      "BeginOffset": 2789,
+      "EndOffset": 2799
+    },
+    {
+      "Score": 0.8814928531646729,
+      "Type": "QUANTITY",
+      "Text": "7 things",
+      "BeginOffset": 2803,
+      "EndOffset": 2811
+    },
+    {
+      "Score": 0.6108935475349426,
+      "Type": "PERSON",
+      "Text": "Gmail\n   Trump",
+      "BeginOffset": 2846,
+      "EndOffset": 2860
+    },
+    {
+      "Score": 0.8004242181777954,
+      "Type": "PERSON",
+      "Text": "Yujing Zhang",
+      "BeginOffset": 2906,
+      "EndOffset": 2918
+    },
+    {
+      "Score": 0.9997450113296509,
+      "Type": "DATE",
+      "Text": "April 8, 2019",
+      "BeginOffset": 2950,
+      "EndOffset": 2963
+    },
+    {
+      "Score": 0.9533777236938477,
+      "Type": "LOCATION",
+      "Text": "West Palm\n   Rural America",
+      "BeginOffset": 2968,
+      "EndOffset": 2994
+    },
+    {
+      "Score": 0.9572009444236755,
+      "Type": "LOCATION",
+      "Text": "Creston, Iowa",
+      "BeginOffset": 3045,
+      "EndOffset": 3058
+    },
+    {
+      "Score": 0.9991651177406311,
+      "Type": "DATE",
+      "Text": "Sept. 8, 2016",
+      "BeginOffset": 3063,
+      "EndOffset": 3076
+    },
+    {
+      "Score": 0.9862076044082642,
+      "Type": "PERSON",
+      "Text": "Sarah Myriam",
+      "BeginOffset": 3135,
+      "EndOffset": 3147
+    },
+    {
+      "Score": 0.9763723015785217,
+      "Type": "LOCATION",
+      "Text": "New Jersey",
+      "BeginOffset": 3151,
+      "EndOffset": 3161
+    },
+    {
+      "Score": 0.9714275598526001,
+      "Type": "PERSON",
+      "Text": "Aliyah",
+      "BeginOffset": 3181,
+      "EndOffset": 3187
+    },
+    {
+      "Score": 0.9903773665428162,
+      "Type": "QUANTITY",
+      "Text": "2",
+      "BeginOffset": 3189,
+      "EndOffset": 3190
+    },
+    {
+      "Score": 0.5679065585136414,
+      "Type": "ORGANIZATION",
+      "Text": "Senate Health",
+      "BeginOffset": 3252,
+      "EndOffset": 3265
+    },
+    {
+      "Score": 0.8495498299598694,
+      "Type": "DATE",
+      "Text": "March",
+      "BeginOffset": 3347,
+      "EndOffset": 3352
+    },
+    {
+      "Score": 0.9727303385734558,
+      "Type": "ORGANIZATION",
+      "Text": "U.S. Customs and Border Protection",
+      "BeginOffset": 3424,
+      "EndOffset": 3458
+    },
+    {
+      "Score": 0.9975600838661194,
+      "Type": "PERSON",
+      "Text": "Kevin McAleenan",
+      "BeginOffset": 3472,
+      "EndOffset": 3487
+    },
+    {
+      "Score": 0.8802285194396973,
+      "Type": "ORGANIZATION",
+      "Text": "San Ysidro Port of Entry",
+      "BeginOffset": 3527,
+      "EndOffset": 3551
+    },
+    {
+      "Score": 0.9311912059783936,
+      "Type": "LOCATION",
+      "Text": "San\n   Buttigieg",
+      "BeginOffset": 3555,
+      "EndOffset": 3571
+    },
+    {
+      "Score": 0.981927216053009,
+      "Type": "PERSON",
+      "Text": "Pence",
+      "BeginOffset": 3578,
+      "EndOffset": 3583
+    },
+    {
+      "Score": 0.6958290338516235,
+      "Type": "PERSON",
+      "Text": "God",
+      "BeginOffset": 3589,
+      "EndOffset": 3592
+    },
+    {
+      "Score": 0.6640697717666626,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 3609,
+      "EndOffset": 3619
+    },
+    {
+      "Score": 0.9996699690818787,
+      "Type": "PERSON",
+      "Text": "Pete Buttigieg",
+      "BeginOffset": 3643,
+      "EndOffset": 3657
+    },
+    {
+      "Score": 0.7609962821006775,
+      "Type": "ORGANIZATION",
+      "Text": "LGBTQ\n   Victory Fund National Champagne Brunch",
+      "BeginOffset": 3672,
+      "EndOffset": 3719
+    },
+    {
+      "Score": 0.9997066259384155,
+      "Type": "DATE",
+      "Text": "April 7, 2019",
+      "BeginOffset": 3723,
+      "EndOffset": 3736
+    },
+    {
+      "Score": 0.9952834248542786,
+      "Type": "LOCATION",
+      "Text": "Washington",
+      "BeginOffset": 3740,
+      "EndOffset": 3750
+    }
+  ]
+}

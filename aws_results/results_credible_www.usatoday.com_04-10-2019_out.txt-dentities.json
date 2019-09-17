@@ -1,0 +1,809 @@
+{
+  "Entities": [
+    {
+      "Score": 0.6651903390884399,
+      "Type": "ORGANIZATION",
+      "Text": "USA TODAY",
+      "BeginOffset": 11,
+      "EndOffset": 20
+    },
+    {
+      "Score": 0.953404426574707,
+      "Type": "ORGANIZATION",
+      "Text": "European Southern Observatory",
+      "BeginOffset": 92,
+      "EndOffset": 121
+    },
+    {
+      "Score": 0.9988709092140198,
+      "Type": "DATE",
+      "Text": "April\n   10, 2019",
+      "BeginOffset": 125,
+      "EndOffset": 142
+    },
+    {
+      "Score": 0.8174936175346375,
+      "Type": "QUANTITY",
+      "Text": "first photograph",
+      "BeginOffset": 153,
+      "EndOffset": 169
+    },
+    {
+      "Score": 0.8106780052185059,
+      "Type": "ORGANIZATION",
+      "Text": "Event Horizon Telescope",
+      "BeginOffset": 221,
+      "EndOffset": 244
+    },
+    {
+      "Score": 0.5058051347732544,
+      "Type": "QUANTITY",
+      "Text": "one",
+      "BeginOffset": 320,
+      "EndOffset": 323
+    },
+    {
+      "Score": 0.7077456712722778,
+      "Type": "QUANTITY",
+      "Text": "First",
+      "BeginOffset": 381,
+      "EndOffset": 386
+    },
+    {
+      "Score": 0.9073851704597473,
+      "Type": "PERSON",
+      "Text": "Barr",
+      "BeginOffset": 422,
+      "EndOffset": 426
+    },
+    {
+      "Score": 0.9943298101425171,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 454,
+      "EndOffset": 459
+    },
+    {
+      "Score": 0.8614418506622314,
+      "Type": "PERSON",
+      "Text": "Attorney General William Barr",
+      "BeginOffset": 472,
+      "EndOffset": 501
+    },
+    {
+      "Score": 0.697359561920166,
+      "Type": "ORGANIZATION",
+      "Text": "House\n   Appropriation",
+      "BeginOffset": 532,
+      "EndOffset": 554
+    },
+    {
+      "Score": 0.745823085308075,
+      "Type": "LOCATION",
+      "Text": "Capitol Hill",
+      "BeginOffset": 626,
+      "EndOffset": 638
+    },
+    {
+      "Score": 0.9965133666992188,
+      "Type": "DATE",
+      "Text": "April 9, 2019",
+      "BeginOffset": 639,
+      "EndOffset": 652
+    },
+    {
+      "Score": 0.9292042255401611,
+      "Type": "QUANTITY",
+      "Text": "1 person",
+      "BeginOffset": 657,
+      "EndOffset": 665
+    },
+    {
+      "Score": 0.8728926181793213,
+      "Type": "LOCATION",
+      "Text": "N.C.",
+      "BeginOffset": 692,
+      "EndOffset": 696
+    },
+    {
+      "Score": 0.997977614402771,
+      "Type": "DATE",
+      "Text": "Sunday, Aug. 29, 2010",
+      "BeginOffset": 873,
+      "EndOffset": 894
+    },
+    {
+      "Score": 0.9990091323852539,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 913,
+      "EndOffset": 918
+    },
+    {
+      "Score": 0.9764675498008728,
+      "Type": "ORGANIZATION",
+      "Text": "Congress",
+      "BeginOffset": 957,
+      "EndOffset": 965
+    },
+    {
+      "Score": 0.6817644834518433,
+      "Type": "TITLE",
+      "Text": "Fixer Upper",
+      "BeginOffset": 970,
+      "EndOffset": 981
+    },
+    {
+      "Score": 0.9827836751937866,
+      "Type": "PERSON",
+      "Text": "Chip",
+      "BeginOffset": 1012,
+      "EndOffset": 1016
+    },
+    {
+      "Score": 0.9993491172790527,
+      "Type": "PERSON",
+      "Text": "Joanna Gaines",
+      "BeginOffset": 1021,
+      "EndOffset": 1034
+    },
+    {
+      "Score": 0.5827092528343201,
+      "Type": "PERSON",
+      "Text": "Crew",
+      "BeginOffset": 1074,
+      "EndOffset": 1078
+    },
+    {
+      "Score": 0.9684695601463318,
+      "Type": "QUANTITY",
+      "Text": "$8M",
+      "BeginOffset": 1109,
+      "EndOffset": 1112
+    },
+    {
+      "Score": 0.8414579033851624,
+      "Type": "ORGANIZATION",
+      "Text": "Kmart",
+      "BeginOffset": 1133,
+      "EndOffset": 1138
+    },
+    {
+      "Score": 0.9998432397842407,
+      "Type": "DATE",
+      "Text": "April 6, 2019",
+      "BeginOffset": 1156,
+      "EndOffset": 1169
+    },
+    {
+      "Score": 0.8936877846717834,
+      "Type": "ORGANIZATION",
+      "Text": "Monroe County\n   Sheriff's Office",
+      "BeginOffset": 1199,
+      "EndOffset": 1232
+    },
+    {
+      "Score": 0.4120500087738037,
+      "Type": "LOCATION",
+      "Text": "Fla",
+      "BeginOffset": 1234,
+      "EndOffset": 1237
+    },
+    {
+      "Score": 0.9984858632087708,
+      "Type": "PERSON",
+      "Text": "Andrew Lippi",
+      "BeginOffset": 1246,
+      "EndOffset": 1258
+    },
+    {
+      "Score": 0.9979448914527893,
+      "Type": "PERSON",
+      "Text": "Shawn Mendes",
+      "BeginOffset": 1287,
+      "EndOffset": 1299
+    },
+    {
+      "Score": 0.9995611310005188,
+      "Type": "PERSON",
+      "Text": "Shawn Mendes",
+      "BeginOffset": 1340,
+      "EndOffset": 1352
+    },
+    {
+      "Score": 0.989764928817749,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 1412,
+      "EndOffset": 1417
+    },
+    {
+      "Score": 0.9351479411125183,
+      "Type": "QUANTITY",
+      "Text": "200 million",
+      "BeginOffset": 1429,
+      "EndOffset": 1440
+    },
+    {
+      "Score": 0.943159818649292,
+      "Type": "LOCATION",
+      "Text": "Haines Avenue",
+      "BeginOffset": 1497,
+      "EndOffset": 1510
+    },
+    {
+      "Score": 0.9354761242866516,
+      "Type": "LOCATION",
+      "Text": "Rapid City, S.D.",
+      "BeginOffset": 1517,
+      "EndOffset": 1533
+    },
+    {
+      "Score": 0.99868243932724,
+      "Type": "DATE",
+      "Text": "Thursday, March 14, 2019",
+      "BeginOffset": 1535,
+      "EndOffset": 1559
+    },
+    {
+      "Score": 0.9967726469039917,
+      "Type": "LOCATION",
+      "Text": "South Dakota",
+      "BeginOffset": 1600,
+      "EndOffset": 1612
+    },
+    {
+      "Score": 0.5552789568901062,
+      "Type": "LOCATION",
+      "Text": "Midwest",
+      "BeginOffset": 1652,
+      "EndOffset": 1659
+    },
+    {
+      "Score": 0.9910792112350464,
+      "Type": "ORGANIZATION",
+      "Text": "AT&T",
+      "BeginOffset": 1664,
+      "EndOffset": 1668
+    },
+    {
+      "Score": 0.6163704991340637,
+      "Type": "QUANTITY",
+      "Text": "seven",
+      "BeginOffset": 1678,
+      "EndOffset": 1683
+    },
+    {
+      "Score": 0.6955984830856323,
+      "Type": "QUANTITY",
+      "Text": "5G cities",
+      "BeginOffset": 1689,
+      "EndOffset": 1698
+    },
+    {
+      "Score": 0.9113494157791138,
+      "Type": "QUANTITY",
+      "Text": "19",
+      "BeginOffset": 1710,
+      "EndOffset": 1712
+    },
+    {
+      "Score": 0.6633374094963074,
+      "Type": "ORGANIZATION",
+      "Text": "Ford",
+      "BeginOffset": 1716,
+      "EndOffset": 1720
+    },
+    {
+      "Score": 0.9271467924118042,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 1772,
+      "EndOffset": 1776
+    },
+    {
+      "Score": 0.9754119515419006,
+      "Type": "ORGANIZATION",
+      "Text": "Ford",
+      "BeginOffset": 1777,
+      "EndOffset": 1781
+    },
+    {
+      "Score": 0.9262003898620605,
+      "Type": "COMMERCIAL_ITEM",
+      "Text": "Edge ST",
+      "BeginOffset": 1782,
+      "EndOffset": 1789
+    },
+    {
+      "Score": 0.8515814542770386,
+      "Type": "QUANTITY",
+      "Text": "335-hp",
+      "BeginOffset": 1796,
+      "EndOffset": 1802
+    },
+    {
+      "Score": 0.8002311587333679,
+      "Type": "QUANTITY",
+      "Text": "twin-turbo",
+      "BeginOffset": 1803,
+      "EndOffset": 1813
+    },
+    {
+      "Score": 0.9501593112945557,
+      "Type": "QUANTITY",
+      "Text": "2.7L",
+      "BeginOffset": 1814,
+      "EndOffset": 1818
+    },
+    {
+      "Score": 0.9788839817047119,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 1860,
+      "EndOffset": 1864
+    },
+    {
+      "Score": 0.9850115776062012,
+      "Type": "DATE",
+      "Text": "April 15",
+      "BeginOffset": 1869,
+      "EndOffset": 1877
+    },
+    {
+      "Score": 0.9081974625587463,
+      "Type": "QUANTITY",
+      "Text": "more than $110K",
+      "BeginOffset": 1997,
+      "EndOffset": 2012
+    },
+    {
+      "Score": 0.9992913603782654,
+      "Type": "DATE",
+      "Text": "Tuesday, April 9.\n   2019",
+      "BeginOffset": 2094,
+      "EndOffset": 2119
+    },
+    {
+      "Score": 0.9561880230903625,
+      "Type": "ORGANIZATION",
+      "Text": "Jeopardy Productions, Inc.",
+      "BeginOffset": 2137,
+      "EndOffset": 2163
+    },
+    {
+      "Score": 0.9986969232559204,
+      "Type": "PERSON",
+      "Text": "James Holzhauer",
+      "BeginOffset": 2170,
+      "EndOffset": 2185
+    },
+    {
+      "Score": 0.9649360775947571,
+      "Type": "QUANTITY",
+      "Text": "34-year-old",
+      "BeginOffset": 2194,
+      "EndOffset": 2205
+    },
+    {
+      "Score": 0.9941473007202148,
+      "Type": "LOCATION",
+      "Text": "Las Vegas",
+      "BeginOffset": 2239,
+      "EndOffset": 2248
+    },
+    {
+      "Score": 0.9797130823135376,
+      "Type": "QUANTITY",
+      "Text": "more\n   than $110,000",
+      "BeginOffset": 2253,
+      "EndOffset": 2274
+    },
+    {
+      "Score": 0.9954036474227905,
+      "Type": "DATE",
+      "Text": "Tuesday",
+      "BeginOffset": 2293,
+      "EndOffset": 2300
+    },
+    {
+      "Score": 0.8090508580207825,
+      "Type": "QUANTITY",
+      "Text": "single-day",
+      "BeginOffset": 2329,
+      "EndOffset": 2339
+    },
+    {
+      "Score": 0.9447720050811768,
+      "Type": "ORGANIZATION",
+      "Text": "Jeopardy Productions, Inc.",
+      "BeginOffset": 2356,
+      "EndOffset": 2382
+    },
+    {
+      "Score": 0.7707582712173462,
+      "Type": "ORGANIZATION",
+      "Text": "AP",
+      "BeginOffset": 2387,
+      "EndOffset": 2389
+    },
+    {
+      "Score": 0.5775197148323059,
+      "Type": "ORGANIZATION",
+      "Text": "NFL",
+      "BeginOffset": 2404,
+      "EndOffset": 2407
+    },
+    {
+      "Score": 0.6439540982246399,
+      "Type": "QUANTITY",
+      "Text": "100 worst",
+      "BeginOffset": 2431,
+      "EndOffset": 2440
+    },
+    {
+      "Score": 0.8677868843078613,
+      "Type": "QUANTITY",
+      "Text": "100 biggest draft busts",
+      "BeginOffset": 2469,
+      "EndOffset": 2492
+    },
+    {
+      "Score": 0.7619439363479614,
+      "Type": "EVENT",
+      "Text": "NFL",
+      "BeginOffset": 2496,
+      "EndOffset": 2499
+    },
+    {
+      "Score": 0.5286026000976562,
+      "Type": "ORGANIZATION",
+      "Text": "Southwest",
+      "BeginOffset": 2512,
+      "EndOffset": 2521
+    },
+    {
+      "Score": 0.9604476094245911,
+      "Type": "ORGANIZATION",
+      "Text": "Southwest Airlines",
+      "BeginOffset": 2583,
+      "EndOffset": 2601
+    },
+    {
+      "Score": 0.8482386469841003,
+      "Type": "COMMERCIAL_ITEM",
+      "Text": "Boeing 737 MAX",
+      "BeginOffset": 2602,
+      "EndOffset": 2616
+    },
+    {
+      "Score": 0.9985767006874084,
+      "Type": "PERSON",
+      "Text": "Ariel Winter",
+      "BeginOffset": 2720,
+      "EndOffset": 2732
+    },
+    {
+      "Score": 0.32835352420806885,
+      "Type": "ORGANIZATION",
+      "Text": "KAOS",
+      "BeginOffset": 2762,
+      "EndOffset": 2766
+    },
+    {
+      "Score": 0.8969556093215942,
+      "Type": "PERSON",
+      "Text": "Tom Brady",
+      "BeginOffset": 2812,
+      "EndOffset": 2821
+    },
+    {
+      "Score": 0.9859794974327087,
+      "Type": "ORGANIZATION",
+      "Text": "New England Patriots",
+      "BeginOffset": 2825,
+      "EndOffset": 2845
+    },
+    {
+      "Score": 0.9998351335525513,
+      "Type": "PERSON",
+      "Text": "Tom Brady",
+      "BeginOffset": 2858,
+      "EndOffset": 2867
+    },
+    {
+      "Score": 0.82673180103302,
+      "Type": "QUANTITY",
+      "Text": "29 touchdown passes",
+      "BeginOffset": 2872,
+      "EndOffset": 2891
+    },
+    {
+      "Score": 0.998722493648529,
+      "Type": "COMMERCIAL_ITEM",
+      "Text": "iPhone",
+      "BeginOffset": 2910,
+      "EndOffset": 2916
+    },
+    {
+      "Score": 0.7770261168479919,
+      "Type": "ORGANIZATION",
+      "Text": "Riviera Mexican Grill",
+      "BeginOffset": 2953,
+      "EndOffset": 2974
+    },
+    {
+      "Score": 0.9880707859992981,
+      "Type": "LOCATION",
+      "Text": "Redondo Beach",
+      "BeginOffset": 2978,
+      "EndOffset": 2991
+    },
+    {
+      "Score": 0.7347538471221924,
+      "Type": "ORGANIZATION",
+      "Text": "Lakers",
+      "BeginOffset": 3023,
+      "EndOffset": 3029
+    },
+    {
+      "Score": 0.9992880821228027,
+      "Type": "PERSON",
+      "Text": "Lance Stephenson",
+      "BeginOffset": 3091,
+      "EndOffset": 3107
+    },
+    {
+      "Score": 0.9997715353965759,
+      "Type": "PERSON",
+      "Text": "LeBron James",
+      "BeginOffset": 3109,
+      "EndOffset": 3121
+    },
+    {
+      "Score": 0.9998763203620911,
+      "Type": "PERSON",
+      "Text": "Kyle Kuzma",
+      "BeginOffset": 3123,
+      "EndOffset": 3133
+    },
+    {
+      "Score": 0.9998061656951904,
+      "Type": "PERSON",
+      "Text": "Rajon\n   Rondo",
+      "BeginOffset": 3135,
+      "EndOffset": 3149
+    },
+    {
+      "Score": 0.9951930642127991,
+      "Type": "PERSON",
+      "Text": "Tyson Chandler",
+      "BeginOffset": 3154,
+      "EndOffset": 3168
+    },
+    {
+      "Score": 0.9989670515060425,
+      "Type": "ORGANIZATION",
+      "Text": "Los Angeles Lakers",
+      "BeginOffset": 3176,
+      "EndOffset": 3194
+    },
+    {
+      "Score": 0.9129825830459595,
+      "Type": "QUANTITY",
+      "Text": "104",
+      "BeginOffset": 3223,
+      "EndOffset": 3226
+    },
+    {
+      "Score": 0.8963841795921326,
+      "Type": "QUANTITY",
+      "Text": "101",
+      "BeginOffset": 3227,
+      "EndOffset": 3230
+    },
+    {
+      "Score": 0.9818256497383118,
+      "Type": "ORGANIZATION",
+      "Text": "Portland Trail Blazers",
+      "BeginOffset": 3243,
+      "EndOffset": 3265
+    },
+    {
+      "Score": 0.9342027306556702,
+      "Type": "LOCATION",
+      "Text": "Staples Center",
+      "BeginOffset": 3269,
+      "EndOffset": 3283
+    },
+    {
+      "Score": 0.6951826810836792,
+      "Type": "ORGANIZATION",
+      "Text": "Glossier",
+      "BeginOffset": 3314,
+      "EndOffset": 3322
+    },
+    {
+      "Score": 0.902337908744812,
+      "Type": "ORGANIZATION",
+      "Text": "Glossier",
+      "BeginOffset": 3388,
+      "EndOffset": 3396
+    },
+    {
+      "Score": 0.9976561069488525,
+      "Type": "ORGANIZATION",
+      "Text": "Congress",
+      "BeginOffset": 3426,
+      "EndOffset": 3434
+    },
+    {
+      "Score": 0.9848041534423828,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3452,
+      "EndOffset": 3457
+    },
+    {
+      "Score": 0.8987389206886292,
+      "Type": "LOCATION",
+      "Text": "Trump Tower",
+      "BeginOffset": 3489,
+      "EndOffset": 3500
+    },
+    {
+      "Score": 0.997851550579071,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 3504,
+      "EndOffset": 3512
+    },
+    {
+      "Score": 0.9988731741905212,
+      "Type": "DATE",
+      "Text": "2016",
+      "BeginOffset": 3516,
+      "EndOffset": 3520
+    },
+    {
+      "Score": 0.9988058805465698,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3541,
+      "EndOffset": 3546
+    },
+    {
+      "Score": 0.8992199301719666,
+      "Type": "PERSON",
+      "Text": "President Donald Trump",
+      "BeginOffset": 3577,
+      "EndOffset": 3599
+    },
+    {
+      "Score": 0.9417865872383118,
+      "Type": "EVENT",
+      "Text": "Conservative Political Action Conference",
+      "BeginOffset": 3607,
+      "EndOffset": 3647
+    },
+    {
+      "Score": 0.959954559803009,
+      "Type": "PERSON",
+      "Text": "Kavanaugh",
+      "BeginOffset": 3668,
+      "EndOffset": 3677
+    },
+    {
+      "Score": 0.9569074511528015,
+      "Type": "ORGANIZATION",
+      "Text": "GMU\n   Democrats",
+      "BeginOffset": 3690,
+      "EndOffset": 3706
+    },
+    {
+      "Score": 0.9973723888397217,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3720,
+      "EndOffset": 3725
+    },
+    {
+      "Score": 0.9789000749588013,
+      "Type": "PERSON",
+      "Text": "President Donald Trump",
+      "BeginOffset": 3743,
+      "EndOffset": 3765
+    },
+    {
+      "Score": 0.51289963722229,
+      "Type": "LOCATION",
+      "Text": "Calexico",
+      "BeginOffset": 3792,
+      "EndOffset": 3800
+    },
+    {
+      "Score": 0.9993833303451538,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 3802,
+      "EndOffset": 3812
+    },
+    {
+      "Score": 0.7411826848983765,
+      "Type": "OTHER",
+      "Text": "Americans",
+      "BeginOffset": 3823,
+      "EndOffset": 3832
+    },
+    {
+      "Score": 0.9991686344146729,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3837,
+      "EndOffset": 3842
+    },
+    {
+      "Score": 0.9952774047851562,
+      "Type": "PERSON",
+      "Text": "Bob Dylan",
+      "BeginOffset": 3938,
+      "EndOffset": 3947
+    },
+    {
+      "Score": 0.9708759784698486,
+      "Type": "QUANTITY",
+      "Text": "50 states",
+      "BeginOffset": 3989,
+      "EndOffset": 3998
+    },
+    {
+      "Score": 0.9990758299827576,
+      "Type": "PERSON",
+      "Text": "Bob Dylan",
+      "BeginOffset": 4002,
+      "EndOffset": 4011
+    },
+    {
+      "Score": 0.7432942390441895,
+      "Type": "LOCATION",
+      "Text": "Parkland",
+      "BeginOffset": 4061,
+      "EndOffset": 4069
+    },
+    {
+      "Score": 0.9965292811393738,
+      "Type": "PERSON",
+      "Text": "Alaina Petty",
+      "BeginOffset": 4112,
+      "EndOffset": 4124
+    },
+    {
+      "Score": 0.9743251204490662,
+      "Type": "LOCATION",
+      "Text": "Parkland, Florida",
+      "BeginOffset": 4128,
+      "EndOffset": 4145
+    },
+    {
+      "Score": 0.9991599321365356,
+      "Type": "DATE",
+      "Text": "May 2016",
+      "BeginOffset": 4150,
+      "EndOffset": 4158
+    },
+    {
+      "Score": 0.8431893587112427,
+      "Type": "TITLE",
+      "Text": "The Checklist",
+      "BeginOffset": 4177,
+      "EndOffset": 4190
+    },
+    {
+      "Score": 0.9731767177581787,
+      "Type": "PERSON",
+      "Text": "Gray",
+      "BeginOffset": 4203,
+      "EndOffset": 4207
+    }
+  ]
+}

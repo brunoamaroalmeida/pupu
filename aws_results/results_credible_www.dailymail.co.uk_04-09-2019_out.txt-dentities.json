@@ -1,0 +1,844 @@
+{
+  "Entities": [
+    {
+      "Score": 0.44006043672561646,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 231,
+      "EndOffset": 233
+    },
+    {
+      "Score": 0.9907755255699158,
+      "Type": "DATE",
+      "Text": "Tuesday, Apr 9th 2019",
+      "BeginOffset": 286,
+      "EndOffset": 307
+    },
+    {
+      "Score": 0.477809876203537,
+      "Type": "DATE",
+      "Text": "40",
+      "BeginOffset": 308,
+      "EndOffset": 310
+    },
+    {
+      "Score": 0.9523431062698364,
+      "Type": "DATE",
+      "Text": "8PM",
+      "BeginOffset": 312,
+      "EndOffset": 315
+    },
+    {
+      "Score": 0.6407440900802612,
+      "Type": "QUANTITY",
+      "Text": "2°C",
+      "BeginOffset": 316,
+      "EndOffset": 319
+    },
+    {
+      "Score": 0.6872742176055908,
+      "Type": "QUANTITY",
+      "Text": "11PM",
+      "BeginOffset": 320,
+      "EndOffset": 324
+    },
+    {
+      "Score": 0.7177289128303528,
+      "Type": "QUANTITY",
+      "Text": "1°",
+      "BeginOffset": 325,
+      "EndOffset": 327
+    },
+    {
+      "Score": 0.9386758804321289,
+      "Type": "QUANTITY",
+      "Text": "5-Day",
+      "BeginOffset": 329,
+      "EndOffset": 334
+    },
+    {
+      "Score": 0.6783761978149414,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 345,
+      "EndOffset": 347
+    },
+    {
+      "Score": 0.9572380781173706,
+      "Type": "QUANTITY",
+      "Text": "FIVE-YEAR",
+      "BeginOffset": 395,
+      "EndOffset": 404
+    },
+    {
+      "Score": 0.9569509625434875,
+      "Type": "QUANTITY",
+      "Text": "33ft",
+      "BeginOffset": 456,
+      "EndOffset": 460
+    },
+    {
+      "Score": 0.5798125267028809,
+      "Type": "QUANTITY",
+      "Text": "43",
+      "BeginOffset": 539,
+      "EndOffset": 541
+    },
+    {
+      "Score": 0.9908910393714905,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 557,
+      "EndOffset": 559
+    },
+    {
+      "Score": 0.9595243334770203,
+      "Type": "QUANTITY",
+      "Text": "33ft",
+      "BeginOffset": 579,
+      "EndOffset": 583
+    },
+    {
+      "Score": 0.9897247552871704,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 644,
+      "EndOffset": 646
+    },
+    {
+      "Score": 0.9642837643623352,
+      "Type": "QUANTITY",
+      "Text": "33ft",
+      "BeginOffset": 666,
+      "EndOffset": 670
+    },
+    {
+      "Score": 0.8757672905921936,
+      "Type": "PERSON",
+      "Text": "Titi",
+      "BeginOffset": 726,
+      "EndOffset": 730
+    },
+    {
+      "Score": 0.9828628897666931,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 732,
+      "EndOffset": 734
+    },
+    {
+      "Score": 0.9893151521682739,
+      "Type": "PERSON",
+      "Text": "Stewart",
+      "BeginOffset": 815,
+      "EndOffset": 822
+    },
+    {
+      "Score": 0.9995570778846741,
+      "Type": "PERSON",
+      "Text": "Linda Shankland",
+      "BeginOffset": 827,
+      "EndOffset": 842
+    },
+    {
+      "Score": 0.3897063434123993,
+      "Type": "ORGANIZATION",
+      "Text": "Shanklands",
+      "BeginOffset": 961,
+      "EndOffset": 971
+    },
+    {
+      "Score": 0.9997121691703796,
+      "Type": "PERSON",
+      "Text": "Titi",
+      "BeginOffset": 1013,
+      "EndOffset": 1017
+    },
+    {
+      "Score": 0.964045524597168,
+      "Type": "QUANTITY",
+      "Text": "33ft",
+      "BeginOffset": 1102,
+      "EndOffset": 1106
+    },
+    {
+      "Score": 0.9992327690124512,
+      "Type": "PERSON",
+      "Text": "Titi",
+      "BeginOffset": 1181,
+      "EndOffset": 1185
+    },
+    {
+      "Score": 0.9032934308052063,
+      "Type": "LOCATION",
+      "Text": "Thorntonhall, Lanarkshire",
+      "BeginOffset": 1243,
+      "EndOffset": 1268
+    },
+    {
+      "Score": 0.9620981812477112,
+      "Type": "QUANTITY",
+      "Text": "£500,000",
+      "BeginOffset": 1320,
+      "EndOffset": 1328
+    },
+    {
+      "Score": 0.7191483378410339,
+      "Type": "ORGANIZATION",
+      "Text": "Shanklands",
+      "BeginOffset": 1362,
+      "EndOffset": 1372
+    },
+    {
+      "Score": 0.9939091205596924,
+      "Type": "PERSON",
+      "Text": "Titi",
+      "BeginOffset": 1413,
+      "EndOffset": 1417
+    },
+    {
+      "Score": 0.8903016448020935,
+      "Type": "QUANTITY",
+      "Text": "12ft",
+      "BeginOffset": 1557,
+      "EndOffset": 1561
+    },
+    {
+      "Score": 0.9974082112312317,
+      "Type": "PERSON",
+      "Text": "Titi",
+      "BeginOffset": 1566,
+      "EndOffset": 1570
+    },
+    {
+      "Score": 0.9340980052947998,
+      "Type": "ORGANIZATION",
+      "Text": "Scottish Government",
+      "BeginOffset": 1590,
+      "EndOffset": 1609
+    },
+    {
+      "Score": 0.9985272884368896,
+      "Type": "PERSON",
+      "Text": "Titi",
+      "BeginOffset": 1734,
+      "EndOffset": 1738
+    },
+    {
+      "Score": 0.9538182020187378,
+      "Type": "QUANTITY",
+      "Text": "15ft",
+      "BeginOffset": 1806,
+      "EndOffset": 1810
+    },
+    {
+      "Score": 0.9848767518997192,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 1842,
+      "EndOffset": 1848
+    },
+    {
+      "Score": 0.8564767241477966,
+      "Type": "PERSON",
+      "Text": "Merkel",
+      "BeginOffset": 1853,
+      "EndOffset": 1859
+    },
+    {
+      "Score": 0.8276166915893555,
+      "Type": "PERSON",
+      "Text": "May",
+      "BeginOffset": 1870,
+      "EndOffset": 1873
+    },
+    {
+      "Score": 0.9564782381057739,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 1908,
+      "EndOffset": 1910
+    },
+    {
+      "Score": 0.9382277727127075,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1956,
+      "EndOffset": 1962
+    },
+    {
+      "Score": 0.8776265382766724,
+      "Type": "OTHER",
+      "Text": "German",
+      "BeginOffset": 1974,
+      "EndOffset": 1980
+    },
+    {
+      "Score": 0.9399915933609009,
+      "Type": "QUANTITY",
+      "Text": "308",
+      "BeginOffset": 1997,
+      "EndOffset": 2000
+    },
+    {
+      "Score": 0.6776527166366577,
+      "Type": "QUANTITY",
+      "Text": "174",
+      "BeginOffset": 2001,
+      "EndOffset": 2004
+    },
+    {
+      "Score": 0.4465691149234772,
+      "Type": "QUANTITY",
+      "Text": "SINGLE",
+      "BeginOffset": 2009,
+      "EndOffset": 2015
+    },
+    {
+      "Score": 0.4497803747653961,
+      "Type": "OTHER",
+      "Text": "4224087245973405374",
+      "BeginOffset": 2016,
+      "EndOffset": 2035
+    },
+    {
+      "Score": 0.9219760894775391,
+      "Type": "PERSON",
+      "Text": "May",
+      "BeginOffset": 2048,
+      "EndOffset": 2051
+    },
+    {
+      "Score": 0.8426566123962402,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 2052,
+      "EndOffset": 2057
+    },
+    {
+      "Score": 0.9897701740264893,
+      "Type": "LOCATION",
+      "Text": "Berlin",
+      "BeginOffset": 2066,
+      "EndOffset": 2072
+    },
+    {
+      "Score": 0.9977405667304993,
+      "Type": "PERSON",
+      "Text": "Angela Merkel",
+      "BeginOffset": 2080,
+      "EndOffset": 2093
+    },
+    {
+      "Score": 0.9681068658828735,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 2118,
+      "EndOffset": 2123
+    },
+    {
+      "Score": 0.9340503811836243,
+      "Type": "OTHER",
+      "Text": "Article 50",
+      "BeginOffset": 2146,
+      "EndOffset": 2156
+    },
+    {
+      "Score": 0.7398413419723511,
+      "Type": "DATE",
+      "Text": "this Friday",
+      "BeginOffset": 2177,
+      "EndOffset": 2188
+    },
+    {
+      "Score": 0.9992595911026001,
+      "Type": "DATE",
+      "Text": "June 30",
+      "BeginOffset": 2195,
+      "EndOffset": 2202
+    },
+    {
+      "Score": 0.6571928262710571,
+      "Type": "OTHER",
+      "Text": "German",
+      "BeginOffset": 2211,
+      "EndOffset": 2217
+    },
+    {
+      "Score": 0.8100861310958862,
+      "Type": "DATE",
+      "Text": "early 2020",
+      "BeginOffset": 2238,
+      "EndOffset": 2248
+    },
+    {
+      "Score": 0.7505850791931152,
+      "Type": "PERSON",
+      "Text": "Prime Minister",
+      "BeginOffset": 2280,
+      "EndOffset": 2294
+    },
+    {
+      "Score": 0.9980467557907104,
+      "Type": "LOCATION",
+      "Text": "Paris",
+      "BeginOffset": 2305,
+      "EndOffset": 2310
+    },
+    {
+      "Score": 0.9983993768692017,
+      "Type": "PERSON",
+      "Text": "Emmanuel Macron",
+      "BeginOffset": 2329,
+      "EndOffset": 2344
+    },
+    {
+      "Score": 0.6962007880210876,
+      "Type": "OTHER",
+      "Text": "French",
+      "BeginOffset": 2383,
+      "EndOffset": 2389
+    },
+    {
+      "Score": 0.8303478956222534,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 2467,
+      "EndOffset": 2474
+    },
+    {
+      "Score": 0.9752130508422852,
+      "Type": "EVENT",
+      "Text": "Christmas",
+      "BeginOffset": 2494,
+      "EndOffset": 2503
+    },
+    {
+      "Score": 0.8408411741256714,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 2551,
+      "EndOffset": 2558
+    },
+    {
+      "Score": 0.8830097913742065,
+      "Type": "QUANTITY",
+      "Text": "every three months",
+      "BeginOffset": 2571,
+      "EndOffset": 2589
+    },
+    {
+      "Score": 0.876006543636322,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 2656,
+      "EndOffset": 2658
+    },
+    {
+      "Score": 0.8451107144355774,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 2670,
+      "EndOffset": 2672
+    },
+    {
+      "Score": 0.9921789169311523,
+      "Type": "ORGANIZATION",
+      "Text": "ISIS",
+      "BeginOffset": 2698,
+      "EndOffset": 2702
+    },
+    {
+      "Score": 0.6352320909500122,
+      "Type": "OTHER",
+      "Text": "Yazidi",
+      "BeginOffset": 2746,
+      "EndOffset": 2752
+    },
+    {
+      "Score": 0.662303626537323,
+      "Type": "OTHER",
+      "Text": "Iraqi",
+      "BeginOffset": 2791,
+      "EndOffset": 2796
+    },
+    {
+      "Score": 0.7701348066329956,
+      "Type": "OTHER",
+      "Text": "German",
+      "BeginOffset": 2821,
+      "EndOffset": 2827
+    },
+    {
+      "Score": 0.944625198841095,
+      "Type": "PERSON",
+      "Text": "Amal\nClooney",
+      "BeginOffset": 2840,
+      "EndOffset": 2852
+    },
+    {
+      "Score": 0.9955638647079468,
+      "Type": "PERSON",
+      "Text": "Jennifer Wenisch",
+      "BeginOffset": 2920,
+      "EndOffset": 2936
+    },
+    {
+      "Score": 0.9894150495529175,
+      "Type": "QUANTITY",
+      "Text": "27",
+      "BeginOffset": 2938,
+      "EndOffset": 2940
+    },
+    {
+      "Score": 0.9229633212089539,
+      "Type": "QUANTITY",
+      "Text": "1.3k",
+      "BeginOffset": 3090,
+      "EndOffset": 3094
+    },
+    {
+      "Score": 0.991794764995575,
+      "Type": "ORGANIZATION",
+      "Text": "ISIS",
+      "BeginOffset": 3102,
+      "EndOffset": 3106
+    },
+    {
+      "Score": 0.9825960397720337,
+      "Type": "PERSON",
+      "Text": "Jude",
+      "BeginOffset": 3156,
+      "EndOffset": 3160
+    },
+    {
+      "Score": 0.9972707629203796,
+      "Type": "PERSON",
+      "Text": "Jodie",
+      "BeginOffset": 3216,
+      "EndOffset": 3221
+    },
+    {
+      "Score": 0.9981932640075684,
+      "Type": "PERSON",
+      "Text": "Ellen Comer",
+      "BeginOffset": 3256,
+      "EndOffset": 3267
+    },
+    {
+      "Score": 0.5218978524208069,
+      "Type": "QUANTITY",
+      "Text": "55",
+      "BeginOffset": 3276,
+      "EndOffset": 3278
+    },
+    {
+      "Score": 0.9886278510093689,
+      "Type": "PERSON",
+      "Text": "Jude",
+      "BeginOffset": 3279,
+      "EndOffset": 3283
+    },
+    {
+      "Score": 0.9973695278167725,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 3343,
+      "EndOffset": 3346
+    },
+    {
+      "Score": 0.9938471913337708,
+      "Type": "OTHER",
+      "Text": "911",
+      "BeginOffset": 3362,
+      "EndOffset": 3365
+    },
+    {
+      "Score": 0.9110496640205383,
+      "Type": "PERSON",
+      "Text": "Saint",
+      "BeginOffset": 3373,
+      "EndOffset": 3378
+    },
+    {
+      "Score": 0.9762957096099854,
+      "Type": "PERSON",
+      "Text": "Kardashian",
+      "BeginOffset": 3394,
+      "EndOffset": 3404
+    },
+    {
+      "Score": 0.578890323638916,
+      "Type": "PERSON",
+      "Text": "Emmerdale",
+      "BeginOffset": 3416,
+      "EndOffset": 3425
+    },
+    {
+      "Score": 0.9924136996269226,
+      "Type": "PERSON",
+      "Text": "Liam",
+      "BeginOffset": 3428,
+      "EndOffset": 3432
+    },
+    {
+      "Score": 0.9750352501869202,
+      "Type": "PERSON",
+      "Text": "Jo Fox",
+      "BeginOffset": 3458,
+      "EndOffset": 3464
+    },
+    {
+      "Score": 0.5164836645126343,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 3473,
+      "EndOffset": 3475
+    },
+    {
+      "Score": 0.9674487709999084,
+      "Type": "PERSON",
+      "Text": "Lily",
+      "BeginOffset": 3483,
+      "EndOffset": 3487
+    },
+    {
+      "Score": 0.8819613456726074,
+      "Type": "QUANTITY",
+      "Text": "30th birthday",
+      "BeginOffset": 3498,
+      "EndOffset": 3511
+    },
+    {
+      "Score": 0.805827796459198,
+      "Type": "PERSON",
+      "Text": "James",
+      "BeginOffset": 3524,
+      "EndOffset": 3529
+    },
+    {
+      "Score": 0.9972569346427917,
+      "Type": "PERSON",
+      "Text": "Jodie",
+      "BeginOffset": 3541,
+      "EndOffset": 3546
+    },
+    {
+      "Score": 0.9982395172119141,
+      "Type": "PERSON",
+      "Text": "Ellen Comer",
+      "BeginOffset": 3581,
+      "EndOffset": 3592
+    },
+    {
+      "Score": 0.6166579127311707,
+      "Type": "QUANTITY",
+      "Text": "60",
+      "BeginOffset": 3601,
+      "EndOffset": 3603
+    },
+    {
+      "Score": 0.9864858388900757,
+      "Type": "PERSON",
+      "Text": "Jude",
+      "BeginOffset": 3604,
+      "EndOffset": 3608
+    },
+    {
+      "Score": 0.9586726427078247,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 3684,
+      "EndOffset": 3690
+    },
+    {
+      "Score": 0.9905860424041748,
+      "Type": "QUANTITY",
+      "Text": "10 million",
+      "BeginOffset": 3712,
+      "EndOffset": 3722
+    },
+    {
+      "Score": 0.9733239412307739,
+      "Type": "DATE",
+      "Text": "2035",
+      "BeginOffset": 3726,
+      "EndOffset": 3730
+    },
+    {
+      "Score": 0.9122135043144226,
+      "Type": "DATE",
+      "Text": "next year",
+      "BeginOffset": 3769,
+      "EndOffset": 3778
+    },
+    {
+      "Score": 0.9148333668708801,
+      "Type": "QUANTITY",
+      "Text": "over nine million",
+      "BeginOffset": 3807,
+      "EndOffset": 3824
+    },
+    {
+      "Score": 0.9987138509750366,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 3835,
+      "EndOffset": 3841
+    },
+    {
+      "Score": 0.9985569715499878,
+      "Type": "QUANTITY",
+      "Text": "9.5million",
+      "BeginOffset": 3865,
+      "EndOffset": 3875
+    },
+    {
+      "Score": 0.987014651298523,
+      "Type": "DATE",
+      "Text": "2026",
+      "BeginOffset": 3879,
+      "EndOffset": 3883
+    },
+    {
+      "Score": 0.9570803642272949,
+      "Type": "QUANTITY",
+      "Text": "ten million",
+      "BeginOffset": 3909,
+      "EndOffset": 3920
+    },
+    {
+      "Score": 0.9820783734321594,
+      "Type": "DATE",
+      "Text": "2035",
+      "BeginOffset": 3927,
+      "EndOffset": 3931
+    },
+    {
+      "Score": 0.9937297105789185,
+      "Type": "ORGANIZATION",
+      "Text": "Office for National Statistics",
+      "BeginOffset": 3937,
+      "EndOffset": 3967
+    },
+    {
+      "Score": 0.9925304651260376,
+      "Type": "PERSON",
+      "Text": "Mike Ashley",
+      "BeginOffset": 3978,
+      "EndOffset": 3989
+    },
+    {
+      "Score": 0.511995792388916,
+      "Type": "ORGANIZATION",
+      "Text": "Debenhams",
+      "BeginOffset": 3997,
+      "EndOffset": 4006
+    },
+    {
+      "Score": 0.9342496991157532,
+      "Type": "QUANTITY",
+      "Text": "£200m",
+      "BeginOffset": 4109,
+      "EndOffset": 4114
+    },
+    {
+      "Score": 0.7826130390167236,
+      "Type": "ORGANIZATION",
+      "Text": "Debenhams",
+      "BeginOffset": 4118,
+      "EndOffset": 4127
+    },
+    {
+      "Score": 0.9966815114021301,
+      "Type": "PERSON",
+      "Text": "Mike Ashley",
+      "BeginOffset": 4167,
+      "EndOffset": 4178
+    },
+    {
+      "Score": 0.9971697926521301,
+      "Type": "QUANTITY",
+      "Text": "£200million",
+      "BeginOffset": 4190,
+      "EndOffset": 4201
+    },
+    {
+      "Score": 0.8003608584403992,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 4211,
+      "EndOffset": 4213
+    },
+    {
+      "Score": 0.998345136642456,
+      "Type": "PERSON",
+      "Text": "Ashley",
+      "BeginOffset": 4224,
+      "EndOffset": 4230
+    },
+    {
+      "Score": 0.5392583012580872,
+      "Type": "QUANTITY",
+      "Text": "68",
+      "BeginOffset": 4260,
+      "EndOffset": 4262
+    },
+    {
+      "Score": 0.8980665802955627,
+      "Type": "ORGANIZATION",
+      "Text": "Chelsea",
+      "BeginOffset": 4263,
+      "EndOffset": 4270
+    },
+    {
+      "Score": 0.9784204959869385,
+      "Type": "QUANTITY",
+      "Text": "£4m",
+      "BeginOffset": 4411,
+      "EndOffset": 4414
+    },
+    {
+      "Score": 0.9933291077613831,
+      "Type": "QUANTITY",
+      "Text": "£24k",
+      "BeginOffset": 4443,
+      "EndOffset": 4447
+    },
+    {
+      "Score": 0.9847453236579895,
+      "Type": "PERSON",
+      "Text": "Angus Murray",
+      "BeginOffset": 4467,
+      "EndOffset": 4479
+    },
+    {
+      "Score": 0.8437304496765137,
+      "Type": "ORGANIZATION",
+      "Text": "Chelsea",
+      "BeginOffset": 4485,
+      "EndOffset": 4492
+    },
+    {
+      "Score": 0.9985318779945374,
+      "Type": "PERSON",
+      "Text": "Jonathan Taylor",
+      "BeginOffset": 4498,
+      "EndOffset": 4513
+    },
+    {
+      "Score": 0.5772667527198792,
+      "Type": "QUANTITY",
+      "Text": "71",
+      "BeginOffset": 4618,
+      "EndOffset": 4620
+    },
+    {
+      "Score": 0.8503252267837524,
+      "Type": "QUANTITY",
+      "Text": "22 shares",
+      "BeginOffset": 4621,
+      "EndOffset": 4630
+    }
+  ]
+}

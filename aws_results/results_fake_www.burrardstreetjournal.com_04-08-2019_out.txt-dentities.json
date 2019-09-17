@@ -1,0 +1,1299 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8677809238433838,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 21,
+      "EndOffset": 43
+    },
+    {
+      "Score": 0.8424501419067383,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street\n   Journal",
+      "BeginOffset": 54,
+      "EndOffset": 79
+    },
+    {
+      "Score": 0.6897162199020386,
+      "Type": "OTHER",
+      "Text": "1607775099485632",
+      "BeginOffset": 132,
+      "EndOffset": 148
+    },
+    {
+      "Score": 0.783952534198761,
+      "Type": "LOCATION",
+      "Text": "Vancouver",
+      "BeginOffset": 205,
+      "EndOffset": 214
+    },
+    {
+      "Score": 0.6386200189590454,
+      "Type": "LOCATION",
+      "Text": "Burrard Street Journal Burrard Street",
+      "BeginOffset": 219,
+      "EndOffset": 256
+    },
+    {
+      "Score": 0.8518095016479492,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 272,
+      "EndOffset": 294
+    },
+    {
+      "Score": 0.8405202627182007,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 299,
+      "EndOffset": 321
+    },
+    {
+      "Score": 0.956912100315094,
+      "Type": "LOCATION",
+      "Text": "Vancouver",
+      "BeginOffset": 354,
+      "EndOffset": 363
+    },
+    {
+      "Score": 0.8331037163734436,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 368,
+      "EndOffset": 376
+    },
+    {
+      "Score": 0.8203911185264587,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 429,
+      "EndOffset": 434
+    },
+    {
+      "Score": 0.41194507479667664,
+      "Type": "QUANTITY",
+      "Text": "44",
+      "BeginOffset": 442,
+      "EndOffset": 444
+    },
+    {
+      "Score": 0.984268307685852,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 445,
+      "EndOffset": 450
+    },
+    {
+      "Score": 0.7618126273155212,
+      "Type": "QUANTITY",
+      "Text": "One Big April Fools",
+      "BeginOffset": 481,
+      "EndOffset": 500
+    },
+    {
+      "Score": 0.715800940990448,
+      "Type": "QUANTITY",
+      "Text": "45",
+      "BeginOffset": 502,
+      "EndOffset": 504
+    },
+    {
+      "Score": 0.9852465391159058,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 505,
+      "EndOffset": 510
+    },
+    {
+      "Score": 0.9059038758277893,
+      "Type": "LOCATION",
+      "Text": "North Korean",
+      "BeginOffset": 516,
+      "EndOffset": 528
+    },
+    {
+      "Score": 0.8816251754760742,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 547,
+      "EndOffset": 550
+    },
+    {
+      "Score": 0.43488773703575134,
+      "Type": "QUANTITY",
+      "Text": "46",
+      "BeginOffset": 576,
+      "EndOffset": 578
+    },
+    {
+      "Score": 0.9982990622520447,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 619,
+      "EndOffset": 624
+    },
+    {
+      "Score": 0.7087709903717041,
+      "Type": "QUANTITY",
+      "Text": "47",
+      "BeginOffset": 650,
+      "EndOffset": 652
+    },
+    {
+      "Score": 0.9947999715805054,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 653,
+      "EndOffset": 658
+    },
+    {
+      "Score": 0.5419661998748779,
+      "Type": "LOCATION",
+      "Text": "Canadian",
+      "BeginOffset": 668,
+      "EndOffset": 676
+    },
+    {
+      "Score": 0.9556915163993835,
+      "Type": "QUANTITY",
+      "Text": "90%",
+      "BeginOffset": 709,
+      "EndOffset": 712
+    },
+    {
+      "Score": 0.6241664886474609,
+      "Type": "OTHER",
+      "Text": "Canadians",
+      "BeginOffset": 716,
+      "EndOffset": 725
+    },
+    {
+      "Score": 0.6561538577079773,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 730,
+      "EndOffset": 732
+    },
+    {
+      "Score": 0.8638879060745239,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 733,
+      "EndOffset": 741
+    },
+    {
+      "Score": 0.7563716173171997,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 794,
+      "EndOffset": 799
+    },
+    {
+      "Score": 0.9773225784301758,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 811,
+      "EndOffset": 819
+    },
+    {
+      "Score": 0.7518956661224365,
+      "Type": "QUANTITY",
+      "Text": "50",
+      "BeginOffset": 843,
+      "EndOffset": 845
+    },
+    {
+      "Score": 0.8587859272956848,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 846,
+      "EndOffset": 854
+    },
+    {
+      "Score": 0.9080994725227356,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 907,
+      "EndOffset": 912
+    },
+    {
+      "Score": 0.767044186592102,
+      "Type": "QUANTITY",
+      "Text": "51",
+      "BeginOffset": 923,
+      "EndOffset": 925
+    },
+    {
+      "Score": 0.8711581826210022,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 930,
+      "EndOffset": 952
+    },
+    {
+      "Score": 0.9988545179367065,
+      "Type": "DATE",
+      "Text": "Tuesday, April 2, 2019",
+      "BeginOffset": 955,
+      "EndOffset": 977
+    },
+    {
+      "Score": 0.970370352268219,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 985,
+      "EndOffset": 990
+    },
+    {
+      "Score": 0.724858820438385,
+      "Type": "QUANTITY",
+      "Text": "One Big April Fools",
+      "BeginOffset": 1021,
+      "EndOffset": 1040
+    },
+    {
+      "Score": 0.9337486028671265,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1043,
+      "EndOffset": 1048
+    },
+    {
+      "Score": 0.5026301145553589,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 1050,
+      "EndOffset": 1052
+    },
+    {
+      "Score": 0.9915295839309692,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1053,
+      "EndOffset": 1058
+    },
+    {
+      "Score": 0.7739660143852234,
+      "Type": "QUANTITY",
+      "Text": "One Big April Fools",
+      "BeginOffset": 1089,
+      "EndOffset": 1108
+    },
+    {
+      "Score": 0.6997187733650208,
+      "Type": "QUANTITY",
+      "Text": "55",
+      "BeginOffset": 1113,
+      "EndOffset": 1115
+    },
+    {
+      "Score": 0.9985504150390625,
+      "Type": "PERSON",
+      "Text": "Mike Pence",
+      "BeginOffset": 1116,
+      "EndOffset": 1126
+    },
+    {
+      "Score": 0.9508001804351807,
+      "Type": "QUANTITY",
+      "Text": "4-Hour",
+      "BeginOffset": 1133,
+      "EndOffset": 1139
+    },
+    {
+      "Score": 0.43769022822380066,
+      "Type": "OTHER",
+      "Text": "Irish",
+      "BeginOffset": 1161,
+      "EndOffset": 1166
+    },
+    {
+      "Score": 0.5395747423171997,
+      "Type": "QUANTITY",
+      "Text": "57",
+      "BeginOffset": 1185,
+      "EndOffset": 1187
+    },
+    {
+      "Score": 0.99852055311203,
+      "Type": "PERSON",
+      "Text": "Mike Pence",
+      "BeginOffset": 1188,
+      "EndOffset": 1198
+    },
+    {
+      "Score": 0.9484683275222778,
+      "Type": "QUANTITY",
+      "Text": "4-Hour",
+      "BeginOffset": 1205,
+      "EndOffset": 1211
+    },
+    {
+      "Score": 0.4824007749557495,
+      "Type": "OTHER",
+      "Text": "Irish",
+      "BeginOffset": 1233,
+      "EndOffset": 1238
+    },
+    {
+      "Score": 0.6037110686302185,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 1260,
+      "EndOffset": 1262
+    },
+    {
+      "Score": 0.9323723316192627,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1263,
+      "EndOffset": 1268
+    },
+    {
+      "Score": 0.8739819526672363,
+      "Type": "LOCATION",
+      "Text": "North Korean",
+      "BeginOffset": 1284,
+      "EndOffset": 1296
+    },
+    {
+      "Score": 0.7632714509963989,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 1315,
+      "EndOffset": 1318
+    },
+    {
+      "Score": 0.6675761938095093,
+      "Type": "QUANTITY",
+      "Text": "60",
+      "BeginOffset": 1329,
+      "EndOffset": 1331
+    },
+    {
+      "Score": 0.9930898547172546,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1332,
+      "EndOffset": 1337
+    },
+    {
+      "Score": 0.8760170936584473,
+      "Type": "LOCATION",
+      "Text": "North Korean",
+      "BeginOffset": 1343,
+      "EndOffset": 1355
+    },
+    {
+      "Score": 0.8867031335830688,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 1374,
+      "EndOffset": 1377
+    },
+    {
+      "Score": 0.4502459168434143,
+      "Type": "QUANTITY",
+      "Text": "61",
+      "BeginOffset": 1406,
+      "EndOffset": 1408
+    },
+    {
+      "Score": 0.597065806388855,
+      "Type": "PERSON",
+      "Text": "Maroon 5",
+      "BeginOffset": 1428,
+      "EndOffset": 1436
+    },
+    {
+      "Score": 0.8827136754989624,
+      "Type": "ORGANIZATION",
+      "Text": "Patriots",
+      "BeginOffset": 1438,
+      "EndOffset": 1446
+    },
+    {
+      "Score": 0.9302112460136414,
+      "Type": "ORGANIZATION",
+      "Text": "Rams",
+      "BeginOffset": 1448,
+      "EndOffset": 1452
+    },
+    {
+      "Score": 0.9660256505012512,
+      "Type": "EVENT",
+      "Text": "Super\n   Bowl",
+      "BeginOffset": 1469,
+      "EndOffset": 1482
+    },
+    {
+      "Score": 0.8016055822372437,
+      "Type": "QUANTITY",
+      "Text": "100m Signatures",
+      "BeginOffset": 1497,
+      "EndOffset": 1512
+    },
+    {
+      "Score": 0.9839046001434326,
+      "Type": "QUANTITY",
+      "Text": "12 Hours",
+      "BeginOffset": 1516,
+      "EndOffset": 1524
+    },
+    {
+      "Score": 0.8252066969871521,
+      "Type": "QUANTITY",
+      "Text": "63",
+      "BeginOffset": 1526,
+      "EndOffset": 1528
+    },
+    {
+      "Score": 0.5573387145996094,
+      "Type": "ORGANIZATION",
+      "Text": "Maroon 5",
+      "BeginOffset": 1548,
+      "EndOffset": 1556
+    },
+    {
+      "Score": 0.9988722205162048,
+      "Type": "ORGANIZATION",
+      "Text": "Patriots",
+      "BeginOffset": 1558,
+      "EndOffset": 1566
+    },
+    {
+      "Score": 0.9778295159339905,
+      "Type": "ORGANIZATION",
+      "Text": "Rams",
+      "BeginOffset": 1568,
+      "EndOffset": 1572
+    },
+    {
+      "Score": 0.9615911245346069,
+      "Type": "EVENT",
+      "Text": "Super Bowl",
+      "BeginOffset": 1589,
+      "EndOffset": 1599
+    },
+    {
+      "Score": 0.8101115226745605,
+      "Type": "QUANTITY",
+      "Text": "100m Signatures",
+      "BeginOffset": 1614,
+      "EndOffset": 1629
+    },
+    {
+      "Score": 0.9848315119743347,
+      "Type": "QUANTITY",
+      "Text": "12 Hours",
+      "BeginOffset": 1633,
+      "EndOffset": 1641
+    },
+    {
+      "Score": 0.8307384252548218,
+      "Type": "QUANTITY",
+      "Text": "82",
+      "BeginOffset": 1646,
+      "EndOffset": 1648
+    },
+    {
+      "Score": 0.8385422825813293,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 1649,
+      "EndOffset": 1657
+    },
+    {
+      "Score": 0.7196411490440369,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 1710,
+      "EndOffset": 1715
+    },
+    {
+      "Score": 0.9749204516410828,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 1727,
+      "EndOffset": 1735
+    },
+    {
+      "Score": 0.7361714839935303,
+      "Type": "QUANTITY",
+      "Text": "84",
+      "BeginOffset": 1759,
+      "EndOffset": 1761
+    },
+    {
+      "Score": 0.8416317701339722,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 1762,
+      "EndOffset": 1770
+    },
+    {
+      "Score": 0.9717875123023987,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 1823,
+      "EndOffset": 1828
+    },
+    {
+      "Score": 0.5762576460838318,
+      "Type": "QUANTITY",
+      "Text": "85",
+      "BeginOffset": 1836,
+      "EndOffset": 1838
+    },
+    {
+      "Score": 0.9192771911621094,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 1843,
+      "EndOffset": 1865
+    },
+    {
+      "Score": 0.9992989897727966,
+      "Type": "DATE",
+      "Text": "Tuesday, April 2, 2019",
+      "BeginOffset": 1868,
+      "EndOffset": 1890
+    },
+    {
+      "Score": 0.9080401062965393,
+      "Type": "EVENT",
+      "Text": "April Fools Day 2019",
+      "BeginOffset": 1924,
+      "EndOffset": 1944
+    },
+    {
+      "Score": 0.9758380055427551,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 1951,
+      "EndOffset": 1959
+    },
+    {
+      "Score": 0.6395455598831177,
+      "Type": "QUANTITY",
+      "Text": "87",
+      "BeginOffset": 2030,
+      "EndOffset": 2032
+    },
+    {
+      "Score": 0.9829283952713013,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2033,
+      "EndOffset": 2038
+    },
+    {
+      "Score": 0.7415416836738586,
+      "Type": "QUANTITY",
+      "Text": "One Big April Fools",
+      "BeginOffset": 2069,
+      "EndOffset": 2088
+    },
+    {
+      "Score": 0.921383798122406,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2091,
+      "EndOffset": 2096
+    },
+    {
+      "Score": 0.9911662936210632,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2101,
+      "EndOffset": 2106
+    },
+    {
+      "Score": 0.7754506468772888,
+      "Type": "QUANTITY",
+      "Text": "One Big April Fools",
+      "BeginOffset": 2137,
+      "EndOffset": 2156
+    },
+    {
+      "Score": 0.6725800633430481,
+      "Type": "QUANTITY",
+      "Text": "89",
+      "BeginOffset": 2161,
+      "EndOffset": 2163
+    },
+    {
+      "Score": 0.9985816478729248,
+      "Type": "PERSON",
+      "Text": "Mike Pence",
+      "BeginOffset": 2164,
+      "EndOffset": 2174
+    },
+    {
+      "Score": 0.9489020109176636,
+      "Type": "QUANTITY",
+      "Text": "4-Hour",
+      "BeginOffset": 2181,
+      "EndOffset": 2187
+    },
+    {
+      "Score": 0.44795042276382446,
+      "Type": "OTHER",
+      "Text": "Irish",
+      "BeginOffset": 2209,
+      "EndOffset": 2214
+    },
+    {
+      "Score": 0.800233781337738,
+      "Type": "QUANTITY",
+      "Text": "90",
+      "BeginOffset": 2233,
+      "EndOffset": 2235
+    },
+    {
+      "Score": 0.9984918236732483,
+      "Type": "PERSON",
+      "Text": "Mike Pence",
+      "BeginOffset": 2236,
+      "EndOffset": 2246
+    },
+    {
+      "Score": 0.9476193785667419,
+      "Type": "QUANTITY",
+      "Text": "4-Hour",
+      "BeginOffset": 2253,
+      "EndOffset": 2259
+    },
+    {
+      "Score": 0.4849820137023926,
+      "Type": "OTHER",
+      "Text": "Irish",
+      "BeginOffset": 2281,
+      "EndOffset": 2286
+    },
+    {
+      "Score": 0.6526879668235779,
+      "Type": "QUANTITY",
+      "Text": "91",
+      "BeginOffset": 2308,
+      "EndOffset": 2310
+    },
+    {
+      "Score": 0.9331498146057129,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2311,
+      "EndOffset": 2316
+    },
+    {
+      "Score": 0.8737048506736755,
+      "Type": "LOCATION",
+      "Text": "North Korean",
+      "BeginOffset": 2332,
+      "EndOffset": 2344
+    },
+    {
+      "Score": 0.7858905792236328,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 2363,
+      "EndOffset": 2366
+    },
+    {
+      "Score": 0.6128891110420227,
+      "Type": "QUANTITY",
+      "Text": "92",
+      "BeginOffset": 2377,
+      "EndOffset": 2379
+    },
+    {
+      "Score": 0.9907235503196716,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2380,
+      "EndOffset": 2385
+    },
+    {
+      "Score": 0.8759217262268066,
+      "Type": "LOCATION",
+      "Text": "North Korean",
+      "BeginOffset": 2391,
+      "EndOffset": 2403
+    },
+    {
+      "Score": 0.8763596415519714,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 2422,
+      "EndOffset": 2425
+    },
+    {
+      "Score": 0.5709220767021179,
+      "Type": "PERSON",
+      "Text": "Maroon 5",
+      "BeginOffset": 2476,
+      "EndOffset": 2484
+    },
+    {
+      "Score": 0.8117302656173706,
+      "Type": "ORGANIZATION",
+      "Text": "Patriots",
+      "BeginOffset": 2486,
+      "EndOffset": 2494
+    },
+    {
+      "Score": 0.9258641600608826,
+      "Type": "ORGANIZATION",
+      "Text": "Rams",
+      "BeginOffset": 2496,
+      "EndOffset": 2500
+    },
+    {
+      "Score": 0.9668558239936829,
+      "Type": "EVENT",
+      "Text": "Super\n   Bowl",
+      "BeginOffset": 2517,
+      "EndOffset": 2530
+    },
+    {
+      "Score": 0.7988522052764893,
+      "Type": "QUANTITY",
+      "Text": "100m Signatures",
+      "BeginOffset": 2545,
+      "EndOffset": 2560
+    },
+    {
+      "Score": 0.9849491119384766,
+      "Type": "QUANTITY",
+      "Text": "12 Hours",
+      "BeginOffset": 2564,
+      "EndOffset": 2572
+    },
+    {
+      "Score": 0.8877748847007751,
+      "Type": "QUANTITY",
+      "Text": "94",
+      "BeginOffset": 2574,
+      "EndOffset": 2576
+    },
+    {
+      "Score": 0.5601101517677307,
+      "Type": "ORGANIZATION",
+      "Text": "Maroon 5",
+      "BeginOffset": 2596,
+      "EndOffset": 2604
+    },
+    {
+      "Score": 0.9988779425621033,
+      "Type": "ORGANIZATION",
+      "Text": "Patriots",
+      "BeginOffset": 2606,
+      "EndOffset": 2614
+    },
+    {
+      "Score": 0.9778357148170471,
+      "Type": "ORGANIZATION",
+      "Text": "Rams",
+      "BeginOffset": 2616,
+      "EndOffset": 2620
+    },
+    {
+      "Score": 0.9905532002449036,
+      "Type": "EVENT",
+      "Text": "Super Bowl",
+      "BeginOffset": 2637,
+      "EndOffset": 2647
+    },
+    {
+      "Score": 0.5326951742172241,
+      "Type": "QUANTITY",
+      "Text": "113",
+      "BeginOffset": 2652,
+      "EndOffset": 2655
+    },
+    {
+      "Score": 0.8928428292274475,
+      "Type": "ORGANIZATION",
+      "Text": "YVR Outlet Mall",
+      "BeginOffset": 2656,
+      "EndOffset": 2671
+    },
+    {
+      "Score": 0.742215633392334,
+      "Type": "LOCATION",
+      "Text": "Richmond",
+      "BeginOffset": 2718,
+      "EndOffset": 2726
+    },
+    {
+      "Score": 0.7873666286468506,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 2740,
+      "EndOffset": 2762
+    },
+    {
+      "Score": 0.9975542426109314,
+      "Type": "DATE",
+      "Text": "Friday, October 23, 2015",
+      "BeginOffset": 2765,
+      "EndOffset": 2789
+    },
+    {
+      "Score": 0.9758350849151611,
+      "Type": "LOCATION",
+      "Text": "Canada",
+      "BeginOffset": 2821,
+      "EndOffset": 2827
+    },
+    {
+      "Score": 0.9889171123504639,
+      "Type": "LOCATION",
+      "Text": "Vancouver",
+      "BeginOffset": 2832,
+      "EndOffset": 2841
+    },
+    {
+      "Score": 0.756023645401001,
+      "Type": "QUANTITY",
+      "Text": "first rat",
+      "BeginOffset": 2844,
+      "EndOffset": 2853
+    },
+    {
+      "Score": 0.5214435458183289,
+      "Type": "QUANTITY",
+      "Text": "116",
+      "BeginOffset": 2861,
+      "EndOffset": 2864
+    },
+    {
+      "Score": 0.9297657608985901,
+      "Type": "LOCATION",
+      "Text": "Vancouver",
+      "BeginOffset": 2865,
+      "EndOffset": 2874
+    },
+    {
+      "Score": 0.7118040323257446,
+      "Type": "QUANTITY",
+      "Text": "First Rat Café",
+      "BeginOffset": 2877,
+      "EndOffset": 2891
+    },
+    {
+      "Score": 0.7911960482597351,
+      "Type": "QUANTITY",
+      "Text": "117",
+      "BeginOffset": 2917,
+      "EndOffset": 2920
+    },
+    {
+      "Score": 0.8604086637496948,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 2925,
+      "EndOffset": 2947
+    },
+    {
+      "Score": 0.9970898032188416,
+      "Type": "DATE",
+      "Text": "Thursday, August 4, 2016",
+      "BeginOffset": 2950,
+      "EndOffset": 2974
+    },
+    {
+      "Score": 0.9351382851600647,
+      "Type": "LOCATION",
+      "Text": "North American",
+      "BeginOffset": 3104,
+      "EndOffset": 3118
+    },
+    {
+      "Score": 0.4028967618942261,
+      "Type": "QUANTITY",
+      "Text": "120",
+      "BeginOffset": 3123,
+      "EndOffset": 3126
+    },
+    {
+      "Score": 0.589865505695343,
+      "Type": "LOCATION",
+      "Text": "Georgia",
+      "BeginOffset": 3127,
+      "EndOffset": 3134
+    },
+    {
+      "Score": 0.6814577579498291,
+      "Type": "QUANTITY",
+      "Text": "121",
+      "BeginOffset": 3192,
+      "EndOffset": 3195
+    },
+    {
+      "Score": 0.626257598400116,
+      "Type": "LOCATION",
+      "Text": "Georgia",
+      "BeginOffset": 3206,
+      "EndOffset": 3213
+    },
+    {
+      "Score": 0.6139278411865234,
+      "Type": "QUANTITY",
+      "Text": "122",
+      "BeginOffset": 3268,
+      "EndOffset": 3271
+    },
+    {
+      "Score": 0.41613873839378357,
+      "Type": "LOCATION",
+      "Text": "Canadian",
+      "BeginOffset": 3272,
+      "EndOffset": 3280
+    },
+    {
+      "Score": 0.5640701055526733,
+      "Type": "QUANTITY",
+      "Text": "123",
+      "BeginOffset": 3334,
+      "EndOffset": 3337
+    },
+    {
+      "Score": 0.6642824411392212,
+      "Type": "ORGANIZATION",
+      "Text": "Vancouver Canucks",
+      "BeginOffset": 3338,
+      "EndOffset": 3355
+    },
+    {
+      "Score": 0.6994157433509827,
+      "Type": "QUANTITY",
+      "Text": "8\n   [127]",
+      "BeginOffset": 3404,
+      "EndOffset": 3414
+    },
+    {
+      "Score": 0.8006550669670105,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 3414,
+      "EndOffset": 3422
+    },
+    {
+      "Score": 0.7328758835792542,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 3475,
+      "EndOffset": 3480
+    },
+    {
+      "Score": 0.9744689464569092,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 3492,
+      "EndOffset": 3500
+    },
+    {
+      "Score": 0.5587462782859802,
+      "Type": "QUANTITY",
+      "Text": "128",
+      "BeginOffset": 3524,
+      "EndOffset": 3527
+    },
+    {
+      "Score": 0.8534637689590454,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 3528,
+      "EndOffset": 3536
+    },
+    {
+      "Score": 0.8899053335189819,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 3589,
+      "EndOffset": 3594
+    },
+    {
+      "Score": 0.5300596952438354,
+      "Type": "QUANTITY",
+      "Text": "129",
+      "BeginOffset": 3605,
+      "EndOffset": 3608
+    },
+    {
+      "Score": 0.8808558583259583,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 3613,
+      "EndOffset": 3635
+    },
+    {
+      "Score": 0.9992902278900146,
+      "Type": "DATE",
+      "Text": "Tuesday, April 2, 2019",
+      "BeginOffset": 3638,
+      "EndOffset": 3660
+    },
+    {
+      "Score": 0.8891265392303467,
+      "Type": "EVENT",
+      "Text": "April Fools Day 2019",
+      "BeginOffset": 3694,
+      "EndOffset": 3714
+    },
+    {
+      "Score": 0.9713035821914673,
+      "Type": "ORGANIZATION",
+      "Text": "Fox News",
+      "BeginOffset": 3721,
+      "EndOffset": 3729
+    },
+    {
+      "Score": 0.9737101197242737,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3804,
+      "EndOffset": 3809
+    },
+    {
+      "Score": 0.7425596714019775,
+      "Type": "QUANTITY",
+      "Text": "One Big April Fools",
+      "BeginOffset": 3840,
+      "EndOffset": 3859
+    },
+    {
+      "Score": 0.9003230929374695,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3862,
+      "EndOffset": 3867
+    },
+    {
+      "Score": 0.9880872964859009,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3873,
+      "EndOffset": 3878
+    },
+    {
+      "Score": 0.7808035016059875,
+      "Type": "QUANTITY",
+      "Text": "One Big April Fools",
+      "BeginOffset": 3909,
+      "EndOffset": 3928
+    },
+    {
+      "Score": 0.8009148836135864,
+      "Type": "QUANTITY",
+      "Text": "133",
+      "BeginOffset": 3933,
+      "EndOffset": 3936
+    },
+    {
+      "Score": 0.9151031970977783,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 3941,
+      "EndOffset": 3963
+    },
+    {
+      "Score": 0.9988715052604675,
+      "Type": "DATE",
+      "Text": "Monday, April 1, 2019",
+      "BeginOffset": 3966,
+      "EndOffset": 3987
+    },
+    {
+      "Score": 0.9957177042961121,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON, DC",
+      "BeginOffset": 3991,
+      "EndOffset": 4005
+    },
+    {
+      "Score": 0.999026358127594,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 4007,
+      "EndOffset": 4019
+    },
+    {
+      "Score": 0.7287611365318298,
+      "Type": "QUANTITY",
+      "Text": "one gigantic April Fools",
+      "BeginOffset": 4084,
+      "EndOffset": 4108
+    },
+    {
+      "Score": 0.9613896012306213,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 4124,
+      "EndOffset": 4129
+    },
+    {
+      "Score": 0.4814251959323883,
+      "Type": "QUANTITY",
+      "Text": "135",
+      "BeginOffset": 4135,
+      "EndOffset": 4138
+    },
+    {
+      "Score": 0.9977259635925293,
+      "Type": "PERSON",
+      "Text": "Mike Pence",
+      "BeginOffset": 4139,
+      "EndOffset": 4149
+    },
+    {
+      "Score": 0.9390203356742859,
+      "Type": "QUANTITY",
+      "Text": "4-Hour",
+      "BeginOffset": 4156,
+      "EndOffset": 4162
+    },
+    {
+      "Score": 0.41192343831062317,
+      "Type": "OTHER",
+      "Text": "Irish",
+      "BeginOffset": 4184,
+      "EndOffset": 4189
+    },
+    {
+      "Score": 0.9906197786331177,
+      "Type": "PERSON",
+      "Text": "Mike Pence",
+      "BeginOffset": 4212,
+      "EndOffset": 4222
+    },
+    {
+      "Score": 0.22014394402503967,
+      "Type": "LOCATION",
+      "Text": "Irish",
+      "BeginOffset": 4223,
+      "EndOffset": 4228
+    },
+    {
+      "Score": 0.7145349383354187,
+      "Type": "QUANTITY",
+      "Text": "136",
+      "BeginOffset": 4247,
+      "EndOffset": 4250
+    },
+    {
+      "Score": 0.9982620477676392,
+      "Type": "PERSON",
+      "Text": "Mike Pence",
+      "BeginOffset": 4251,
+      "EndOffset": 4261
+    },
+    {
+      "Score": 0.9436600208282471,
+      "Type": "QUANTITY",
+      "Text": "4-Hour",
+      "BeginOffset": 4268,
+      "EndOffset": 4274
+    },
+    {
+      "Score": 0.4560474157333374,
+      "Type": "OTHER",
+      "Text": "Irish",
+      "BeginOffset": 4296,
+      "EndOffset": 4301
+    },
+    {
+      "Score": 0.6543107628822327,
+      "Type": "QUANTITY",
+      "Text": "137",
+      "BeginOffset": 4323,
+      "EndOffset": 4326
+    },
+    {
+      "Score": 0.8906363844871521,
+      "Type": "ORGANIZATION",
+      "Text": "Burrard Street Journal",
+      "BeginOffset": 4331,
+      "EndOffset": 4353
+    },
+    {
+      "Score": 0.9986713528633118,
+      "Type": "DATE",
+      "Text": "Friday, March 15, 2019",
+      "BeginOffset": 4356,
+      "EndOffset": 4378
+    },
+    {
+      "Score": 0.9623452425003052,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON, D.C.",
+      "BeginOffset": 4382,
+      "EndOffset": 4398
+    },
+    {
+      "Score": 0.9993836879730225,
+      "Type": "PERSON",
+      "Text": "Mike Pence",
+      "BeginOffset": 4400,
+      "EndOffset": 4410
+    },
+    {
+      "Score": 0.8904660940170288,
+      "Type": "QUANTITY",
+      "Text": "4-hour",
+      "BeginOffset": 4418,
+      "EndOffset": 4424
+    },
+    {
+      "Score": 0.6042004227638245,
+      "Type": "OTHER",
+      "Text": "Irish",
+      "BeginOffset": 4461,
+      "EndOffset": 4466
+    },
+    {
+      "Score": 0.7182628512382507,
+      "Type": "ORGANIZATION",
+      "Text": "White House",
+      "BeginOffset": 4502,
+      "EndOffset": 4513
+    },
+    {
+      "Score": 0.989168643951416,
+      "Type": "DATE",
+      "Text": "Thursday",
+      "BeginOffset": 4517,
+      "EndOffset": 4525
+    },
+    {
+      "Score": 0.35182228684425354,
+      "Type": "QUANTITY",
+      "Text": "139",
+      "BeginOffset": 4531,
+      "EndOffset": 4534
+    },
+    {
+      "Score": 0.8725572824478149,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 4535,
+      "EndOffset": 4540
+    },
+    {
+      "Score": 0.8322086334228516,
+      "Type": "LOCATION",
+      "Text": "North Korean",
+      "BeginOffset": 4556,
+      "EndOffset": 4568
+    },
+    {
+      "Score": 0.9231042265892029,
+      "Type": "PERSON",
+      "Text": "Kim",
+      "BeginOffset": 4587,
+      "EndOffset": 4590
+    }
+  ]
+}

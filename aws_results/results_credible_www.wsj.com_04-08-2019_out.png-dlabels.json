@@ -1,0 +1,126 @@
+{
+  "Labels": [
+    {
+      "Name": "Text",
+      "Confidence": 99.77190399169922,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Page",
+      "Confidence": 98.85572814941406,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Person",
+      "Confidence": 96.40274047851562,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.030143454670906067,
+            "Height": 0.08741607517004013,
+            "Left": 0.2321523278951645,
+            "Top": 0.8498002886772156
+          },
+          "Confidence": 96.40274047851562
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.03511732816696167,
+            "Height": 0.07674270868301392,
+            "Left": 0.29641416668891907,
+            "Top": 0.85882169008255
+          },
+          "Confidence": 95.5011978149414
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.02935260534286499,
+            "Height": 0.0705859363079071,
+            "Left": 0.2630839943885803,
+            "Top": 0.8638700246810913
+          },
+          "Confidence": 84.9083480834961
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.02705305814743042,
+            "Height": 0.07274764776229858,
+            "Left": 0.28855445981025696,
+            "Top": 0.8618391156196594
+          },
+          "Confidence": 70.70219421386719
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 96.40274047851562,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Newspaper",
+      "Confidence": 96.37281036376953,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Label",
+      "Confidence": 85.81852722167969,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Menu",
+      "Confidence": 68.13238525390625,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.975005030632019,
+            "Height": 0.9688174724578857,
+            "Left": 0.015704751014709473,
+            "Top": 0.029932593926787376
+          },
+          "Confidence": 68.13238525390625
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "People",
+      "Confidence": 61.39887619018555,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Word",
+      "Confidence": 57.323028564453125,
+      "Instances": [],
+      "Parents": []
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

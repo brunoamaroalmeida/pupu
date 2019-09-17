@@ -1,0 +1,242 @@
+{
+  "Entities": [
+    {
+      "Score": 0.7440126538276672,
+      "Type": "QUANTITY",
+      "Text": "8News",
+      "BeginOffset": 18,
+      "EndOffset": 23
+    },
+    {
+      "Score": 0.8805968761444092,
+      "Type": "QUANTITY",
+      "Text": "8News",
+      "BeginOffset": 37,
+      "EndOffset": 42
+    },
+    {
+      "Score": 0.9073449373245239,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 98,
+      "EndOffset": 103
+    },
+    {
+      "Score": 0.5682467222213745,
+      "Type": "COMMERCIAL_ITEM",
+      "Text": "Airpods",
+      "BeginOffset": 104,
+      "EndOffset": 111
+    },
+    {
+      "Score": 0.6070193648338318,
+      "Type": "LOCATION",
+      "Text": "Mexico",
+      "BeginOffset": 144,
+      "EndOffset": 150
+    },
+    {
+      "Score": 0.8147143721580505,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 190,
+      "EndOffset": 192
+    },
+    {
+      "Score": 0.836537778377533,
+      "Type": "QUANTITY",
+      "Text": "30,558",
+      "BeginOffset": 225,
+      "EndOffset": 231
+    },
+    {
+      "Score": 0.7661030292510986,
+      "Type": "QUANTITY",
+      "Text": "10",
+      "BeginOffset": 287,
+      "EndOffset": 289
+    },
+    {
+      "Score": 0.9840304851531982,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 292,
+      "EndOffset": 297
+    },
+    {
+      "Score": 0.6363937258720398,
+      "Type": "QUANTITY",
+      "Text": "13\n     *",
+      "BeginOffset": 346,
+      "EndOffset": 355
+    },
+    {
+      "Score": 0.7740055322647095,
+      "Type": "QUANTITY",
+      "Text": "11",
+      "BeginOffset": 357,
+      "EndOffset": 359
+    },
+    {
+      "Score": 0.9383598566055298,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 488,
+      "EndOffset": 493
+    },
+    {
+      "Score": 0.4824415147304535,
+      "Type": "COMMERCIAL_ITEM",
+      "Text": "Airpods",
+      "BeginOffset": 494,
+      "EndOffset": 501
+    },
+    {
+      "Score": 0.8481638431549072,
+      "Type": "LOCATION",
+      "Text": "TUCSON, AZ",
+      "BeginOffset": 525,
+      "EndOffset": 535
+    },
+    {
+      "Score": 0.9745532870292664,
+      "Type": "LOCATION",
+      "Text": "Arizona",
+      "BeginOffset": 541,
+      "EndOffset": 548
+    },
+    {
+      "Score": 0.8764735460281372,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 598,
+      "EndOffset": 603
+    },
+    {
+      "Score": 0.6944617033004761,
+      "Type": "COMMERCIAL_ITEM",
+      "Text": "AirPod",
+      "BeginOffset": 604,
+      "EndOffset": 610
+    },
+    {
+      "Score": 0.9930070042610168,
+      "Type": "PERSON",
+      "Text": "Josiah Johnson",
+      "BeginOffset": 652,
+      "EndOffset": 666
+    },
+    {
+      "Score": 0.40174421668052673,
+      "Type": "ORGANIZATION",
+      "Text": "Mexico",
+      "BeginOffset": 672,
+      "EndOffset": 678
+    },
+    {
+      "Score": 0.6736431121826172,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 718,
+      "EndOffset": 720
+    },
+    {
+      "Score": 0.9397149682044983,
+      "Type": "LOCATION",
+      "Text": "Texas",
+      "BeginOffset": 732,
+      "EndOffset": 737
+    },
+    {
+      "Score": 0.8582203984260559,
+      "Type": "QUANTITY",
+      "Text": "30,558",
+      "BeginOffset": 826,
+      "EndOffset": 832
+    },
+    {
+      "Score": 0.9768753051757812,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 963,
+      "EndOffset": 968
+    },
+    {
+      "Score": 0.9692044258117676,
+      "Type": "QUANTITY",
+      "Text": "13 Years",
+      "BeginOffset": 1017,
+      "EndOffset": 1025
+    },
+    {
+      "Score": 0.8837816715240479,
+      "Type": "LOCATION",
+      "Text": "America",
+      "BeginOffset": 1554,
+      "EndOffset": 1561
+    },
+    {
+      "Score": 0.6234925985336304,
+      "Type": "LOCATION",
+      "Text": "Tennessee",
+      "BeginOffset": 1728,
+      "EndOffset": 1737
+    },
+    {
+      "Score": 0.4968203604221344,
+      "Type": "ORGANIZATION",
+      "Text": "KKK",
+      "BeginOffset": 1820,
+      "EndOffset": 1823
+    },
+    {
+      "Score": 0.8101566433906555,
+      "Type": "LOCATION",
+      "Text": "America",
+      "BeginOffset": 1842,
+      "EndOffset": 1849
+    },
+    {
+      "Score": 0.9547699689865112,
+      "Type": "LOCATION",
+      "Text": "Wilmington, NC",
+      "BeginOffset": 1869,
+      "EndOffset": 1883
+    },
+    {
+      "Score": 0.99261474609375,
+      "Type": "DATE",
+      "Text": "Monday",
+      "BeginOffset": 1909,
+      "EndOffset": 1915
+    },
+    {
+      "Score": 0.7785565257072449,
+      "Type": "ORGANIZATION",
+      "Text": "Ku Klux Klan",
+      "BeginOffset": 1925,
+      "EndOffset": 1937
+    },
+    {
+      "Score": 0.9513828754425049,
+      "Type": "LOCATION",
+      "Text": "America",
+      "BeginOffset": 1958,
+      "EndOffset": 1965
+    },
+    {
+      "Score": 0.46751704812049866,
+      "Type": "ORGANIZATION",
+      "Text": "KKK",
+      "BeginOffset": 2002,
+      "EndOffset": 2005
+    },
+    {
+      "Score": 0.9897971153259277,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 2091,
+      "EndOffset": 2095
+    }
+  ]
+}

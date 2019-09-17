@@ -1,0 +1,247 @@
+{
+  "Labels": [
+    {
+      "Name": "Human",
+      "Confidence": 99.73438262939453,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 99.73438262939453,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.09711679816246033,
+            "Height": 0.1666429191827774,
+            "Left": 0.4187300503253937,
+            "Top": 0.5951451063156128
+          },
+          "Confidence": 99.73438262939453
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.11502671241760254,
+            "Height": 0.21136565506458282,
+            "Left": 0.5127999782562256,
+            "Top": 0.5476227402687073
+          },
+          "Confidence": 99.43415069580078
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.18419450521469116,
+            "Height": 0.23563216626644135,
+            "Left": 0.029809273779392242,
+            "Top": 0.1950402408838272
+          },
+          "Confidence": 98.9685287475586
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.16405010223388672,
+            "Height": 0.20484711229801178,
+            "Left": 0.7153052687644958,
+            "Top": 0.08830703794956207
+          },
+          "Confidence": 98.89627838134766
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.1470658779144287,
+            "Height": 0.20609359443187714,
+            "Left": 0.8413079977035522,
+            "Top": 0.08682220429182053
+          },
+          "Confidence": 98.08232116699219
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.029673278331756592,
+            "Height": 0.04174131527543068,
+            "Left": 0.3979320228099823,
+            "Top": 0.2963539958000183
+          },
+          "Confidence": 91.31063842773438
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.012708127498626709,
+            "Height": 0.05419967696070671,
+            "Left": 0.31155645847320557,
+            "Top": 0.34008467197418213
+          },
+          "Confidence": 87.99360656738281
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.012784123420715332,
+            "Height": 0.049368057399988174,
+            "Left": 0.2979881763458252,
+            "Top": 0.34171852469444275
+          },
+          "Confidence": 79.0907974243164
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.01975804567337036,
+            "Height": 0.05887367203831673,
+            "Left": 0.32951226830482483,
+            "Top": 0.34260571002960205
+          },
+          "Confidence": 77.8629150390625
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.04767417907714844,
+            "Height": 0.1270141899585724,
+            "Left": 0.6903504133224487,
+            "Top": 0.12140148878097534
+          },
+          "Confidence": 75.99014282226562
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.031136512756347656,
+            "Height": 0.057142581790685654,
+            "Left": 0.5502577424049377,
+            "Top": 0.2799740433692932
+          },
+          "Confidence": 73.96714782714844
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.019378602504730225,
+            "Height": 0.07179725915193558,
+            "Left": 0.27595093846321106,
+            "Top": 0.34409159421920776
+          },
+          "Confidence": 70.71507263183594
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.03620612621307373,
+            "Height": 0.10730995237827301,
+            "Left": 0.5198672413825989,
+            "Top": 0.13717475533485413
+          },
+          "Confidence": 61.2682991027832
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 98.32903289794922,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Newspaper",
+      "Confidence": 96.99292755126953,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Clothing",
+      "Confidence": 94.40684509277344,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 94.40684509277344,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Hat",
+      "Confidence": 94.40684509277344,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.16597294807434082,
+            "Height": 0.11831492185592651,
+            "Left": 0.8296140432357788,
+            "Top": 0.08687844127416611
+          },
+          "Confidence": 94.40684509277344
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 68.3111343383789,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Brochure",
+      "Confidence": 60.28060531616211,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Poster"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Paper"
+        }
+      ]
+    },
+    {
+      "Name": "Advertisement",
+      "Confidence": 60.28060531616211,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Flyer",
+      "Confidence": 60.28060531616211,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.9844756126403809,
+            "Height": 0.9430312514305115,
+            "Left": 0.0017219185829162598,
+            "Top": 0.03946937620639801
+          },
+          "Confidence": 60.28060531616211
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Poster"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Paper"
+        }
+      ]
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 60.28060531616211,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

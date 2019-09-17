@@ -1,0 +1,725 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9149407744407654,
+      "Type": "TITLE",
+      "Text": "Chrome",
+      "BeginOffset": 92,
+      "EndOffset": 98
+    },
+    {
+      "Score": 0.9334260821342468,
+      "Type": "TITLE",
+      "Text": "Safari",
+      "BeginOffset": 104,
+      "EndOffset": 110
+    },
+    {
+      "Score": 0.9600818753242493,
+      "Type": "TITLE",
+      "Text": "Firefox",
+      "BeginOffset": 116,
+      "EndOffset": 123
+    },
+    {
+      "Score": 0.7964184284210205,
+      "Type": "TITLE",
+      "Text": "Internet Explorer",
+      "BeginOffset": 129,
+      "EndOffset": 146
+    },
+    {
+      "Score": 0.9991469979286194,
+      "Type": "TITLE",
+      "Text": "Internet Explorer 10",
+      "BeginOffset": 175,
+      "EndOffset": 195
+    },
+    {
+      "Score": 0.6138503551483154,
+      "Type": "TITLE",
+      "Text": "News Corp",
+      "BeginOffset": 223,
+      "EndOffset": 232
+    },
+    {
+      "Score": 0.42000287771224976,
+      "Type": "QUANTITY",
+      "Text": "143",
+      "BeginOffset": 356,
+      "EndOffset": 359
+    },
+    {
+      "Score": 0.640045702457428,
+      "Type": "QUANTITY",
+      "Text": "178",
+      "BeginOffset": 401,
+      "EndOffset": 404
+    },
+    {
+      "Score": 0.851787805557251,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 488,
+      "EndOffset": 490
+    },
+    {
+      "Score": 0.4815519452095032,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 508,
+      "EndOffset": 514
+    },
+    {
+      "Score": 0.6524858474731445,
+      "Type": "TITLE",
+      "Text": "Into Next Year",
+      "BeginOffset": 515,
+      "EndOffset": 529
+    },
+    {
+      "Score": 0.8012479543685913,
+      "Type": "ORGANIZATION",
+      "Text": "European Union",
+      "BeginOffset": 533,
+      "EndOffset": 547
+    },
+    {
+      "Score": 0.6393759250640869,
+      "Type": "ORGANIZATION",
+      "Text": "Britain",
+      "BeginOffset": 576,
+      "EndOffset": 583
+    },
+    {
+      "Score": 0.6966822743415833,
+      "Type": "LOCATION",
+      "Text": "U.K.",
+      "BeginOffset": 611,
+      "EndOffset": 615
+    },
+    {
+      "Score": 0.9944173097610474,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 671,
+      "EndOffset": 675
+    },
+    {
+      "Score": 0.8930947780609131,
+      "Type": "ORGANIZATION",
+      "Text": "Britain",
+      "BeginOffset": 721,
+      "EndOffset": 728
+    },
+    {
+      "Score": 0.9890395402908325,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 760,
+      "EndOffset": 762
+    },
+    {
+      "Score": 0.35417166352272034,
+      "Type": "OTHER",
+      "Text": "European",
+      "BeginOffset": 799,
+      "EndOffset": 807
+    },
+    {
+      "Score": 0.6372349858283997,
+      "Type": "LOCATION",
+      "Text": "U.K.",
+      "BeginOffset": 820,
+      "EndOffset": 824
+    },
+    {
+      "Score": 0.9125404953956604,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 857,
+      "EndOffset": 859
+    },
+    {
+      "Score": 0.580470621585846,
+      "Type": "QUANTITY",
+      "Text": "210",
+      "BeginOffset": 878,
+      "EndOffset": 881
+    },
+    {
+      "Score": 0.41369152069091797,
+      "Type": "PERSON",
+      "Text": "Netanyahu",
+      "BeginOffset": 882,
+      "EndOffset": 891
+    },
+    {
+      "Score": 0.6895132064819336,
+      "Type": "QUANTITY",
+      "Text": "Fifth Term",
+      "BeginOffset": 906,
+      "EndOffset": 916
+    },
+    {
+      "Score": 0.4889879524707794,
+      "Type": "LOCATION",
+      "Text": "Israel",
+      "BeginOffset": 920,
+      "EndOffset": 926
+    },
+    {
+      "Score": 0.7435283064842224,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 960,
+      "EndOffset": 963
+    },
+    {
+      "Score": 0.9499393701553345,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 975,
+      "EndOffset": 977
+    },
+    {
+      "Score": 0.9065257906913757,
+      "Type": "PERSON",
+      "Text": "Prime Minister Benjamin Netanyahu",
+      "BeginOffset": 982,
+      "EndOffset": 1015
+    },
+    {
+      "Score": 0.8786159753799438,
+      "Type": "QUANTITY",
+      "Text": "fifth term",
+      "BeginOffset": 1182,
+      "EndOffset": 1192
+    },
+    {
+      "Score": 0.6575337648391724,
+      "Type": "QUANTITY",
+      "Text": "213",
+      "BeginOffset": 1195,
+      "EndOffset": 1198
+    },
+    {
+      "Score": 0.911027193069458,
+      "Type": "ORGANIZATION",
+      "Text": "ECB",
+      "BeginOffset": 1199,
+      "EndOffset": 1202
+    },
+    {
+      "Score": 0.7149069309234619,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 1275,
+      "EndOffset": 1278
+    },
+    {
+      "Score": 0.9323136806488037,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 1290,
+      "EndOffset": 1292
+    },
+    {
+      "Score": 0.7246308922767639,
+      "Type": "ORGANIZATION",
+      "Text": "European Central Bank",
+      "BeginOffset": 1297,
+      "EndOffset": 1318
+    },
+    {
+      "Score": 0.8819786906242371,
+      "Type": "PERSON",
+      "Text": "President Mario Draghi",
+      "BeginOffset": 1319,
+      "EndOffset": 1341
+    },
+    {
+      "Score": 0.9811329245567322,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1482,
+      "EndOffset": 1487
+    },
+    {
+      "Score": 0.7851482629776001,
+      "Type": "LOCATION",
+      "Text": "Russia",
+      "BeginOffset": 1488,
+      "EndOffset": 1494
+    },
+    {
+      "Score": 0.6493031978607178,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 1524,
+      "EndOffset": 1527
+    },
+    {
+      "Score": 0.9440036416053772,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 1539,
+      "EndOffset": 1541
+    },
+    {
+      "Score": 0.9991020560264587,
+      "Type": "PERSON",
+      "Text": "William Barr",
+      "BeginOffset": 1563,
+      "EndOffset": 1575
+    },
+    {
+      "Score": 0.9776225686073303,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1670,
+      "EndOffset": 1675
+    },
+    {
+      "Score": 0.6046206951141357,
+      "Type": "LOCATION",
+      "Text": "Russia",
+      "BeginOffset": 1707,
+      "EndOffset": 1713
+    },
+    {
+      "Score": 0.8190017938613892,
+      "Type": "DATE",
+      "Text": "2016",
+      "BeginOffset": 1736,
+      "EndOffset": 1740
+    },
+    {
+      "Score": 0.37967512011528015,
+      "Type": "QUANTITY",
+      "Text": "217",
+      "BeginOffset": 1755,
+      "EndOffset": 1758
+    },
+    {
+      "Score": 0.8499435782432556,
+      "Type": "OTHER",
+      "Text": "65898",
+      "BeginOffset": 1763,
+      "EndOffset": 1768
+    },
+    {
+      "Score": 0.527445375919342,
+      "Type": "QUANTITY",
+      "Text": "380",
+      "BeginOffset": 1775,
+      "EndOffset": 1778
+    },
+    {
+      "Score": 0.8932364583015442,
+      "Type": "QUANTITY",
+      "Text": "253",
+      "BeginOffset": 1790,
+      "EndOffset": 1793
+    },
+    {
+      "Score": 0.9231895208358765,
+      "Type": "QUANTITY",
+      "Text": "218",
+      "BeginOffset": 1796,
+      "EndOffset": 1799
+    },
+    {
+      "Score": 0.4692924916744232,
+      "Type": "QUANTITY",
+      "Text": "First",
+      "BeginOffset": 1819,
+      "EndOffset": 1824
+    },
+    {
+      "Score": 0.7107385993003845,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 1874,
+      "EndOffset": 1879
+    },
+    {
+      "Score": 0.9933196902275085,
+      "Type": "PERSON",
+      "Text": "Albert\n   Einstein",
+      "BeginOffset": 1978,
+      "EndOffset": 1996
+    },
+    {
+      "Score": 0.5847511887550354,
+      "Type": "QUANTITY",
+      "Text": "219",
+      "BeginOffset": 2056,
+      "EndOffset": 2059
+    },
+    {
+      "Score": 0.7454198002815247,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 2139,
+      "EndOffset": 2142
+    },
+    {
+      "Score": 0.9143015742301941,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 2154,
+      "EndOffset": 2156
+    },
+    {
+      "Score": 0.9184128046035767,
+      "Type": "QUANTITY",
+      "Text": "221",
+      "BeginOffset": 2159,
+      "EndOffset": 2162
+    },
+    {
+      "Score": 0.9946066737174988,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2203,
+      "EndOffset": 2208
+    },
+    {
+      "Score": 0.9984459280967712,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 2252,
+      "EndOffset": 2260
+    },
+    {
+      "Score": 0.9262787103652954,
+      "Type": "PERSON",
+      "Text": "Stormy\n   Daniels",
+      "BeginOffset": 2287,
+      "EndOffset": 2304
+    },
+    {
+      "Score": 0.9997946619987488,
+      "Type": "PERSON",
+      "Text": "Karen McDougal",
+      "BeginOffset": 2309,
+      "EndOffset": 2323
+    },
+    {
+      "Score": 0.9719076752662659,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2472,
+      "EndOffset": 2477
+    },
+    {
+      "Score": 0.666275680065155,
+      "Type": "QUANTITY",
+      "Text": "110",
+      "BeginOffset": 2514,
+      "EndOffset": 2517
+    },
+    {
+      "Score": 0.9238519668579102,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 2529,
+      "EndOffset": 2531
+    },
+    {
+      "Score": 0.9567122459411621,
+      "Type": "QUANTITY",
+      "Text": "225",
+      "BeginOffset": 2534,
+      "EndOffset": 2537
+    },
+    {
+      "Score": 0.6252191066741943,
+      "Type": "ORGANIZATION",
+      "Text": "Turkey",
+      "BeginOffset": 2538,
+      "EndOffset": 2544
+    },
+    {
+      "Score": 0.9499347805976868,
+      "Type": "QUANTITY",
+      "Text": "$5 Billion",
+      "BeginOffset": 2553,
+      "EndOffset": 2563
+    },
+    {
+      "Score": 0.8001686930656433,
+      "Type": "LOCATION",
+      "Text": "Turkey",
+      "BeginOffset": 2603,
+      "EndOffset": 2609
+    },
+    {
+      "Score": 0.9984121918678284,
+      "Type": "PERSON",
+      "Text": "Berat Albayrak",
+      "BeginOffset": 2629,
+      "EndOffset": 2643
+    },
+    {
+      "Score": 0.9442511796951294,
+      "Type": "QUANTITY",
+      "Text": "$5 billion",
+      "BeginOffset": 2656,
+      "EndOffset": 2666
+    },
+    {
+      "Score": 0.6621936559677124,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 2913,
+      "EndOffset": 2916
+    },
+    {
+      "Score": 0.884637713432312,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 2928,
+      "EndOffset": 2931
+    },
+    {
+      "Score": 0.9390018582344055,
+      "Type": "QUANTITY",
+      "Text": "227",
+      "BeginOffset": 2934,
+      "EndOffset": 2937
+    },
+    {
+      "Score": 0.996727705001831,
+      "Type": "ORGANIZATION",
+      "Text": "Netflix",
+      "BeginOffset": 2948,
+      "EndOffset": 2955
+    },
+    {
+      "Score": 0.7727455496788025,
+      "Type": "ORGANIZATION",
+      "Text": "Disney",
+      "BeginOffset": 2957,
+      "EndOffset": 2963
+    },
+    {
+      "Score": 0.49780330061912537,
+      "Type": "QUANTITY",
+      "Text": "228",
+      "BeginOffset": 3000,
+      "EndOffset": 3003
+    },
+    {
+      "Score": 0.8510115146636963,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 3020,
+      "EndOffset": 3023
+    },
+    {
+      "Score": 0.9080654978752136,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 3035,
+      "EndOffset": 3038
+    },
+    {
+      "Score": 0.9856250882148743,
+      "Type": "QUANTITY",
+      "Text": "229",
+      "BeginOffset": 3041,
+      "EndOffset": 3044
+    },
+    {
+      "Score": 0.4895569384098053,
+      "Type": "QUANTITY",
+      "Text": "230",
+      "BeginOffset": 3089,
+      "EndOffset": 3092
+    },
+    {
+      "Score": 0.8630674481391907,
+      "Type": "QUANTITY",
+      "Text": "220",
+      "BeginOffset": 3109,
+      "EndOffset": 3112
+    },
+    {
+      "Score": 0.8873552083969116,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 3124,
+      "EndOffset": 3127
+    },
+    {
+      "Score": 0.9517797827720642,
+      "Type": "QUANTITY",
+      "Text": "231",
+      "BeginOffset": 3130,
+      "EndOffset": 3133
+    },
+    {
+      "Score": 0.9217962026596069,
+      "Type": "ORGANIZATION",
+      "Text": "Boeing",
+      "BeginOffset": 3134,
+      "EndOffset": 3140
+    },
+    {
+      "Score": 0.6840652823448181,
+      "Type": "COMMERCIAL_ITEM",
+      "Text": "737 MAX Jets",
+      "BeginOffset": 3149,
+      "EndOffset": 3161
+    },
+    {
+      "Score": 0.7495043277740479,
+      "Type": "LOCATION",
+      "Text": "China",
+      "BeginOffset": 3169,
+      "EndOffset": 3174
+    },
+    {
+      "Score": 0.6536526679992676,
+      "Type": "QUANTITY",
+      "Text": "232",
+      "BeginOffset": 3187,
+      "EndOffset": 3190
+    },
+    {
+      "Score": 0.37484291195869446,
+      "Type": "OTHER",
+      "Text": "234",
+      "BeginOffset": 3276,
+      "EndOffset": 3279
+    },
+    {
+      "Score": 0.6879081130027771,
+      "Type": "OTHER",
+      "Text": "235",
+      "BeginOffset": 3331,
+      "EndOffset": 3334
+    },
+    {
+      "Score": 0.6785219311714172,
+      "Type": "OTHER",
+      "Text": "236",
+      "BeginOffset": 3390,
+      "EndOffset": 3393
+    },
+    {
+      "Score": 0.4249765872955322,
+      "Type": "OTHER",
+      "Text": "237",
+      "BeginOffset": 3458,
+      "EndOffset": 3461
+    },
+    {
+      "Score": 0.7681625485420227,
+      "Type": "LOCATION",
+      "Text": "China",
+      "BeginOffset": 3462,
+      "EndOffset": 3467
+    },
+    {
+      "Score": 0.8053745627403259,
+      "Type": "OTHER",
+      "Text": "Chinese",
+      "BeginOffset": 3534,
+      "EndOffset": 3541
+    },
+    {
+      "Score": 0.5821433067321777,
+      "Type": "ORGANIZATION",
+      "Text": "Muslim",
+      "BeginOffset": 3577,
+      "EndOffset": 3583
+    },
+    {
+      "Score": 0.9778971672058105,
+      "Type": "LOCATION",
+      "Text": "China",
+      "BeginOffset": 3660,
+      "EndOffset": 3665
+    },
+    {
+      "Score": 0.8029733300209045,
+      "Type": "LOCATION",
+      "Text": "Xinjiang",
+      "BeginOffset": 3668,
+      "EndOffset": 3676
+    },
+    {
+      "Score": 0.6171064376831055,
+      "Type": "OTHER",
+      "Text": "238",
+      "BeginOffset": 3749,
+      "EndOffset": 3752
+    },
+    {
+      "Score": 0.6551219820976257,
+      "Type": "ORGANIZATION",
+      "Text": "Coke",
+      "BeginOffset": 3758,
+      "EndOffset": 3762
+    },
+    {
+      "Score": 0.9734313488006592,
+      "Type": "ORGANIZATION",
+      "Text": "Macy's",
+      "BeginOffset": 3766,
+      "EndOffset": 3772
+    },
+    {
+      "Score": 0.8502051830291748,
+      "Type": "ORGANIZATION",
+      "Text": "Pay for Typical Worker",
+      "BeginOffset": 3774,
+      "EndOffset": 3796
+    },
+    {
+      "Score": 0.833093523979187,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 3820,
+      "EndOffset": 3824
+    },
+    {
+      "Score": 0.8474470973014832,
+      "Type": "QUANTITY",
+      "Text": "one thing",
+      "BeginOffset": 3867,
+      "EndOffset": 3876
+    },
+    {
+      "Score": 0.650098443031311,
+      "Type": "QUANTITY",
+      "Text": "239",
+      "BeginOffset": 3890,
+      "EndOffset": 3893
+    },
+    {
+      "Score": 0.7431452870368958,
+      "Type": "LOCATION",
+      "Text": "U.K.",
+      "BeginOffset": 3997,
+      "EndOffset": 4001
+    },
+    {
+      "Score": 0.7138363718986511,
+      "Type": "ORGANIZATION",
+      "Text": "Suboxone\n   U.S.",
+      "BeginOffset": 4093,
+      "EndOffset": 4109
+    },
+    {
+      "Score": 0.9817179441452026,
+      "Type": "ORGANIZATION",
+      "Text": "Delta",
+      "BeginOffset": 4252,
+      "EndOffset": 4257
+    }
+  ]
+}

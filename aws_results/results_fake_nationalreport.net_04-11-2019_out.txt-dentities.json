@@ -1,0 +1,753 @@
+{
+  "Entities": [
+    {
+      "Score": 0.6984391808509827,
+      "Type": "ORGANIZATION",
+      "Text": "National Report",
+      "BeginOffset": 7,
+      "EndOffset": 22
+    },
+    {
+      "Score": 0.9982602596282959,
+      "Type": "PERSON",
+      "Text": "Kevin Hart",
+      "BeginOffset": 79,
+      "EndOffset": 89
+    },
+    {
+      "Score": 0.9886168837547302,
+      "Type": "PERSON",
+      "Text": "Jussie Smollett",
+      "BeginOffset": 101,
+      "EndOffset": 116
+    },
+    {
+      "Score": 0.6234060525894165,
+      "Type": "ORGANIZATION",
+      "Text": "Hollywood",
+      "BeginOffset": 129,
+      "EndOffset": 138
+    },
+    {
+      "Score": 0.35180675983428955,
+      "Type": "ORGANIZATION",
+      "Text": "Virginia",
+      "BeginOffset": 149,
+      "EndOffset": 157
+    },
+    {
+      "Score": 0.968539297580719,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 210,
+      "EndOffset": 215
+    },
+    {
+      "Score": 0.9703773260116577,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 270,
+      "EndOffset": 275
+    },
+    {
+      "Score": 0.8129957914352417,
+      "Type": "ORGANIZATION",
+      "Text": "White House",
+      "BeginOffset": 276,
+      "EndOffset": 287
+    },
+    {
+      "Score": 0.6945675611495972,
+      "Type": "QUANTITY",
+      "Text": "Two Jive-Ass",
+      "BeginOffset": 309,
+      "EndOffset": 321
+    },
+    {
+      "Score": 0.9961686730384827,
+      "Type": "PERSON",
+      "Text": "Alex Jones",
+      "BeginOffset": 340,
+      "EndOffset": 350
+    },
+    {
+      "Score": 0.5607688426971436,
+      "Type": "QUANTITY",
+      "Text": "9",
+      "BeginOffset": 413,
+      "EndOffset": 414
+    },
+    {
+      "Score": 0.8402898907661438,
+      "Type": "QUANTITY",
+      "Text": "5 Great Ways",
+      "BeginOffset": 415,
+      "EndOffset": 427
+    },
+    {
+      "Score": 0.6817097067832947,
+      "Type": "QUANTITY",
+      "Text": "10",
+      "BeginOffset": 481,
+      "EndOffset": 483
+    },
+    {
+      "Score": 0.5555804371833801,
+      "Type": "QUANTITY",
+      "Text": "11",
+      "BeginOffset": 553,
+      "EndOffset": 555
+    },
+    {
+      "Score": 0.8673537969589233,
+      "Type": "QUANTITY",
+      "Text": "5 New Reasons",
+      "BeginOffset": 556,
+      "EndOffset": 569
+    },
+    {
+      "Score": 0.9961116313934326,
+      "Type": "PERSON",
+      "Text": "Christopher Plummer",
+      "BeginOffset": 612,
+      "EndOffset": 631
+    },
+    {
+      "Score": 0.9927778840065002,
+      "Type": "PERSON",
+      "Text": "Roy Moore",
+      "BeginOffset": 648,
+      "EndOffset": 657
+    },
+    {
+      "Score": 0.5815081596374512,
+      "Type": "LOCATION",
+      "Text": "Alabama",
+      "BeginOffset": 661,
+      "EndOffset": 668
+    },
+    {
+      "Score": 0.9283353090286255,
+      "Type": "QUANTITY",
+      "Text": "35-Year-Old",
+      "BeginOffset": 687,
+      "EndOffset": 698
+    },
+    {
+      "Score": 0.6374359726905823,
+      "Type": "QUANTITY",
+      "Text": "14",
+      "BeginOffset": 752,
+      "EndOffset": 754
+    },
+    {
+      "Score": 0.580893874168396,
+      "Type": "OTHER",
+      "Text": "Americans",
+      "BeginOffset": 779,
+      "EndOffset": 788
+    },
+    {
+      "Score": 0.9992384910583496,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 797,
+      "EndOffset": 802
+    },
+    {
+      "Score": 0.9532528519630432,
+      "Type": "ORGANIZATION",
+      "Text": "Twitter",
+      "BeginOffset": 805,
+      "EndOffset": 812
+    },
+    {
+      "Score": 0.9978106021881104,
+      "Type": "PERSON",
+      "Text": "George Zimmerman",
+      "BeginOffset": 870,
+      "EndOffset": 886
+    },
+    {
+      "Score": 0.5971948504447937,
+      "Type": "QUANTITY",
+      "Text": "16",
+      "BeginOffset": 933,
+      "EndOffset": 935
+    },
+    {
+      "Score": 0.7402275800704956,
+      "Type": "QUANTITY",
+      "Text": "19",
+      "BeginOffset": 993,
+      "EndOffset": 995
+    },
+    {
+      "Score": 0.9358326196670532,
+      "Type": "QUANTITY",
+      "Text": "17",
+      "BeginOffset": 1004,
+      "EndOffset": 1006
+    },
+    {
+      "Score": 0.6241464614868164,
+      "Type": "ORGANIZATION",
+      "Text": "US Soccer",
+      "BeginOffset": 1007,
+      "EndOffset": 1016
+    },
+    {
+      "Score": 0.8356735706329346,
+      "Type": "EVENT",
+      "Text": "2018 World Cup",
+      "BeginOffset": 1043,
+      "EndOffset": 1057
+    },
+    {
+      "Score": 0.47616010904312134,
+      "Type": "QUANTITY",
+      "Text": "18",
+      "BeginOffset": 1074,
+      "EndOffset": 1076
+    },
+    {
+      "Score": 0.9925839900970459,
+      "Type": "PERSON",
+      "Text": "Harvey Weinstein",
+      "BeginOffset": 1165,
+      "EndOffset": 1181
+    },
+    {
+      "Score": 0.7873395085334778,
+      "Type": "LOCATION",
+      "Text": "America",
+      "BeginOffset": 1186,
+      "EndOffset": 1193
+    },
+    {
+      "Score": 0.5890381932258606,
+      "Type": "QUANTITY",
+      "Text": "46",
+      "BeginOffset": 1230,
+      "EndOffset": 1232
+    },
+    {
+      "Score": 0.9932147264480591,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 1278,
+      "EndOffset": 1290
+    },
+    {
+      "Score": 0.6274197101593018,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 1304,
+      "EndOffset": 1306
+    },
+    {
+      "Score": 0.9953252077102661,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1307,
+      "EndOffset": 1312
+    },
+    {
+      "Score": 0.9951878190040588,
+      "Type": "PERSON",
+      "Text": "Chris Christie",
+      "BeginOffset": 1325,
+      "EndOffset": 1339
+    },
+    {
+      "Score": 0.8202723860740662,
+      "Type": "ORGANIZATION",
+      "Text": "Supreme Food Court",
+      "BeginOffset": 1343,
+      "EndOffset": 1361
+    },
+    {
+      "Score": 0.7041325569152832,
+      "Type": "PERSON",
+      "Text": "TRUMP TOWER",
+      "BeginOffset": 1374,
+      "EndOffset": 1385
+    },
+    {
+      "Score": 0.9654077291488647,
+      "Type": "PERSON",
+      "Text": "President-Elect Donald J. Trump",
+      "BeginOffset": 1388,
+      "EndOffset": 1419
+    },
+    {
+      "Score": 0.9421898722648621,
+      "Type": "PERSON",
+      "Text": "NJ Governor Chris Christie",
+      "BeginOffset": 1455,
+      "EndOffset": 1481
+    },
+    {
+      "Score": 0.8417530655860901,
+      "Type": "LOCATION",
+      "Text": "Amsterdam, Netherlands",
+      "BeginOffset": 1627,
+      "EndOffset": 1649
+    },
+    {
+      "Score": 0.8990147709846497,
+      "Type": "OTHER",
+      "Text": "Dutch",
+      "BeginOffset": 1665,
+      "EndOffset": 1670
+    },
+    {
+      "Score": 0.882908046245575,
+      "Type": "QUANTITY",
+      "Text": "10%",
+      "BeginOffset": 1835,
+      "EndOffset": 1838
+    },
+    {
+      "Score": 0.9612338542938232,
+      "Type": "LOCATION",
+      "Text": "Appleton, WI",
+      "BeginOffset": 1883,
+      "EndOffset": 1895
+    },
+    {
+      "Score": 0.8293976187705994,
+      "Type": "LOCATION",
+      "Text": "Fox Valley Mall",
+      "BeginOffset": 1902,
+      "EndOffset": 1917
+    },
+    {
+      "Score": 0.9778449535369873,
+      "Type": "DATE",
+      "Text": "Sunday",
+      "BeginOffset": 1985,
+      "EndOffset": 1991
+    },
+    {
+      "Score": 0.7699917554855347,
+      "Type": "QUANTITY",
+      "Text": "55",
+      "BeginOffset": 2031,
+      "EndOffset": 2033
+    },
+    {
+      "Score": 0.4930840730667114,
+      "Type": "ORGANIZATION",
+      "Text": "Flint Tap",
+      "BeginOffset": 2034,
+      "EndOffset": 2043
+    },
+    {
+      "Score": 0.9347257018089294,
+      "Type": "PERSON",
+      "Text": "Hillary",
+      "BeginOffset": 2078,
+      "EndOffset": 2085
+    },
+    {
+      "Score": 0.9492866396903992,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 2120,
+      "EndOffset": 2125
+    },
+    {
+      "Score": 0.7598080039024353,
+      "Type": "LOCATION",
+      "Text": "Michigan",
+      "BeginOffset": 2140,
+      "EndOffset": 2148
+    },
+    {
+      "Score": 0.6379380822181702,
+      "Type": "ORGANIZATION",
+      "Text": "PAC",
+      "BeginOffset": 2173,
+      "EndOffset": 2176
+    },
+    {
+      "Score": 0.9067158699035645,
+      "Type": "LOCATION",
+      "Text": "Flint",
+      "BeginOffset": 2221,
+      "EndOffset": 2226
+    },
+    {
+      "Score": 0.4851599633693695,
+      "Type": "QUANTITY",
+      "Text": "57",
+      "BeginOffset": 2300,
+      "EndOffset": 2302
+    },
+    {
+      "Score": 0.9812955260276794,
+      "Type": "LOCATION",
+      "Text": "Wisconsin",
+      "BeginOffset": 2390,
+      "EndOffset": 2399
+    },
+    {
+      "Score": 0.9673654437065125,
+      "Type": "DATE",
+      "Text": "Saturday afternoon",
+      "BeginOffset": 2480,
+      "EndOffset": 2498
+    },
+    {
+      "Score": 0.46283936500549316,
+      "Type": "QUANTITY",
+      "Text": "59",
+      "BeginOffset": 2567,
+      "EndOffset": 2569
+    },
+    {
+      "Score": 0.9376367926597595,
+      "Type": "PERSON",
+      "Text": "Prudence Bradley",
+      "BeginOffset": 2638,
+      "EndOffset": 2654
+    },
+    {
+      "Score": 0.9948780536651611,
+      "Type": "QUANTITY",
+      "Text": "19",
+      "BeginOffset": 2656,
+      "EndOffset": 2658
+    },
+    {
+      "Score": 0.48835211992263794,
+      "Type": "QUANTITY",
+      "Text": "61",
+      "BeginOffset": 2826,
+      "EndOffset": 2828
+    },
+    {
+      "Score": 0.7347509860992432,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 2874,
+      "EndOffset": 2886
+    },
+    {
+      "Score": 0.823966920375824,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 2975,
+      "EndOffset": 2980
+    },
+    {
+      "Score": 0.7207343578338623,
+      "Type": "LOCATION",
+      "Text": "Canada",
+      "BeginOffset": 3092,
+      "EndOffset": 3098
+    },
+    {
+      "Score": 0.6765748262405396,
+      "Type": "PERSON",
+      "Text": "Bristol Palin",
+      "BeginOffset": 3127,
+      "EndOffset": 3140
+    },
+    {
+      "Score": 0.8782050013542175,
+      "Type": "LOCATION",
+      "Text": "TORONTO",
+      "BeginOffset": 3163,
+      "EndOffset": 3170
+    },
+    {
+      "Score": 0.9318326115608215,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 3210,
+      "EndOffset": 3215
+    },
+    {
+      "Score": 0.4213128387928009,
+      "Type": "LOCATION",
+      "Text": "Canadian",
+      "BeginOffset": 3267,
+      "EndOffset": 3275
+    },
+    {
+      "Score": 0.9089133143424988,
+      "Type": "PERSON",
+      "Text": "Prime Minister Justin\n          + [65]Sarah Palin",
+      "BeginOffset": 3276,
+      "EndOffset": 3325
+    },
+    {
+      "Score": 0.7374892234802246,
+      "Type": "ORGANIZATION",
+      "Text": "Muslims",
+      "BeginOffset": 3331,
+      "EndOffset": 3338
+    },
+    {
+      "Score": 0.5859110951423645,
+      "Type": "PERSON",
+      "Text": "Bristol Palin",
+      "BeginOffset": 3353,
+      "EndOffset": 3366
+    },
+    {
+      "Score": 0.9833680987358093,
+      "Type": "DATE",
+      "Text": "3 years ago",
+      "BeginOffset": 3379,
+      "EndOffset": 3390
+    },
+    {
+      "Score": 0.8836621046066284,
+      "Type": "QUANTITY",
+      "Text": "57 comments",
+      "BeginOffset": 3397,
+      "EndOffset": 3408
+    },
+    {
+      "Score": 0.5470240116119385,
+      "Type": "LOCATION",
+      "Text": "Wasilla",
+      "BeginOffset": 3423,
+      "EndOffset": 3430
+    },
+    {
+      "Score": 0.8329929709434509,
+      "Type": "LOCATION",
+      "Text": "AK",
+      "BeginOffset": 3432,
+      "EndOffset": 3434
+    },
+    {
+      "Score": 0.9999580979347229,
+      "Type": "PERSON",
+      "Text": "Sarah Palin",
+      "BeginOffset": 3460,
+      "EndOffset": 3471
+    },
+    {
+      "Score": 0.7901387810707092,
+      "Type": "ORGANIZATION",
+      "Text": "Republican",
+      "BeginOffset": 3502,
+      "EndOffset": 3512
+    },
+    {
+      "Score": 0.9987393021583557,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 3538,
+      "EndOffset": 3550
+    },
+    {
+      "Score": 0.6272472143173218,
+      "Type": "QUANTITY",
+      "Text": "Millions Mourn",
+      "BeginOffset": 3569,
+      "EndOffset": 3583
+    },
+    {
+      "Score": 0.9959357380867004,
+      "Type": "PERSON",
+      "Text": "Ted Nugent",
+      "BeginOffset": 3603,
+      "EndOffset": 3613
+    },
+    {
+      "Score": 0.8099666237831116,
+      "Type": "QUANTITY",
+      "Text": "Age 68",
+      "BeginOffset": 3615,
+      "EndOffset": 3621
+    },
+    {
+      "Score": 0.9443513751029968,
+      "Type": "DATE",
+      "Text": "4 years ago",
+      "BeginOffset": 3635,
+      "EndOffset": 3646
+    },
+    {
+      "Score": 0.44195669889450073,
+      "Type": "QUANTITY",
+      "Text": "68",
+      "BeginOffset": 3650,
+      "EndOffset": 3652
+    },
+    {
+      "Score": 0.8678366541862488,
+      "Type": "QUANTITY",
+      "Text": "131 comments",
+      "BeginOffset": 3653,
+      "EndOffset": 3665
+    },
+    {
+      "Score": 0.585601806640625,
+      "Type": "QUANTITY",
+      "Text": "Millions",
+      "BeginOffset": 3678,
+      "EndOffset": 3686
+    },
+    {
+      "Score": 0.7078816890716553,
+      "Type": "OTHER",
+      "Text": "Americans",
+      "BeginOffset": 3690,
+      "EndOffset": 3699
+    },
+    {
+      "Score": 0.9105555415153503,
+      "Type": "DATE",
+      "Text": "this\n            afternoon",
+      "BeginOffset": 3733,
+      "EndOffset": 3759
+    },
+    {
+      "Score": 0.9997351765632629,
+      "Type": "PERSON",
+      "Text": "Ted Nugent",
+      "BeginOffset": 3781,
+      "EndOffset": 3791
+    },
+    {
+      "Score": 0.9893510937690735,
+      "Type": "DATE",
+      "Text": "4 years ago",
+      "BeginOffset": 3894,
+      "EndOffset": 3905
+    },
+    {
+      "Score": 0.5303951501846313,
+      "Type": "QUANTITY",
+      "Text": "70",
+      "BeginOffset": 3909,
+      "EndOffset": 3911
+    },
+    {
+      "Score": 0.9112144708633423,
+      "Type": "QUANTITY",
+      "Text": "15 comments",
+      "BeginOffset": 3912,
+      "EndOffset": 3923
+    },
+    {
+      "Score": 0.9976407289505005,
+      "Type": "PERSON",
+      "Text": "Joyce Taylor",
+      "BeginOffset": 4006,
+      "EndOffset": 4018
+    },
+    {
+      "Score": 0.5325701832771301,
+      "Type": "QUANTITY",
+      "Text": "71",
+      "BeginOffset": 4082,
+      "EndOffset": 4084
+    },
+    {
+      "Score": 0.9792687296867371,
+      "Type": "DATE",
+      "Text": "5 years ago",
+      "BeginOffset": 4146,
+      "EndOffset": 4157
+    },
+    {
+      "Score": 0.9551169276237488,
+      "Type": "QUANTITY",
+      "Text": "1,874 comments",
+      "BeginOffset": 4164,
+      "EndOffset": 4178
+    },
+    {
+      "Score": 0.9778356552124023,
+      "Type": "DATE",
+      "Text": "This week",
+      "BeginOffset": 4208,
+      "EndOffset": 4217
+    },
+    {
+      "Score": 0.9825798869132996,
+      "Type": "LOCATION",
+      "Text": "Wyoming",
+      "BeginOffset": 4265,
+      "EndOffset": 4272
+    },
+    {
+      "Score": 0.9995115995407104,
+      "Type": "PERSON",
+      "Text": "Kevin Hart",
+      "BeginOffset": 4334,
+      "EndOffset": 4344
+    },
+    {
+      "Score": 0.9950519800186157,
+      "Type": "PERSON",
+      "Text": "Jussie Smollett",
+      "BeginOffset": 4356,
+      "EndOffset": 4371
+    },
+    {
+      "Score": 0.442372590303421,
+      "Type": "ORGANIZATION",
+      "Text": "Hollywood",
+      "BeginOffset": 4384,
+      "EndOffset": 4393
+    },
+    {
+      "Score": 0.3615080416202545,
+      "Type": "LOCATION",
+      "Text": "Virginia",
+      "BeginOffset": 4402,
+      "EndOffset": 4410
+    },
+    {
+      "Score": 0.5888780951499939,
+      "Type": "QUANTITY",
+      "Text": "80",
+      "BeginOffset": 4458,
+      "EndOffset": 4460
+    },
+    {
+      "Score": 0.9630335569381714,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 4461,
+      "EndOffset": 4466
+    },
+    {
+      "Score": 0.5851192474365234,
+      "Type": "QUANTITY",
+      "Text": "83",
+      "BeginOffset": 4516,
+      "EndOffset": 4518
+    },
+    {
+      "Score": 0.9561405181884766,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 4519,
+      "EndOffset": 4524
+    },
+    {
+      "Score": 0.8059470057487488,
+      "Type": "ORGANIZATION",
+      "Text": "White House",
+      "BeginOffset": 4525,
+      "EndOffset": 4536
+    },
+    {
+      "Score": 0.746864378452301,
+      "Type": "QUANTITY",
+      "Text": "Two Jive-Ass Turkeys",
+      "BeginOffset": 4558,
+      "EndOffset": 4578
+    }
+  ]
+}

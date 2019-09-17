@@ -1,0 +1,697 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8981371521949768,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 70,
+      "EndOffset": 73
+    },
+    {
+      "Score": 0.9542731642723083,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 115,
+      "EndOffset": 118
+    },
+    {
+      "Score": 0.9043073058128357,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 135,
+      "EndOffset": 141
+    },
+    {
+      "Score": 0.9227613806724548,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 146,
+      "EndOffset": 152
+    },
+    {
+      "Score": 0.9972984790802002,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 172,
+      "EndOffset": 183
+    },
+    {
+      "Score": 0.6586623191833496,
+      "Type": "OTHER",
+      "Text": "French",
+      "BeginOffset": 194,
+      "EndOffset": 200
+    },
+    {
+      "Score": 0.649209201335907,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 234,
+      "EndOffset": 236
+    },
+    {
+      "Score": 0.4745906591415405,
+      "Type": "QUANTITY",
+      "Text": "32",
+      "BeginOffset": 247,
+      "EndOffset": 249
+    },
+    {
+      "Score": 0.6903100609779358,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 250,
+      "EndOffset": 253
+    },
+    {
+      "Score": 0.9378741383552551,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 262,
+      "EndOffset": 268
+    },
+    {
+      "Score": 0.9667668342590332,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 273,
+      "EndOffset": 279
+    },
+    {
+      "Score": 0.9978862404823303,
+      "Type": "PERSON",
+      "Text": "Ravenelle",
+      "BeginOffset": 329,
+      "EndOffset": 338
+    },
+    {
+      "Score": 0.9945164322853088,
+      "Type": "PERSON",
+      "Text": "Moore",
+      "BeginOffset": 346,
+      "EndOffset": 351
+    },
+    {
+      "Score": 0.6782036423683167,
+      "Type": "QUANTITY",
+      "Text": "33",
+      "BeginOffset": 412,
+      "EndOffset": 414
+    },
+    {
+      "Score": 0.7896007895469666,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 415,
+      "EndOffset": 417
+    },
+    {
+      "Score": 0.8526638746261597,
+      "Type": "LOCATION",
+      "Text": "Dominican Republic",
+      "BeginOffset": 435,
+      "EndOffset": 453
+    },
+    {
+      "Score": 0.6709803938865662,
+      "Type": "QUANTITY",
+      "Text": "35",
+      "BeginOffset": 462,
+      "EndOffset": 464
+    },
+    {
+      "Score": 0.8742006421089172,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 465,
+      "EndOffset": 467
+    },
+    {
+      "Score": 0.8931072950363159,
+      "Type": "LOCATION",
+      "Text": "Dominican Republic",
+      "BeginOffset": 485,
+      "EndOffset": 503
+    },
+    {
+      "Score": 0.9930522441864014,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 685,
+      "EndOffset": 700
+    },
+    {
+      "Score": 0.9972645044326782,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 735,
+      "EndOffset": 750
+    },
+    {
+      "Score": 0.6022794842720032,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 823,
+      "EndOffset": 825
+    },
+    {
+      "Score": 0.7346495389938354,
+      "Type": "PERSON",
+      "Text": "Abdelkader Bensalah",
+      "BeginOffset": 972,
+      "EndOffset": 991
+    },
+    {
+      "Score": 0.5084672570228577,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 1003,
+      "EndOffset": 1005
+    },
+    {
+      "Score": 0.8515831232070923,
+      "Type": "LOCATION",
+      "Text": "Algeria",
+      "BeginOffset": 1006,
+      "EndOffset": 1013
+    },
+    {
+      "Score": 0.9109930396080017,
+      "Type": "PERSON",
+      "Text": "US President Donald Trump",
+      "BeginOffset": 1050,
+      "EndOffset": 1075
+    },
+    {
+      "Score": 0.9436079263687134,
+      "Type": "ORGANIZATION",
+      "Text": "US Customs and\n       Border Patrol",
+      "BeginOffset": 1103,
+      "EndOffset": 1138
+    },
+    {
+      "Score": 0.9602751135826111,
+      "Type": "LOCATION",
+      "Text": "United States",
+      "BeginOffset": 1179,
+      "EndOffset": 1192
+    },
+    {
+      "Score": 0.9909777641296387,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1197,
+      "EndOffset": 1202
+    },
+    {
+      "Score": 0.9083250761032104,
+      "Type": "ORGANIZATION",
+      "Text": "Republican",
+      "BeginOffset": 1277,
+      "EndOffset": 1287
+    },
+    {
+      "Score": 0.9992210865020752,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1297,
+      "EndOffset": 1302
+    },
+    {
+      "Score": 0.9954922199249268,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1367,
+      "EndOffset": 1372
+    },
+    {
+      "Score": 0.8916223645210266,
+      "Type": "LOCATION",
+      "Text": "Japan",
+      "BeginOffset": 1417,
+      "EndOffset": 1422
+    },
+    {
+      "Score": 0.9562014937400818,
+      "Type": "QUANTITY",
+      "Text": "about $2.7bn",
+      "BeginOffset": 1491,
+      "EndOffset": 1503
+    },
+    {
+      "Score": 0.8068861365318298,
+      "Type": "LOCATION",
+      "Text": "Japan",
+      "BeginOffset": 1536,
+      "EndOffset": 1541
+    },
+    {
+      "Score": 0.9576194882392883,
+      "Type": "QUANTITY",
+      "Text": "about $2.7bn",
+      "BeginOffset": 1610,
+      "EndOffset": 1622
+    },
+    {
+      "Score": 0.5035812854766846,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 1656,
+      "EndOffset": 1658
+    },
+    {
+      "Score": 0.6987963914871216,
+      "Type": "QUANTITY",
+      "Text": "billions",
+      "BeginOffset": 1677,
+      "EndOffset": 1685
+    },
+    {
+      "Score": 0.8557809591293335,
+      "Type": "LOCATION",
+      "Text": "Japan",
+      "BeginOffset": 1690,
+      "EndOffset": 1695
+    },
+    {
+      "Score": 0.8562784194946289,
+      "Type": "ORGANIZATION",
+      "Text": "Liverpool",
+      "BeginOffset": 1703,
+      "EndOffset": 1712
+    },
+    {
+      "Score": 0.9910404086112976,
+      "Type": "PERSON",
+      "Text": "Jurgen Klopp",
+      "BeginOffset": 1722,
+      "EndOffset": 1734
+    },
+    {
+      "Score": 0.6685305237770081,
+      "Type": "QUANTITY",
+      "Text": "56",
+      "BeginOffset": 1741,
+      "EndOffset": 1743
+    },
+    {
+      "Score": 0.847323477268219,
+      "Type": "EVENT",
+      "Text": "Champions League",
+      "BeginOffset": 1744,
+      "EndOffset": 1760
+    },
+    {
+      "Score": 0.9639542102813721,
+      "Type": "ORGANIZATION",
+      "Text": "Spurs",
+      "BeginOffset": 1773,
+      "EndOffset": 1778
+    },
+    {
+      "Score": 0.7997596263885498,
+      "Type": "ORGANIZATION",
+      "Text": "Man City",
+      "BeginOffset": 1781,
+      "EndOffset": 1789
+    },
+    {
+      "Score": 0.9915385842323303,
+      "Type": "ORGANIZATION",
+      "Text": "Liverpool",
+      "BeginOffset": 1792,
+      "EndOffset": 1801
+    },
+    {
+      "Score": 0.9712236523628235,
+      "Type": "ORGANIZATION",
+      "Text": "Porto\n       Liverpool",
+      "BeginOffset": 1804,
+      "EndOffset": 1826
+    },
+    {
+      "Score": 0.951464831829071,
+      "Type": "ORGANIZATION",
+      "Text": "Porto",
+      "BeginOffset": 1832,
+      "EndOffset": 1837
+    },
+    {
+      "Score": 0.9942606687545776,
+      "Type": "ORGANIZATION",
+      "Text": "Manchester City",
+      "BeginOffset": 1842,
+      "EndOffset": 1857
+    },
+    {
+      "Score": 0.7863793969154358,
+      "Type": "ORGANIZATION",
+      "Text": "Tottenham",
+      "BeginOffset": 1868,
+      "EndOffset": 1877
+    },
+    {
+      "Score": 0.9091386198997498,
+      "Type": "QUANTITY",
+      "Text": "first leg",
+      "BeginOffset": 1892,
+      "EndOffset": 1901
+    },
+    {
+      "Score": 0.9173552989959717,
+      "Type": "EVENT",
+      "Text": "Champions League",
+      "BeginOffset": 1909,
+      "EndOffset": 1925
+    },
+    {
+      "Score": 0.8733036518096924,
+      "Type": "QUANTITY",
+      "Text": "5 Live\n       Final Score",
+      "BeginOffset": 1949,
+      "EndOffset": 1974
+    },
+    {
+      "Score": 0.6621429324150085,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 2016,
+      "EndOffset": 2018
+    },
+    {
+      "Score": 0.7895388603210449,
+      "Type": "EVENT",
+      "Text": "Champions League",
+      "BeginOffset": 2019,
+      "EndOffset": 2035
+    },
+    {
+      "Score": 0.9742145538330078,
+      "Type": "ORGANIZATION",
+      "Text": "Spurs",
+      "BeginOffset": 2048,
+      "EndOffset": 2053
+    },
+    {
+      "Score": 0.8350036144256592,
+      "Type": "ORGANIZATION",
+      "Text": "Man City",
+      "BeginOffset": 2056,
+      "EndOffset": 2064
+    },
+    {
+      "Score": 0.9773871302604675,
+      "Type": "ORGANIZATION",
+      "Text": "Liverpool",
+      "BeginOffset": 2067,
+      "EndOffset": 2076
+    },
+    {
+      "Score": 0.27542153000831604,
+      "Type": "QUANTITY",
+      "Text": "59",
+      "BeginOffset": 2080,
+      "EndOffset": 2082
+    },
+    {
+      "Score": 0.8961541056632996,
+      "Type": "ORGANIZATION",
+      "Text": "England",
+      "BeginOffset": 2090,
+      "EndOffset": 2097
+    },
+    {
+      "Score": 0.4864387512207031,
+      "Type": "ORGANIZATION",
+      "Text": "Spain",
+      "BeginOffset": 2100,
+      "EndOffset": 2105
+    },
+    {
+      "Score": 0.9384123086929321,
+      "Type": "EVENT",
+      "Text": "World Cup",
+      "BeginOffset": 2108,
+      "EndOffset": 2117
+    },
+    {
+      "Score": 0.5807163119316101,
+      "Type": "LOCATION",
+      "Text": "England",
+      "BeginOffset": 2133,
+      "EndOffset": 2140
+    },
+    {
+      "Score": 0.8445507287979126,
+      "Type": "LOCATION",
+      "Text": "Spain",
+      "BeginOffset": 2146,
+      "EndOffset": 2151
+    },
+    {
+      "Score": 0.6334839463233948,
+      "Type": "LOCATION",
+      "Text": "County Ground",
+      "BeginOffset": 2159,
+      "EndOffset": 2172
+    },
+    {
+      "Score": 0.7637012004852295,
+      "Type": "LOCATION",
+      "Text": "Swindon",
+      "BeginOffset": 2174,
+      "EndOffset": 2181
+    },
+    {
+      "Score": 0.8664684891700745,
+      "Type": "EVENT",
+      "Text": "World Cup",
+      "BeginOffset": 2187,
+      "EndOffset": 2196
+    },
+    {
+      "Score": 0.7627164721488953,
+      "Type": "ORGANIZATION",
+      "Text": "BBC Two",
+      "BeginOffset": 2231,
+      "EndOffset": 2238
+    },
+    {
+      "Score": 0.460978627204895,
+      "Type": "QUANTITY",
+      "Text": "61",
+      "BeginOffset": 2277,
+      "EndOffset": 2279
+    },
+    {
+      "Score": 0.8879194259643555,
+      "Type": "ORGANIZATION",
+      "Text": "England",
+      "BeginOffset": 2287,
+      "EndOffset": 2294
+    },
+    {
+      "Score": 0.48981186747550964,
+      "Type": "ORGANIZATION",
+      "Text": "Spain",
+      "BeginOffset": 2297,
+      "EndOffset": 2302
+    },
+    {
+      "Score": 0.927779495716095,
+      "Type": "EVENT",
+      "Text": "World Cup",
+      "BeginOffset": 2305,
+      "EndOffset": 2314
+    },
+    {
+      "Score": 0.9780548214912415,
+      "Type": "ORGANIZATION",
+      "Text": "Tottenham",
+      "BeginOffset": 2330,
+      "EndOffset": 2339
+    },
+    {
+      "Score": 0.9979650378227234,
+      "Type": "PERSON",
+      "Text": "Mauricio Pochettino",
+      "BeginOffset": 2345,
+      "EndOffset": 2364
+    },
+    {
+      "Score": 0.9299352169036865,
+      "Type": "ORGANIZATION",
+      "Text": "Manchester City",
+      "BeginOffset": 2376,
+      "EndOffset": 2391
+    },
+    {
+      "Score": 0.4730081856250763,
+      "Type": "QUANTITY",
+      "Text": "62",
+      "BeginOffset": 2393,
+      "EndOffset": 2395
+    },
+    {
+      "Score": 0.4767954647541046,
+      "Type": "ORGANIZATION",
+      "Text": "Pochettino",
+      "BeginOffset": 2430,
+      "EndOffset": 2440
+    },
+    {
+      "Score": 0.9712628722190857,
+      "Type": "DATE",
+      "Text": "Tuesday",
+      "BeginOffset": 2485,
+      "EndOffset": 2492
+    },
+    {
+      "Score": 0.9443649649620056,
+      "Type": "EVENT",
+      "Text": "Champions League",
+      "BeginOffset": 2495,
+      "EndOffset": 2511
+    },
+    {
+      "Score": 0.9968430995941162,
+      "Type": "ORGANIZATION",
+      "Text": "Tottenham Hotspur",
+      "BeginOffset": 2532,
+      "EndOffset": 2549
+    },
+    {
+      "Score": 0.9965459108352661,
+      "Type": "ORGANIZATION",
+      "Text": "Manchester City",
+      "BeginOffset": 2554,
+      "EndOffset": 2569
+    },
+    {
+      "Score": 0.6998686194419861,
+      "Type": "PERSON",
+      "Text": "Pochettino",
+      "BeginOffset": 2616,
+      "EndOffset": 2626
+    },
+    {
+      "Score": 0.984321117401123,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 2655,
+      "EndOffset": 2658
+    },
+    {
+      "Score": 0.8190640211105347,
+      "Type": "QUANTITY",
+      "Text": "70",
+      "BeginOffset": 2838,
+      "EndOffset": 2840
+    },
+    {
+      "Score": 0.8782979249954224,
+      "Type": "QUANTITY",
+      "Text": "30s",
+      "BeginOffset": 2858,
+      "EndOffset": 2861
+    },
+    {
+      "Score": 0.8355369567871094,
+      "Type": "QUANTITY",
+      "Text": "30s",
+      "BeginOffset": 2976,
+      "EndOffset": 2979
+    },
+    {
+      "Score": 0.7929661870002747,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 3072,
+      "EndOffset": 3074
+    },
+    {
+      "Score": 0.9375652074813843,
+      "Type": "DATE",
+      "Text": "1990s",
+      "BeginOffset": 3248,
+      "EndOffset": 3253
+    },
+    {
+      "Score": 0.778608500957489,
+      "Type": "LOCATION",
+      "Text": "Scotland",
+      "BeginOffset": 3475,
+      "EndOffset": 3483
+    },
+    {
+      "Score": 0.5070552229881287,
+      "Type": "QUANTITY",
+      "Text": "84",
+      "BeginOffset": 3673,
+      "EndOffset": 3675
+    },
+    {
+      "Score": 0.4638887643814087,
+      "Type": "QUANTITY",
+      "Text": "85",
+      "BeginOffset": 3716,
+      "EndOffset": 3718
+    },
+    {
+      "Score": 0.6043956875801086,
+      "Type": "QUANTITY",
+      "Text": "87",
+      "BeginOffset": 3767,
+      "EndOffset": 3769
+    },
+    {
+      "Score": 0.5208517909049988,
+      "Type": "QUANTITY",
+      "Text": "88",
+      "BeginOffset": 3811,
+      "EndOffset": 3813
+    },
+    {
+      "Score": 0.9962802529335022,
+      "Type": "LOCATION",
+      "Text": "Netherlands",
+      "BeginOffset": 3829,
+      "EndOffset": 3840
+    },
+    {
+      "Score": 0.9741403460502625,
+      "Type": "QUANTITY",
+      "Text": "140 years",
+      "BeginOffset": 3847,
+      "EndOffset": 3856
+    },
+    {
+      "Score": 0.6971907019615173,
+      "Type": "LOCATION",
+      "Text": "European",
+      "BeginOffset": 3895,
+      "EndOffset": 3903
+    },
+    {
+      "Score": 0.6644268035888672,
+      "Type": "QUANTITY",
+      "Text": "90",
+      "BeginOffset": 3937,
+      "EndOffset": 3939
+    },
+    {
+      "Score": 0.9985206723213196,
+      "Type": "LOCATION",
+      "Text": "Netherlands",
+      "BeginOffset": 3955,
+      "EndOffset": 3966
+    },
+    {
+      "Score": 0.9965973496437073,
+      "Type": "QUANTITY",
+      "Text": "140 years",
+      "BeginOffset": 3973,
+      "EndOffset": 3982
+    }
+  ]
+}

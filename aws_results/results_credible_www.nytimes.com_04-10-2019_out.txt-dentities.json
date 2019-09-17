@@ -1,0 +1,550 @@
+{
+  "Entities": [
+    {
+      "Score": 0.7126765847206116,
+      "Type": "LOCATION",
+      "Text": "Venezuela",
+      "BeginOffset": 46,
+      "EndOffset": 55
+    },
+    {
+      "Score": 0.9930166602134705,
+      "Type": "PERSON",
+      "Text": "Abby Wambach",
+      "BeginOffset": 107,
+      "EndOffset": 119
+    },
+    {
+      "Score": 0.9986670017242432,
+      "Type": "PERSON",
+      "Text": "Adam Higginbotham",
+      "BeginOffset": 158,
+      "EndOffset": 175
+    },
+    {
+      "Score": 0.8519061207771301,
+      "Type": "PERSON",
+      "Text": "Netanyahu",
+      "BeginOffset": 235,
+      "EndOffset": 244
+    },
+    {
+      "Score": 0.9407797455787659,
+      "Type": "PERSON",
+      "Text": "Prime Minister Benjamin Netanyahu",
+      "BeginOffset": 274,
+      "EndOffset": 307
+    },
+    {
+      "Score": 0.8295305967330933,
+      "Type": "QUANTITY",
+      "Text": "fourth\n       consecutive term",
+      "BeginOffset": 333,
+      "EndOffset": 363
+    },
+    {
+      "Score": 0.9919607043266296,
+      "Type": "DATE",
+      "Text": "Wednesday",
+      "BeginOffset": 367,
+      "EndOffset": 376
+    },
+    {
+      "Score": 0.9805898666381836,
+      "Type": "QUANTITY",
+      "Text": "94 percent",
+      "BeginOffset": 383,
+      "EndOffset": 393
+    },
+    {
+      "Score": 0.99953293800354,
+      "Type": "PERSON",
+      "Text": "Benny Gantz",
+      "BeginOffset": 468,
+      "EndOffset": 479
+    },
+    {
+      "Score": 0.9765926003456116,
+      "Type": "PERSON",
+      "Text": "Prime Minister Benjamin Netanyahu",
+      "BeginOffset": 556,
+      "EndOffset": 589
+    },
+    {
+      "Score": 0.8081037402153015,
+      "Type": "LOCATION",
+      "Text": "Israel",
+      "BeginOffset": 593,
+      "EndOffset": 599
+    },
+    {
+      "Score": 0.8616907000541687,
+      "Type": "QUANTITY",
+      "Text": "fourth consecutive term",
+      "BeginOffset": 631,
+      "EndOffset": 654
+    },
+    {
+      "Score": 0.8550567030906677,
+      "Type": "QUANTITY",
+      "Text": "fifth overall",
+      "BeginOffset": 664,
+      "EndOffset": 677
+    },
+    {
+      "Score": 0.9989044666290283,
+      "Type": "PERSON",
+      "Text": "Dan Balilty",
+      "BeginOffset": 715,
+      "EndOffset": 726
+    },
+    {
+      "Score": 0.9550778865814209,
+      "Type": "ORGANIZATION",
+      "Text": "The New York Times",
+      "BeginOffset": 731,
+      "EndOffset": 749
+    },
+    {
+      "Score": 0.48119550943374634,
+      "Type": "QUANTITY",
+      "Text": "First",
+      "BeginOffset": 892,
+      "EndOffset": 897
+    },
+    {
+      "Score": 0.7381430864334106,
+      "Type": "QUANTITY",
+      "Text": "first intimate look",
+      "BeginOffset": 1027,
+      "EndOffset": 1046
+    },
+    {
+      "Score": 0.9560640454292297,
+      "Type": "QUANTITY",
+      "Text": "more than half a century",
+      "BeginOffset": 1117,
+      "EndOffset": 1141
+    },
+    {
+      "Score": 0.851937472820282,
+      "Type": "QUANTITY",
+      "Text": "first image",
+      "BeginOffset": 1150,
+      "EndOffset": 1161
+    },
+    {
+      "Score": 0.4441536068916321,
+      "Type": "LOCATION",
+      "Text": "Messier 87",
+      "BeginOffset": 1195,
+      "EndOffset": 1205
+    },
+    {
+      "Score": 0.8143215775489807,
+      "Type": "ORGANIZATION",
+      "Text": "Event\n   Horizon Telescope Collaboration",
+      "BeginOffset": 1207,
+      "EndOffset": 1247
+    },
+    {
+      "Score": 0.8876982927322388,
+      "Type": "ORGANIZATION",
+      "Text": "National Science Foundation",
+      "BeginOffset": 1253,
+      "EndOffset": 1280
+    },
+    {
+      "Score": 0.9835537672042847,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1317,
+      "EndOffset": 1322
+    },
+    {
+      "Score": 0.8931438326835632,
+      "Type": "PERSON",
+      "Text": "Barr",
+      "BeginOffset": 1333,
+      "EndOffset": 1337
+    },
+    {
+      "Score": 0.9147935509681702,
+      "Type": "PERSON",
+      "Text": "Attorney General William P. Barr",
+      "BeginOffset": 1350,
+      "EndOffset": 1382
+    },
+    {
+      "Score": 0.9833508133888245,
+      "Type": "ORGANIZATION",
+      "Text": "Congress",
+      "BeginOffset": 1401,
+      "EndOffset": 1409
+    },
+    {
+      "Score": 0.9817480444908142,
+      "Type": "QUANTITY",
+      "Text": "second day",
+      "BeginOffset": 1423,
+      "EndOffset": 1433
+    },
+    {
+      "Score": 0.7436394691467285,
+      "Type": "OTHER",
+      "Text": "American",
+      "BeginOffset": 1480,
+      "EndOffset": 1488
+    },
+    {
+      "Score": 0.7288480997085571,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 1590,
+      "EndOffset": 1597
+    },
+    {
+      "Score": 0.9982411861419678,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1668,
+      "EndOffset": 1673
+    },
+    {
+      "Score": 0.9789779186248779,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1677,
+      "EndOffset": 1682
+    },
+    {
+      "Score": 0.9772776365280151,
+      "Type": "PERSON",
+      "Text": "Mick Mulvaney",
+      "BeginOffset": 1686,
+      "EndOffset": 1699
+    },
+    {
+      "Score": 0.9350572824478149,
+      "Type": "QUANTITY",
+      "Text": "two predecessors",
+      "BeginOffset": 1740,
+      "EndOffset": 1756
+    },
+    {
+      "Score": 0.9924747347831726,
+      "Type": "PERSON",
+      "Text": "Sanders",
+      "BeginOffset": 1825,
+      "EndOffset": 1832
+    },
+    {
+      "Score": 0.6729686856269836,
+      "Type": "ORGANIZATION",
+      "Text": "Senate",
+      "BeginOffset": 1842,
+      "EndOffset": 1848
+    },
+    {
+      "Score": 0.9997043013572693,
+      "Type": "PERSON",
+      "Text": "Bernie Sanders",
+      "BeginOffset": 1888,
+      "EndOffset": 1902
+    },
+    {
+      "Score": 0.9486731290817261,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 1948,
+      "EndOffset": 1953
+    },
+    {
+      "Score": 0.821366012096405,
+      "Type": "ORGANIZATION",
+      "Text": "Senate",
+      "BeginOffset": 1974,
+      "EndOffset": 1980
+    },
+    {
+      "Score": 0.8891990780830383,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 1997,
+      "EndOffset": 2007
+    },
+    {
+      "Score": 0.5676513314247131,
+      "Type": "QUANTITY",
+      "Text": "Billions",
+      "BeginOffset": 2091,
+      "EndOffset": 2099
+    },
+    {
+      "Score": 0.5774714350700378,
+      "Type": "QUANTITY",
+      "Text": "Billions",
+      "BeginOffset": 2108,
+      "EndOffset": 2116
+    },
+    {
+      "Score": 0.7842679619789124,
+      "Type": "ORGANIZATION",
+      "Text": "Friars Club",
+      "BeginOffset": 2190,
+      "EndOffset": 2201
+    },
+    {
+      "Score": 0.9616031646728516,
+      "Type": "QUANTITY",
+      "Text": "115-year-old",
+      "BeginOffset": 2305,
+      "EndOffset": 2317
+    },
+    {
+      "Score": 0.9413728713989258,
+      "Type": "ORGANIZATION",
+      "Text": "Friars Club",
+      "BeginOffset": 2400,
+      "EndOffset": 2411
+    },
+    {
+      "Score": 0.9801362752914429,
+      "Type": "PERSON",
+      "Text": "Jack Benny",
+      "BeginOffset": 2505,
+      "EndOffset": 2515
+    },
+    {
+      "Score": 0.9984877109527588,
+      "Type": "DATE",
+      "Text": "1970",
+      "BeginOffset": 2554,
+      "EndOffset": 2558
+    },
+    {
+      "Score": 0.9991135001182556,
+      "Type": "PERSON",
+      "Text": "Johnny Carson",
+      "BeginOffset": 2574,
+      "EndOffset": 2587
+    },
+    {
+      "Score": 0.9993402361869812,
+      "Type": "PERSON",
+      "Text": "Alan King",
+      "BeginOffset": 2592,
+      "EndOffset": 2601
+    },
+    {
+      "Score": 0.999792218208313,
+      "Type": "PERSON",
+      "Text": "Ed Sullivan",
+      "BeginOffset": 2603,
+      "EndOffset": 2614
+    },
+    {
+      "Score": 0.9994142651557922,
+      "Type": "PERSON",
+      "Text": "Dennis Day",
+      "BeginOffset": 2616,
+      "EndOffset": 2626
+    },
+    {
+      "Score": 0.9972596764564514,
+      "Type": "PERSON",
+      "Text": "Phil Harris",
+      "BeginOffset": 2628,
+      "EndOffset": 2639
+    },
+    {
+      "Score": 0.998424768447876,
+      "Type": "PERSON",
+      "Text": "Benny",
+      "BeginOffset": 2645,
+      "EndOffset": 2650
+    },
+    {
+      "Score": 0.9997744560241699,
+      "Type": "PERSON",
+      "Text": "George\n   Burns",
+      "BeginOffset": 2652,
+      "EndOffset": 2667
+    },
+    {
+      "Score": 0.9979225993156433,
+      "Type": "PERSON",
+      "Text": "Milton Berle",
+      "BeginOffset": 2672,
+      "EndOffset": 2684
+    },
+    {
+      "Score": 0.5382994413375854,
+      "Type": "PERSON",
+      "Text": "Everett",
+      "BeginOffset": 2686,
+      "EndOffset": 2693
+    },
+    {
+      "Score": 0.9989595413208008,
+      "Type": "PERSON",
+      "Text": "David Leonhardt",
+      "BeginOffset": 2837,
+      "EndOffset": 2852
+    },
+    {
+      "Score": 0.7519335746765137,
+      "Type": "QUANTITY",
+      "Text": "both",
+      "BeginOffset": 2911,
+      "EndOffset": 2915
+    },
+    {
+      "Score": 0.9236989617347717,
+      "Type": "QUANTITY",
+      "Text": "1,788-Room",
+      "BeginOffset": 3078,
+      "EndOffset": 3088
+    },
+    {
+      "Score": 0.90196692943573,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 3129,
+      "EndOffset": 3133
+    },
+    {
+      "Score": 0.9229108691215515,
+      "Type": "ORGANIZATION",
+      "Text": "Democrats",
+      "BeginOffset": 3134,
+      "EndOffset": 3143
+    },
+    {
+      "Score": 0.9635533690452576,
+      "Type": "ORGANIZATION",
+      "Text": "Congress",
+      "BeginOffset": 3145,
+      "EndOffset": 3153
+    },
+    {
+      "Score": 0.5873109102249146,
+      "Type": "ORGANIZATION",
+      "Text": "I.R.S.",
+      "BeginOffset": 3157,
+      "EndOffset": 3163
+    },
+    {
+      "Score": 0.9988086223602295,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3203,
+      "EndOffset": 3208
+    },
+    {
+      "Score": 0.9836054444313049,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3248,
+      "EndOffset": 3253
+    },
+    {
+      "Score": 0.5543087720870972,
+      "Type": "OTHER",
+      "Text": "Sudanese",
+      "BeginOffset": 3426,
+      "EndOffset": 3434
+    },
+    {
+      "Score": 0.7081314921379089,
+      "Type": "ORGANIZATION",
+      "Text": "Lakers",
+      "BeginOffset": 3556,
+      "EndOffset": 3562
+    },
+    {
+      "Score": 0.9782532453536987,
+      "Type": "DATE",
+      "Text": "a year ago",
+      "BeginOffset": 3584,
+      "EndOffset": 3594
+    },
+    {
+      "Score": 0.8679389953613281,
+      "Type": "LOCATION",
+      "Text": "Los Angeles",
+      "BeginOffset": 3596,
+      "EndOffset": 3607
+    },
+    {
+      "Score": 0.6219608783721924,
+      "Type": "LOCATION",
+      "Text": "N.B.A.",
+      "BeginOffset": 3620,
+      "EndOffset": 3626
+    },
+    {
+      "Score": 0.9984506368637085,
+      "Type": "PERSON",
+      "Text": "LeBron\n   James",
+      "BeginOffset": 3638,
+      "EndOffset": 3653
+    },
+    {
+      "Score": 0.702362060546875,
+      "Type": "ORGANIZATION",
+      "Text": "Magic Johnson",
+      "BeginOffset": 3660,
+      "EndOffset": 3673
+    },
+    {
+      "Score": 0.9972944855690002,
+      "Type": "PERSON",
+      "Text": "Charles Van Doren",
+      "BeginOffset": 3719,
+      "EndOffset": 3736
+    },
+    {
+      "Score": 0.64670729637146,
+      "Type": "PERSON",
+      "Text": "Quiz Show",
+      "BeginOffset": 3738,
+      "EndOffset": 3747
+    },
+    {
+      "Score": 0.5635393261909485,
+      "Type": "QUANTITY",
+      "Text": "93\n   A",
+      "BeginOffset": 3773,
+      "EndOffset": 3780
+    },
+    {
+      "Score": 0.9883628487586975,
+      "Type": "ORGANIZATION",
+      "Text": "Congress",
+      "BeginOffset": 3840,
+      "EndOffset": 3848
+    },
+    {
+      "Score": 0.9873344302177429,
+      "Type": "DATE",
+      "Text": "1950s",
+      "BeginOffset": 3884,
+      "EndOffset": 3889
+    },
+    {
+      "Score": 0.933440089225769,
+      "Type": "ORGANIZATION",
+      "Text": "New York Times",
+      "BeginOffset": 3954,
+      "EndOffset": 3968
+    },
+    {
+      "Score": 0.46890851855278015,
+      "Type": "TITLE",
+      "Text": "Azqo1",
+      "BeginOffset": 4027,
+      "EndOffset": 4032
+    }
+  ]
+}

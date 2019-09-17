@@ -1,0 +1,109 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8241693377494812,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 193,
+      "EndOffset": 197
+    },
+    {
+      "Score": 0.8653376698493958,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 240,
+      "EndOffset": 244
+    },
+    {
+      "Score": 0.8744457960128784,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 330,
+      "EndOffset": 334
+    },
+    {
+      "Score": 0.9524044394493103,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 378,
+      "EndOffset": 386
+    },
+    {
+      "Score": 0.8814200162887573,
+      "Type": "ORGANIZATION",
+      "Text": "Twitter",
+      "BeginOffset": 391,
+      "EndOffset": 398
+    },
+    {
+      "Score": 0.9290211796760559,
+      "Type": "ORGANIZATION",
+      "Text": "Instagram",
+      "BeginOffset": 403,
+      "EndOffset": 412
+    },
+    {
+      "Score": 0.9644110202789307,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 418,
+      "EndOffset": 422
+    },
+    {
+      "Score": 0.89817875623703,
+      "Type": "ORGANIZATION",
+      "Text": "Cable News Network",
+      "BeginOffset": 423,
+      "EndOffset": 441
+    },
+    {
+      "Score": 0.9238120913505554,
+      "Type": "ORGANIZATION",
+      "Text": "Turner Broadcasting System, Inc.",
+      "BeginOffset": 448,
+      "EndOffset": 480
+    },
+    {
+      "Score": 0.8259209990501404,
+      "Type": "ORGANIZATION",
+      "Text": "CNN Sans",
+      "BeginOffset": 484,
+      "EndOffset": 492
+    },
+    {
+      "Score": 0.7504326105117798,
+      "Type": "ORGANIZATION",
+      "Text": "TM",
+      "BeginOffset": 494,
+      "EndOffset": 496
+    },
+    {
+      "Score": 0.9602000117301941,
+      "Type": "DATE",
+      "Text": "2016",
+      "BeginOffset": 502,
+      "EndOffset": 506
+    },
+    {
+      "Score": 0.8751869797706604,
+      "Type": "ORGANIZATION",
+      "Text": "Cable News Network",
+      "BeginOffset": 507,
+      "EndOffset": 525
+    },
+    {
+      "Score": 0.7619155645370483,
+      "Type": "TITLE",
+      "Text": "android",
+      "BeginOffset": 533,
+      "EndOffset": 540
+    },
+    {
+      "Score": 0.9822316765785217,
+      "Type": "OTHER",
+      "Text": "//com.cnn.mobile.android.phone/http/edition.cnn.com",
+      "BeginOffset": 545,
+      "EndOffset": 596
+    }
+  ]
+}

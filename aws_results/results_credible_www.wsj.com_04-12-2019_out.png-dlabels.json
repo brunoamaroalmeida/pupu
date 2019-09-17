@@ -1,0 +1,37 @@
+{
+  "Labels": [
+    {
+      "Name": "Text",
+      "Confidence": 98.57294464111328,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Menu",
+      "Confidence": 94.0553970336914,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.9832537174224854,
+            "Height": 0.9310845732688904,
+            "Left": 0.01576972007751465,
+            "Top": 0.06031734496355057
+          },
+          "Confidence": 94.0553970336914
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Word",
+      "Confidence": 78.38653564453125,
+      "Instances": [],
+      "Parents": []
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

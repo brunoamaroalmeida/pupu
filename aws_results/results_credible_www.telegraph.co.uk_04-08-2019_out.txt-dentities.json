@@ -1,0 +1,1005 @@
+{
+  "Entities": [
+    {
+      "Score": 0.6477611660957336,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 8,
+      "EndOffset": 14
+    },
+    {
+      "Score": 0.9986634850502014,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 23,
+      "EndOffset": 34
+    },
+    {
+      "Score": 0.8291661739349365,
+      "Type": "DATE",
+      "Text": "1922",
+      "BeginOffset": 90,
+      "EndOffset": 94
+    },
+    {
+      "Score": 0.7207220196723938,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 241,
+      "EndOffset": 243
+    },
+    {
+      "Score": 0.5762534737586975,
+      "Type": "ORGANIZATION",
+      "Text": "MEP",
+      "BeginOffset": 262,
+      "EndOffset": 265
+    },
+    {
+      "Score": 0.7735010981559753,
+      "Type": "QUANTITY",
+      "Text": "50",
+      "BeginOffset": 290,
+      "EndOffset": 292
+    },
+    {
+      "Score": 0.7920922636985779,
+      "Type": "PERSON",
+      "Text": "William HagueThe",
+      "BeginOffset": 293,
+      "EndOffset": 309
+    },
+    {
+      "Score": 0.888848602771759,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 348,
+      "EndOffset": 354
+    },
+    {
+      "Score": 0.9460027813911438,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 374,
+      "EndOffset": 376
+    },
+    {
+      "Score": 0.981732189655304,
+      "Type": "ORGANIZATION",
+      "Text": "House of Parliament",
+      "BeginOffset": 412,
+      "EndOffset": 431
+    },
+    {
+      "Score": 0.4990425705909729,
+      "Type": "ORGANIZATION",
+      "Text": "pollBritain",
+      "BeginOffset": 449,
+      "EndOffset": 460
+    },
+    {
+      "Score": 0.4719044268131256,
+      "Type": "QUANTITY",
+      "Text": "52",
+      "BeginOffset": 512,
+      "EndOffset": 514
+    },
+    {
+      "Score": 0.9481160044670105,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 515,
+      "EndOffset": 521
+    },
+    {
+      "Score": 0.9974669814109802,
+      "Type": "PERSON",
+      "Text": "Michel Barnier",
+      "BeginOffset": 535,
+      "EndOffset": 549
+    },
+    {
+      "Score": 0.999613881111145,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 556,
+      "EndOffset": 567
+    },
+    {
+      "Score": 0.9996028542518616,
+      "Type": "PERSON",
+      "Text": "Jeremy Corbyn",
+      "BeginOffset": 572,
+      "EndOffset": 585
+    },
+    {
+      "Score": 0.9912593364715576,
+      "Type": "PERSON",
+      "Text": "Tim StanleyDon",
+      "BeginOffset": 593,
+      "EndOffset": 607
+    },
+    {
+      "Score": 0.9123772382736206,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 626,
+      "EndOffset": 632
+    },
+    {
+      "Score": 0.9829565286636353,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 650,
+      "EndOffset": 652
+    },
+    {
+      "Score": 0.5149065256118774,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 668,
+      "EndOffset": 670
+    },
+    {
+      "Score": 0.997624397277832,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 671,
+      "EndOffset": 682
+    },
+    {
+      "Score": 0.6733067035675049,
+      "Type": "ORGANIZATION",
+      "Text": "MPs",
+      "BeginOffset": 702,
+      "EndOffset": 705
+    },
+    {
+      "Score": 0.5484439730644226,
+      "Type": "QUANTITY",
+      "Text": "second referendum",
+      "BeginOffset": 706,
+      "EndOffset": 723
+    },
+    {
+      "Score": 0.8810455203056335,
+      "Type": "QUANTITY",
+      "Text": "55",
+      "BeginOffset": 739,
+      "EndOffset": 741
+    },
+    {
+      "Score": 0.8906856775283813,
+      "Type": "PERSON",
+      "Text": "Matthew LynnCarlos Ghosn",
+      "BeginOffset": 742,
+      "EndOffset": 766
+    },
+    {
+      "Score": 0.6471081972122192,
+      "Type": "LOCATION",
+      "Text": "Europe",
+      "BeginOffset": 795,
+      "EndOffset": 801
+    },
+    {
+      "Score": 0.7548310160636902,
+      "Type": "PERSON",
+      "Text": "Eden Hazard",
+      "BeginOffset": 822,
+      "EndOffset": 833
+    },
+    {
+      "Score": 0.6842792630195618,
+      "Type": "LOCATION",
+      "Text": "West Ham",
+      "BeginOffset": 859,
+      "EndOffset": 867
+    },
+    {
+      "Score": 0.7128046751022339,
+      "Type": "QUANTITY",
+      "Text": "56",
+      "BeginOffset": 877,
+      "EndOffset": 879
+    },
+    {
+      "Score": 0.9672431349754333,
+      "Type": "PERSON",
+      "Text": "Eden Hazard",
+      "BeginOffset": 880,
+      "EndOffset": 891
+    },
+    {
+      "Score": 0.6913881301879883,
+      "Type": "ORGANIZATION",
+      "Text": "West Ham",
+      "BeginOffset": 940,
+      "EndOffset": 948
+    },
+    {
+      "Score": 0.60660320520401,
+      "Type": "ORGANIZATION",
+      "Text": "Debenhams",
+      "BeginOffset": 958,
+      "EndOffset": 967
+    },
+    {
+      "Score": 0.9469736814498901,
+      "Type": "PERSON",
+      "Text": "Ashley",
+      "BeginOffset": 981,
+      "EndOffset": 987
+    },
+    {
+      "Score": 0.6861220598220825,
+      "Type": "ORGANIZATION",
+      "Text": "Debenhams",
+      "BeginOffset": 1007,
+      "EndOffset": 1016
+    },
+    {
+      "Score": 0.9959360957145691,
+      "Type": "PERSON",
+      "Text": "Mike Ashley",
+      "BeginOffset": 1056,
+      "EndOffset": 1067
+    },
+    {
+      "Score": 0.964022159576416,
+      "Type": "QUANTITY",
+      "Text": "£150m",
+      "BeginOffset": 1070,
+      "EndOffset": 1075
+    },
+    {
+      "Score": 0.9985774755477905,
+      "Type": "PERSON",
+      "Text": "Claire",
+      "BeginOffset": 1083,
+      "EndOffset": 1089
+    },
+    {
+      "Score": 0.9970935583114624,
+      "Type": "PERSON",
+      "Text": "Sian Clifford",
+      "BeginOffset": 1091,
+      "EndOffset": 1104
+    },
+    {
+      "Score": 0.8777580261230469,
+      "Type": "PERSON",
+      "Text": "Fleabag",
+      "BeginOffset": 1111,
+      "EndOffset": 1118
+    },
+    {
+      "Score": 0.9489075541496277,
+      "Type": "PERSON",
+      "Text": "Pheobe Waller-Bridge",
+      "BeginOffset": 1120,
+      "EndOffset": 1140
+    },
+    {
+      "Score": 0.5556011199951172,
+      "Type": "PERSON",
+      "Text": "Fleabag",
+      "BeginOffset": 1150,
+      "EndOffset": 1157
+    },
+    {
+      "Score": 0.8992716073989868,
+      "Type": "QUANTITY",
+      "Text": "second series",
+      "BeginOffset": 1160,
+      "EndOffset": 1173
+    },
+    {
+      "Score": 0.6247255802154541,
+      "Type": "QUANTITY",
+      "Text": "59",
+      "BeginOffset": 1205,
+      "EndOffset": 1207
+    },
+    {
+      "Score": 0.9994192719459534,
+      "Type": "PERSON",
+      "Text": "James Cracknell",
+      "BeginOffset": 1208,
+      "EndOffset": 1223
+    },
+    {
+      "Score": 0.807079553604126,
+      "Type": "QUANTITY",
+      "Text": "6. lake atitlan",
+      "BeginOffset": 1283,
+      "EndOffset": 1298
+    },
+    {
+      "Score": 0.6816624402999878,
+      "Type": "QUANTITY",
+      "Text": "60",
+      "BeginOffset": 1323,
+      "EndOffset": 1325
+    },
+    {
+      "Score": 0.9156535267829895,
+      "Type": "QUANTITY",
+      "Text": "Eight reasons",
+      "BeginOffset": 1326,
+      "EndOffset": 1339
+    },
+    {
+      "Score": 0.5034137964248657,
+      "Type": "LOCATION",
+      "Text": "Guatemala",
+      "BeginOffset": 1344,
+      "EndOffset": 1353
+    },
+    {
+      "Score": 0.868305504322052,
+      "Type": "QUANTITY",
+      "Text": "one of the most beautiful places",
+      "BeginOffset": 1357,
+      "EndOffset": 1389
+    },
+    {
+      "Score": 0.5598878264427185,
+      "Type": "QUANTITY",
+      "Text": "1",
+      "BeginOffset": 1401,
+      "EndOffset": 1402
+    },
+    {
+      "Score": 0.9976457357406616,
+      "Type": "PERSON",
+      "Text": "Wade Robson",
+      "BeginOffset": 1404,
+      "EndOffset": 1415
+    },
+    {
+      "Score": 0.9998024702072144,
+      "Type": "PERSON",
+      "Text": "Michael Jackson",
+      "BeginOffset": 1437,
+      "EndOffset": 1452
+    },
+    {
+      "Score": 0.3626560866832733,
+      "Type": "QUANTITY",
+      "Text": "61",
+      "BeginOffset": 1470,
+      "EndOffset": 1472
+    },
+    {
+      "Score": 0.4891979396343231,
+      "Type": "PERSON",
+      "Text": "Neverland Firsthand",
+      "BeginOffset": 1473,
+      "EndOffset": 1492
+    },
+    {
+      "Score": 0.956434965133667,
+      "Type": "PERSON",
+      "Text": "Jackson",
+      "BeginOffset": 1503,
+      "EndOffset": 1510
+    },
+    {
+      "Score": 0.8595561385154724,
+      "Type": "PERSON",
+      "Text": "Former Chancellor George Osborne",
+      "BeginOffset": 1591,
+      "EndOffset": 1623
+    },
+    {
+      "Score": 0.988621175289154,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 1676,
+      "EndOffset": 1687
+    },
+    {
+      "Score": 0.9279085397720337,
+      "Type": "ORGANIZATION",
+      "Text": "Manchester City",
+      "BeginOffset": 1799,
+      "EndOffset": 1814
+    },
+    {
+      "Score": 0.9673224687576294,
+      "Type": "OTHER",
+      "Text": "English",
+      "BeginOffset": 1817,
+      "EndOffset": 1824
+    },
+    {
+      "Score": 0.9316832423210144,
+      "Type": "PERSON",
+      "Text": "Raheem Sterling",
+      "BeginOffset": 1836,
+      "EndOffset": 1851
+    },
+    {
+      "Score": 0.8583242297172546,
+      "Type": "ORGANIZATION",
+      "Text": "Manchester City",
+      "BeginOffset": 1867,
+      "EndOffset": 1882
+    },
+    {
+      "Score": 0.8431749939918518,
+      "Type": "OTHER",
+      "Text": "French",
+      "BeginOffset": 1885,
+      "EndOffset": 1891
+    },
+    {
+      "Score": 0.9581411480903625,
+      "Type": "PERSON",
+      "Text": "Benjamin Mendy",
+      "BeginOffset": 1901,
+      "EndOffset": 1915
+    },
+    {
+      "Score": 0.8157097697257996,
+      "Type": "LOCATION",
+      "Text": "Tottenham Hotspur Stadium",
+      "BeginOffset": 1967,
+      "EndOffset": 1992
+    },
+    {
+      "Score": 0.909989595413208,
+      "Type": "LOCATION",
+      "Text": "north London",
+      "BeginOffset": 1996,
+      "EndOffset": 2008
+    },
+    {
+      "Score": 0.9987443089485168,
+      "Type": "DATE",
+      "Text": "April 8, 2019",
+      "BeginOffset": 2020,
+      "EndOffset": 2033
+    },
+    {
+      "Score": 0.9600794911384583,
+      "Type": "EVENT",
+      "Text": "UEFA Champions League",
+      "BeginOffset": 2054,
+      "EndOffset": 2075
+    },
+    {
+      "Score": 0.7265104651451111,
+      "Type": "QUANTITY",
+      "Text": "first leg football match",
+      "BeginOffset": 2097,
+      "EndOffset": 2121
+    },
+    {
+      "Score": 0.9974590539932251,
+      "Type": "ORGANIZATION",
+      "Text": "Tottenham Hotspur",
+      "BeginOffset": 2130,
+      "EndOffset": 2147
+    },
+    {
+      "Score": 0.9925898909568787,
+      "Type": "PERSON",
+      "Text": "Raheem Sterling",
+      "BeginOffset": 2153,
+      "EndOffset": 2168
+    },
+    {
+      "Score": 0.5178223252296448,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 2225,
+      "EndOffset": 2227
+    },
+    {
+      "Score": 0.7300733327865601,
+      "Type": "ORGANIZATION",
+      "Text": "CareIf the Government",
+      "BeginOffset": 2236,
+      "EndOffset": 2257
+    },
+    {
+      "Score": 0.9567115902900696,
+      "Type": "PERSON",
+      "Text": "Breck",
+      "BeginOffset": 2283,
+      "EndOffset": 2288
+    },
+    {
+      "Score": 0.9992437958717346,
+      "Type": "PERSON",
+      "Text": "Jon Snow",
+      "BeginOffset": 2308,
+      "EndOffset": 2316
+    },
+    {
+      "Score": 0.8864365816116333,
+      "Type": "ORGANIZATION",
+      "Text": "Channel 4",
+      "BeginOffset": 2320,
+      "EndOffset": 2329
+    },
+    {
+      "Score": 0.9812600612640381,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2395,
+      "EndOffset": 2401
+    },
+    {
+      "Score": 0.9985067248344421,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2419,
+      "EndOffset": 2425
+    },
+    {
+      "Score": 0.9910576343536377,
+      "Type": "DATE",
+      "Text": "March 29",
+      "BeginOffset": 2429,
+      "EndOffset": 2437
+    },
+    {
+      "Score": 0.7332689762115479,
+      "Type": "QUANTITY",
+      "Text": "65",
+      "BeginOffset": 2439,
+      "EndOffset": 2441
+    },
+    {
+      "Score": 0.9994288682937622,
+      "Type": "PERSON",
+      "Text": "Jon Snow",
+      "BeginOffset": 2442,
+      "EndOffset": 2450
+    },
+    {
+      "Score": 0.8701567649841309,
+      "Type": "ORGANIZATION",
+      "Text": "Ofcom",
+      "BeginOffset": 2473,
+      "EndOffset": 2478
+    },
+    {
+      "Score": 0.9982725977897644,
+      "Type": "PERSON",
+      "Text": "Mindy Hammond",
+      "BeginOffset": 2522,
+      "EndOffset": 2535
+    },
+    {
+      "Score": 0.991664469242096,
+      "Type": "PERSON",
+      "Text": "Richard",
+      "BeginOffset": 2562,
+      "EndOffset": 2569
+    },
+    {
+      "Score": 0.998908281326294,
+      "Type": "DATE",
+      "Text": "2017",
+      "BeginOffset": 2573,
+      "EndOffset": 2577
+    },
+    {
+      "Score": 0.5033323168754578,
+      "Type": "QUANTITY",
+      "Text": "66",
+      "BeginOffset": 2588,
+      "EndOffset": 2590
+    },
+    {
+      "Score": 0.9921558499336243,
+      "Type": "PERSON",
+      "Text": "'Richard Hammond",
+      "BeginOffset": 2615,
+      "EndOffset": 2631
+    },
+    {
+      "Score": 0.5518949031829834,
+      "Type": "QUANTITY",
+      "Text": "67",
+      "BeginOffset": 2662,
+      "EndOffset": 2664
+    },
+    {
+      "Score": 0.8913212418556213,
+      "Type": "QUANTITY",
+      "Text": "Six style lessons",
+      "BeginOffset": 2665,
+      "EndOffset": 2682
+    },
+    {
+      "Score": 0.8671936392784119,
+      "Type": "PERSON",
+      "Text": "Duchess of Sussex",
+      "BeginOffset": 2706,
+      "EndOffset": 2723
+    },
+    {
+      "Score": 0.6682783365249634,
+      "Type": "QUANTITY",
+      "Text": "68",
+      "BeginOffset": 2737,
+      "EndOffset": 2739
+    },
+    {
+      "Score": 0.5476529598236084,
+      "Type": "QUANTITY",
+      "Text": "1",
+      "BeginOffset": 2818,
+      "EndOffset": 2819
+    },
+    {
+      "Score": 0.8900058269500732,
+      "Type": "PERSON",
+      "Text": "Prime Minister Theresa May",
+      "BeginOffset": 2844,
+      "EndOffset": 2870
+    },
+    {
+      "Score": 0.9997214674949646,
+      "Type": "PERSON",
+      "Text": "Jeremy Corbyn",
+      "BeginOffset": 2896,
+      "EndOffset": 2909
+    },
+    {
+      "Score": 0.7780055403709412,
+      "Type": "PERSON",
+      "Text": "May",
+      "BeginOffset": 2911,
+      "EndOffset": 2914
+    },
+    {
+      "Score": 0.9163734316825867,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2928,
+      "EndOffset": 2934
+    },
+    {
+      "Score": 0.9379070401191711,
+      "Type": "PERSON",
+      "Text": "Corbyn",
+      "BeginOffset": 2951,
+      "EndOffset": 2957
+    },
+    {
+      "Score": 0.5294987559318542,
+      "Type": "PERSON",
+      "Text": "Labour",
+      "BeginOffset": 3001,
+      "EndOffset": 3007
+    },
+    {
+      "Score": 0.9981436133384705,
+      "Type": "DATE",
+      "Text": "Saturday\n       April 6, 2019",
+      "BeginOffset": 3099,
+      "EndOffset": 3128
+    },
+    {
+      "Score": 0.7278388738632202,
+      "Type": "LOCATION",
+      "Text": "Downing Street",
+      "BeginOffset": 3130,
+      "EndOffset": 3144
+    },
+    {
+      "Score": 0.8114311695098877,
+      "Type": "DATE",
+      "Text": "this weekend",
+      "BeginOffset": 3167,
+      "EndOffset": 3179
+    },
+    {
+      "Score": 0.5016860961914062,
+      "Type": "PERSON",
+      "Text": "Labour",
+      "BeginOffset": 3237,
+      "EndOffset": 3243
+    },
+    {
+      "Score": 0.9966384172439575,
+      "Type": "PERSON",
+      "Text": "May",
+      "BeginOffset": 3260,
+      "EndOffset": 3263
+    },
+    {
+      "Score": 0.9426984190940857,
+      "Type": "DATE",
+      "Text": "this week",
+      "BeginOffset": 3415,
+      "EndOffset": 3424
+    },
+    {
+      "Score": 0.8966491222381592,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3438,
+      "EndOffset": 3444
+    },
+    {
+      "Score": 0.3952160179615021,
+      "Type": "OTHER",
+      "Text": "76",
+      "BeginOffset": 3460,
+      "EndOffset": 3462
+    },
+    {
+      "Score": 0.9986108541488647,
+      "Type": "PERSON",
+      "Text": "Michel Barnier",
+      "BeginOffset": 3486,
+      "EndOffset": 3500
+    },
+    {
+      "Score": 0.9466255903244019,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3506,
+      "EndOffset": 3512
+    },
+    {
+      "Score": 0.5521511435508728,
+      "Type": "QUANTITY",
+      "Text": "77",
+      "BeginOffset": 3536,
+      "EndOffset": 3538
+    },
+    {
+      "Score": 0.9943044781684875,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 3548,
+      "EndOffset": 3559
+    },
+    {
+      "Score": 0.4294488728046417,
+      "Type": "QUANTITY",
+      "Text": "78",
+      "BeginOffset": 3608,
+      "EndOffset": 3610
+    },
+    {
+      "Score": 0.5484520792961121,
+      "Type": "QUANTITY",
+      "Text": "80",
+      "BeginOffset": 3760,
+      "EndOffset": 3762
+    },
+    {
+      "Score": 0.7542539238929749,
+      "Type": "QUANTITY",
+      "Text": "7",
+      "BeginOffset": 3840,
+      "EndOffset": 3841
+    },
+    {
+      "Score": 0.8978127241134644,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 3851,
+      "EndOffset": 3853
+    },
+    {
+      "Score": 0.9804289937019348,
+      "Type": "DATE",
+      "Text": "last week",
+      "BeginOffset": 3884,
+      "EndOffset": 3893
+    },
+    {
+      "Score": 0.4042738974094391,
+      "Type": "QUANTITY",
+      "Text": "81",
+      "BeginOffset": 3895,
+      "EndOffset": 3897
+    },
+    {
+      "Score": 0.9466850757598877,
+      "Type": "ORGANIZATION",
+      "Text": "Conservative Party",
+      "BeginOffset": 3902,
+      "EndOffset": 3920
+    },
+    {
+      "Score": 0.9958788156509399,
+      "Type": "ORGANIZATION",
+      "Text": "Netflix",
+      "BeginOffset": 3972,
+      "EndOffset": 3979
+    },
+    {
+      "Score": 0.9959126710891724,
+      "Type": "PERSON",
+      "Text": "Carol Kirkwood",
+      "BeginOffset": 4052,
+      "EndOffset": 4066
+    },
+    {
+      "Score": 0.9880672693252563,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 4080,
+      "EndOffset": 4083
+    },
+    {
+      "Score": 0.6671062707901001,
+      "Type": "QUANTITY",
+      "Text": "104",
+      "BeginOffset": 4102,
+      "EndOffset": 4105
+    },
+    {
+      "Score": 0.4787636697292328,
+      "Type": "LOCATION",
+      "Text": "Cornwall",
+      "BeginOffset": 4106,
+      "EndOffset": 4114
+    },
+    {
+      "Score": 0.9539793729782104,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 4135,
+      "EndOffset": 4138
+    },
+    {
+      "Score": 0.9051524996757507,
+      "Type": "QUANTITY",
+      "Text": "two parts",
+      "BeginOffset": 4221,
+      "EndOffset": 4230
+    },
+    {
+      "Score": 0.5185962915420532,
+      "Type": "QUANTITY",
+      "Text": "105",
+      "BeginOffset": 4248,
+      "EndOffset": 4251
+    },
+    {
+      "Score": 0.9591464996337891,
+      "Type": "QUANTITY",
+      "Text": "20-year-old",
+      "BeginOffset": 4298,
+      "EndOffset": 4309
+    },
+    {
+      "Score": 0.48027241230010986,
+      "Type": "QUANTITY",
+      "Text": "4",
+      "BeginOffset": 4324,
+      "EndOffset": 4325
+    },
+    {
+      "Score": 0.999675452709198,
+      "Type": "PERSON",
+      "Text": "Alex McCall",
+      "BeginOffset": 4327,
+      "EndOffset": 4338
+    },
+    {
+      "Score": 0.9757923483848572,
+      "Type": "ORGANIZATION",
+      "Text": "Newcastle University",
+      "BeginOffset": 4372,
+      "EndOffset": 4392
+    },
+    {
+      "Score": 0.9288966059684753,
+      "Type": "ORGANIZATION",
+      "Text": "Clinical Commissioning Groups",
+      "BeginOffset": 4413,
+      "EndOffset": 4442
+    },
+    {
+      "Score": 0.907326877117157,
+      "Type": "ORGANIZATION",
+      "Text": "CCGs",
+      "BeginOffset": 4444,
+      "EndOffset": 4448
+    },
+    {
+      "Score": 0.9132625460624695,
+      "Type": "LOCATION",
+      "Text": "Newcastle",
+      "BeginOffset": 4453,
+      "EndOffset": 4462
+    },
+    {
+      "Score": 0.9892962574958801,
+      "Type": "LOCATION",
+      "Text": "Brighton",
+      "BeginOffset": 4474,
+      "EndOffset": 4482
+    },
+    {
+      "Score": 0.6334492564201355,
+      "Type": "QUANTITY",
+      "Text": "106",
+      "BeginOffset": 4522,
+      "EndOffset": 4525
+    },
+    {
+      "Score": 0.9237816333770752,
+      "Type": "ORGANIZATION",
+      "Text": "NHS",
+      "BeginOffset": 4550,
+      "EndOffset": 4553
+    },
+    {
+      "Score": 0.6543800830841064,
+      "Type": "QUANTITY",
+      "Text": "107",
+      "BeginOffset": 4598,
+      "EndOffset": 4601
+    },
+    {
+      "Score": 0.9973881840705872,
+      "Type": "PERSON",
+      "Text": "Allison Mack",
+      "BeginOffset": 4610,
+      "EndOffset": 4622
+    },
+    {
+      "Score": 0.6974679827690125,
+      "Type": "ORGANIZATION",
+      "Text": "Nxivm",
+      "BeginOffset": 4651,
+      "EndOffset": 4656
+    },
+    {
+      "Score": 0.7907266020774841,
+      "Type": "QUANTITY",
+      "Text": "108",
+      "BeginOffset": 4674,
+      "EndOffset": 4677
+    },
+    {
+      "Score": 0.8246114253997803,
+      "Type": "ORGANIZATION",
+      "Text": "Waitrose",
+      "BeginOffset": 4678,
+      "EndOffset": 4686
+    },
+    {
+      "Score": 0.8144659399986267,
+      "Type": "ORGANIZATION",
+      "Text": "Dorchester Hotel",
+      "BeginOffset": 4782,
+      "EndOffset": 4798
+    },
+    {
+      "Score": 0.9978864789009094,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 4802,
+      "EndOffset": 4808
+    },
+    {
+      "Score": 0.5660672187805176,
+      "Type": "QUANTITY",
+      "Text": "109",
+      "BeginOffset": 4822,
+      "EndOffset": 4825
+    },
+    {
+      "Score": 0.9836824536323547,
+      "Type": "LOCATION",
+      "Text": "Brunei",
+      "BeginOffset": 4882,
+      "EndOffset": 4888
+    }
+  ]
+}

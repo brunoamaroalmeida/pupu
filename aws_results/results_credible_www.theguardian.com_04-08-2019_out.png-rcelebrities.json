@@ -1,0 +1,57 @@
+{
+  "CelebrityFaces": [
+    {
+      "Urls": [],
+      "Name": "Fernando Ricksen",
+      "Id": "4r2ND7c",
+      "Face": {
+        "BoundingBox": {
+          "Width": 0.1630859375,
+          "Height": 0.20874999463558197,
+          "Left": 0.4306640625,
+          "Top": 0.5649999976158142
+        },
+        "Confidence": 99.99967956542969,
+        "Landmarks": [
+          {
+            "Type": "eyeLeft",
+            "X": 0.48471859097480774,
+            "Y": 0.6508852243423462
+          },
+          {
+            "Type": "eyeRight",
+            "X": 0.5342159867286682,
+            "Y": 0.6511585116386414
+          },
+          {
+            "Type": "nose",
+            "X": 0.4994337558746338,
+            "Y": 0.6909264922142029
+          },
+          {
+            "Type": "mouthLeft",
+            "X": 0.49252185225486755,
+            "Y": 0.729119062423706
+          },
+          {
+            "Type": "mouthRight",
+            "X": 0.5270249843597412,
+            "Y": 0.7281168103218079
+          }
+        ],
+        "Pose": {
+          "Roll": 1.018636703491211,
+          "Yaw": -17.741653442382812,
+          "Pitch": -0.5409517288208008
+        },
+        "Quality": {
+          "Brightness": 66.66813659667969,
+          "Sharpness": 94.1185531616211
+        }
+      },
+      "MatchConfidence": 56
+    }
+  ],
+  "UnrecognizedFaces": [],
+  "OrientationCorrection": "ROTATE_0"
+}

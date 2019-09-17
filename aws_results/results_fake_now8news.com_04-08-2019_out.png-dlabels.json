@@ -1,0 +1,69 @@
+{
+  "Labels": [
+    {
+      "Name": "Jaw",
+      "Confidence": 99.9681167602539,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 99.11546325683594,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 99.11546325683594,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.09863591194152832,
+            "Height": 0.13650451600551605,
+            "Left": 0.7672657370567322,
+            "Top": 0.4707126319408417
+          },
+          "Confidence": 99.11546325683594
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.18900537490844727,
+            "Height": 0.191661074757576,
+            "Left": 0.654089093208313,
+            "Top": 0.7416772246360779
+          },
+          "Confidence": 98.47432708740234
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.13792705535888672,
+            "Height": 0.182575523853302,
+            "Left": 0.74241703748703,
+            "Top": 0.7448927164077759
+          },
+          "Confidence": 89.7835464477539
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Head",
+      "Confidence": 94.9506607055664,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "File",
+      "Confidence": 64.95233917236328,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Throat",
+      "Confidence": 55.81087875366211,
+      "Instances": [],
+      "Parents": []
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

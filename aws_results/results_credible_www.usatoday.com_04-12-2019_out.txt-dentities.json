@@ -1,0 +1,774 @@
+{
+  "Entities": [
+    {
+      "Score": 0.6651903390884399,
+      "Type": "ORGANIZATION",
+      "Text": "USA TODAY",
+      "BeginOffset": 11,
+      "EndOffset": 20
+    },
+    {
+      "Score": 0.9649133682250977,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 60,
+      "EndOffset": 75
+    },
+    {
+      "Score": 0.7521430253982544,
+      "Type": "LOCATION",
+      "Text": "Pentagon",
+      "BeginOffset": 98,
+      "EndOffset": 106
+    },
+    {
+      "Score": 0.9988646507263184,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 111,
+      "EndOffset": 116
+    },
+    {
+      "Score": 0.988524317741394,
+      "Type": "TITLE",
+      "Text": "Star Wars: Episode IX",
+      "BeginOffset": 170,
+      "EndOffset": 191
+    },
+    {
+      "Score": 0.9546090364456177,
+      "Type": "TITLE",
+      "Text": "The Rise of Skywalker",
+      "BeginOffset": 209,
+      "EndOffset": 230
+    },
+    {
+      "Score": 0.9271824955940247,
+      "Type": "PERSON",
+      "Text": "Luke Skywalker",
+      "BeginOffset": 251,
+      "EndOffset": 265
+    },
+    {
+      "Score": 0.9756388068199158,
+      "Type": "PERSON",
+      "Text": "Rey",
+      "BeginOffset": 267,
+      "EndOffset": 270
+    },
+    {
+      "Score": 0.8563966751098633,
+      "Type": "ORGANIZATION",
+      "Text": "American Airlines",
+      "BeginOffset": 363,
+      "EndOffset": 380
+    },
+    {
+      "Score": 0.9896125197410583,
+      "Type": "ORGANIZATION",
+      "Text": "Delta",
+      "BeginOffset": 392,
+      "EndOffset": 397
+    },
+    {
+      "Score": 0.9355415105819702,
+      "Type": "ORGANIZATION",
+      "Text": "United",
+      "BeginOffset": 402,
+      "EndOffset": 408
+    },
+    {
+      "Score": 0.9732323288917542,
+      "Type": "ORGANIZATION",
+      "Text": "American Airlines",
+      "BeginOffset": 458,
+      "EndOffset": 475
+    },
+    {
+      "Score": 0.9957335591316223,
+      "Type": "ORGANIZATION",
+      "Text": "Delta",
+      "BeginOffset": 487,
+      "EndOffset": 492
+    },
+    {
+      "Score": 0.7594283819198608,
+      "Type": "ORGANIZATION",
+      "Text": "United",
+      "BeginOffset": 497,
+      "EndOffset": 503
+    },
+    {
+      "Score": 0.6598108410835266,
+      "Type": "LOCATION",
+      "Text": "N.J.",
+      "BeginOffset": 510,
+      "EndOffset": 514
+    },
+    {
+      "Score": 0.5184874534606934,
+      "Type": "QUANTITY",
+      "Text": "couple",
+      "BeginOffset": 515,
+      "EndOffset": 521
+    },
+    {
+      "Score": 0.9531925320625305,
+      "Type": "QUANTITY",
+      "Text": "$4.5M",
+      "BeginOffset": 528,
+      "EndOffset": 533
+    },
+    {
+      "Score": 0.6952534914016724,
+      "Type": "ORGANIZATION",
+      "Text": "Tiger",
+      "BeginOffset": 562,
+      "EndOffset": 567
+    },
+    {
+      "Score": 0.750022828578949,
+      "Type": "EVENT",
+      "Text": "Masters",
+      "BeginOffset": 587,
+      "EndOffset": 594
+    },
+    {
+      "Score": 0.9982804656028748,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 611,
+      "EndOffset": 626
+    },
+    {
+      "Score": 0.7714934945106506,
+      "Type": "QUANTITY",
+      "Text": "Every episode",
+      "BeginOffset": 629,
+      "EndOffset": 642
+    },
+    {
+      "Score": 0.9991573095321655,
+      "Type": "PERSON",
+      "Text": "Peter Dinklage",
+      "BeginOffset": 654,
+      "EndOffset": 668
+    },
+    {
+      "Score": 0.9837062358856201,
+      "Type": "PERSON",
+      "Text": "Tyrion Lannister",
+      "BeginOffset": 672,
+      "EndOffset": 688
+    },
+    {
+      "Score": 0.973849356174469,
+      "Type": "TITLE",
+      "Text": "The Laws of Gods and Men",
+      "BeginOffset": 693,
+      "EndOffset": 717
+    },
+    {
+      "Score": 0.8971307277679443,
+      "Type": "LOCATION",
+      "Text": "Grand Canyon",
+      "BeginOffset": 751,
+      "EndOffset": 763
+    },
+    {
+      "Score": 0.9989470839500427,
+      "Type": "PERSON",
+      "Text": "Sylvia Kadlubowski",
+      "BeginOffset": 791,
+      "EndOffset": 809
+    },
+    {
+      "Score": 0.9981666803359985,
+      "Type": "PERSON",
+      "Text": "Keanu Dirks",
+      "BeginOffset": 814,
+      "EndOffset": 825
+    },
+    {
+      "Score": 0.9986435174942017,
+      "Type": "PERSON",
+      "Text": "Mick Jagger",
+      "BeginOffset": 849,
+      "EndOffset": 860
+    },
+    {
+      "Score": 0.9713121652603149,
+      "Type": "LOCATION",
+      "Text": "NANTERRE, FRANCE",
+      "BeginOffset": 900,
+      "EndOffset": 916
+    },
+    {
+      "Score": 0.9961773157119751,
+      "Type": "DATE",
+      "Text": "OCTOBER 19",
+      "BeginOffset": 919,
+      "EndOffset": 929
+    },
+    {
+      "Score": 0.995491623878479,
+      "Type": "PERSON",
+      "Text": "Mick Jagger",
+      "BeginOffset": 931,
+      "EndOffset": 942
+    },
+    {
+      "Score": 0.9155632257461548,
+      "Type": "ORGANIZATION",
+      "Text": "The Rolling Stones",
+      "BeginOffset": 946,
+      "EndOffset": 964
+    },
+    {
+      "Score": 0.9944891929626465,
+      "Type": "LOCATION",
+      "Text": "U Arena",
+      "BeginOffset": 994,
+      "EndOffset": 1001
+    },
+    {
+      "Score": 0.9993526339530945,
+      "Type": "DATE",
+      "Text": "October 19, 2017",
+      "BeginOffset": 1005,
+      "EndOffset": 1021
+    },
+    {
+      "Score": 0.9920925498008728,
+      "Type": "LOCATION",
+      "Text": "Nanterre,\n   France",
+      "BeginOffset": 1025,
+      "EndOffset": 1044
+    },
+    {
+      "Score": 0.9931544065475464,
+      "Type": "PERSON",
+      "Text": "Brian Rasic",
+      "BeginOffset": 1056,
+      "EndOffset": 1067
+    },
+    {
+      "Score": 0.9251524806022644,
+      "Type": "ORGANIZATION",
+      "Text": "WireImage",
+      "BeginOffset": 1068,
+      "EndOffset": 1077
+    },
+    {
+      "Score": 0.9970801472663879,
+      "Type": "OTHER",
+      "Text": "775059905",
+      "BeginOffset": 1089,
+      "EndOffset": 1098
+    },
+    {
+      "Score": 0.8757907152175903,
+      "Type": "LOCATION",
+      "Text": "NYC",
+      "BeginOffset": 1112,
+      "EndOffset": 1115
+    },
+    {
+      "Score": 0.6663381457328796,
+      "Type": "OTHER",
+      "Text": "Chinese",
+      "BeginOffset": 1144,
+      "EndOffset": 1151
+    },
+    {
+      "Score": 0.9958572387695312,
+      "Type": "LOCATION",
+      "Text": "New York City",
+      "BeginOffset": 1162,
+      "EndOffset": 1175
+    },
+    {
+      "Score": 0.9446155428886414,
+      "Type": "PERSON",
+      "Text": "Clinton",
+      "BeginOffset": 1232,
+      "EndOffset": 1239
+    },
+    {
+      "Score": 0.7035428881645203,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 1241,
+      "EndOffset": 1248
+    },
+    {
+      "Score": 0.8329349756240845,
+      "Type": "PERSON",
+      "Text": "Former Secretary of State",
+      "BeginOffset": 1279,
+      "EndOffset": 1304
+    },
+    {
+      "Score": 0.9998824596405029,
+      "Type": "PERSON",
+      "Text": "Hillary Clinton",
+      "BeginOffset": 1332,
+      "EndOffset": 1347
+    },
+    {
+      "Score": 0.8571308255195618,
+      "Type": "TITLE",
+      "Text": "An Evening With The Clintons",
+      "BeginOffset": 1368,
+      "EndOffset": 1396
+    },
+    {
+      "Score": 0.9516593813896179,
+      "Type": "LOCATION",
+      "Text": "Beacon Theatre",
+      "BeginOffset": 1401,
+      "EndOffset": 1415
+    },
+    {
+      "Score": 0.8174582123756409,
+      "Type": "DATE",
+      "Text": "April",
+      "BeginOffset": 1419,
+      "EndOffset": 1424
+    },
+    {
+      "Score": 0.9059954285621643,
+      "Type": "QUANTITY",
+      "Text": "at least 40 stores",
+      "BeginOffset": 1455,
+      "EndOffset": 1473
+    },
+    {
+      "Score": 0.8735018968582153,
+      "Type": "QUANTITY",
+      "Text": "At least 20 dead",
+      "BeginOffset": 1477,
+      "EndOffset": 1493
+    },
+    {
+      "Score": 0.9084171056747437,
+      "Type": "LOCATION",
+      "Text": "Pakistan",
+      "BeginOffset": 1497,
+      "EndOffset": 1505
+    },
+    {
+      "Score": 0.8287045955657959,
+      "Type": "LOCATION",
+      "Text": "Quetta, Pakistan",
+      "BeginOffset": 1605,
+      "EndOffset": 1621
+    },
+    {
+      "Score": 0.9981779456138611,
+      "Type": "DATE",
+      "Text": "Friday, April 12, 2019",
+      "BeginOffset": 1623,
+      "EndOffset": 1645
+    },
+    {
+      "Score": 0.9996154308319092,
+      "Type": "LOCATION",
+      "Text": "Quetta",
+      "BeginOffset": 1725,
+      "EndOffset": 1731
+    },
+    {
+      "Score": 0.991792619228363,
+      "Type": "DATE",
+      "Text": "Friday",
+      "BeginOffset": 1738,
+      "EndOffset": 1744
+    },
+    {
+      "Score": 0.8254182934761047,
+      "Type": "PERSON",
+      "Text": "Fallon",
+      "BeginOffset": 1837,
+      "EndOffset": 1843
+    },
+    {
+      "Score": 0.7043852806091309,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 1855,
+      "EndOffset": 1862
+    },
+    {
+      "Score": 0.9306820034980774,
+      "Type": "TITLE",
+      "Text": "Queer Eye",
+      "BeginOffset": 1874,
+      "EndOffset": 1883
+    },
+    {
+      "Score": 0.7011532187461853,
+      "Type": "QUANTITY",
+      "Text": "two 'Penguins' fall",
+      "BeginOffset": 1905,
+      "EndOffset": 1924
+    },
+    {
+      "Score": 0.9295151829719543,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 1965,
+      "EndOffset": 1969
+    },
+    {
+      "Score": 0.8760145902633667,
+      "Type": "LOCATION",
+      "Text": "Midwest",
+      "BeginOffset": 2030,
+      "EndOffset": 2037
+    },
+    {
+      "Score": 0.9996715784072876,
+      "Type": "PERSON",
+      "Text": "David Heinold",
+      "BeginOffset": 2070,
+      "EndOffset": 2083
+    },
+    {
+      "Score": 0.8890252709388733,
+      "Type": "PERSON",
+      "Text": "Max",
+      "BeginOffset": 2098,
+      "EndOffset": 2101
+    },
+    {
+      "Score": 0.4727666676044464,
+      "Type": "OTHER",
+      "Text": "German",
+      "BeginOffset": 2105,
+      "EndOffset": 2111
+    },
+    {
+      "Score": 0.49548858404159546,
+      "Type": "PERSON",
+      "Text": "Shepard",
+      "BeginOffset": 2112,
+      "EndOffset": 2119
+    },
+    {
+      "Score": 0.9995826482772827,
+      "Type": "DATE",
+      "Text": "Thursday, April 11, 2019",
+      "BeginOffset": 2149,
+      "EndOffset": 2173
+    },
+    {
+      "Score": 0.8718091249465942,
+      "Type": "LOCATION",
+      "Text": "Sioux Falls, S.D.",
+      "BeginOffset": 2177,
+      "EndOffset": 2194
+    },
+    {
+      "Score": 0.9785273671150208,
+      "Type": "PERSON",
+      "Text": "Heinold",
+      "BeginOffset": 2195,
+      "EndOffset": 2202
+    },
+    {
+      "Score": 0.9930780529975891,
+      "Type": "PERSON",
+      "Text": "Max",
+      "BeginOffset": 2208,
+      "EndOffset": 2211
+    },
+    {
+      "Score": 0.997535228729248,
+      "Type": "PERSON",
+      "Text": "Max",
+      "BeginOffset": 2316,
+      "EndOffset": 2319
+    },
+    {
+      "Score": 0.977326512336731,
+      "Type": "QUANTITY",
+      "Text": "$33 billion",
+      "BeginOffset": 2364,
+      "EndOffset": 2375
+    },
+    {
+      "Score": 0.6418943405151367,
+      "Type": "ORGANIZATION",
+      "Text": "Chevron",
+      "BeginOffset": 2386,
+      "EndOffset": 2393
+    },
+    {
+      "Score": 0.7889386415481567,
+      "Type": "ORGANIZATION",
+      "Text": "Anadarko",
+      "BeginOffset": 2401,
+      "EndOffset": 2409
+    },
+    {
+      "Score": 0.9982888698577881,
+      "Type": "PERSON",
+      "Text": "Cristina Zainos",
+      "BeginOffset": 2489,
+      "EndOffset": 2504
+    },
+    {
+      "Score": 0.9462892413139343,
+      "Type": "ORGANIZATION",
+      "Text": "New York Post",
+      "BeginOffset": 2532,
+      "EndOffset": 2545
+    },
+    {
+      "Score": 0.9781985282897949,
+      "Type": "PERSON",
+      "Text": "Omar",
+      "BeginOffset": 2556,
+      "EndOffset": 2560
+    },
+    {
+      "Score": 0.698176920413971,
+      "Type": "EVENT",
+      "Text": "9/11",
+      "BeginOffset": 2563,
+      "EndOffset": 2567
+    },
+    {
+      "Score": 0.9925373792648315,
+      "Type": "PERSON",
+      "Text": "Ilhan Omar",
+      "BeginOffset": 2585,
+      "EndOffset": 2595
+    },
+    {
+      "Score": 0.6996042728424072,
+      "Type": "ORGANIZATION",
+      "Text": "D-Minn",
+      "BeginOffset": 2597,
+      "EndOffset": 2603
+    },
+    {
+      "Score": 0.9055564403533936,
+      "Type": "ORGANIZATION",
+      "Text": "Council of American-Islamic Relations of\n   Greater Los Angeles",
+      "BeginOffset": 2673,
+      "EndOffset": 2736
+    },
+    {
+      "Score": 0.7598471641540527,
+      "Type": "ORGANIZATION",
+      "Text": "Hilton hotel",
+      "BeginOffset": 2744,
+      "EndOffset": 2756
+    },
+    {
+      "Score": 0.9663124084472656,
+      "Type": "LOCATION",
+      "Text": "Woodland Hills, California",
+      "BeginOffset": 2760,
+      "EndOffset": 2786
+    },
+    {
+      "Score": 0.9872166514396667,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 2791,
+      "EndOffset": 2804
+    },
+    {
+      "Score": 0.9956688284873962,
+      "Type": "PERSON",
+      "Text": "Samiel Asghedom",
+      "BeginOffset": 2845,
+      "EndOffset": 2860
+    },
+    {
+      "Score": 0.9911278486251831,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 2883,
+      "EndOffset": 2896
+    },
+    {
+      "Score": 0.9953774809837341,
+      "Type": "PERSON",
+      "Text": "Ermias Asghedom",
+      "BeginOffset": 2921,
+      "EndOffset": 2936
+    },
+    {
+      "Score": 0.7454944849014282,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 2948,
+      "EndOffset": 2961
+    },
+    {
+      "Score": 0.9328200817108154,
+      "Type": "TITLE",
+      "Text": "A Celebration of Life",
+      "BeginOffset": 2963,
+      "EndOffset": 2984
+    },
+    {
+      "Score": 0.9406238198280334,
+      "Type": "QUANTITY",
+      "Text": "three-hour",
+      "BeginOffset": 2991,
+      "EndOffset": 3001
+    },
+    {
+      "Score": 0.9369623064994812,
+      "Type": "LOCATION",
+      "Text": "Staples Center",
+      "BeginOffset": 3035,
+      "EndOffset": 3049
+    },
+    {
+      "Score": 0.99824458360672,
+      "Type": "DATE",
+      "Text": "April 11",
+      "BeginOffset": 3053,
+      "EndOffset": 3061
+    },
+    {
+      "Score": 0.9351959824562073,
+      "Type": "PERSON",
+      "Text": "Buttigieg",
+      "BeginOffset": 3066,
+      "EndOffset": 3075
+    },
+    {
+      "Score": 0.979622483253479,
+      "Type": "PERSON",
+      "Text": "Ellen",
+      "BeginOffset": 3079,
+      "EndOffset": 3084
+    },
+    {
+      "Score": 0.9755884408950806,
+      "Type": "ORGANIZATION",
+      "Text": "Warner Bros.",
+      "BeginOffset": 3141,
+      "EndOffset": 3153
+    },
+    {
+      "Score": 0.9970414638519287,
+      "Type": "PERSON",
+      "Text": "Pete Buttigieg",
+      "BeginOffset": 3155,
+      "EndOffset": 3169
+    },
+    {
+      "Score": 0.9740457534790039,
+      "Type": "TITLE",
+      "Text": "The Ellen DeGeneres Show",
+      "BeginOffset": 3201,
+      "EndOffset": 3225
+    },
+    {
+      "Score": 0.998280942440033,
+      "Type": "LOCATION",
+      "Text": "Los Angeles",
+      "BeginOffset": 3230,
+      "EndOffset": 3241
+    },
+    {
+      "Score": 0.6193541288375854,
+      "Type": "PERSON",
+      "Text": "S.C. fifth grader",
+      "BeginOffset": 3271,
+      "EndOffset": 3288
+    },
+    {
+      "Score": 0.9929166436195374,
+      "Type": "ORGANIZATION",
+      "Text": "Forest Hills Elementary School",
+      "BeginOffset": 3329,
+      "EndOffset": 3359
+    },
+    {
+      "Score": 0.8671481609344482,
+      "Type": "LOCATION",
+      "Text": "Walterboro,\n   S.C",
+      "BeginOffset": 3363,
+      "EndOffset": 3381
+    },
+    {
+      "Score": 0.997311532497406,
+      "Type": "PERSON",
+      "Text": "Raniya Wright",
+      "BeginOffset": 3388,
+      "EndOffset": 3401
+    },
+    {
+      "Score": 0.9637653827667236,
+      "Type": "QUANTITY",
+      "Text": "fifth-grader",
+      "BeginOffset": 3407,
+      "EndOffset": 3419
+    },
+    {
+      "Score": 0.9791802763938904,
+      "Type": "LOCATION",
+      "Text": "Santa Barbara, California",
+      "BeginOffset": 3531,
+      "EndOffset": 3556
+    },
+    {
+      "Score": 0.9619730710983276,
+      "Type": "PERSON",
+      "Text": "Giannis\n   Giannis Antetokounmpo",
+      "BeginOffset": 3599,
+      "EndOffset": 3631
+    },
+    {
+      "Score": 0.9974040389060974,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 3686,
+      "EndOffset": 3701
+    },
+    {
+      "Score": 0.9564380645751953,
+      "Type": "QUANTITY",
+      "Text": "Season 8",
+      "BeginOffset": 3703,
+      "EndOffset": 3711
+    },
+    {
+      "Score": 0.9818047881126404,
+      "Type": "PERSON",
+      "Text": "Jorah",
+      "BeginOffset": 3756,
+      "EndOffset": 3761
+    },
+    {
+      "Score": 0.993031919002533,
+      "Type": "PERSON",
+      "Text": "Iain Glen",
+      "BeginOffset": 3763,
+      "EndOffset": 3772
+    },
+    {
+      "Score": 0.9994465708732605,
+      "Type": "PERSON",
+      "Text": "Dany",
+      "BeginOffset": 3778,
+      "EndOffset": 3782
+    },
+    {
+      "Score": 0.9994601607322693,
+      "Type": "PERSON",
+      "Text": "Emilia Clarke",
+      "BeginOffset": 3784,
+      "EndOffset": 3797
+    }
+  ]
+}

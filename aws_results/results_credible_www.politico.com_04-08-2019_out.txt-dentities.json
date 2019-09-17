@@ -1,0 +1,949 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8696380257606506,
+      "Type": "LOCATION",
+      "Text": "New Hampshire",
+      "BeginOffset": 105,
+      "EndOffset": 118
+    },
+    {
+      "Score": 0.8707573413848877,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 136,
+      "EndOffset": 141
+    },
+    {
+      "Score": 0.40660613775253296,
+      "Type": "PERSON",
+      "Text": "Booker",
+      "BeginOffset": 153,
+      "EndOffset": 159
+    },
+    {
+      "Score": 0.36929184198379517,
+      "Type": "QUANTITY",
+      "Text": "63",
+      "BeginOffset": 161,
+      "EndOffset": 163
+    },
+    {
+      "Score": 0.9691465497016907,
+      "Type": "PERSON",
+      "Text": "Pompeo",
+      "BeginOffset": 178,
+      "EndOffset": 184
+    },
+    {
+      "Score": 0.7131674885749817,
+      "Type": "OTHER",
+      "Text": "Egyptian",
+      "BeginOffset": 216,
+      "EndOffset": 224
+    },
+    {
+      "Score": 0.6477462649345398,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 235,
+      "EndOffset": 237
+    },
+    {
+      "Score": 0.9233465194702148,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 250,
+      "EndOffset": 255
+    },
+    {
+      "Score": 0.9818862676620483,
+      "Type": "LOCATION",
+      "Text": "Mexico",
+      "BeginOffset": 284,
+      "EndOffset": 290
+    },
+    {
+      "Score": 0.9936880469322205,
+      "Type": "PERSON",
+      "Text": "Klobuchar",
+      "BeginOffset": 303,
+      "EndOffset": 312
+    },
+    {
+      "Score": 0.9982303977012634,
+      "Type": "QUANTITY",
+      "Text": "$5.2 million",
+      "BeginOffset": 320,
+      "EndOffset": 332
+    },
+    {
+      "Score": 0.600107729434967,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 336,
+      "EndOffset": 341
+    },
+    {
+      "Score": 0.9902454614639282,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 342,
+      "EndOffset": 346
+    },
+    {
+      "Score": 0.376907616853714,
+      "Type": "QUANTITY",
+      "Text": "66",
+      "BeginOffset": 365,
+      "EndOffset": 367
+    },
+    {
+      "Score": 0.9889610409736633,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 404,
+      "EndOffset": 409
+    },
+    {
+      "Score": 0.4881937503814697,
+      "Type": "ORGANIZATION",
+      "Text": "DOJ",
+      "BeginOffset": 443,
+      "EndOffset": 446
+    },
+    {
+      "Score": 0.8978952765464783,
+      "Type": "TITLE",
+      "Text": "Obamacare",
+      "BeginOffset": 495,
+      "EndOffset": 504
+    },
+    {
+      "Score": 0.4871218800544739,
+      "Type": "QUANTITY",
+      "Text": "68",
+      "BeginOffset": 506,
+      "EndOffset": 508
+    },
+    {
+      "Score": 0.7538399696350098,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 509,
+      "EndOffset": 517
+    },
+    {
+      "Score": 0.9971479773521423,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 553,
+      "EndOffset": 558
+    },
+    {
+      "Score": 0.5298110246658325,
+      "Type": "PERSON",
+      "Text": "Booker",
+      "BeginOffset": 571,
+      "EndOffset": 577
+    },
+    {
+      "Score": 0.8696858882904053,
+      "Type": "ORGANIZATION",
+      "Text": "Senate",
+      "BeginOffset": 621,
+      "EndOffset": 627
+    },
+    {
+      "Score": 0.4887903332710266,
+      "Type": "QUANTITY",
+      "Text": "70",
+      "BeginOffset": 629,
+      "EndOffset": 631
+    },
+    {
+      "Score": 0.8567655682563782,
+      "Type": "ORGANIZATION",
+      "Text": "Nielsen",
+      "BeginOffset": 645,
+      "EndOffset": 652
+    },
+    {
+      "Score": 0.9970092177391052,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 664,
+      "EndOffset": 669
+    },
+    {
+      "Score": 0.44917750358581543,
+      "Type": "QUANTITY",
+      "Text": "71",
+      "BeginOffset": 694,
+      "EndOffset": 696
+    },
+    {
+      "Score": 0.9996752142906189,
+      "Type": "PERSON",
+      "Text": "Bernie Sanders",
+      "BeginOffset": 697,
+      "EndOffset": 711
+    },
+    {
+      "Score": 0.39513710141181946,
+      "Type": "QUANTITY",
+      "Text": "72",
+      "BeginOffset": 751,
+      "EndOffset": 753
+    },
+    {
+      "Score": 0.8495782017707825,
+      "Type": "ORGANIZATION",
+      "Text": "House Dems",
+      "BeginOffset": 754,
+      "EndOffset": 764
+    },
+    {
+      "Score": 0.629944384098053,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 819,
+      "EndOffset": 821
+    },
+    {
+      "Score": 0.8044515252113342,
+      "Type": "LOCATION",
+      "Text": "Washington",
+      "BeginOffset": 846,
+      "EndOffset": 856
+    },
+    {
+      "Score": 0.8552557826042175,
+      "Type": "ORGANIZATION",
+      "Text": "Democrats",
+      "BeginOffset": 889,
+      "EndOffset": 898
+    },
+    {
+      "Score": 0.9955546259880066,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 922,
+      "EndOffset": 927
+    },
+    {
+      "Score": 0.9993301033973694,
+      "Type": "PERSON",
+      "Text": "Chris Murphy",
+      "BeginOffset": 929,
+      "EndOffset": 941
+    },
+    {
+      "Score": 0.692288875579834,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 955,
+      "EndOffset": 965
+    },
+    {
+      "Score": 0.9546154737472534,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 980,
+      "EndOffset": 984
+    },
+    {
+      "Score": 0.9954531192779541,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1042,
+      "EndOffset": 1047
+    },
+    {
+      "Score": 0.8491515517234802,
+      "Type": "PERSON",
+      "Text": "Burgess Everett",
+      "BeginOffset": 1076,
+      "EndOffset": 1091
+    },
+    {
+      "Score": 0.9835692048072815,
+      "Type": "PERSON",
+      "Text": "Andrew Desiderio",
+      "BeginOffset": 1100,
+      "EndOffset": 1116
+    },
+    {
+      "Score": 0.8622016310691833,
+      "Type": "PERSON",
+      "Text": "Beto",
+      "BeginOffset": 1135,
+      "EndOffset": 1139
+    },
+    {
+      "Score": 0.3912752568721771,
+      "Type": "LOCATION",
+      "Text": "Texan",
+      "BeginOffset": 1173,
+      "EndOffset": 1178
+    },
+    {
+      "Score": 0.5319770574569702,
+      "Type": "QUANTITY",
+      "Text": "84",
+      "BeginOffset": 1229,
+      "EndOffset": 1231
+    },
+    {
+      "Score": 0.9997364282608032,
+      "Type": "PERSON",
+      "Text": "Stephen Miller",
+      "BeginOffset": 1232,
+      "EndOffset": 1246
+    },
+    {
+      "Score": 0.9806925654411316,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1258,
+      "EndOffset": 1263
+    },
+    {
+      "Score": 0.9983710646629333,
+      "Type": "PERSON",
+      "Text": "Anita Kumar",
+      "BeginOffset": 1310,
+      "EndOffset": 1321
+    },
+    {
+      "Score": 0.9957360625267029,
+      "Type": "PERSON",
+      "Text": "Gabby Orr",
+      "BeginOffset": 1327,
+      "EndOffset": 1336
+    },
+    {
+      "Score": 0.9982650876045227,
+      "Type": "PERSON",
+      "Text": "Daniel Lippman",
+      "BeginOffset": 1345,
+      "EndOffset": 1359
+    },
+    {
+      "Score": 0.998116135597229,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1387,
+      "EndOffset": 1392
+    },
+    {
+      "Score": 0.8308364748954773,
+      "Type": "ORGANIZATION",
+      "Text": "White House",
+      "BeginOffset": 1437,
+      "EndOffset": 1448
+    },
+    {
+      "Score": 0.9687932729721069,
+      "Type": "PERSON",
+      "Text": "Stephen Miller",
+      "BeginOffset": 1464,
+      "EndOffset": 1478
+    },
+    {
+      "Score": 0.9846822023391724,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1529,
+      "EndOffset": 1534
+    },
+    {
+      "Score": 0.7854995727539062,
+      "Type": "QUANTITY",
+      "Text": "one day",
+      "BeginOffset": 1572,
+      "EndOffset": 1579
+    },
+    {
+      "Score": 0.6848474144935608,
+      "Type": "PERSON",
+      "Text": "Homeland Security Secretary",
+      "BeginOffset": 1586,
+      "EndOffset": 1613
+    },
+    {
+      "Score": 0.5704551339149475,
+      "Type": "QUANTITY",
+      "Text": "94",
+      "BeginOffset": 1615,
+      "EndOffset": 1617
+    },
+    {
+      "Score": 0.8668531179428101,
+      "Type": "ORGANIZATION",
+      "Text": "Democrats",
+      "BeginOffset": 1618,
+      "EndOffset": 1627
+    },
+    {
+      "Score": 0.8020796775817871,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 1637,
+      "EndOffset": 1644
+    },
+    {
+      "Score": 0.4626736342906952,
+      "Type": "QUANTITY",
+      "Text": "96",
+      "BeginOffset": 1692,
+      "EndOffset": 1694
+    },
+    {
+      "Score": 0.8330546617507935,
+      "Type": "ORGANIZATION",
+      "Text": "GOP",
+      "BeginOffset": 1701,
+      "EndOffset": 1704
+    },
+    {
+      "Score": 0.3790864944458008,
+      "Type": "ORGANIZATION",
+      "Text": "Dems",
+      "BeginOffset": 1714,
+      "EndOffset": 1718
+    },
+    {
+      "Score": 0.7271835207939148,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 1731,
+      "EndOffset": 1738
+    },
+    {
+      "Score": 0.6667958498001099,
+      "Type": "QUANTITY",
+      "Text": "98",
+      "BeginOffset": 1751,
+      "EndOffset": 1753
+    },
+    {
+      "Score": 0.9722262620925903,
+      "Type": "PERSON",
+      "Text": "Alexandria Ocasio-Cortez",
+      "BeginOffset": 1758,
+      "EndOffset": 1782
+    },
+    {
+      "Score": 0.914781928062439,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 1806,
+      "EndOffset": 1814
+    },
+    {
+      "Score": 0.5828791856765747,
+      "Type": "QUANTITY",
+      "Text": "99",
+      "BeginOffset": 1965,
+      "EndOffset": 1967
+    },
+    {
+      "Score": 0.9467508792877197,
+      "Type": "PERSON",
+      "Text": "Alexandria Ocasio-Cortez",
+      "BeginOffset": 1996,
+      "EndOffset": 2020
+    },
+    {
+      "Score": 0.9734567403793335,
+      "Type": "PERSON",
+      "Text": "Wesley Morgan",
+      "BeginOffset": 2032,
+      "EndOffset": 2045
+    },
+    {
+      "Score": 0.9442921876907349,
+      "Type": "PERSON",
+      "Text": "Nahal Toosi",
+      "BeginOffset": 2055,
+      "EndOffset": 2066
+    },
+    {
+      "Score": 0.4352557361125946,
+      "Type": "QUANTITY",
+      "Text": "104",
+      "BeginOffset": 2075,
+      "EndOffset": 2078
+    },
+    {
+      "Score": 0.99162757396698,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2079,
+      "EndOffset": 2084
+    },
+    {
+      "Score": 0.6713196635246277,
+      "Type": "OTHER",
+      "Text": "Iranian",
+      "BeginOffset": 2092,
+      "EndOffset": 2099
+    },
+    {
+      "Score": 0.5558185577392578,
+      "Type": "QUANTITY",
+      "Text": "106",
+      "BeginOffset": 2131,
+      "EndOffset": 2134
+    },
+    {
+      "Score": 0.9975997805595398,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2135,
+      "EndOffset": 2140
+    },
+    {
+      "Score": 0.9025799632072449,
+      "Type": "TITLE",
+      "Text": "Obamacare",
+      "BeginOffset": 2239,
+      "EndOffset": 2248
+    },
+    {
+      "Score": 0.9801816344261169,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 2273,
+      "EndOffset": 2277
+    },
+    {
+      "Score": 0.9945322871208191,
+      "Type": "PERSON",
+      "Text": "Adam Cancryn",
+      "BeginOffset": 2332,
+      "EndOffset": 2344
+    },
+    {
+      "Score": 0.4836269021034241,
+      "Type": "QUANTITY",
+      "Text": "108",
+      "BeginOffset": 2350,
+      "EndOffset": 2353
+    },
+    {
+      "Score": 0.8949989676475525,
+      "Type": "PERSON",
+      "Text": "Alice Miranda",
+      "BeginOffset": 2354,
+      "EndOffset": 2367
+    },
+    {
+      "Score": 0.479254812002182,
+      "Type": "PERSON",
+      "Text": "Ollstein",
+      "BeginOffset": 2368,
+      "EndOffset": 2376
+    },
+    {
+      "Score": 0.49697381258010864,
+      "Type": "QUANTITY",
+      "Text": "109",
+      "BeginOffset": 2381,
+      "EndOffset": 2384
+    },
+    {
+      "Score": 0.9993128180503845,
+      "Type": "PERSON",
+      "Text": "Duncan Hunter",
+      "BeginOffset": 2390,
+      "EndOffset": 2403
+    },
+    {
+      "Score": 0.996292233467102,
+      "Type": "PERSON",
+      "Text": "Duncan Hunter",
+      "BeginOffset": 2437,
+      "EndOffset": 2450
+    },
+    {
+      "Score": 0.46016913652420044,
+      "Type": "QUANTITY",
+      "Text": "115",
+      "BeginOffset": 2500,
+      "EndOffset": 2503
+    },
+    {
+      "Score": 0.9980015158653259,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2504,
+      "EndOffset": 2509
+    },
+    {
+      "Score": 0.7587151527404785,
+      "Type": "PERSON",
+      "Text": "Dems",
+      "BeginOffset": 2541,
+      "EndOffset": 2545
+    },
+    {
+      "Score": 0.663548469543457,
+      "Type": "QUANTITY",
+      "Text": "119",
+      "BeginOffset": 2573,
+      "EndOffset": 2576
+    },
+    {
+      "Score": 0.9822617769241333,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 2577,
+      "EndOffset": 2581
+    },
+    {
+      "Score": 0.9354231357574463,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 2661,
+      "EndOffset": 2666
+    },
+    {
+      "Score": 0.801193118095398,
+      "Type": "QUANTITY",
+      "Text": "#1",
+      "BeginOffset": 2682,
+      "EndOffset": 2684
+    },
+    {
+      "Score": 0.9391381144523621,
+      "Type": "ORGANIZATION",
+      "Text": "POLITICO",
+      "BeginOffset": 2788,
+      "EndOffset": 2796
+    },
+    {
+      "Score": 0.6676467657089233,
+      "Type": "LOCATION",
+      "Text": "Egypt",
+      "BeginOffset": 2834,
+      "EndOffset": 2839
+    },
+    {
+      "Score": 0.9920423030853271,
+      "Type": "PERSON",
+      "Text": "President Abdel Fattah el-Sisi",
+      "BeginOffset": 2842,
+      "EndOffset": 2872
+    },
+    {
+      "Score": 0.9502973556518555,
+      "Type": "PERSON",
+      "Text": "US President Donald\n   Trump",
+      "BeginOffset": 2886,
+      "EndOffset": 2914
+    },
+    {
+      "Score": 0.9385079145431519,
+      "Type": "ORGANIZATION",
+      "Text": "Palace\n   Hotel",
+      "BeginOffset": 2969,
+      "EndOffset": 2984
+    },
+    {
+      "Score": 0.9229254126548767,
+      "Type": "EVENT",
+      "Text": "72nd United Nations General Assembly",
+      "BeginOffset": 2996,
+      "EndOffset": 3032
+    },
+    {
+      "Score": 0.9953297972679138,
+      "Type": "DATE",
+      "Text": "September 20",
+      "BeginOffset": 3033,
+      "EndOffset": 3045
+    },
+    {
+      "Score": 0.9965860843658447,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3054,
+      "EndOffset": 3059
+    },
+    {
+      "Score": 0.8569137454032898,
+      "Type": "LOCATION",
+      "Text": "Egypt",
+      "BeginOffset": 3068,
+      "EndOffset": 3073
+    },
+    {
+      "Score": 0.6410711407661438,
+      "Type": "LOCATION",
+      "Text": "Middle Eastern",
+      "BeginOffset": 3121,
+      "EndOffset": 3135
+    },
+    {
+      "Score": 0.7866893410682678,
+      "Type": "OTHER",
+      "Text": "American",
+      "BeginOffset": 3147,
+      "EndOffset": 3155
+    },
+    {
+      "Score": 0.5155788064002991,
+      "Type": "QUANTITY",
+      "Text": "decades",
+      "BeginOffset": 3208,
+      "EndOffset": 3215
+    },
+    {
+      "Score": 0.9395009875297546,
+      "Type": "PERSON",
+      "Text": "JFK",
+      "BeginOffset": 3273,
+      "EndOffset": 3276
+    },
+    {
+      "Score": 0.9986133575439453,
+      "Type": "PERSON",
+      "Text": "Pete Buttigieg",
+      "BeginOffset": 3278,
+      "EndOffset": 3292
+    },
+    {
+      "Score": 0.9878273010253906,
+      "Type": "PERSON",
+      "Text": "Beto O'Rourke",
+      "BeginOffset": 3297,
+      "EndOffset": 3310
+    },
+    {
+      "Score": 0.9766038656234741,
+      "Type": "PERSON",
+      "Text": "Beto",
+      "BeginOffset": 3315,
+      "EndOffset": 3319
+    },
+    {
+      "Score": 0.7817934155464172,
+      "Type": "PERSON",
+      "Text": "Buttigieg",
+      "BeginOffset": 3324,
+      "EndOffset": 3333
+    },
+    {
+      "Score": 0.7564048767089844,
+      "Type": "PERSON",
+      "Text": "Kennedys",
+      "BeginOffset": 3348,
+      "EndOffset": 3356
+    },
+    {
+      "Score": 0.6024630665779114,
+      "Type": "QUANTITY",
+      "Text": "Decades",
+      "BeginOffset": 3360,
+      "EndOffset": 3367
+    },
+    {
+      "Score": 0.9806404113769531,
+      "Type": "PERSON",
+      "Text": "JFK",
+      "BeginOffset": 3374,
+      "EndOffset": 3377
+    },
+    {
+      "Score": 0.8827166557312012,
+      "Type": "PERSON",
+      "Text": "RFK",
+      "BeginOffset": 3382,
+      "EndOffset": 3385
+    },
+    {
+      "Score": 0.9831539988517761,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic Party",
+      "BeginOffset": 3443,
+      "EndOffset": 3459
+    },
+    {
+      "Score": 0.7406543493270874,
+      "Type": "ORGANIZATION",
+      "Text": "White House",
+      "BeginOffset": 3487,
+      "EndOffset": 3498
+    },
+    {
+      "Score": 0.9985276460647583,
+      "Type": "PERSON",
+      "Text": "Mark Meadows",
+      "BeginOffset": 3527,
+      "EndOffset": 3539
+    },
+    {
+      "Score": 0.9999769926071167,
+      "Type": "PERSON",
+      "Text": "Jim Jordan",
+      "BeginOffset": 3541,
+      "EndOffset": 3551
+    },
+    {
+      "Score": 0.9996358156204224,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 3556,
+      "EndOffset": 3568
+    },
+    {
+      "Score": 0.9942904710769653,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3574,
+      "EndOffset": 3579
+    },
+    {
+      "Score": 0.9987115859985352,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3693,
+      "EndOffset": 3698
+    },
+    {
+      "Score": 0.7891234755516052,
+      "Type": "ORGANIZATION",
+      "Text": "House",
+      "BeginOffset": 3735,
+      "EndOffset": 3740
+    },
+    {
+      "Score": 0.9141705632209778,
+      "Type": "ORGANIZATION",
+      "Text": "Senate",
+      "BeginOffset": 3749,
+      "EndOffset": 3755
+    },
+    {
+      "Score": 0.9093120098114014,
+      "Type": "PERSON",
+      "Text": "President Calvin Coolidge",
+      "BeginOffset": 3776,
+      "EndOffset": 3801
+    },
+    {
+      "Score": 0.9973279237747192,
+      "Type": "PERSON",
+      "Text": "John Drew",
+      "BeginOffset": 3822,
+      "EndOffset": 3831
+    },
+    {
+      "Score": 0.9991825222969055,
+      "Type": "PERSON",
+      "Text": "Al Jolson",
+      "BeginOffset": 3854,
+      "EndOffset": 3863
+    },
+    {
+      "Score": 0.8692768216133118,
+      "Type": "ORGANIZATION",
+      "Text": "White House",
+      "BeginOffset": 3871,
+      "EndOffset": 3882
+    },
+    {
+      "Score": 0.9996770620346069,
+      "Type": "DATE",
+      "Text": "1924",
+      "BeginOffset": 3886,
+      "EndOffset": 3890
+    },
+    {
+      "Score": 0.9418648481369019,
+      "Type": "TITLE",
+      "Text": "The Last Time a President Got a Pass on a Scandal-Plagued White House\n   What Coolidge",
+      "BeginOffset": 3892,
+      "EndOffset": 3978
+    },
+    {
+      "Score": 0.9942313432693481,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3989,
+      "EndOffset": 3994
+    },
+    {
+      "Score": 0.9956598877906799,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 4001,
+      "EndOffset": 4005
+    },
+    {
+      "Score": 0.8422718048095703,
+      "Type": "QUANTITY",
+      "Text": "Ten smart women",
+      "BeginOffset": 4039,
+      "EndOffset": 4054
+    },
+    {
+      "Score": 0.9762883186340332,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 4144,
+      "EndOffset": 4148
+    },
+    {
+      "Score": 0.806723415851593,
+      "Type": "TITLE",
+      "Text": "Decades-Old Grand Jury Probe Just Revealed About the Mueller Report\n   Migrants",
+      "BeginOffset": 4161,
+      "EndOffset": 4240
+    },
+    {
+      "Score": 0.9869367480278015,
+      "Type": "LOCATION",
+      "Text": "San Marcos",
+      "BeginOffset": 4272,
+      "EndOffset": 4282
+    },
+    {
+      "Score": 0.751772940158844,
+      "Type": "LOCATION",
+      "Text": "Mexico\n   City",
+      "BeginOffset": 4291,
+      "EndOffset": 4305
+    },
+    {
+      "Score": 0.6735851168632507,
+      "Type": "LOCATION",
+      "Text": "Puebla",
+      "BeginOffset": 4306,
+      "EndOffset": 4312
+    },
+    {
+      "Score": 0.9979865550994873,
+      "Type": "LOCATION",
+      "Text": "Mexico",
+      "BeginOffset": 4325,
+      "EndOffset": 4331
+    },
+    {
+      "Score": 0.9985897541046143,
+      "Type": "DATE",
+      "Text": "November 5, 2018",
+      "BeginOffset": 4336,
+      "EndOffset": 4352
+    },
+    {
+      "Score": 0.9879845380783081,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 4400,
+      "EndOffset": 4405
+    }
+  ]
+}

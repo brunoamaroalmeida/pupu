@@ -1,0 +1,445 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9986675977706909,
+      "Type": "PERSON",
+      "Text": "Adam Higginbotham",
+      "BeginOffset": 46,
+      "EndOffset": 63
+    },
+    {
+      "Score": 0.923836350440979,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 277,
+      "EndOffset": 282
+    },
+    {
+      "Score": 0.8389979600906372,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 296,
+      "EndOffset": 311
+    },
+    {
+      "Score": 0.9725293517112732,
+      "Type": "PERSON",
+      "Text": "Kirstjen Nielsen",
+      "BeginOffset": 401,
+      "EndOffset": 417
+    },
+    {
+      "Score": 0.8504283428192139,
+      "Type": "QUANTITY",
+      "Text": "Three more leaders",
+      "BeginOffset": 426,
+      "EndOffset": 444
+    },
+    {
+      "Score": 0.9262505173683167,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 565,
+      "EndOffset": 580
+    },
+    {
+      "Score": 0.736422598361969,
+      "Type": "ORGANIZATION",
+      "Text": "Secret\n   Service",
+      "BeginOffset": 627,
+      "EndOffset": 644
+    },
+    {
+      "Score": 0.9220718145370483,
+      "Type": "OTHER",
+      "Text": "Chinese",
+      "BeginOffset": 688,
+      "EndOffset": 695
+    },
+    {
+      "Score": 0.9289120435714722,
+      "Type": "LOCATION",
+      "Text": "Mar-a-Lago",
+      "BeginOffset": 712,
+      "EndOffset": 722
+    },
+    {
+      "Score": 0.9965035319328308,
+      "Type": "PERSON",
+      "Text": "Doug Mills",
+      "BeginOffset": 731,
+      "EndOffset": 741
+    },
+    {
+      "Score": 0.9634695649147034,
+      "Type": "ORGANIZATION",
+      "Text": "The New York Times",
+      "BeginOffset": 742,
+      "EndOffset": 760
+    },
+    {
+      "Score": 0.9998207688331604,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 765,
+      "EndOffset": 770
+    },
+    {
+      "Score": 0.9905585050582886,
+      "Type": "LOCATION",
+      "Text": "China",
+      "BeginOffset": 898,
+      "EndOffset": 903
+    },
+    {
+      "Score": 0.9817338585853577,
+      "Type": "LOCATION",
+      "Text": "Mar-a-Lago",
+      "BeginOffset": 924,
+      "EndOffset": 934
+    },
+    {
+      "Score": 0.9230388402938843,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 1001,
+      "EndOffset": 1016
+    },
+    {
+      "Score": 0.8004533052444458,
+      "Type": "ORGANIZATION",
+      "Text": "Secret\n   Service",
+      "BeginOffset": 1063,
+      "EndOffset": 1080
+    },
+    {
+      "Score": 0.9406498074531555,
+      "Type": "OTHER",
+      "Text": "Chinese",
+      "BeginOffset": 1124,
+      "EndOffset": 1131
+    },
+    {
+      "Score": 0.9313510656356812,
+      "Type": "LOCATION",
+      "Text": "Mar-a-Lago",
+      "BeginOffset": 1148,
+      "EndOffset": 1158
+    },
+    {
+      "Score": 0.993710994720459,
+      "Type": "PERSON",
+      "Text": "Doug Mills",
+      "BeginOffset": 1167,
+      "EndOffset": 1177
+    },
+    {
+      "Score": 0.9624966382980347,
+      "Type": "ORGANIZATION",
+      "Text": "The New York Times",
+      "BeginOffset": 1178,
+      "EndOffset": 1196
+    },
+    {
+      "Score": 0.9906703233718872,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1197,
+      "EndOffset": 1202
+    },
+    {
+      "Score": 0.7098038196563721,
+      "Type": "LOCATION",
+      "Text": "Iran",
+      "BeginOffset": 1214,
+      "EndOffset": 1218
+    },
+    {
+      "Score": 0.8333309292793274,
+      "Type": "ORGANIZATION",
+      "Text": "Revolutionary Guard Corps",
+      "BeginOffset": 1221,
+      "EndOffset": 1246
+    },
+    {
+      "Score": 0.9438648223876953,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 1272,
+      "EndOffset": 1287
+    },
+    {
+      "Score": 0.8841416835784912,
+      "Type": "QUANTITY",
+      "Text": "first time",
+      "BeginOffset": 1304,
+      "EndOffset": 1314
+    },
+    {
+      "Score": 0.7659538984298706,
+      "Type": "LOCATION",
+      "Text": "United States",
+      "BeginOffset": 1319,
+      "EndOffset": 1332
+    },
+    {
+      "Score": 0.7689512968063354,
+      "Type": "LOCATION",
+      "Text": "Pentagon",
+      "BeginOffset": 1421,
+      "EndOffset": 1429
+    },
+    {
+      "Score": 0.7204771041870117,
+      "Type": "LOCATION",
+      "Text": "C.I.A.",
+      "BeginOffset": 1434,
+      "EndOffset": 1440
+    },
+    {
+      "Score": 0.8342249393463135,
+      "Type": "OTHER",
+      "Text": "Iranian",
+      "BeginOffset": 1522,
+      "EndOffset": 1529
+    },
+    {
+      "Score": 0.6556782722473145,
+      "Type": "OTHER",
+      "Text": "Americans",
+      "BeginOffset": 1584,
+      "EndOffset": 1593
+    },
+    {
+      "Score": 0.9339887499809265,
+      "Type": "PERSON",
+      "Text": "Felicity Huffman",
+      "BeginOffset": 1595,
+      "EndOffset": 1611
+    },
+    {
+      "Score": 0.9424923658370972,
+      "Type": "QUANTITY",
+      "Text": "12 other parents",
+      "BeginOffset": 1826,
+      "EndOffset": 1842
+    },
+    {
+      "Score": 0.9222105741500854,
+      "Type": "QUANTITY",
+      "Text": "one coach",
+      "BeginOffset": 1847,
+      "EndOffset": 1856
+    },
+    {
+      "Score": 0.9685587882995605,
+      "Type": "PERSON",
+      "Text": "Felicity Huffman",
+      "BeginOffset": 1912,
+      "EndOffset": 1928
+    },
+    {
+      "Score": 0.9969808459281921,
+      "Type": "LOCATION",
+      "Text": "Boston",
+      "BeginOffset": 1961,
+      "EndOffset": 1967
+    },
+    {
+      "Score": 0.8553902506828308,
+      "Type": "DATE",
+      "Text": "earlier this\n   month",
+      "BeginOffset": 1968,
+      "EndOffset": 1989
+    },
+    {
+      "Score": 0.9966737627983093,
+      "Type": "PERSON",
+      "Text": "Sarah Rice",
+      "BeginOffset": 1991,
+      "EndOffset": 2001
+    },
+    {
+      "Score": 0.9501538276672363,
+      "Type": "ORGANIZATION",
+      "Text": "The New York Times",
+      "BeginOffset": 2006,
+      "EndOffset": 2024
+    },
+    {
+      "Score": 0.7661049365997314,
+      "Type": "EVENT",
+      "Text": "Olympic",
+      "BeginOffset": 2028,
+      "EndOffset": 2035
+    },
+    {
+      "Score": 0.9965603947639465,
+      "Type": "PERSON",
+      "Text": "Kelly Catlin",
+      "BeginOffset": 2100,
+      "EndOffset": 2112
+    },
+    {
+      "Score": 0.9988548755645752,
+      "Type": "PERSON",
+      "Text": "Kelly Catlin",
+      "BeginOffset": 2242,
+      "EndOffset": 2254
+    },
+    {
+      "Score": 0.9206222891807556,
+      "Type": "QUANTITY",
+      "Text": "three-time",
+      "BeginOffset": 2258,
+      "EndOffset": 2268
+    },
+    {
+      "Score": 0.8085339665412903,
+      "Type": "OTHER",
+      "Text": "American",
+      "BeginOffset": 2338,
+      "EndOffset": 2346
+    },
+    {
+      "Score": 0.9779516458511353,
+      "Type": "EVENT",
+      "Text": "2020 Olympic Games",
+      "BeginOffset": 2359,
+      "EndOffset": 2377
+    },
+    {
+      "Score": 0.658080518245697,
+      "Type": "ORGANIZATION",
+      "Text": "Hollywood",
+      "BeginOffset": 2430,
+      "EndOffset": 2439
+    },
+    {
+      "Score": 0.8595414161682129,
+      "Type": "TITLE",
+      "Text": "A Rail Journey Into the Horn of Africa's Past",
+      "BeginOffset": 2582,
+      "EndOffset": 2627
+    },
+    {
+      "Score": 0.5625043511390686,
+      "Type": "LOCATION",
+      "Text": "Ethiopian",
+      "BeginOffset": 2664,
+      "EndOffset": 2673
+    },
+    {
+      "Score": 0.8046883344650269,
+      "Type": "LOCATION",
+      "Text": "Djibouti",
+      "BeginOffset": 2689,
+      "EndOffset": 2697
+    },
+    {
+      "Score": 0.9953516125679016,
+      "Type": "LOCATION",
+      "Text": "East Africa",
+      "BeginOffset": 2745,
+      "EndOffset": 2756
+    },
+    {
+      "Score": 0.9721103310585022,
+      "Type": "LOCATION",
+      "Text": "Lake Abbé",
+      "BeginOffset": 2818,
+      "EndOffset": 2827
+    },
+    {
+      "Score": 0.9988671541213989,
+      "Type": "PERSON",
+      "Text": "Marcus Westberg",
+      "BeginOffset": 2829,
+      "EndOffset": 2844
+    },
+    {
+      "Score": 0.8159738779067993,
+      "Type": "ORGANIZATION",
+      "Text": "The New York",
+      "BeginOffset": 2849,
+      "EndOffset": 2861
+    },
+    {
+      "Score": 0.9783492088317871,
+      "Type": "PERSON",
+      "Text": "Kirstjen Nielsen",
+      "BeginOffset": 2909,
+      "EndOffset": 2925
+    },
+    {
+      "Score": 0.639765739440918,
+      "Type": "ORGANIZATION",
+      "Text": "Nielsen",
+      "BeginOffset": 3110,
+      "EndOffset": 3117
+    },
+    {
+      "Score": 0.8399063348770142,
+      "Type": "OTHER",
+      "Text": "Arabic",
+      "BeginOffset": 3248,
+      "EndOffset": 3254
+    },
+    {
+      "Score": 0.8352723121643066,
+      "Type": "LOCATION",
+      "Text": "Germany",
+      "BeginOffset": 3283,
+      "EndOffset": 3290
+    },
+    {
+      "Score": 0.976570188999176,
+      "Type": "PERSON",
+      "Text": "Jafaar Abdul Karim",
+      "BeginOffset": 3309,
+      "EndOffset": 3327
+    },
+    {
+      "Score": 0.9515547752380371,
+      "Type": "ORGANIZATION",
+      "Text": "Muslim",
+      "BeginOffset": 3370,
+      "EndOffset": 3376
+    },
+    {
+      "Score": 0.9864125847816467,
+      "Type": "LOCATION",
+      "Text": "East Houston\n   Street",
+      "BeginOffset": 3570,
+      "EndOffset": 3592
+    },
+    {
+      "Score": 0.9980889558792114,
+      "Type": "LOCATION",
+      "Text": "New York City",
+      "BeginOffset": 3618,
+      "EndOffset": 3631
+    },
+    {
+      "Score": 0.8247202038764954,
+      "Type": "DATE",
+      "Text": "this week",
+      "BeginOffset": 3635,
+      "EndOffset": 3644
+    },
+    {
+      "Score": 0.9577772617340088,
+      "Type": "ORGANIZATION",
+      "Text": "New York Times",
+      "BeginOffset": 3681,
+      "EndOffset": 3695
+    },
+    {
+      "Score": 0.47441571950912476,
+      "Type": "ORGANIZATION",
+      "Text": "Azqo1",
+      "BeginOffset": 3754,
+      "EndOffset": 3759
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "Entities": [
+    {
+      "Score": 0.7201012969017029,
+      "Type": "TITLE",
+      "Text": "The Valley Report",
+      "BeginOffset": 15,
+      "EndOffset": 32
+    },
+    {
+      "Score": 0.8640039563179016,
+      "Type": "TITLE",
+      "Text": "The Valley Report",
+      "BeginOffset": 43,
+      "EndOffset": 60
+    },
+    {
+      "Score": 0.48759371042251587,
+      "Type": "LOCATION",
+      "Text": "Ireland",
+      "BeginOffset": 144,
+      "EndOffset": 151
+    },
+    {
+      "Score": 0.4644292891025543,
+      "Type": "PERSON",
+      "Text": "McDonald",
+      "BeginOffset": 178,
+      "EndOffset": 186
+    },
+    {
+      "Score": 0.8873717188835144,
+      "Type": "QUANTITY",
+      "Text": "$15/hr",
+      "BeginOffset": 205,
+      "EndOffset": 211
+    },
+    {
+      "Score": 0.9978036880493164,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 339,
+      "EndOffset": 351
+    },
+    {
+      "Score": 0.9620932936668396,
+      "Type": "LOCATION",
+      "Text": "Alaska",
+      "BeginOffset": 395,
+      "EndOffset": 401
+    },
+    {
+      "Score": 0.8665518164634705,
+      "Type": "LOCATION",
+      "Text": "Florida",
+      "BeginOffset": 456,
+      "EndOffset": 463
+    },
+    {
+      "Score": 0.9230695962905884,
+      "Type": "ORGANIZATION",
+      "Text": "Instagram",
+      "BeginOffset": 781,
+      "EndOffset": 790
+    },
+    {
+      "Score": 0.9906761646270752,
+      "Type": "PERSON",
+      "Text": "Darth Vader",
+      "BeginOffset": 818,
+      "EndOffset": 829
+    },
+    {
+      "Score": 0.9973884224891663,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 843,
+      "EndOffset": 848
+    },
+    {
+      "Score": 0.9968488812446594,
+      "Type": "PERSON",
+      "Text": "Kanye",
+      "BeginOffset": 879,
+      "EndOffset": 884
+    },
+    {
+      "Score": 0.9933784008026123,
+      "Type": "PERSON",
+      "Text": "Melania Trump",
+      "BeginOffset": 954,
+      "EndOffset": 967
+    },
+    {
+      "Score": 0.45833471417427063,
+      "Type": "PERSON",
+      "Text": "Bluez",
+      "BeginOffset": 995,
+      "EndOffset": 1000
+    },
+    {
+      "Score": 0.6201597452163696,
+      "Type": "QUANTITY",
+      "Text": "28",
+      "BeginOffset": 1009,
+      "EndOffset": 1011
+    },
+    {
+      "Score": 0.4179607331752777,
+      "Type": "QUANTITY",
+      "Text": "29",
+      "BeginOffset": 1084,
+      "EndOffset": 1086
+    },
+    {
+      "Score": 0.9933269619941711,
+      "Type": "PERSON",
+      "Text": "Darth Vader",
+      "BeginOffset": 1098,
+      "EndOffset": 1109
+    },
+    {
+      "Score": 0.9979498982429504,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1123,
+      "EndOffset": 1128
+    },
+    {
+      "Score": 0.9924367666244507,
+      "Type": "PERSON",
+      "Text": "Darth Vader",
+      "BeginOffset": 1170,
+      "EndOffset": 1181
+    },
+    {
+      "Score": 0.9979530572891235,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1195,
+      "EndOffset": 1200
+    },
+    {
+      "Score": 0.9870455265045166,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON",
+      "BeginOffset": 1230,
+      "EndOffset": 1240
+    },
+    {
+      "Score": 0.9929848313331604,
+      "Type": "PERSON",
+      "Text": "Darth Vader",
+      "BeginOffset": 1266,
+      "EndOffset": 1277
+    },
+    {
+      "Score": 0.977401077747345,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 1387,
+      "EndOffset": 1398
+    },
+    {
+      "Score": 0.9948445558547974,
+      "Type": "DATE",
+      "Text": "October 19, 2018",
+      "BeginOffset": 1399,
+      "EndOffset": 1415
+    },
+    {
+      "Score": 0.9987173080444336,
+      "Type": "PERSON",
+      "Text": "Kanye",
+      "BeginOffset": 1423,
+      "EndOffset": 1428
+    },
+    {
+      "Score": 0.6988815069198608,
+      "Type": "ORGANIZATION",
+      "Text": "Oval Office",
+      "BeginOffset": 1449,
+      "EndOffset": 1460
+    },
+    {
+      "Score": 0.9992241859436035,
+      "Type": "PERSON",
+      "Text": "Kanye",
+      "BeginOffset": 1492,
+      "EndOffset": 1497
+    },
+    {
+      "Score": 0.7245950698852539,
+      "Type": "ORGANIZATION",
+      "Text": "Oval Office",
+      "BeginOffset": 1518,
+      "EndOffset": 1529
+    },
+    {
+      "Score": 0.9901732206344604,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON",
+      "BeginOffset": 1566,
+      "EndOffset": 1576
+    },
+    {
+      "Score": 0.9982106685638428,
+      "Type": "PERSON",
+      "Text": "Kanye",
+      "BeginOffset": 1621,
+      "EndOffset": 1626
+    },
+    {
+      "Score": 0.9857720732688904,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 1721,
+      "EndOffset": 1732
+    },
+    {
+      "Score": 0.9936410188674927,
+      "Type": "DATE",
+      "Text": "October 12, 2018",
+      "BeginOffset": 1733,
+      "EndOffset": 1749
+    },
+    {
+      "Score": 0.9953113794326782,
+      "Type": "PERSON",
+      "Text": "Melania Trump",
+      "BeginOffset": 1757,
+      "EndOffset": 1770
+    },
+    {
+      "Score": 0.7601054310798645,
+      "Type": "TITLE",
+      "Text": "Billionaire Wife Bluez",
+      "BeginOffset": 1781,
+      "EndOffset": 1803
+    },
+    {
+      "Score": 0.5648519992828369,
+      "Type": "QUANTITY",
+      "Text": "40",
+      "BeginOffset": 1812,
+      "EndOffset": 1814
+    },
+    {
+      "Score": 0.9966003894805908,
+      "Type": "PERSON",
+      "Text": "Melania Trump",
+      "BeginOffset": 1815,
+      "EndOffset": 1828
+    },
+    {
+      "Score": 0.7248563766479492,
+      "Type": "TITLE",
+      "Text": "Billionaire Wife Bluez",
+      "BeginOffset": 1839,
+      "EndOffset": 1861
+    },
+    {
+      "Score": 0.9533299803733826,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON",
+      "BeginOffset": 1872,
+      "EndOffset": 1882
+    },
+    {
+      "Score": 0.8221822381019592,
+      "Type": "QUANTITY",
+      "Text": "first lady",
+      "BeginOffset": 1914,
+      "EndOffset": 1924
+    },
+    {
+      "Score": 0.9854329824447632,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 2031,
+      "EndOffset": 2042
+    },
+    {
+      "Score": 0.9940798878669739,
+      "Type": "DATE",
+      "Text": "October 11, 2018",
+      "BeginOffset": 2043,
+      "EndOffset": 2059
+    },
+    {
+      "Score": 0.9381818771362305,
+      "Type": "LOCATION",
+      "Text": "CHICAGO",
+      "BeginOffset": 2210,
+      "EndOffset": 2217
+    },
+    {
+      "Score": 0.9495643377304077,
+      "Type": "LOCATION",
+      "Text": "Chicago",
+      "BeginOffset": 2233,
+      "EndOffset": 2240
+    },
+    {
+      "Score": 0.9762607216835022,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 2369,
+      "EndOffset": 2380
+    },
+    {
+      "Score": 0.9953888058662415,
+      "Type": "DATE",
+      "Text": "October 9, 2018",
+      "BeginOffset": 2381,
+      "EndOffset": 2396
+    },
+    {
+      "Score": 0.9896988272666931,
+      "Type": "PERSON",
+      "Text": "Kavanaugh",
+      "BeginOffset": 2404,
+      "EndOffset": 2413
+    },
+    {
+      "Score": 0.8814090490341187,
+      "Type": "TITLE",
+      "Text": "Devil's Triangle",
+      "BeginOffset": 2452,
+      "EndOffset": 2468
+    },
+    {
+      "Score": 0.5047383904457092,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 2470,
+      "EndOffset": 2472
+    },
+    {
+      "Score": 0.9941850304603577,
+      "Type": "PERSON",
+      "Text": "Kavanaugh",
+      "BeginOffset": 2473,
+      "EndOffset": 2482
+    },
+    {
+      "Score": 0.8053027391433716,
+      "Type": "TITLE",
+      "Text": "Devil's Triangle",
+      "BeginOffset": 2521,
+      "EndOffset": 2537
+    },
+    {
+      "Score": 0.9884474873542786,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON",
+      "BeginOffset": 2541,
+      "EndOffset": 2551
+    },
+    {
+      "Score": 0.9972176551818848,
+      "Type": "PERSON",
+      "Text": "Brett",
+      "BeginOffset": 2598,
+      "EndOffset": 2603
+    },
+    {
+      "Score": 0.9849132895469666,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 2694,
+      "EndOffset": 2705
+    },
+    {
+      "Score": 0.9936816096305847,
+      "Type": "DATE",
+      "Text": "October 7, 2018",
+      "BeginOffset": 2706,
+      "EndOffset": 2721
+    },
+    {
+      "Score": 0.9987507462501526,
+      "Type": "PERSON",
+      "Text": "Susan Collins",
+      "BeginOffset": 2729,
+      "EndOffset": 2742
+    },
+    {
+      "Score": 0.9035856127738953,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 2746,
+      "EndOffset": 2750
+    },
+    {
+      "Score": 0.9987456798553467,
+      "Type": "PERSON",
+      "Text": "Susan Collins",
+      "BeginOffset": 2797,
+      "EndOffset": 2810
+    },
+    {
+      "Score": 0.9045800566673279,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 2814,
+      "EndOffset": 2818
+    },
+    {
+      "Score": 0.9778504967689514,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON",
+      "BeginOffset": 2873,
+      "EndOffset": 2883
+    },
+    {
+      "Score": 0.8467283844947815,
+      "Type": "PERSON",
+      "Text": "Senator Collins",
+      "BeginOffset": 2925,
+      "EndOffset": 2940
+    },
+    {
+      "Score": 0.980535626411438,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 3031,
+      "EndOffset": 3042
+    },
+    {
+      "Score": 0.9941781759262085,
+      "Type": "DATE",
+      "Text": "October 5, 2018",
+      "BeginOffset": 3043,
+      "EndOffset": 3058
+    },
+    {
+      "Score": 0.9872362017631531,
+      "Type": "PERSON",
+      "Text": "Kavanaugh",
+      "BeginOffset": 3066,
+      "EndOffset": 3075
+    },
+    {
+      "Score": 0.5389150977134705,
+      "Type": "ORGANIZATION",
+      "Text": "FFFFFFBI",
+      "BeginOffset": 3101,
+      "EndOffset": 3109
+    },
+    {
+      "Score": 0.990841269493103,
+      "Type": "PERSON",
+      "Text": "Kavanaugh",
+      "BeginOffset": 3114,
+      "EndOffset": 3123
+    },
+    {
+      "Score": 0.6291054487228394,
+      "Type": "PERSON",
+      "Text": "FFFFFFBI\n   WASHINGTON",
+      "BeginOffset": 3149,
+      "EndOffset": 3171
+    },
+    {
+      "Score": 0.9191546440124512,
+      "Type": "ORGANIZATION",
+      "Text": "FFFFFFFBI",
+      "BeginOffset": 3178,
+      "EndOffset": 3187
+    },
+    {
+      "Score": 0.9762997627258301,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 3320,
+      "EndOffset": 3331
+    },
+    {
+      "Score": 0.985862672328949,
+      "Type": "DATE",
+      "Text": "October 4, 2018",
+      "BeginOffset": 3332,
+      "EndOffset": 3347
+    },
+    {
+      "Score": 0.8346712589263916,
+      "Type": "QUANTITY",
+      "Text": "225 million",
+      "BeginOffset": 3402,
+      "EndOffset": 3413
+    },
+    {
+      "Score": 0.9305957555770874,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 3414,
+      "EndOffset": 3416
+    },
+    {
+      "Score": 0.6914693713188171,
+      "Type": "QUANTITY",
+      "Text": "60",
+      "BeginOffset": 3423,
+      "EndOffset": 3425
+    },
+    {
+      "Score": 0.8546615242958069,
+      "Type": "QUANTITY",
+      "Text": "225 million",
+      "BeginOffset": 3473,
+      "EndOffset": 3484
+    },
+    {
+      "Score": 0.9581738710403442,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 3485,
+      "EndOffset": 3487
+    },
+    {
+      "Score": 0.9891209006309509,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON",
+      "BeginOffset": 3503,
+      "EndOffset": 3513
+    },
+    {
+      "Score": 0.9835615158081055,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 3665,
+      "EndOffset": 3676
+    },
+    {
+      "Score": 0.9951322078704834,
+      "Type": "DATE",
+      "Text": "October 3, 2018",
+      "BeginOffset": 3677,
+      "EndOffset": 3692
+    },
+    {
+      "Score": 0.9955376386642456,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3700,
+      "EndOffset": 3705
+    },
+    {
+      "Score": 0.9507397413253784,
+      "Type": "PERSON",
+      "Text": "Cohen",
+      "BeginOffset": 3738,
+      "EndOffset": 3743
+    },
+    {
+      "Score": 0.9965701103210449,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3769,
+      "EndOffset": 3774
+    },
+    {
+      "Score": 0.9785082340240479,
+      "Type": "PERSON",
+      "Text": "Cohen",
+      "BeginOffset": 3807,
+      "EndOffset": 3812
+    },
+    {
+      "Score": 0.5952682495117188,
+      "Type": "QUANTITY",
+      "Text": "one",
+      "BeginOffset": 3834,
+      "EndOffset": 3837
+    },
+    {
+      "Score": 0.9944456815719604,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON",
+      "BeginOffset": 3841,
+      "EndOffset": 3851
+    },
+    {
+      "Score": 0.998724102973938,
+      "Type": "PERSON",
+      "Text": "Michael Cohen",
+      "BeginOffset": 3889,
+      "EndOffset": 3902
+    },
+    {
+      "Score": 0.958927571773529,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 4002,
+      "EndOffset": 4013
+    },
+    {
+      "Score": 0.9949696063995361,
+      "Type": "DATE",
+      "Text": "August 22, 2018",
+      "BeginOffset": 4014,
+      "EndOffset": 4029
+    },
+    {
+      "Score": 0.9617292881011963,
+      "Type": "LOCATION",
+      "Text": "WOODLAND HILLS, CA",
+      "BeginOffset": 4178,
+      "EndOffset": 4196
+    },
+    {
+      "Score": 0.982789933681488,
+      "Type": "PERSON",
+      "Text": "Dave Weasel",
+      "BeginOffset": 4331,
+      "EndOffset": 4342
+    },
+    {
+      "Score": 0.9965725541114807,
+      "Type": "DATE",
+      "Text": "July 31, 2018",
+      "BeginOffset": 4343,
+      "EndOffset": 4356
+    },
+    {
+      "Score": 0.9961870312690735,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 4364,
+      "EndOffset": 4369
+    },
+    {
+      "Score": 0.9637916088104248,
+      "Type": "EVENT",
+      "Text": "Olympic",
+      "BeginOffset": 4386,
+      "EndOffset": 4393
+    },
+    {
+      "Score": 0.9968363046646118,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 4411,
+      "EndOffset": 4416
+    },
+    {
+      "Score": 0.9879084229469299,
+      "Type": "EVENT",
+      "Text": "Olympic",
+      "BeginOffset": 4433,
+      "EndOffset": 4440
+    },
+    {
+      "Score": 0.9707531332969666,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON",
+      "BeginOffset": 4457,
+      "EndOffset": 4467
+    },
+    {
+      "Score": 0.9957550764083862,
+      "Type": "ORGANIZATION",
+      "Text": "Republicans",
+      "BeginOffset": 4473,
+      "EndOffset": 4484
+    },
+    {
+      "Score": 0.9665128588676453,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 4499,
+      "EndOffset": 4514
+    }
+  ]
+}

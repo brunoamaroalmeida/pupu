@@ -1,0 +1,928 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8862407207489014,
+      "Type": "LOCATION",
+      "Text": "Australia",
+      "BeginOffset": 377,
+      "EndOffset": 386
+    },
+    {
+      "Score": 0.5447486639022827,
+      "Type": "QUANTITY",
+      "Text": "78",
+      "BeginOffset": 523,
+      "EndOffset": 525
+    },
+    {
+      "Score": 0.8974239230155945,
+      "Type": "LOCATION",
+      "Text": "Australia",
+      "BeginOffset": 540,
+      "EndOffset": 549
+    },
+    {
+      "Score": 0.9889270663261414,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 622,
+      "EndOffset": 636
+    },
+    {
+      "Score": 0.9821634292602539,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 651,
+      "EndOffset": 660
+    },
+    {
+      "Score": 0.9966241121292114,
+      "Type": "PERSON",
+      "Text": "Hillary Clinton",
+      "BeginOffset": 780,
+      "EndOffset": 795
+    },
+    {
+      "Score": 0.6344318389892578,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 801,
+      "EndOffset": 808
+    },
+    {
+      "Score": 0.5271592140197754,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 881,
+      "EndOffset": 884
+    },
+    {
+      "Score": 0.4115042984485626,
+      "Type": "QUANTITY",
+      "Text": "115",
+      "BeginOffset": 919,
+      "EndOffset": 922
+    },
+    {
+      "Score": 0.9129705429077148,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 937,
+      "EndOffset": 939
+    },
+    {
+      "Score": 0.9957780838012695,
+      "Type": "PERSON",
+      "Text": "Hillary Clinton",
+      "BeginOffset": 998,
+      "EndOffset": 1013
+    },
+    {
+      "Score": 0.6804162263870239,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 1019,
+      "EndOffset": 1026
+    },
+    {
+      "Score": 0.5090033411979675,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 1099,
+      "EndOffset": 1102
+    },
+    {
+      "Score": 0.9267504811286926,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 1155,
+      "EndOffset": 1157
+    },
+    {
+      "Score": 0.5198675394058228,
+      "Type": "QUANTITY",
+      "Text": "120",
+      "BeginOffset": 1207,
+      "EndOffset": 1210
+    },
+    {
+      "Score": 0.985967218875885,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 1225,
+      "EndOffset": 1234
+    },
+    {
+      "Score": 0.8113357424736023,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 1324,
+      "EndOffset": 1329
+    },
+    {
+      "Score": 0.9685919880867004,
+      "Type": "LOCATION",
+      "Text": "Khartoum",
+      "BeginOffset": 1409,
+      "EndOffset": 1417
+    },
+    {
+      "Score": 0.3722533881664276,
+      "Type": "QUANTITY",
+      "Text": "122",
+      "BeginOffset": 1491,
+      "EndOffset": 1494
+    },
+    {
+      "Score": 0.912208080291748,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 1495,
+      "EndOffset": 1500
+    },
+    {
+      "Score": 0.42475423216819763,
+      "Type": "OTHER",
+      "Text": "123",
+      "BeginOffset": 1502,
+      "EndOffset": 1505
+    },
+    {
+      "Score": 0.39537513256073,
+      "Type": "QUANTITY",
+      "Text": "124",
+      "BeginOffset": 1563,
+      "EndOffset": 1566
+    },
+    {
+      "Score": 0.9100602865219116,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 1567,
+      "EndOffset": 1572
+    },
+    {
+      "Score": 0.5177031755447388,
+      "Type": "OTHER",
+      "Text": "125",
+      "BeginOffset": 1574,
+      "EndOffset": 1577
+    },
+    {
+      "Score": 0.6257850527763367,
+      "Type": "QUANTITY",
+      "Text": "126",
+      "BeginOffset": 1630,
+      "EndOffset": 1633
+    },
+    {
+      "Score": 0.9074865579605103,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 1653,
+      "EndOffset": 1658
+    },
+    {
+      "Score": 0.4091830253601074,
+      "Type": "QUANTITY",
+      "Text": "127",
+      "BeginOffset": 1673,
+      "EndOffset": 1676
+    },
+    {
+      "Score": 0.6123907566070557,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1677,
+      "EndOffset": 1683
+    },
+    {
+      "Score": 0.8971153497695923,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 1688,
+      "EndOffset": 1690
+    },
+    {
+      "Score": 0.6228379607200623,
+      "Type": "QUANTITY",
+      "Text": "second\n       Time",
+      "BeginOffset": 1738,
+      "EndOffset": 1756
+    },
+    {
+      "Score": 0.9675444960594177,
+      "Type": "DATE",
+      "Text": "October",
+      "BeginOffset": 1809,
+      "EndOffset": 1816
+    },
+    {
+      "Score": 0.5175235271453857,
+      "Type": "QUANTITY",
+      "Text": "128",
+      "BeginOffset": 1831,
+      "EndOffset": 1834
+    },
+    {
+      "Score": 0.7179020643234253,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1879,
+      "EndOffset": 1885
+    },
+    {
+      "Score": 0.5662755370140076,
+      "Type": "OTHER",
+      "Text": "129",
+      "BeginOffset": 1899,
+      "EndOffset": 1902
+    },
+    {
+      "Score": 0.8361302614212036,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1903,
+      "EndOffset": 1909
+    },
+    {
+      "Score": 0.4203051030635834,
+      "Type": "QUANTITY",
+      "Text": "130",
+      "BeginOffset": 1911,
+      "EndOffset": 1914
+    },
+    {
+      "Score": 0.9510125517845154,
+      "Type": "PERSON",
+      "Text": "Annunziata Rees-Mogg",
+      "BeginOffset": 1915,
+      "EndOffset": 1935
+    },
+    {
+      "Score": 0.4263101816177368,
+      "Type": "OTHER",
+      "Text": "131",
+      "BeginOffset": 1969,
+      "EndOffset": 1972
+    },
+    {
+      "Score": 0.7285465598106384,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2017,
+      "EndOffset": 2023
+    },
+    {
+      "Score": 0.7507870197296143,
+      "Type": "OTHER",
+      "Text": "132",
+      "BeginOffset": 2037,
+      "EndOffset": 2040
+    },
+    {
+      "Score": 0.8761266469955444,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2041,
+      "EndOffset": 2047
+    },
+    {
+      "Score": 0.6174939870834351,
+      "Type": "OTHER",
+      "Text": "133",
+      "BeginOffset": 2049,
+      "EndOffset": 2052
+    },
+    {
+      "Score": 0.9793084263801575,
+      "Type": "PERSON",
+      "Text": "Annunziata Rees-Mogg",
+      "BeginOffset": 2053,
+      "EndOffset": 2073
+    },
+    {
+      "Score": 0.36562809348106384,
+      "Type": "PERSON",
+      "Text": "MEP",
+      "BeginOffset": 2086,
+      "EndOffset": 2089
+    },
+    {
+      "Score": 0.6345528960227966,
+      "Type": "OTHER",
+      "Text": "134",
+      "BeginOffset": 2102,
+      "EndOffset": 2105
+    },
+    {
+      "Score": 0.8202253580093384,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 2110,
+      "EndOffset": 2112
+    },
+    {
+      "Score": 0.5196382403373718,
+      "Type": "QUANTITY",
+      "Text": "second",
+      "BeginOffset": 2160,
+      "EndOffset": 2166
+    },
+    {
+      "Score": 0.5148004293441772,
+      "Type": "QUANTITY",
+      "Text": "135",
+      "BeginOffset": 2168,
+      "EndOffset": 2171
+    },
+    {
+      "Score": 0.9389889240264893,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 2291,
+      "EndOffset": 2293
+    },
+    {
+      "Score": 0.9264659285545349,
+      "Type": "LOCATION",
+      "Text": "Taliban",
+      "BeginOffset": 2295,
+      "EndOffset": 2302
+    },
+    {
+      "Score": 0.9939092397689819,
+      "Type": "LOCATION",
+      "Text": "Afghanistan",
+      "BeginOffset": 2361,
+      "EndOffset": 2372
+    },
+    {
+      "Score": 0.6747164130210876,
+      "Type": "QUANTITY",
+      "Text": "137",
+      "BeginOffset": 2383,
+      "EndOffset": 2386
+    },
+    {
+      "Score": 0.5193197131156921,
+      "Type": "LOCATION",
+      "Text": "France",
+      "BeginOffset": 2387,
+      "EndOffset": 2393
+    },
+    {
+      "Score": 0.521416425704956,
+      "Type": "QUANTITY",
+      "Text": "138",
+      "BeginOffset": 2470,
+      "EndOffset": 2473
+    },
+    {
+      "Score": 0.43468591570854187,
+      "Type": "QUANTITY",
+      "Text": "139",
+      "BeginOffset": 2527,
+      "EndOffset": 2530
+    },
+    {
+      "Score": 0.7987946271896362,
+      "Type": "QUANTITY",
+      "Text": "140",
+      "BeginOffset": 2608,
+      "EndOffset": 2611
+    },
+    {
+      "Score": 0.7173534631729126,
+      "Type": "QUANTITY",
+      "Text": "141",
+      "BeginOffset": 2665,
+      "EndOffset": 2668
+    },
+    {
+      "Score": 0.9675408005714417,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 2703,
+      "EndOffset": 2710
+    },
+    {
+      "Score": 0.7198244333267212,
+      "Type": "QUANTITY",
+      "Text": "70 years",
+      "BeginOffset": 2711,
+      "EndOffset": 2719
+    },
+    {
+      "Score": 0.8420034050941467,
+      "Type": "QUANTITY",
+      "Text": "142",
+      "BeginOffset": 2751,
+      "EndOffset": 2754
+    },
+    {
+      "Score": 0.9735170006752014,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 2777,
+      "EndOffset": 2784
+    },
+    {
+      "Score": 0.7190918922424316,
+      "Type": "QUANTITY",
+      "Text": "70 years",
+      "BeginOffset": 2785,
+      "EndOffset": 2793
+    },
+    {
+      "Score": 0.8215341567993164,
+      "Type": "QUANTITY",
+      "Text": "143",
+      "BeginOffset": 2813,
+      "EndOffset": 2816
+    },
+    {
+      "Score": 0.991923451423645,
+      "Type": "PERSON",
+      "Text": "Jair Bolsonaro",
+      "BeginOffset": 2817,
+      "EndOffset": 2831
+    },
+    {
+      "Score": 0.934982419013977,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 2832,
+      "EndOffset": 2834
+    },
+    {
+      "Score": 0.9817631840705872,
+      "Type": "LOCATION",
+      "Text": "Brazil",
+      "BeginOffset": 2872,
+      "EndOffset": 2878
+    },
+    {
+      "Score": 0.44019031524658203,
+      "Type": "QUANTITY",
+      "Text": "144",
+      "BeginOffset": 2894,
+      "EndOffset": 2897
+    },
+    {
+      "Score": 0.9599438905715942,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 2898,
+      "EndOffset": 2900
+    },
+    {
+      "Score": 0.9894070029258728,
+      "Type": "LOCATION",
+      "Text": "Brazil",
+      "BeginOffset": 2938,
+      "EndOffset": 2944
+    },
+    {
+      "Score": 0.4930865466594696,
+      "Type": "QUANTITY",
+      "Text": "145",
+      "BeginOffset": 2995,
+      "EndOffset": 2998
+    },
+    {
+      "Score": 0.643065869808197,
+      "Type": "LOCATION",
+      "Text": "Netherlands",
+      "BeginOffset": 2999,
+      "EndOffset": 3010
+    },
+    {
+      "Score": 0.6898234486579895,
+      "Type": "OTHER",
+      "Text": "Dutch",
+      "BeginOffset": 3011,
+      "EndOffset": 3016
+    },
+    {
+      "Score": 0.5801929831504822,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 3062,
+      "EndOffset": 3064
+    },
+    {
+      "Score": 0.8914585709571838,
+      "Type": "QUANTITY",
+      "Text": "146",
+      "BeginOffset": 3078,
+      "EndOffset": 3081
+    },
+    {
+      "Score": 0.8867238759994507,
+      "Type": "OTHER",
+      "Text": "Dutch",
+      "BeginOffset": 3082,
+      "EndOffset": 3087
+    },
+    {
+      "Score": 0.5432304739952087,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 3133,
+      "EndOffset": 3135
+    },
+    {
+      "Score": 0.9586566686630249,
+      "Type": "QUANTITY",
+      "Text": "147",
+      "BeginOffset": 3137,
+      "EndOffset": 3140
+    },
+    {
+      "Score": 0.7455286979675293,
+      "Type": "PERSON",
+      "Text": "Live Trump",
+      "BeginOffset": 3141,
+      "EndOffset": 3151
+    },
+    {
+      "Score": 0.5464798808097839,
+      "Type": "QUANTITY",
+      "Text": "148",
+      "BeginOffset": 3227,
+      "EndOffset": 3230
+    },
+    {
+      "Score": 0.9997004270553589,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 3231,
+      "EndOffset": 3236
+    },
+    {
+      "Score": 0.5864458680152893,
+      "Type": "QUANTITY",
+      "Text": "149",
+      "BeginOffset": 3290,
+      "EndOffset": 3293
+    },
+    {
+      "Score": 0.6746667623519897,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 3294,
+      "EndOffset": 3296
+    },
+    {
+      "Score": 0.8435606360435486,
+      "Type": "QUANTITY",
+      "Text": "150",
+      "BeginOffset": 3344,
+      "EndOffset": 3347
+    },
+    {
+      "Score": 0.9053741097450256,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3385,
+      "EndOffset": 3391
+    },
+    {
+      "Score": 0.8532412648200989,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 3432,
+      "EndOffset": 3440
+    },
+    {
+      "Score": 0.8776558041572571,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 3483,
+      "EndOffset": 3491
+    },
+    {
+      "Score": 0.9967537522315979,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 3493,
+      "EndOffset": 3504
+    },
+    {
+      "Score": 0.9080854058265686,
+      "Type": "DATE",
+      "Text": "October",
+      "BeginOffset": 3527,
+      "EndOffset": 3534
+    },
+    {
+      "Score": 0.9628739356994629,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3535,
+      "EndOffset": 3541
+    },
+    {
+      "Score": 0.9997180104255676,
+      "Type": "PERSON",
+      "Text": "Jennifer Rankin",
+      "BeginOffset": 3552,
+      "EndOffset": 3567
+    },
+    {
+      "Score": 0.9984191060066223,
+      "Type": "PERSON",
+      "Text": "Daniel Boffey",
+      "BeginOffset": 3572,
+      "EndOffset": 3585
+    },
+    {
+      "Score": 0.9934896230697632,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 3593,
+      "EndOffset": 3601
+    },
+    {
+      "Score": 0.9985722899436951,
+      "Type": "PERSON",
+      "Text": "Richard Sprenger",
+      "BeginOffset": 3675,
+      "EndOffset": 3691
+    },
+    {
+      "Score": 0.5410335659980774,
+      "Type": "QUANTITY",
+      "Text": "152",
+      "BeginOffset": 3726,
+      "EndOffset": 3729
+    },
+    {
+      "Score": 0.8793402910232544,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 3730,
+      "EndOffset": 3735
+    },
+    {
+      "Score": 0.6952797174453735,
+      "Type": "QUANTITY",
+      "Text": "153",
+      "BeginOffset": 3746,
+      "EndOffset": 3749
+    },
+    {
+      "Score": 0.7721121907234192,
+      "Type": "ORGANIZATION",
+      "Text": "Google",
+      "BeginOffset": 3750,
+      "EndOffset": 3756
+    },
+    {
+      "Score": 0.570602536201477,
+      "Type": "QUANTITY",
+      "Text": "154",
+      "BeginOffset": 3767,
+      "EndOffset": 3770
+    },
+    {
+      "Score": 0.978084146976471,
+      "Type": "ORGANIZATION",
+      "Text": "Spotify",
+      "BeginOffset": 3771,
+      "EndOffset": 3778
+    },
+    {
+      "Score": 0.8071534037590027,
+      "Type": "QUANTITY",
+      "Text": "155",
+      "BeginOffset": 3794,
+      "EndOffset": 3797
+    },
+    {
+      "Score": 0.958518922328949,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 3798,
+      "EndOffset": 3803
+    },
+    {
+      "Score": 0.7856919765472412,
+      "Type": "QUANTITY",
+      "Text": "156",
+      "BeginOffset": 3814,
+      "EndOffset": 3817
+    },
+    {
+      "Score": 0.8771859407424927,
+      "Type": "ORGANIZATION",
+      "Text": "Google",
+      "BeginOffset": 3818,
+      "EndOffset": 3824
+    },
+    {
+      "Score": 0.6049431562423706,
+      "Type": "QUANTITY",
+      "Text": "157",
+      "BeginOffset": 3835,
+      "EndOffset": 3838
+    },
+    {
+      "Score": 0.9791778922080994,
+      "Type": "ORGANIZATION",
+      "Text": "Spotify",
+      "BeginOffset": 3839,
+      "EndOffset": 3846
+    },
+    {
+      "Score": 0.5895516872406006,
+      "Type": "QUANTITY",
+      "Text": "158",
+      "BeginOffset": 3851,
+      "EndOffset": 3854
+    },
+    {
+      "Score": 0.9378321766853333,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3855,
+      "EndOffset": 3861
+    },
+    {
+      "Score": 0.7362329363822937,
+      "Type": "LOCATION",
+      "Text": "Brussels",
+      "BeginOffset": 3902,
+      "EndOffset": 3910
+    },
+    {
+      "Score": 0.8032438158988953,
+      "Type": "QUANTITY",
+      "Text": "161",
+      "BeginOffset": 3912,
+      "EndOffset": 3915
+    },
+    {
+      "Score": 0.957506537437439,
+      "Type": "PERSON",
+      "Text": "Owen Jones",
+      "BeginOffset": 3916,
+      "EndOffset": 3926
+    },
+    {
+      "Score": 0.818025529384613,
+      "Type": "ORGANIZATION",
+      "Text": "Sinn Féin",
+      "BeginOffset": 3933,
+      "EndOffset": 3942
+    },
+    {
+      "Score": 0.7840893268585205,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3956,
+      "EndOffset": 3962
+    },
+    {
+      "Score": 0.8097225427627563,
+      "Type": "LOCATION",
+      "Text": "Ireland",
+      "BeginOffset": 3980,
+      "EndOffset": 3987
+    },
+    {
+      "Score": 0.9929302334785461,
+      "Type": "PERSON",
+      "Text": "Owen Jones",
+      "BeginOffset": 3996,
+      "EndOffset": 4006
+    },
+    {
+      "Score": 0.988093376159668,
+      "Type": "PERSON",
+      "Text": "Mary Lou McDonald",
+      "BeginOffset": 4017,
+      "EndOffset": 4034
+    },
+    {
+      "Score": 0.9129506945610046,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 4041,
+      "EndOffset": 4047
+    },
+    {
+      "Score": 0.6669070720672607,
+      "Type": "QUANTITY",
+      "Text": "162",
+      "BeginOffset": 4135,
+      "EndOffset": 4138
+    },
+    {
+      "Score": 0.9521340727806091,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 4145,
+      "EndOffset": 4151
+    },
+    {
+      "Score": 0.7821900844573975,
+      "Type": "LOCATION",
+      "Text": "Ireland",
+      "BeginOffset": 4169,
+      "EndOffset": 4176
+    },
+    {
+      "Score": 0.45060253143310547,
+      "Type": "QUANTITY",
+      "Text": "163",
+      "BeginOffset": 4179,
+      "EndOffset": 4182
+    },
+    {
+      "Score": 0.9057201147079468,
+      "Type": "TITLE",
+      "Text": "The Rise of Skywalker Star Wars: Episode IX",
+      "BeginOffset": 4183,
+      "EndOffset": 4226
+    },
+    {
+      "Score": 0.8366361260414124,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 4245,
+      "EndOffset": 4250
+    },
+    {
+      "Score": 0.740415632724762,
+      "Type": "TITLE",
+      "Text": "Skywalker",
+      "BeginOffset": 4428,
+      "EndOffset": 4437
+    },
+    {
+      "Score": 0.4280654191970825,
+      "Type": "QUANTITY",
+      "Text": "164",
+      "BeginOffset": 4453,
+      "EndOffset": 4456
+    },
+    {
+      "Score": 0.9895684123039246,
+      "Type": "TITLE",
+      "Text": "Star Wars: Episode IX",
+      "BeginOffset": 4457,
+      "EndOffset": 4478
+    },
+    {
+      "Score": 0.7589917778968811,
+      "Type": "QUANTITY",
+      "Text": "first trailer drops",
+      "BeginOffset": 4497,
+      "EndOffset": 4516
+    },
+    {
+      "Score": 0.7610300779342651,
+      "Type": "QUANTITY",
+      "Text": "165",
+      "BeginOffset": 4518,
+      "EndOffset": 4521
+    },
+    {
+      "Score": 0.29065680503845215,
+      "Type": "LOCATION",
+      "Text": "Amritsar",
+      "BeginOffset": 4522,
+      "EndOffset": 4530
+    },
+    {
+      "Score": 0.970963180065155,
+      "Type": "QUANTITY",
+      "Text": "100 years",
+      "BeginOffset": 4532,
+      "EndOffset": 4541
+    },
+    {
+      "Score": 0.871925950050354,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 4566,
+      "EndOffset": 4573
+    },
+    {
+      "Score": 0.5270277857780457,
+      "Type": "QUANTITY",
+      "Text": "Hundreds",
+      "BeginOffset": 4607,
+      "EndOffset": 4615
+    },
+    {
+      "Score": 0.766493558883667,
+      "Type": "OTHER",
+      "Text": "British",
+      "BeginOffset": 4636,
+      "EndOffset": 4643
+    }
+  ]
+}

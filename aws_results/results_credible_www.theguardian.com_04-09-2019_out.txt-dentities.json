@@ -1,0 +1,921 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8862407207489014,
+      "Type": "LOCATION",
+      "Text": "Australia",
+      "BeginOffset": 377,
+      "EndOffset": 386
+    },
+    {
+      "Score": 0.5447486639022827,
+      "Type": "QUANTITY",
+      "Text": "78",
+      "BeginOffset": 523,
+      "EndOffset": 525
+    },
+    {
+      "Score": 0.8974239230155945,
+      "Type": "LOCATION",
+      "Text": "Australia",
+      "BeginOffset": 540,
+      "EndOffset": 549
+    },
+    {
+      "Score": 0.36134427785873413,
+      "Type": "OTHER",
+      "Text": "111",
+      "BeginOffset": 618,
+      "EndOffset": 621
+    },
+    {
+      "Score": 0.9225108623504639,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 629,
+      "EndOffset": 631
+    },
+    {
+      "Score": 0.7585444450378418,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 688,
+      "EndOffset": 690
+    },
+    {
+      "Score": 0.9996944069862366,
+      "Type": "PERSON",
+      "Text": "Michel Barnier",
+      "BeginOffset": 708,
+      "EndOffset": 722
+    },
+    {
+      "Score": 0.6570109128952026,
+      "Type": "DATE",
+      "Text": "May",
+      "BeginOffset": 746,
+      "EndOffset": 749
+    },
+    {
+      "Score": 0.5531418323516846,
+      "Type": "OTHER",
+      "Text": "112",
+      "BeginOffset": 767,
+      "EndOffset": 770
+    },
+    {
+      "Score": 0.9974343776702881,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 776,
+      "EndOffset": 787
+    },
+    {
+      "Score": 0.8026207089424133,
+      "Type": "LOCATION",
+      "Text": "Élysée Palace",
+      "BeginOffset": 799,
+      "EndOffset": 812
+    },
+    {
+      "Score": 0.42131203413009644,
+      "Type": "OTHER",
+      "Text": "113",
+      "BeginOffset": 841,
+      "EndOffset": 844
+    },
+    {
+      "Score": 0.5896806120872498,
+      "Type": "ORGANIZATION",
+      "Text": "IMF",
+      "BeginOffset": 845,
+      "EndOffset": 848
+    },
+    {
+      "Score": 0.9306775331497192,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 865,
+      "EndOffset": 871
+    },
+    {
+      "Score": 0.9849755167961121,
+      "Type": "QUANTITY",
+      "Text": "two-year",
+      "BeginOffset": 879,
+      "EndOffset": 887
+    },
+    {
+      "Score": 0.8881967663764954,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 888,
+      "EndOffset": 890
+    },
+    {
+      "Score": 0.3726555109024048,
+      "Type": "OTHER",
+      "Text": "114",
+      "BeginOffset": 915,
+      "EndOffset": 918
+    },
+    {
+      "Score": 0.8698504567146301,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 919,
+      "EndOffset": 925
+    },
+    {
+      "Score": 0.7686964869499207,
+      "Type": "QUANTITY",
+      "Text": "115",
+      "BeginOffset": 979,
+      "EndOffset": 982
+    },
+    {
+      "Score": 0.9968289136886597,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 988,
+      "EndOffset": 999
+    },
+    {
+      "Score": 0.7417770624160767,
+      "Type": "LOCATION",
+      "Text": "Élysée Palace",
+      "BeginOffset": 1011,
+      "EndOffset": 1024
+    },
+    {
+      "Score": 0.5825790166854858,
+      "Type": "QUANTITY",
+      "Text": "116",
+      "BeginOffset": 1053,
+      "EndOffset": 1056
+    },
+    {
+      "Score": 0.6326103210449219,
+      "Type": "ORGANIZATION",
+      "Text": "IMF",
+      "BeginOffset": 1057,
+      "EndOffset": 1060
+    },
+    {
+      "Score": 0.9584277272224426,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1077,
+      "EndOffset": 1083
+    },
+    {
+      "Score": 0.9850062131881714,
+      "Type": "QUANTITY",
+      "Text": "two-year",
+      "BeginOffset": 1091,
+      "EndOffset": 1099
+    },
+    {
+      "Score": 0.8737556338310242,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 1100,
+      "EndOffset": 1102
+    },
+    {
+      "Score": 0.6367390155792236,
+      "Type": "QUANTITY",
+      "Text": "117",
+      "BeginOffset": 1127,
+      "EndOffset": 1130
+    },
+    {
+      "Score": 0.9302312731742859,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1131,
+      "EndOffset": 1137
+    },
+    {
+      "Score": 0.6779528260231018,
+      "Type": "QUANTITY",
+      "Text": "118",
+      "BeginOffset": 1186,
+      "EndOffset": 1189
+    },
+    {
+      "Score": 0.8618394136428833,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 1190,
+      "EndOffset": 1192
+    },
+    {
+      "Score": 0.38942521810531616,
+      "Type": "QUANTITY",
+      "Text": "119",
+      "BeginOffset": 1243,
+      "EndOffset": 1246
+    },
+    {
+      "Score": 0.5012326836585999,
+      "Type": "LOCATION",
+      "Text": "Sudanese",
+      "BeginOffset": 1302,
+      "EndOffset": 1310
+    },
+    {
+      "Score": 0.8490443825721741,
+      "Type": "LOCATION",
+      "Text": "Khartoum",
+      "BeginOffset": 1339,
+      "EndOffset": 1347
+    },
+    {
+      "Score": 0.6162476539611816,
+      "Type": "QUANTITY",
+      "Text": "120",
+      "BeginOffset": 1397,
+      "EndOffset": 1400
+    },
+    {
+      "Score": 0.6239420771598816,
+      "Type": "LOCATION",
+      "Text": "Sudanese",
+      "BeginOffset": 1444,
+      "EndOffset": 1452
+    },
+    {
+      "Score": 0.8299037218093872,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 1464,
+      "EndOffset": 1471
+    },
+    {
+      "Score": 0.9972313046455383,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1479,
+      "EndOffset": 1484
+    },
+    {
+      "Score": 0.9814359545707703,
+      "Type": "DATE",
+      "Text": "Tuesday",
+      "BeginOffset": 1567,
+      "EndOffset": 1574
+    },
+    {
+      "Score": 0.9938073754310608,
+      "Type": "PERSON",
+      "Text": "Obama",
+      "BeginOffset": 1577,
+      "EndOffset": 1582
+    },
+    {
+      "Score": 0.9981473684310913,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1695,
+      "EndOffset": 1700
+    },
+    {
+      "Score": 0.5602396726608276,
+      "Type": "LOCATION",
+      "Text": "Turkey",
+      "BeginOffset": 1756,
+      "EndOffset": 1762
+    },
+    {
+      "Score": 0.9367212057113647,
+      "Type": "PERSON",
+      "Text": "Erdogan",
+      "BeginOffset": 1763,
+      "EndOffset": 1770
+    },
+    {
+      "Score": 0.6939346194267273,
+      "Type": "ORGANIZATION",
+      "Text": "AKP",
+      "BeginOffset": 1773,
+      "EndOffset": 1776
+    },
+    {
+      "Score": 0.8774904608726501,
+      "Type": "LOCATION",
+      "Text": "Istanbul",
+      "BeginOffset": 1798,
+      "EndOffset": 1806
+    },
+    {
+      "Score": 0.9393502473831177,
+      "Type": "LOCATION",
+      "Text": "Turkey",
+      "BeginOffset": 1831,
+      "EndOffset": 1837
+    },
+    {
+      "Score": 0.9017464518547058,
+      "Type": "PERSON",
+      "Text": "Erdogan",
+      "BeginOffset": 1908,
+      "EndOffset": 1915
+    },
+    {
+      "Score": 0.7047596573829651,
+      "Type": "ORGANIZATION",
+      "Text": "AKP",
+      "BeginOffset": 1918,
+      "EndOffset": 1921
+    },
+    {
+      "Score": 0.8507752418518066,
+      "Type": "LOCATION",
+      "Text": "Istanbul",
+      "BeginOffset": 1943,
+      "EndOffset": 1951
+    },
+    {
+      "Score": 0.9936211705207825,
+      "Type": "PERSON",
+      "Text": "Putin",
+      "BeginOffset": 2009,
+      "EndOffset": 2014
+    },
+    {
+      "Score": 0.9557332992553711,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 2021,
+      "EndOffset": 2028
+    },
+    {
+      "Score": 0.9986542463302612,
+      "Type": "PERSON",
+      "Text": "Putin",
+      "BeginOffset": 2053,
+      "EndOffset": 2058
+    },
+    {
+      "Score": 0.9623703360557556,
+      "Type": "PERSON",
+      "Text": "Mueller",
+      "BeginOffset": 2065,
+      "EndOffset": 2072
+    },
+    {
+      "Score": 0.4077592194080353,
+      "Type": "QUANTITY",
+      "Text": "127",
+      "BeginOffset": 2081,
+      "EndOffset": 2084
+    },
+    {
+      "Score": 0.935917317867279,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 2143,
+      "EndOffset": 2145
+    },
+    {
+      "Score": 0.9234431982040405,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 2216,
+      "EndOffset": 2218
+    },
+    {
+      "Score": 0.8311474919319153,
+      "Type": "PERSON",
+      "Text": "Mussolini",
+      "BeginOffset": 2230,
+      "EndOffset": 2239
+    },
+    {
+      "Score": 0.9952719807624817,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 2264,
+      "EndOffset": 2272
+    },
+    {
+      "Score": 0.5757416486740112,
+      "Type": "QUANTITY",
+      "Text": "130",
+      "BeginOffset": 2308,
+      "EndOffset": 2311
+    },
+    {
+      "Score": 0.4387488067150116,
+      "Type": "PERSON",
+      "Text": "Mussolini",
+      "BeginOffset": 2312,
+      "EndOffset": 2321
+    },
+    {
+      "Score": 0.993837296962738,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 2346,
+      "EndOffset": 2354
+    },
+    {
+      "Score": 0.9963001012802124,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 2374,
+      "EndOffset": 2386
+    },
+    {
+      "Score": 0.9531072974205017,
+      "Type": "ORGANIZATION",
+      "Text": "Republican",
+      "BeginOffset": 2391,
+      "EndOffset": 2401
+    },
+    {
+      "Score": 0.9654671549797058,
+      "Type": "ORGANIZATION",
+      "Text": "Republican",
+      "BeginOffset": 2464,
+      "EndOffset": 2474
+    },
+    {
+      "Score": 0.9610174298286438,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 2567,
+      "EndOffset": 2575
+    },
+    {
+      "Score": 0.688776433467865,
+      "Type": "QUANTITY",
+      "Text": "134",
+      "BeginOffset": 2601,
+      "EndOffset": 2604
+    },
+    {
+      "Score": 0.9679226279258728,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 2632,
+      "EndOffset": 2640
+    },
+    {
+      "Score": 0.6279364228248596,
+      "Type": "QUANTITY",
+      "Text": "135",
+      "BeginOffset": 2654,
+      "EndOffset": 2657
+    },
+    {
+      "Score": 0.984505295753479,
+      "Type": "PERSON",
+      "Text": "Emma Corrin",
+      "BeginOffset": 2668,
+      "EndOffset": 2679
+    },
+    {
+      "Score": 0.9169418215751648,
+      "Type": "PERSON",
+      "Text": "Princess Diana",
+      "BeginOffset": 2688,
+      "EndOffset": 2702
+    },
+    {
+      "Score": 0.552743136882782,
+      "Type": "QUANTITY",
+      "Text": "136",
+      "BeginOffset": 2716,
+      "EndOffset": 2719
+    },
+    {
+      "Score": 0.997835099697113,
+      "Type": "PERSON",
+      "Text": "Emma Corrin",
+      "BeginOffset": 2720,
+      "EndOffset": 2731
+    },
+    {
+      "Score": 0.7346994280815125,
+      "Type": "PERSON",
+      "Text": "Princess Diana",
+      "BeginOffset": 2740,
+      "EndOffset": 2754
+    },
+    {
+      "Score": 0.9027260541915894,
+      "Type": "PERSON",
+      "Text": "King Bibi",
+      "BeginOffset": 2758,
+      "EndOffset": 2767
+    },
+    {
+      "Score": 0.9960458874702454,
+      "Type": "PERSON",
+      "Text": "Benjamin Netanyahu",
+      "BeginOffset": 2785,
+      "EndOffset": 2803
+    },
+    {
+      "Score": 0.2949337959289551,
+      "Type": "PERSON",
+      "Text": "Israelis",
+      "BeginOffset": 2883,
+      "EndOffset": 2891
+    },
+    {
+      "Score": 0.9984315633773804,
+      "Type": "PERSON",
+      "Text": "Sherrie Smith",
+      "BeginOffset": 2929,
+      "EndOffset": 2942
+    },
+    {
+      "Score": 0.7716939449310303,
+      "Type": "PERSON",
+      "Text": "Gypsy",
+      "BeginOffset": 2977,
+      "EndOffset": 2982
+    },
+    {
+      "Score": 0.9545552730560303,
+      "Type": "PERSON",
+      "Text": "Roma",
+      "BeginOffset": 2984,
+      "EndOffset": 2988
+    },
+    {
+      "Score": 0.8559132218360901,
+      "Type": "PERSON",
+      "Text": "Traveller",
+      "BeginOffset": 2993,
+      "EndOffset": 3002
+    },
+    {
+      "Score": 0.6764542460441589,
+      "Type": "QUANTITY",
+      "Text": "138",
+      "BeginOffset": 3030,
+      "EndOffset": 3033
+    },
+    {
+      "Score": 0.9272587895393372,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 3034,
+      "EndOffset": 3039
+    },
+    {
+      "Score": 0.6988871693611145,
+      "Type": "QUANTITY",
+      "Text": "139",
+      "BeginOffset": 3050,
+      "EndOffset": 3053
+    },
+    {
+      "Score": 0.8246801495552063,
+      "Type": "ORGANIZATION",
+      "Text": "Google",
+      "BeginOffset": 3054,
+      "EndOffset": 3060
+    },
+    {
+      "Score": 0.6154680848121643,
+      "Type": "QUANTITY",
+      "Text": "140",
+      "BeginOffset": 3071,
+      "EndOffset": 3074
+    },
+    {
+      "Score": 0.9787635207176208,
+      "Type": "ORGANIZATION",
+      "Text": "Spotify",
+      "BeginOffset": 3075,
+      "EndOffset": 3082
+    },
+    {
+      "Score": 0.712928056716919,
+      "Type": "QUANTITY",
+      "Text": "141",
+      "BeginOffset": 3098,
+      "EndOffset": 3101
+    },
+    {
+      "Score": 0.9511101841926575,
+      "Type": "ORGANIZATION",
+      "Text": "Apple",
+      "BeginOffset": 3102,
+      "EndOffset": 3107
+    },
+    {
+      "Score": 0.7921982407569885,
+      "Type": "QUANTITY",
+      "Text": "142",
+      "BeginOffset": 3118,
+      "EndOffset": 3121
+    },
+    {
+      "Score": 0.8251789808273315,
+      "Type": "ORGANIZATION",
+      "Text": "Google",
+      "BeginOffset": 3122,
+      "EndOffset": 3128
+    },
+    {
+      "Score": 0.6065203547477722,
+      "Type": "QUANTITY",
+      "Text": "143",
+      "BeginOffset": 3139,
+      "EndOffset": 3142
+    },
+    {
+      "Score": 0.9796939492225647,
+      "Type": "ORGANIZATION",
+      "Text": "Spotify",
+      "BeginOffset": 3143,
+      "EndOffset": 3150
+    },
+    {
+      "Score": 0.454541951417923,
+      "Type": "QUANTITY",
+      "Text": "144",
+      "BeginOffset": 3155,
+      "EndOffset": 3158
+    },
+    {
+      "Score": 0.6702877879142761,
+      "Type": "PERSON",
+      "Text": "King Bibi",
+      "BeginOffset": 3159,
+      "EndOffset": 3168
+    },
+    {
+      "Score": 0.9900178909301758,
+      "Type": "PERSON",
+      "Text": "Benjamin Netanyahu",
+      "BeginOffset": 3186,
+      "EndOffset": 3204
+    },
+    {
+      "Score": 0.593518078327179,
+      "Type": "QUANTITY",
+      "Text": "147",
+      "BeginOffset": 3207,
+      "EndOffset": 3210
+    },
+    {
+      "Score": 0.8752779960632324,
+      "Type": "LOCATION",
+      "Text": "Hudson New York",
+      "BeginOffset": 3225,
+      "EndOffset": 3240
+    },
+    {
+      "Score": 0.8226756453514099,
+      "Type": "QUANTITY",
+      "Text": "$25bn",
+      "BeginOffset": 3243,
+      "EndOffset": 3248
+    },
+    {
+      "Score": 0.9842470288276672,
+      "Type": "QUANTITY",
+      "Text": "$800",
+      "BeginOffset": 3330,
+      "EndOffset": 3334
+    },
+    {
+      "Score": 0.9937853813171387,
+      "Type": "QUANTITY",
+      "Text": "$32m",
+      "BeginOffset": 3372,
+      "EndOffset": 3376
+    },
+    {
+      "Score": 0.6440814137458801,
+      "Type": "QUANTITY",
+      "Text": "148",
+      "BeginOffset": 3420,
+      "EndOffset": 3423
+    },
+    {
+      "Score": 0.9042194485664368,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 3424,
+      "EndOffset": 3432
+    },
+    {
+      "Score": 0.8352046012878418,
+      "Type": "QUANTITY",
+      "Text": "$25bn",
+      "BeginOffset": 3435,
+      "EndOffset": 3440
+    },
+    {
+      "Score": 0.7360481023788452,
+      "Type": "QUANTITY",
+      "Text": "149",
+      "BeginOffset": 3463,
+      "EndOffset": 3466
+    },
+    {
+      "Score": 0.4985872507095337,
+      "Type": "LOCATION",
+      "Text": "Israelis",
+      "BeginOffset": 3467,
+      "EndOffset": 3475
+    },
+    {
+      "Score": 0.9879109859466553,
+      "Type": "PERSON",
+      "Text": "Benjamin Netanyahu",
+      "BeginOffset": 3554,
+      "EndOffset": 3572
+    },
+    {
+      "Score": 0.8312174081802368,
+      "Type": "LOCATION",
+      "Text": "Israel",
+      "BeginOffset": 3615,
+      "EndOffset": 3621
+    },
+    {
+      "Score": 0.8262917995452881,
+      "Type": "QUANTITY",
+      "Text": "150",
+      "BeginOffset": 3660,
+      "EndOffset": 3663
+    },
+    {
+      "Score": 0.791488528251648,
+      "Type": "LOCATION",
+      "Text": "Israel",
+      "BeginOffset": 3664,
+      "EndOffset": 3670
+    },
+    {
+      "Score": 0.6914687752723694,
+      "Type": "PERSON",
+      "Text": "Netanyahu",
+      "BeginOffset": 3702,
+      "EndOffset": 3711
+    },
+    {
+      "Score": 0.7406027317047119,
+      "Type": "LOCATION",
+      "Text": "Israel",
+      "BeginOffset": 3735,
+      "EndOffset": 3741
+    },
+    {
+      "Score": 0.7876154184341431,
+      "Type": "PERSON",
+      "Text": "Netanyahu",
+      "BeginOffset": 3773,
+      "EndOffset": 3782
+    },
+    {
+      "Score": 0.5759971141815186,
+      "Type": "QUANTITY",
+      "Text": "153",
+      "BeginOffset": 3790,
+      "EndOffset": 3793
+    },
+    {
+      "Score": 0.966007649898529,
+      "Type": "LOCATION",
+      "Text": "El Dorado",
+      "BeginOffset": 3809,
+      "EndOffset": 3818
+    },
+    {
+      "Score": 0.8461514115333557,
+      "Type": "LOCATION",
+      "Text": "Andes",
+      "BeginOffset": 3897,
+      "EndOffset": 3902
+    },
+    {
+      "Score": 0.9529526233673096,
+      "Type": "QUANTITY",
+      "Text": "tens of\n            millions of people",
+      "BeginOffset": 3924,
+      "EndOffset": 3962
+    },
+    {
+      "Score": 0.6905223727226257,
+      "Type": "QUANTITY",
+      "Text": "154",
+      "BeginOffset": 4018,
+      "EndOffset": 4021
+    },
+    {
+      "Score": 0.5168125629425049,
+      "Type": "QUANTITY",
+      "Text": "155",
+      "BeginOffset": 4064,
+      "EndOffset": 4067
+    },
+    {
+      "Score": 0.8433687686920166,
+      "Type": "QUANTITY",
+      "Text": "Two-thirds",
+      "BeginOffset": 4083,
+      "EndOffset": 4093
+    },
+    {
+      "Score": 0.9386683702468872,
+      "Type": "LOCATION",
+      "Text": "Alps",
+      "BeginOffset": 4116,
+      "EndOffset": 4120
+    },
+    {
+      "Score": 0.8587532043457031,
+      "Type": "QUANTITY",
+      "Text": "2100'",
+      "BeginOffset": 4135,
+      "EndOffset": 4140
+    },
+    {
+      "Score": 0.9721393585205078,
+      "Type": "LOCATION",
+      "Text": "Europe",
+      "BeginOffset": 4251,
+      "EndOffset": 4257
+    },
+    {
+      "Score": 0.7427997589111328,
+      "Type": "LOCATION",
+      "Text": "Alpine",
+      "BeginOffset": 4260,
+      "EndOffset": 4266
+    },
+    {
+      "Score": 0.4221390187740326,
+      "Type": "QUANTITY",
+      "Text": "156",
+      "BeginOffset": 4298,
+      "EndOffset": 4301
+    },
+    {
+      "Score": 0.8449892401695251,
+      "Type": "QUANTITY",
+      "Text": "Two-thirds",
+      "BeginOffset": 4302,
+      "EndOffset": 4312
+    },
+    {
+      "Score": 0.9636193513870239,
+      "Type": "LOCATION",
+      "Text": "Alps",
+      "BeginOffset": 4335,
+      "EndOffset": 4339
+    },
+    {
+      "Score": 0.9036774635314941,
+      "Type": "QUANTITY",
+      "Text": "2100'",
+      "BeginOffset": 4354,
+      "EndOffset": 4359
+    },
+    {
+      "Score": 0.6547196507453918,
+      "Type": "QUANTITY",
+      "Text": "157",
+      "BeginOffset": 4361,
+      "EndOffset": 4364
+    },
+    {
+      "Score": 0.6440897583961487,
+      "Type": "QUANTITY",
+      "Text": "158",
+      "BeginOffset": 4450,
+      "EndOffset": 4453
+    },
+    {
+      "Score": 0.5668440461158752,
+      "Type": "QUANTITY",
+      "Text": "159",
+      "BeginOffset": 4512,
+      "EndOffset": 4515
+    },
+    {
+      "Score": 0.92788165807724,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 4516,
+      "EndOffset": 4524
+    },
+    {
+      "Score": 0.6633123755455017,
+      "Type": "QUANTITY",
+      "Text": "160",
+      "BeginOffset": 4601,
+      "EndOffset": 4604
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9994561672210693,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 62,
+      "EndOffset": 74
+    },
+    {
+      "Score": 0.5231204628944397,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 88,
+      "EndOffset": 94
+    },
+    {
+      "Score": 0.9034899473190308,
+      "Type": "PERSON",
+      "Text": "God",
+      "BeginOffset": 124,
+      "EndOffset": 127
+    },
+    {
+      "Score": 0.9957031011581421,
+      "Type": "PERSON",
+      "Text": "Roald Dahl",
+      "BeginOffset": 136,
+      "EndOffset": 146
+    },
+    {
+      "Score": 0.9401465654373169,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 196,
+      "EndOffset": 201
+    },
+    {
+      "Score": 0.7807567119598389,
+      "Type": "TITLE",
+      "Text": "The Daily Telegraph",
+      "BeginOffset": 283,
+      "EndOffset": 302
+    },
+    {
+      "Score": 0.9940885901451111,
+      "Type": "PERSON",
+      "Text": "Boris Johnson",
+      "BeginOffset": 316,
+      "EndOffset": 329
+    },
+    {
+      "Score": 0.8954035639762878,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 338,
+      "EndOffset": 344
+    },
+    {
+      "Score": 0.9819688200950623,
+      "Type": "QUANTITY",
+      "Text": "18 things",
+      "BeginOffset": 429,
+      "EndOffset": 438
+    },
+    {
+      "Score": 0.858715832233429,
+      "Type": "OTHER",
+      "Text": "Hungarians",
+      "BeginOffset": 921,
+      "EndOffset": 931
+    },
+    {
+      "Score": 0.9979245662689209,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 988,
+      "EndOffset": 1000
+    },
+    {
+      "Score": 0.5262303352355957,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1014,
+      "EndOffset": 1020
+    },
+    {
+      "Score": 0.9987972378730774,
+      "Type": "TITLE",
+      "Text": "Game of Thrones",
+      "BeginOffset": 1184,
+      "EndOffset": 1199
+    },
+    {
+      "Score": 0.9976309537887573,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 1246,
+      "EndOffset": 1258
+    },
+    {
+      "Score": 0.4444276690483093,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1272,
+      "EndOffset": 1278
+    },
+    {
+      "Score": 0.9994934797286987,
+      "Type": "PERSON",
+      "Text": "Dani Dyer",
+      "BeginOffset": 1363,
+      "EndOffset": 1372
+    },
+    {
+      "Score": 0.8838616013526917,
+      "Type": "TITLE",
+      "Text": "Meet Joe\n   Dare You Gaze Upon The Worst Sofa In The World",
+      "BeginOffset": 1497,
+      "EndOffset": 1555
+    },
+    {
+      "Score": 0.7306270599365234,
+      "Type": "DATE",
+      "Text": "30s",
+      "BeginOffset": 1567,
+      "EndOffset": 1570
+    },
+    {
+      "Score": 0.9992749094963074,
+      "Type": "PERSON",
+      "Text": "Nigel Farage",
+      "BeginOffset": 1759,
+      "EndOffset": 1771
+    },
+    {
+      "Score": 0.8214089870452881,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1785,
+      "EndOffset": 1791
+    },
+    {
+      "Score": 0.9172872304916382,
+      "Type": "PERSON",
+      "Text": "God",
+      "BeginOffset": 1821,
+      "EndOffset": 1824
+    },
+    {
+      "Score": 0.9836083054542542,
+      "Type": "DATE",
+      "Text": "2019",
+      "BeginOffset": 1919,
+      "EndOffset": 1923
+    },
+    {
+      "Score": 0.47664716839790344,
+      "Type": "QUANTITY",
+      "Text": "20",
+      "BeginOffset": 1931,
+      "EndOffset": 1933
+    },
+    {
+      "Score": 0.8485537767410278,
+      "Type": "ORGANIZATION",
+      "Text": "T&C",
+      "BeginOffset": 1934,
+      "EndOffset": 1937
+    }
+  ]
+}

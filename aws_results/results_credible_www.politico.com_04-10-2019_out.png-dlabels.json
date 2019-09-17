@@ -1,0 +1,245 @@
+{
+  "Labels": [
+    {
+      "Name": "Person",
+      "Confidence": 99.51573944091797,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.07531726360321045,
+            "Height": 0.3825318515300751,
+            "Left": 0.6229655146598816,
+            "Top": 0.5585601925849915
+          },
+          "Confidence": 99.51573944091797
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.10876989364624023,
+            "Height": 0.43223193287849426,
+            "Left": 0.5445039868354797,
+            "Top": 0.5119019746780396
+          },
+          "Confidence": 97.01509857177734
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.13798701763153076,
+            "Height": 0.451043963432312,
+            "Left": 0.4422697424888611,
+            "Top": 0.496515691280365
+          },
+          "Confidence": 91.38813781738281
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.18862271308898926,
+            "Height": 0.4981018006801605,
+            "Left": 0.713165283203125,
+            "Top": 0.45053115487098694
+          },
+          "Confidence": 89.95433807373047
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.0532914400100708,
+            "Height": 0.3551858961582184,
+            "Left": 0.6931838989257812,
+            "Top": 0.594986081123352
+          },
+          "Confidence": 88.70543670654297
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "Human",
+      "Confidence": 99.51573944091797,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Clothing",
+      "Confidence": 98.98198699951172,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 98.98198699951172,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 91.65042114257812,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Suit",
+      "Confidence": 85.17027282714844,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.13201287388801575,
+            "Height": 0.38969042897224426,
+            "Left": 0.4410490095615387,
+            "Top": 0.5597481727600098
+          },
+          "Confidence": 85.17027282714844
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.182297945022583,
+            "Height": 0.43464890122413635,
+            "Left": 0.7151618599891663,
+            "Top": 0.5136456489562988
+          },
+          "Confidence": 67.82325744628906
+        }
+      ],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Overcoat"
+        },
+        {
+          "Name": "Coat"
+        }
+      ]
+    },
+    {
+      "Name": "Coat",
+      "Confidence": 85.17027282714844,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Overcoat",
+      "Confidence": 85.17027282714844,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Coat"
+        }
+      ]
+    },
+    {
+      "Name": "Advertisement",
+      "Confidence": 75.55355072021484,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 75.16191101074219,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Flyer",
+      "Confidence": 66.78919982910156,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Poster"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Paper"
+        }
+      ]
+    },
+    {
+      "Name": "Brochure",
+      "Confidence": 66.78919982910156,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Poster"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Paper"
+        }
+      ]
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 66.78919982910156,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Page",
+      "Confidence": 63.32921600341797,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Jacket",
+      "Confidence": 58.75285339355469,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Coat"
+        }
+      ]
+    },
+    {
+      "Name": "File",
+      "Confidence": 57.315372467041016,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Long Sleeve",
+      "Confidence": 55.10725021362305,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        },
+        {
+          "Name": "Sleeve"
+        }
+      ]
+    },
+    {
+      "Name": "Sleeve",
+      "Confidence": 55.10725021362305,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        }
+      ]
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

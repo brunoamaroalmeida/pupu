@@ -1,0 +1,9 @@
+{
+  "Sentiment": "NEUTRAL",
+  "SentimentScore": {
+    "Positive": 0.0007495118188671768,
+    "Negative": 0.006332151126116514,
+    "Neutral": 0.9915902018547058,
+    "Mixed": 0.001328145619481802
+  }
+}

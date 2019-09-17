@@ -1,0 +1,991 @@
+{
+  "Entities": [
+    {
+      "Score": 0.658954381942749,
+      "Type": "PERSON",
+      "Text": "Tusk",
+      "BeginOffset": 7,
+      "EndOffset": 11
+    },
+    {
+      "Score": 0.9204552173614502,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 23,
+      "EndOffset": 25
+    },
+    {
+      "Score": 0.9549683332443237,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 46,
+      "EndOffset": 52
+    },
+    {
+      "Score": 0.7425855398178101,
+      "Type": "ORGANIZATION",
+      "Text": "MPs\n          + PM",
+      "BeginOffset": 69,
+      "EndOffset": 87
+    },
+    {
+      "Score": 0.9912740588188171,
+      "Type": "LOCATION",
+      "Text": "France",
+      "BeginOffset": 99,
+      "EndOffset": 105
+    },
+    {
+      "Score": 0.9783167243003845,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 114,
+      "EndOffset": 120
+    },
+    {
+      "Score": 0.8236334323883057,
+      "Type": "ORGANIZATION",
+      "Text": "Merkel\n          + Four Cabinet",
+      "BeginOffset": 138,
+      "EndOffset": 169
+    },
+    {
+      "Score": 0.7435377836227417,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 209,
+      "EndOffset": 215
+    },
+    {
+      "Score": 0.6984154582023621,
+      "Type": "PERSON",
+      "Text": "Tusk",
+      "BeginOffset": 228,
+      "EndOffset": 232
+    },
+    {
+      "Score": 0.9357588291168213,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 261,
+      "EndOffset": 267
+    },
+    {
+      "Score": 0.4281899631023407,
+      "Type": "QUANTITY",
+      "Text": "51",
+      "BeginOffset": 289,
+      "EndOffset": 291
+    },
+    {
+      "Score": 0.7645917534828186,
+      "Type": "ORGANIZATION",
+      "Text": "ExclusiveLiam Fox",
+      "BeginOffset": 292,
+      "EndOffset": 309
+    },
+    {
+      "Score": 0.8132333755493164,
+      "Type": "ORGANIZATION",
+      "Text": "Tory MPs",
+      "BeginOffset": 316,
+      "EndOffset": 324
+    },
+    {
+      "Score": 0.9512848854064941,
+      "Type": "PERSON",
+      "Text": "Daniel KawczynskiERG",
+      "BeginOffset": 366,
+      "EndOffset": 386
+    },
+    {
+      "Score": 0.9580132365226746,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 407,
+      "EndOffset": 413
+    },
+    {
+      "Score": 0.6754469871520996,
+      "Type": "QUANTITY",
+      "Text": "53",
+      "BeginOffset": 437,
+      "EndOffset": 439
+    },
+    {
+      "Score": 0.9987454414367676,
+      "Type": "PERSON",
+      "Text": "Macron",
+      "BeginOffset": 443,
+      "EndOffset": 449
+    },
+    {
+      "Score": 0.9787704348564148,
+      "Type": "PERSON",
+      "Text": "Charles de Gaulle",
+      "BeginOffset": 462,
+      "EndOffset": 479
+    },
+    {
+      "Score": 0.9736420512199402,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 492,
+      "EndOffset": 498
+    },
+    {
+      "Score": 0.6975321173667908,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 501,
+      "EndOffset": 503
+    },
+    {
+      "Score": 0.9966485500335693,
+      "Type": "PERSON",
+      "Text": "Patrick O'FlynnSpeaking",
+      "BeginOffset": 504,
+      "EndOffset": 527
+    },
+    {
+      "Score": 0.49219855666160583,
+      "Type": "ORGANIZATION",
+      "Text": "MEP",
+      "BeginOffset": 534,
+      "EndOffset": 537
+    },
+    {
+      "Score": 0.7598350048065186,
+      "Type": "QUANTITY",
+      "Text": "55",
+      "BeginOffset": 578,
+      "EndOffset": 580
+    },
+    {
+      "Score": 0.8714353442192078,
+      "Type": "PERSON",
+      "Text": "Martin HoweIgnore",
+      "BeginOffset": 581,
+      "EndOffset": 598
+    },
+    {
+      "Score": 0.7143934369087219,
+      "Type": "PERSON",
+      "Text": "Cooper-Letwin Bill",
+      "BeginOffset": 625,
+      "EndOffset": 643
+    },
+    {
+      "Score": 0.5155247449874878,
+      "Type": "PERSON",
+      "Text": "Baby",
+      "BeginOffset": 656,
+      "EndOffset": 660
+    },
+    {
+      "Score": 0.7358422875404358,
+      "Type": "QUANTITY",
+      "Text": "first robotic womb transplant",
+      "BeginOffset": 689,
+      "EndOffset": 718
+    },
+    {
+      "Score": 0.722511887550354,
+      "Type": "QUANTITY",
+      "Text": "57",
+      "BeginOffset": 720,
+      "EndOffset": 722
+    },
+    {
+      "Score": 0.5370256304740906,
+      "Type": "ORGANIZATION",
+      "Text": "JLR",
+      "BeginOffset": 723,
+      "EndOffset": 726
+    },
+    {
+      "Score": 0.73191237449646,
+      "Type": "ORGANIZATION",
+      "Text": "Land Rover",
+      "BeginOffset": 753,
+      "EndOffset": 763
+    },
+    {
+      "Score": 0.8542960286140442,
+      "Type": "QUANTITY",
+      "Text": "3",
+      "BeginOffset": 796,
+      "EndOffset": 797
+    },
+    {
+      "Score": 0.9982165098190308,
+      "Type": "PERSON",
+      "Text": "Donald Trump",
+      "BeginOffset": 822,
+      "EndOffset": 834
+    },
+    {
+      "Score": 0.9567227363586426,
+      "Type": "DATE",
+      "Text": "last year",
+      "BeginOffset": 838,
+      "EndOffset": 847
+    },
+    {
+      "Score": 0.6449083089828491,
+      "Type": "EVENT",
+      "Text": "G7",
+      "BeginOffset": 850,
+      "EndOffset": 852
+    },
+    {
+      "Score": 0.6432462334632874,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 865,
+      "EndOffset": 867
+    },
+    {
+      "Score": 0.908545196056366,
+      "Type": "ORGANIZATION",
+      "Text": "IMF",
+      "BeginOffset": 868,
+      "EndOffset": 871
+    },
+    {
+      "Score": 0.7253259420394897,
+      "Type": "QUANTITY",
+      "Text": "59",
+      "BeginOffset": 918,
+      "EndOffset": 920
+    },
+    {
+      "Score": 0.9912241697311401,
+      "Type": "PERSON",
+      "Text": "Claire CohenFleabag",
+      "BeginOffset": 921,
+      "EndOffset": 940
+    },
+    {
+      "Score": 0.822121798992157,
+      "Type": "QUANTITY",
+      "Text": "60",
+      "BeginOffset": 984,
+      "EndOffset": 986
+    },
+    {
+      "Score": 0.9995635151863098,
+      "Type": "PERSON",
+      "Text": "James Cracknell",
+      "BeginOffset": 987,
+      "EndOffset": 1002
+    },
+    {
+      "Score": 0.7593246698379517,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1092,
+      "EndOffset": 1098
+    },
+    {
+      "Score": 0.6580929160118103,
+      "Type": "QUANTITY",
+      "Text": "62",
+      "BeginOffset": 1132,
+      "EndOffset": 1134
+    },
+    {
+      "Score": 0.849093496799469,
+      "Type": "PERSON",
+      "Text": "Ashley ArmstrongMike Ashley",
+      "BeginOffset": 1135,
+      "EndOffset": 1162
+    },
+    {
+      "Score": 0.7355616688728333,
+      "Type": "ORGANIZATION",
+      "Text": "Debenhams",
+      "BeginOffset": 1187,
+      "EndOffset": 1196
+    },
+    {
+      "Score": 0.5387802124023438,
+      "Type": "QUANTITY",
+      "Text": "2",
+      "BeginOffset": 1208,
+      "EndOffset": 1209
+    },
+    {
+      "Score": 0.991253137588501,
+      "Type": "PERSON",
+      "Text": "Billie Eilish",
+      "BeginOffset": 1211,
+      "EndOffset": 1224
+    },
+    {
+      "Score": 0.957669198513031,
+      "Type": "EVENT",
+      "Text": "2019 iHeartRadio Music Awards",
+      "BeginOffset": 1232,
+      "EndOffset": 1261
+    },
+    {
+      "Score": 0.49521660804748535,
+      "Type": "QUANTITY",
+      "Text": "63",
+      "BeginOffset": 1263,
+      "EndOffset": 1265
+    },
+    {
+      "Score": 0.9750161170959473,
+      "Type": "PERSON",
+      "Text": "Billie Eilish",
+      "BeginOffset": 1275,
+      "EndOffset": 1288
+    },
+    {
+      "Score": 0.7554442882537842,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 1336,
+      "EndOffset": 1338
+    },
+    {
+      "Score": 0.5648187398910522,
+      "Type": "ORGANIZATION",
+      "Text": "Israel electionNetanyahu",
+      "BeginOffset": 1339,
+      "EndOffset": 1363
+    },
+    {
+      "Score": 0.9996331334114075,
+      "Type": "PERSON",
+      "Text": "Jill Scott",
+      "BeginOffset": 1418,
+      "EndOffset": 1428
+    },
+    {
+      "Score": 0.5252493619918823,
+      "Type": "LOCATION",
+      "Text": "England",
+      "BeginOffset": 1452,
+      "EndOffset": 1459
+    },
+    {
+      "Score": 0.9111378192901611,
+      "Type": "DATE",
+      "Text": "tonight",
+      "BeginOffset": 1468,
+      "EndOffset": 1475
+    },
+    {
+      "Score": 0.9987719058990479,
+      "Type": "PERSON",
+      "Text": "Jill\n       Scott",
+      "BeginOffset": 1478,
+      "EndOffset": 1495
+    },
+    {
+      "Score": 0.6005778908729553,
+      "Type": "LOCATION",
+      "Text": "England",
+      "BeginOffset": 1519,
+      "EndOffset": 1526
+    },
+    {
+      "Score": 0.774613082408905,
+      "Type": "DATE",
+      "Text": "tonight",
+      "BeginOffset": 1535,
+      "EndOffset": 1542
+    },
+    {
+      "Score": 0.6268690228462219,
+      "Type": "QUANTITY",
+      "Text": "65",
+      "BeginOffset": 1551,
+      "EndOffset": 1553
+    },
+    {
+      "Score": 0.8505191802978516,
+      "Type": "ORGANIZATION",
+      "Text": "England",
+      "BeginOffset": 1554,
+      "EndOffset": 1561
+    },
+    {
+      "Score": 0.9579155445098877,
+      "Type": "ORGANIZATION",
+      "Text": "Spain",
+      "BeginOffset": 1565,
+      "EndOffset": 1570
+    },
+    {
+      "Score": 0.8852463960647583,
+      "Type": "QUANTITY",
+      "Text": "5",
+      "BeginOffset": 1616,
+      "EndOffset": 1617
+    },
+    {
+      "Score": 0.9944364428520203,
+      "Type": "PERSON",
+      "Text": "Zain Qaiser",
+      "BeginOffset": 1619,
+      "EndOffset": 1630
+    },
+    {
+      "Score": 0.9382737278938293,
+      "Type": "QUANTITY",
+      "Text": "six-and-a-half years",
+      "BeginOffset": 1646,
+      "EndOffset": 1666
+    },
+    {
+      "Score": 0.6524739265441895,
+      "Type": "LOCATION",
+      "Text": "Kingston Crown",
+      "BeginOffset": 1670,
+      "EndOffset": 1684
+    },
+    {
+      "Score": 0.3849926292896271,
+      "Type": "QUANTITY",
+      "Text": "66",
+      "BeginOffset": 1686,
+      "EndOffset": 1688
+    },
+    {
+      "Score": 0.7287164330482483,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 1745,
+      "EndOffset": 1747
+    },
+    {
+      "Score": 0.7025731205940247,
+      "Type": "QUANTITY",
+      "Text": "68",
+      "BeginOffset": 1832,
+      "EndOffset": 1834
+    },
+    {
+      "Score": 0.9986164569854736,
+      "Type": "PERSON",
+      "Text": "Ryan Reynolds",
+      "BeginOffset": 1835,
+      "EndOffset": 1848
+    },
+    {
+      "Score": 0.8761530518531799,
+      "Type": "QUANTITY",
+      "Text": "two small kids",
+      "BeginOffset": 1865,
+      "EndOffset": 1879
+    },
+    {
+      "Score": 0.924497127532959,
+      "Type": "QUANTITY",
+      "Text": "six hours",
+      "BeginOffset": 1881,
+      "EndOffset": 1890
+    },
+    {
+      "Score": 0.51528000831604,
+      "Type": "QUANTITY",
+      "Text": "69",
+      "BeginOffset": 1906,
+      "EndOffset": 1908
+    },
+    {
+      "Score": 0.7096015214920044,
+      "Type": "QUANTITY",
+      "Text": "one",
+      "BeginOffset": 1954,
+      "EndOffset": 1957
+    },
+    {
+      "Score": 0.5573723912239075,
+      "Type": "QUANTITY",
+      "Text": "10",
+      "BeginOffset": 1961,
+      "EndOffset": 1963
+    },
+    {
+      "Score": 0.7106342315673828,
+      "Type": "ORGANIZATION",
+      "Text": "NHS",
+      "BeginOffset": 1964,
+      "EndOffset": 1967
+    },
+    {
+      "Score": 0.9973254799842834,
+      "Type": "PERSON",
+      "Text": "Andrea Leadsom",
+      "BeginOffset": 1983,
+      "EndOffset": 1997
+    },
+    {
+      "Score": 0.9434921145439148,
+      "Type": "ORGANIZATION",
+      "Text": "Conservative Party",
+      "BeginOffset": 2088,
+      "EndOffset": 2106
+    },
+    {
+      "Score": 0.895179808139801,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2140,
+      "EndOffset": 2146
+    },
+    {
+      "Score": 0.9792487621307373,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 2168,
+      "EndOffset": 2170
+    },
+    {
+      "Score": 0.889178454875946,
+      "Type": "ORGANIZATION",
+      "Text": "UK Parliament's\n       Parliamentary Recording Unit",
+      "BeginOffset": 2245,
+      "EndOffset": 2296
+    },
+    {
+      "Score": 0.9888293147087097,
+      "Type": "ORGANIZATION",
+      "Text": "PRU",
+      "BeginOffset": 2298,
+      "EndOffset": 2301
+    },
+    {
+      "Score": 0.9922135472297668,
+      "Type": "PERSON",
+      "Text": "Oliver\n       Letwin",
+      "BeginOffset": 2325,
+      "EndOffset": 2345
+    },
+    {
+      "Score": 0.9894911050796509,
+      "Type": "ORGANIZATION",
+      "Text": "House of Commons",
+      "BeginOffset": 2362,
+      "EndOffset": 2378
+    },
+    {
+      "Score": 0.9993705153465271,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2382,
+      "EndOffset": 2388
+    },
+    {
+      "Score": 0.9988598227500916,
+      "Type": "DATE",
+      "Text": "March 25, 2019",
+      "BeginOffset": 2392,
+      "EndOffset": 2406
+    },
+    {
+      "Score": 0.9402281045913696,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2450,
+      "EndOffset": 2456
+    },
+    {
+      "Score": 0.9793963432312012,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 2574,
+      "EndOffset": 2580
+    },
+    {
+      "Score": 0.5038579106330872,
+      "Type": "OTHER",
+      "Text": "British",
+      "BeginOffset": 2582,
+      "EndOffset": 2589
+    },
+    {
+      "Score": 0.9309883117675781,
+      "Type": "PERSON",
+      "Text": "Prime Minister Theresa May",
+      "BeginOffset": 2590,
+      "EndOffset": 2616
+    },
+    {
+      "Score": 0.6957573890686035,
+      "Type": "ORGANIZATION",
+      "Text": "AFP",
+      "BeginOffset": 2766,
+      "EndOffset": 2769
+    },
+    {
+      "Score": 0.9274121522903442,
+      "Type": "ORGANIZATION",
+      "Text": "AFP",
+      "BeginOffset": 2874,
+      "EndOffset": 2877
+    },
+    {
+      "Score": 0.9937964081764221,
+      "Type": "ORGANIZATION",
+      "Text": "Getty Images",
+      "BeginOffset": 2878,
+      "EndOffset": 2890
+    },
+    {
+      "Score": 0.9980874061584473,
+      "Type": "PERSON",
+      "Text": "Jeremy Corbyn",
+      "BeginOffset": 2980,
+      "EndOffset": 2993
+    },
+    {
+      "Score": 0.4601323902606964,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3011,
+      "EndOffset": 3017
+    },
+    {
+      "Score": 0.9967749118804932,
+      "Type": "PERSON",
+      "Text": "Keir\n       Starmer",
+      "BeginOffset": 3028,
+      "EndOffset": 3047
+    },
+    {
+      "Score": 0.994531512260437,
+      "Type": "PERSON",
+      "Text": "Rebecca Long-Bailey",
+      "BeginOffset": 3078,
+      "EndOffset": 3097
+    },
+    {
+      "Score": 0.9027841091156006,
+      "Type": "ORGANIZATION",
+      "Text": "Houses of Parliament",
+      "BeginOffset": 3126,
+      "EndOffset": 3146
+    },
+    {
+      "Score": 0.9972087740898132,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 3150,
+      "EndOffset": 3156
+    },
+    {
+      "Score": 0.9473065733909607,
+      "Type": "PERSON",
+      "Text": "Prime Minister Theresa May",
+      "BeginOffset": 3193,
+      "EndOffset": 3219
+    },
+    {
+      "Score": 0.9981110692024231,
+      "Type": "DATE",
+      "Text": "Wednesday April 3, 2019",
+      "BeginOffset": 3267,
+      "EndOffset": 3290
+    },
+    {
+      "Score": 0.9918270111083984,
+      "Type": "PERSON",
+      "Text": "Stefan Rousseau",
+      "BeginOffset": 3355,
+      "EndOffset": 3370
+    },
+    {
+      "Score": 0.7284770607948303,
+      "Type": "ORGANIZATION",
+      "Text": "PA Wire",
+      "BeginOffset": 3371,
+      "EndOffset": 3378
+    },
+    {
+      "Score": 0.399007111787796,
+      "Type": "QUANTITY",
+      "Text": "78",
+      "BeginOffset": 3380,
+      "EndOffset": 3382
+    },
+    {
+      "Score": 0.7911591529846191,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3434,
+      "EndOffset": 3440
+    },
+    {
+      "Score": 0.48158806562423706,
+      "Type": "QUANTITY",
+      "Text": "4",
+      "BeginOffset": 3459,
+      "EndOffset": 3460
+    },
+    {
+      "Score": 0.9611450433731079,
+      "Type": "ORGANIZATION",
+      "Text": "UK Parliament",
+      "BeginOffset": 3509,
+      "EndOffset": 3522
+    },
+    {
+      "Score": 0.998637318611145,
+      "Type": "DATE",
+      "Text": "March 29, 2019",
+      "BeginOffset": 3533,
+      "EndOffset": 3547
+    },
+    {
+      "Score": 0.735059916973114,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 3554,
+      "EndOffset": 3561
+    },
+    {
+      "Score": 0.8826168775558472,
+      "Type": "PERSON",
+      "Text": "Prime Minister Theresa May",
+      "BeginOffset": 3564,
+      "EndOffset": 3590
+    },
+    {
+      "Score": 0.9719116687774658,
+      "Type": "ORGANIZATION",
+      "Text": "House of Commons",
+      "BeginOffset": 3634,
+      "EndOffset": 3650
+    },
+    {
+      "Score": 0.576598584651947,
+      "Type": "OTHER",
+      "Text": "British",
+      "BeginOffset": 3707,
+      "EndOffset": 3714
+    },
+    {
+      "Score": 0.9825575947761536,
+      "Type": "DATE",
+      "Text": "Friday",
+      "BeginOffset": 3722,
+      "EndOffset": 3728
+    },
+    {
+      "Score": 0.973502516746521,
+      "Type": "PERSON",
+      "Text": "Prime Minister Theresa May",
+      "BeginOffset": 3745,
+      "EndOffset": 3771
+    },
+    {
+      "Score": 0.8102112412452698,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 3774,
+      "EndOffset": 3776
+    },
+    {
+      "Score": 0.8969683051109314,
+      "Type": "QUANTITY",
+      "Text": "third\n       time",
+      "BeginOffset": 3796,
+      "EndOffset": 3813
+    },
+    {
+      "Score": 0.9315558075904846,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3851,
+      "EndOffset": 3857
+    },
+    {
+      "Score": 0.9855799674987793,
+      "Type": "QUANTITY",
+      "Text": "two weeks",
+      "BeginOffset": 3921,
+      "EndOffset": 3930
+    },
+    {
+      "Score": 0.49149826169013977,
+      "Type": "QUANTITY",
+      "Text": "79",
+      "BeginOffset": 3932,
+      "EndOffset": 3934
+    },
+    {
+      "Score": 0.5778639912605286,
+      "Type": "QUANTITY",
+      "Text": "80",
+      "BeginOffset": 4005,
+      "EndOffset": 4007
+    },
+    {
+      "Score": 0.3373015820980072,
+      "Type": "OTHER",
+      "Text": "European",
+      "BeginOffset": 4082,
+      "EndOffset": 4090
+    },
+    {
+      "Score": 0.9662883281707764,
+      "Type": "PERSON",
+      "Text": "President Jean-Claude Juncker",
+      "BeginOffset": 4102,
+      "EndOffset": 4131
+    },
+    {
+      "Score": 0.9248733520507812,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 4161,
+      "EndOffset": 4163
+    },
+    {
+      "Score": 0.8653537631034851,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 4172,
+      "EndOffset": 4178
+    },
+    {
+      "Score": 0.9883105754852295,
+      "Type": "PERSON",
+      "Text": "Michel Barnier",
+      "BeginOffset": 4190,
+      "EndOffset": 4204
+    },
+    {
+      "Score": 0.926096498966217,
+      "Type": "DATE",
+      "Text": "09 Apr 2019, 9:00am",
+      "BeginOffset": 4205,
+      "EndOffset": 4224
+    },
+    {
+      "Score": 0.9240338802337646,
+      "Type": "PERSON",
+      "Text": "Barnier",
+      "BeginOffset": 4238,
+      "EndOffset": 4245
+    },
+    {
+      "Score": 0.9523868560791016,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 4277,
+      "EndOffset": 4279
+    },
+    {
+      "Score": 0.9986089468002319,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 4349,
+      "EndOffset": 4360
+    },
+    {
+      "Score": 0.6666125059127808,
+      "Type": "PERSON",
+      "Text": "Jeremy",
+      "BeginOffset": 4365,
+      "EndOffset": 4371
+    },
+    {
+      "Score": 0.5356499552726746,
+      "Type": "QUANTITY",
+      "Text": "82",
+      "BeginOffset": 4373,
+      "EndOffset": 4375
+    },
+    {
+      "Score": 0.9663141369819641,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 4399,
+      "EndOffset": 4405
+    },
+    {
+      "Score": 0.465962678194046,
+      "Type": "LOCATION",
+      "Text": "Bacton",
+      "BeginOffset": 4491,
+      "EndOffset": 4497
+    },
+    {
+      "Score": 0.9688067436218262,
+      "Type": "LOCATION",
+      "Text": "Norfolk",
+      "BeginOffset": 4520,
+      "EndOffset": 4527
+    },
+    {
+      "Score": 0.9712136387825012,
+      "Type": "ORGANIZATION",
+      "Text": "North Norfolk District Council",
+      "BeginOffset": 4548,
+      "EndOffset": 4578
+    },
+    {
+      "Score": 0.9932398796081543,
+      "Type": "LOCATION",
+      "Text": "Africa",
+      "BeginOffset": 4628,
+      "EndOffset": 4634
+    },
+    {
+      "Score": 0.9588263630867004,
+      "Type": "LOCATION",
+      "Text": "Norfolk",
+      "BeginOffset": 4638,
+      "EndOffset": 4645
+    },
+    {
+      "Score": 0.995874285697937,
+      "Type": "PERSON",
+      "Text": "Sana Muhammad",
+      "BeginOffset": 4704,
+      "EndOffset": 4717
+    },
+    {
+      "Score": 0.7801569104194641,
+      "Type": "DATE",
+      "Text": "November",
+      "BeginOffset": 4759,
+      "EndOffset": 4767
+    },
+    {
+      "Score": 0.36153364181518555,
+      "Type": "OTHER",
+      "Text": "102",
+      "BeginOffset": 4769,
+      "EndOffset": 4772
+    },
+    {
+      "Score": 0.4761689305305481,
+      "Type": "QUANTITY",
+      "Text": "3",
+      "BeginOffset": 4849,
+      "EndOffset": 4850
+    },
+    {
+      "Score": 0.9964224696159363,
+      "Type": "PERSON",
+      "Text": "William Barr",
+      "BeginOffset": 4852,
+      "EndOffset": 4864
+    },
+    {
+      "Score": 0.9063217043876648,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 4866,
+      "EndOffset": 4868
+    }
+  ]
+}

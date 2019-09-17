@@ -1,0 +1,501 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9859331250190735,
+      "Type": "PERSON",
+      "Text": "Benjamin Netanyahu",
+      "BeginOffset": 46,
+      "EndOffset": 64
+    },
+    {
+      "Score": 0.8763806223869324,
+      "Type": "QUANTITY",
+      "Text": "two-state",
+      "BeginOffset": 74,
+      "EndOffset": 83
+    },
+    {
+      "Score": 0.9956242442131042,
+      "Type": "PERSON",
+      "Text": "Abby Wambach",
+      "BeginOffset": 102,
+      "EndOffset": 114
+    },
+    {
+      "Score": 0.9988433122634888,
+      "Type": "PERSON",
+      "Text": "Adam Higginbotham",
+      "BeginOffset": 153,
+      "EndOffset": 170
+    },
+    {
+      "Score": 0.6322928071022034,
+      "Type": "PERSON",
+      "Text": "Chernobyl\nJulian Assange",
+      "BeginOffset": 206,
+      "EndOffset": 230
+    },
+    {
+      "Score": 0.8217164278030396,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 243,
+      "EndOffset": 247
+    },
+    {
+      "Score": 0.8764591217041016,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 269,
+      "EndOffset": 275
+    },
+    {
+      "Score": 0.9794042110443115,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 298,
+      "EndOffset": 307
+    },
+    {
+      "Score": 0.8703742623329163,
+      "Type": "ORGANIZATION",
+      "Text": "Ecuadorean Embassy",
+      "BeginOffset": 336,
+      "EndOffset": 354
+    },
+    {
+      "Score": 0.9992337226867676,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 365,
+      "EndOffset": 371
+    },
+    {
+      "Score": 0.9963839054107666,
+      "Type": "DATE",
+      "Text": "2012",
+      "BeginOffset": 398,
+      "EndOffset": 402
+    },
+    {
+      "Score": 0.8500383496284485,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 415,
+      "EndOffset": 419
+    },
+    {
+      "Score": 0.9965986609458923,
+      "Type": "PERSON",
+      "Text": "Assange",
+      "BeginOffset": 460,
+      "EndOffset": 467
+    },
+    {
+      "Score": 0.8898258209228516,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 587,
+      "EndOffset": 592
+    },
+    {
+      "Score": 0.98841792345047,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 630,
+      "EndOffset": 639
+    },
+    {
+      "Score": 0.9995551705360413,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 648,
+      "EndOffset": 662
+    },
+    {
+      "Score": 0.9983500242233276,
+      "Type": "DATE",
+      "Text": "2017",
+      "BeginOffset": 666,
+      "EndOffset": 670
+    },
+    {
+      "Score": 0.7087429761886597,
+      "Type": "ORGANIZATION",
+      "Text": "Ecuadorean Embassy",
+      "BeginOffset": 696,
+      "EndOffset": 714
+    },
+    {
+      "Score": 0.9990966320037842,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 718,
+      "EndOffset": 724
+    },
+    {
+      "Score": 0.7591786980628967,
+      "Type": "ORGANIZATION",
+      "Text": "Ecuadorean government",
+      "BeginOffset": 730,
+      "EndOffset": 751
+    },
+    {
+      "Score": 0.7671127915382385,
+      "Type": "DATE",
+      "Text": "this March",
+      "BeginOffset": 757,
+      "EndOffset": 767
+    },
+    {
+      "Score": 0.9995496273040771,
+      "Type": "PERSON",
+      "Text": "Matt Dunham",
+      "BeginOffset": 812,
+      "EndOffset": 823
+    },
+    {
+      "Score": 0.9891285300254822,
+      "Type": "ORGANIZATION",
+      "Text": "Associated Press",
+      "BeginOffset": 824,
+      "EndOffset": 840
+    },
+    {
+      "Score": 0.9992529153823853,
+      "Type": "PERSON",
+      "Text": "Omar Hassan al-Bashir",
+      "BeginOffset": 841,
+      "EndOffset": 862
+    },
+    {
+      "Score": 0.5556384921073914,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 877,
+      "EndOffset": 882
+    },
+    {
+      "Score": 0.9989804625511169,
+      "Type": "PERSON",
+      "Text": "al-Bashir",
+      "BeginOffset": 1037,
+      "EndOffset": 1046
+    },
+    {
+      "Score": 0.6180146932601929,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 1057,
+      "EndOffset": 1062
+    },
+    {
+      "Score": 0.9991995692253113,
+      "Type": "DATE",
+      "Text": "1956",
+      "BeginOffset": 1134,
+      "EndOffset": 1138
+    },
+    {
+      "Score": 0.9242005944252014,
+      "Type": "LOCATION",
+      "Text": "Khartoum, Sudan",
+      "BeginOffset": 1156,
+      "EndOffset": 1171
+    },
+    {
+      "Score": 0.9952865839004517,
+      "Type": "DATE",
+      "Text": "Thursday",
+      "BeginOffset": 1176,
+      "EndOffset": 1184
+    },
+    {
+      "Score": 0.9874517321586609,
+      "Type": "PERSON",
+      "Text": "President Omar Hassan al-Bashir",
+      "BeginOffset": 1217,
+      "EndOffset": 1248
+    },
+    {
+      "Score": 0.9096300005912781,
+      "Type": "ORGANIZATION",
+      "Text": "France-Presse",
+      "BeginOffset": 1257,
+      "EndOffset": 1270
+    },
+    {
+      "Score": 0.9900676012039185,
+      "Type": "ORGANIZATION",
+      "Text": "Getty Images",
+      "BeginOffset": 1274,
+      "EndOffset": 1286
+    },
+    {
+      "Score": 0.6832281947135925,
+      "Type": "ORGANIZATION",
+      "Text": "The Times",
+      "BeginOffset": 1438,
+      "EndOffset": 1447
+    },
+    {
+      "Score": 0.7107884883880615,
+      "Type": "PERSON",
+      "Text": "Obama",
+      "BeginOffset": 1687,
+      "EndOffset": 1692
+    },
+    {
+      "Score": 0.9960607886314392,
+      "Type": "PERSON",
+      "Text": "Gregory B. Craig",
+      "BeginOffset": 1759,
+      "EndOffset": 1775
+    },
+    {
+      "Score": 0.820073664188385,
+      "Type": "LOCATION",
+      "Text": "Russia",
+      "BeginOffset": 1843,
+      "EndOffset": 1849
+    },
+    {
+      "Score": 0.9941640496253967,
+      "Type": "LOCATION",
+      "Text": "Ukraine",
+      "BeginOffset": 1872,
+      "EndOffset": 1879
+    },
+    {
+      "Score": 0.9998155236244202,
+      "Type": "PERSON",
+      "Text": "Craig",
+      "BeginOffset": 1906,
+      "EndOffset": 1911
+    },
+    {
+      "Score": 0.5631966590881348,
+      "Type": "QUANTITY",
+      "Text": "first top",
+      "BeginOffset": 1929,
+      "EndOffset": 1938
+    },
+    {
+      "Score": 0.8176524639129639,
+      "Type": "ORGANIZATION",
+      "Text": "Democrat",
+      "BeginOffset": 1939,
+      "EndOffset": 1947
+    },
+    {
+      "Score": 0.960600733757019,
+      "Type": "PERSON",
+      "Text": "President Trump",
+      "BeginOffset": 2045,
+      "EndOffset": 2060
+    },
+    {
+      "Score": 0.5766874551773071,
+      "Type": "ORGANIZATION",
+      "Text": "National Enquirer",
+      "BeginOffset": 2080,
+      "EndOffset": 2097
+    },
+    {
+      "Score": 0.8913101553916931,
+      "Type": "ORGANIZATION",
+      "Text": "American Media Inc.",
+      "BeginOffset": 2170,
+      "EndOffset": 2189
+    },
+    {
+      "Score": 0.9598901271820068,
+      "Type": "QUANTITY",
+      "Text": "two people",
+      "BeginOffset": 2405,
+      "EndOffset": 2415
+    },
+    {
+      "Score": 0.7110324501991272,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 2456,
+      "EndOffset": 2469
+    },
+    {
+      "Score": 0.8526740670204163,
+      "Type": "LOCATION",
+      "Text": "Memorial, Los Angeles",
+      "BeginOffset": 2472,
+      "EndOffset": 2493
+    },
+    {
+      "Score": 0.9631630778312683,
+      "Type": "QUANTITY",
+      "Text": "Thousands of mourners",
+      "BeginOffset": 2525,
+      "EndOffset": 2546
+    },
+    {
+      "Score": 0.9987146258354187,
+      "Type": "LOCATION",
+      "Text": "Los Angeles",
+      "BeginOffset": 2574,
+      "EndOffset": 2585
+    },
+    {
+      "Score": 0.9179450869560242,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 2586,
+      "EndOffset": 2591
+    },
+    {
+      "Score": 0.8805426955223083,
+      "Type": "TITLE",
+      "Text": "Grammy",
+      "BeginOffset": 2624,
+      "EndOffset": 2630
+    },
+    {
+      "Score": 0.8732701539993286,
+      "Type": "QUANTITY",
+      "Text": "two-hour",
+      "BeginOffset": 2675,
+      "EndOffset": 2683
+    },
+    {
+      "Score": 0.9029706120491028,
+      "Type": "DATE",
+      "Text": "10 a.m.",
+      "BeginOffset": 2706,
+      "EndOffset": 2713
+    },
+    {
+      "Score": 0.9167913794517517,
+      "Type": "LOCATION",
+      "Text": "Staples Center",
+      "BeginOffset": 2778,
+      "EndOffset": 2792
+    },
+    {
+      "Score": 0.7252826690673828,
+      "Type": "LOCATION",
+      "Text": "South Los",
+      "BeginOffset": 2801,
+      "EndOffset": 2810
+    },
+    {
+      "Score": 0.9933056235313416,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 2843,
+      "EndOffset": 2856
+    },
+    {
+      "Score": 0.9927676916122437,
+      "Type": "PERSON",
+      "Text": "Alex Welsh",
+      "BeginOffset": 2936,
+      "EndOffset": 2946
+    },
+    {
+      "Score": 0.8195376396179199,
+      "Type": "TITLE",
+      "Text": "The New\n   Sure",
+      "BeginOffset": 2951,
+      "EndOffset": 2966
+    },
+    {
+      "Score": 0.9717105031013489,
+      "Type": "PERSON",
+      "Text": "Dina Litovsky",
+      "BeginOffset": 3099,
+      "EndOffset": 3112
+    },
+    {
+      "Score": 0.8548427224159241,
+      "Type": "ORGANIZATION",
+      "Text": "The New York Times",
+      "BeginOffset": 3124,
+      "EndOffset": 3142
+    },
+    {
+      "Score": 0.4484518766403198,
+      "Type": "ORGANIZATION",
+      "Text": "Pinkertons",
+      "BeginOffset": 3178,
+      "EndOffset": 3188
+    },
+    {
+      "Score": 0.9974125623703003,
+      "Type": "DATE",
+      "Text": "21st century",
+      "BeginOffset": 3292,
+      "EndOffset": 3304
+    },
+    {
+      "Score": 0.9740213751792908,
+      "Type": "DATE",
+      "Text": "19th",
+      "BeginOffset": 3322,
+      "EndOffset": 3326
+    },
+    {
+      "Score": 0.5902848243713379,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 3336,
+      "EndOffset": 3344
+    },
+    {
+      "Score": 0.8110470771789551,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 3384,
+      "EndOffset": 3392
+    },
+    {
+      "Score": 0.789898693561554,
+      "Type": "QUANTITY",
+      "Text": "first subway station",
+      "BeginOffset": 3395,
+      "EndOffset": 3415
+    },
+    {
+      "Score": 0.9960487484931946,
+      "Type": "DATE",
+      "Text": "1904",
+      "BeginOffset": 3426,
+      "EndOffset": 3430
+    },
+    {
+      "Score": 0.895200788974762,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 3453,
+      "EndOffset": 3458
+    },
+    {
+      "Score": 0.38808244466781616,
+      "Type": "LOCATION",
+      "Text": "French",
+      "BeginOffset": 3531,
+      "EndOffset": 3537
+    },
+    {
+      "Score": 0.9684625267982483,
+      "Type": "ORGANIZATION",
+      "Text": "New York Times",
+      "BeginOffset": 3704,
+      "EndOffset": 3718
+    },
+    {
+      "Score": 0.5008883476257324,
+      "Type": "ORGANIZATION",
+      "Text": "Azqo1",
+      "BeginOffset": 3777,
+      "EndOffset": 3782
+    }
+  ]
+}

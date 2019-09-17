@@ -1,0 +1,739 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8981371521949768,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 70,
+      "EndOffset": 73
+    },
+    {
+      "Score": 0.9591524004936218,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 115,
+      "EndOffset": 118
+    },
+    {
+      "Score": 0.3697919547557831,
+      "Type": "ORGANIZATION",
+      "Text": "Sudan",
+      "BeginOffset": 123,
+      "EndOffset": 128
+    },
+    {
+      "Score": 0.36056429147720337,
+      "Type": "ORGANIZATION",
+      "Text": "Sudan",
+      "BeginOffset": 247,
+      "EndOffset": 252
+    },
+    {
+      "Score": 0.9950806498527527,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 294,
+      "EndOffset": 305
+    },
+    {
+      "Score": 0.7209890484809875,
+      "Type": "EVENT",
+      "Text": "EU summit",
+      "BeginOffset": 345,
+      "EndOffset": 354
+    },
+    {
+      "Score": 0.4631475508213043,
+      "Type": "QUANTITY",
+      "Text": "33",
+      "BeginOffset": 359,
+      "EndOffset": 361
+    },
+    {
+      "Score": 0.9865714907646179,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 377,
+      "EndOffset": 379
+    },
+    {
+      "Score": 0.9723432064056396,
+      "Type": "ORGANIZATION",
+      "Text": "UK",
+      "BeginOffset": 384,
+      "EndOffset": 386
+    },
+    {
+      "Score": 0.9694148898124695,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 393,
+      "EndOffset": 399
+    },
+    {
+      "Score": 0.6993604898452759,
+      "Type": "QUANTITY",
+      "Text": "35",
+      "BeginOffset": 414,
+      "EndOffset": 416
+    },
+    {
+      "Score": 0.9888712763786316,
+      "Type": "ORGANIZATION",
+      "Text": "EU",
+      "BeginOffset": 432,
+      "EndOffset": 434
+    },
+    {
+      "Score": 0.9776905179023743,
+      "Type": "ORGANIZATION",
+      "Text": "UK",
+      "BeginOffset": 439,
+      "EndOffset": 441
+    },
+    {
+      "Score": 0.9751049876213074,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 448,
+      "EndOffset": 454
+    },
+    {
+      "Score": 0.9893165230751038,
+      "Type": "PERSON",
+      "Text": "Hannah Michael",
+      "BeginOffset": 468,
+      "EndOffset": 482
+    },
+    {
+      "Score": 0.9624676704406738,
+      "Type": "PERSON",
+      "Text": "Melisande Short-Colomb",
+      "BeginOffset": 484,
+      "EndOffset": 506
+    },
+    {
+      "Score": 0.5936242938041687,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 515,
+      "EndOffset": 517
+    },
+    {
+      "Score": 0.6409261226654053,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 578,
+      "EndOffset": 580
+    },
+    {
+      "Score": 0.453784316778183,
+      "Type": "QUANTITY",
+      "Text": "39",
+      "BeginOffset": 627,
+      "EndOffset": 629
+    },
+    {
+      "Score": 0.4330633580684662,
+      "Type": "QUANTITY",
+      "Text": "41",
+      "BeginOffset": 680,
+      "EndOffset": 682
+    },
+    {
+      "Score": 0.9974967241287231,
+      "Type": "PERSON",
+      "Text": "Jason Padgett",
+      "BeginOffset": 778,
+      "EndOffset": 791
+    },
+    {
+      "Score": 0.5570032596588135,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 794,
+      "EndOffset": 796
+    },
+    {
+      "Score": 0.9580610394477844,
+      "Type": "ORGANIZATION",
+      "Text": "Wikileaks",
+      "BeginOffset": 898,
+      "EndOffset": 907
+    },
+    {
+      "Score": 0.9999159574508667,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 919,
+      "EndOffset": 933
+    },
+    {
+      "Score": 0.9564254879951477,
+      "Type": "LOCATION",
+      "Text": "Ecuador",
+      "BeginOffset": 968,
+      "EndOffset": 975
+    },
+    {
+      "Score": 0.926395058631897,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 978,
+      "EndOffset": 984
+    },
+    {
+      "Score": 0.9994142055511475,
+      "Type": "DATE",
+      "Text": "2012",
+      "BeginOffset": 996,
+      "EndOffset": 1000
+    },
+    {
+      "Score": 0.9833673238754272,
+      "Type": "LOCATION",
+      "Text": "Sweden",
+      "BeginOffset": 1032,
+      "EndOffset": 1038
+    },
+    {
+      "Score": 0.6356998085975647,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 1079,
+      "EndOffset": 1081
+    },
+    {
+      "Score": 0.9725230932235718,
+      "Type": "ORGANIZATION",
+      "Text": "Wikileaks",
+      "BeginOffset": 1082,
+      "EndOffset": 1091
+    },
+    {
+      "Score": 0.9998295903205872,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 1103,
+      "EndOffset": 1117
+    },
+    {
+      "Score": 0.8021411299705505,
+      "Type": "LOCATION",
+      "Text": "India",
+      "BeginOffset": 1185,
+      "EndOffset": 1190
+    },
+    {
+      "Score": 0.9677208662033081,
+      "Type": "LOCATION",
+      "Text": "Cooch Behar, West Bengal",
+      "BeginOffset": 1220,
+      "EndOffset": 1244
+    },
+    {
+      "Score": 0.9995320439338684,
+      "Type": "DATE",
+      "Text": "April 11, 2019",
+      "BeginOffset": 1248,
+      "EndOffset": 1262
+    },
+    {
+      "Score": 0.5875812768936157,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 1265,
+      "EndOffset": 1267
+    },
+    {
+      "Score": 0.728463351726532,
+      "Type": "LOCATION",
+      "Text": "India",
+      "BeginOffset": 1268,
+      "EndOffset": 1273
+    },
+    {
+      "Score": 0.9333710670471191,
+      "Type": "QUANTITY",
+      "Text": "Tens of millions",
+      "BeginOffset": 1316,
+      "EndOffset": 1332
+    },
+    {
+      "Score": 0.8742374181747437,
+      "Type": "LOCATION",
+      "Text": "India",
+      "BeginOffset": 1400,
+      "EndOffset": 1405
+    },
+    {
+      "Score": 0.4843347370624542,
+      "Type": "QUANTITY",
+      "Text": "51",
+      "BeginOffset": 1433,
+      "EndOffset": 1435
+    },
+    {
+      "Score": 0.7645025253295898,
+      "Type": "LOCATION",
+      "Text": "India",
+      "BeginOffset": 1436,
+      "EndOffset": 1441
+    },
+    {
+      "Score": 0.8470425009727478,
+      "Type": "PERSON",
+      "Text": "European Council President Donald Tusk",
+      "BeginOffset": 1484,
+      "EndOffset": 1522
+    },
+    {
+      "Score": 0.7667178511619568,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 1531,
+      "EndOffset": 1538
+    },
+    {
+      "Score": 0.9728001952171326,
+      "Type": "PERSON",
+      "Text": "Prime\n       Minister Theresa May",
+      "BeginOffset": 1541,
+      "EndOffset": 1574
+    },
+    {
+      "Score": 0.8315991163253784,
+      "Type": "ORGANIZATION",
+      "Text": "European Council",
+      "BeginOffset": 1592,
+      "EndOffset": 1608
+    },
+    {
+      "Score": 0.9235163331031799,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1628,
+      "EndOffset": 1634
+    },
+    {
+      "Score": 0.9552757740020752,
+      "Type": "DATE",
+      "Text": "31 October",
+      "BeginOffset": 1652,
+      "EndOffset": 1662
+    },
+    {
+      "Score": 0.9994745850563049,
+      "Type": "PERSON",
+      "Text": "Theresa May",
+      "BeginOffset": 1670,
+      "EndOffset": 1681
+    },
+    {
+      "Score": 0.44492340087890625,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 1745,
+      "EndOffset": 1747
+    },
+    {
+      "Score": 0.9733138680458069,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1752,
+      "EndOffset": 1758
+    },
+    {
+      "Score": 0.9710808396339417,
+      "Type": "DATE",
+      "Text": "31 October",
+      "BeginOffset": 1776,
+      "EndOffset": 1786
+    },
+    {
+      "Score": 0.5898364782333374,
+      "Type": "QUANTITY",
+      "Text": "56",
+      "BeginOffset": 1788,
+      "EndOffset": 1790
+    },
+    {
+      "Score": 0.701715350151062,
+      "Type": "ORGANIZATION",
+      "Text": "Rugby Australia",
+      "BeginOffset": 1791,
+      "EndOffset": 1806
+    },
+    {
+      "Score": 0.8444045782089233,
+      "Type": "ORGANIZATION",
+      "Text": "Folau\n       Rugby Australia",
+      "BeginOffset": 1825,
+      "EndOffset": 1853
+    },
+    {
+      "Score": 0.8262915015220642,
+      "Type": "PERSON",
+      "Text": "Israel Folau",
+      "BeginOffset": 1883,
+      "EndOffset": 1895
+    },
+    {
+      "Score": 0.6765018701553345,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 1981,
+      "EndOffset": 1983
+    },
+    {
+      "Score": 0.746243953704834,
+      "Type": "ORGANIZATION",
+      "Text": "Rugby Australia",
+      "BeginOffset": 1984,
+      "EndOffset": 1999
+    },
+    {
+      "Score": 0.863996684551239,
+      "Type": "PERSON",
+      "Text": "Folau",
+      "BeginOffset": 2018,
+      "EndOffset": 2023
+    },
+    {
+      "Score": 0.7261974811553955,
+      "Type": "LOCATION",
+      "Text": "Seville",
+      "BeginOffset": 2057,
+      "EndOffset": 2064
+    },
+    {
+      "Score": 0.7938166856765747,
+      "Type": "PERSON",
+      "Text": "Joaquin",
+      "BeginOffset": 2066,
+      "EndOffset": 2073
+    },
+    {
+      "Score": 0.5546023845672607,
+      "Type": "ORGANIZATION",
+      "Text": "Betis",
+      "BeginOffset": 2076,
+      "EndOffset": 2081
+    },
+    {
+      "Score": 0.9471323490142822,
+      "Type": "ORGANIZATION",
+      "Text": "BBC Sport",
+      "BeginOffset": 2095,
+      "EndOffset": 2104
+    },
+    {
+      "Score": 0.9602894186973572,
+      "Type": "LOCATION",
+      "Text": "Seville",
+      "BeginOffset": 2116,
+      "EndOffset": 2123
+    },
+    {
+      "Score": 0.9666697978973389,
+      "Type": "PERSON",
+      "Text": "Joaquin",
+      "BeginOffset": 2132,
+      "EndOffset": 2139
+    },
+    {
+      "Score": 0.8948862552642822,
+      "Type": "ORGANIZATION",
+      "Text": "Real Betis",
+      "BeginOffset": 2145,
+      "EndOffset": 2155
+    },
+    {
+      "Score": 0.8825544118881226,
+      "Type": "OTHER",
+      "Text": "Spanish",
+      "BeginOffset": 2200,
+      "EndOffset": 2207
+    },
+    {
+      "Score": 0.9978871941566467,
+      "Type": "QUANTITY",
+      "Text": "15",
+      "BeginOffset": 2230,
+      "EndOffset": 2232
+    },
+    {
+      "Score": 0.4912289083003998,
+      "Type": "QUANTITY",
+      "Text": "61",
+      "BeginOffset": 2242,
+      "EndOffset": 2244
+    },
+    {
+      "Score": 0.7194352149963379,
+      "Type": "LOCATION",
+      "Text": "Seville",
+      "BeginOffset": 2274,
+      "EndOffset": 2281
+    },
+    {
+      "Score": 0.7744278311729431,
+      "Type": "PERSON",
+      "Text": "Joaquin",
+      "BeginOffset": 2283,
+      "EndOffset": 2290
+    },
+    {
+      "Score": 0.5042058229446411,
+      "Type": "ORGANIZATION",
+      "Text": "Betis",
+      "BeginOffset": 2293,
+      "EndOffset": 2298
+    },
+    {
+      "Score": 0.8133159875869751,
+      "Type": "LOCATION",
+      "Text": "Nou Camp - Dublin",
+      "BeginOffset": 2342,
+      "EndOffset": 2359
+    },
+    {
+      "Score": 0.6732767820358276,
+      "Type": "ORGANIZATION",
+      "Text": "Man Utd",
+      "BeginOffset": 2376,
+      "EndOffset": 2383
+    },
+    {
+      "Score": 0.874912679195404,
+      "Type": "EVENT",
+      "Text": "Champions League",
+      "BeginOffset": 2399,
+      "EndOffset": 2415
+    },
+    {
+      "Score": 0.9742417335510254,
+      "Type": "ORGANIZATION",
+      "Text": "Barcelona",
+      "BeginOffset": 2446,
+      "EndOffset": 2455
+    },
+    {
+      "Score": 0.5386527180671692,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 2482,
+      "EndOffset": 2487
+    },
+    {
+      "Score": 0.9542091488838196,
+      "Type": "QUANTITY",
+      "Text": "1",
+      "BeginOffset": 2492,
+      "EndOffset": 2493
+    },
+    {
+      "Score": 0.9788213968276978,
+      "Type": "QUANTITY",
+      "Text": "0",
+      "BeginOffset": 2494,
+      "EndOffset": 2495
+    },
+    {
+      "Score": 0.7726116180419922,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 2518,
+      "EndOffset": 2520
+    },
+    {
+      "Score": 0.790276825428009,
+      "Type": "LOCATION",
+      "Text": "Nou Camp - Dublin",
+      "BeginOffset": 2554,
+      "EndOffset": 2571
+    },
+    {
+      "Score": 0.9766584038734436,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 2609,
+      "EndOffset": 2612
+    },
+    {
+      "Score": 0.7740702629089355,
+      "Type": "OTHER",
+      "Text": "Japanese",
+      "BeginOffset": 2655,
+      "EndOffset": 2663
+    },
+    {
+      "Score": 0.6503177285194397,
+      "Type": "ORGANIZATION",
+      "Text": "Nirvana",
+      "BeginOffset": 2908,
+      "EndOffset": 2915
+    },
+    {
+      "Score": 0.9693398475646973,
+      "Type": "PERSON",
+      "Text": "Kurt Cobain",
+      "BeginOffset": 2938,
+      "EndOffset": 2949
+    },
+    {
+      "Score": 0.9994016289710999,
+      "Type": "PERSON",
+      "Text": "Kurt Cobain",
+      "BeginOffset": 2962,
+      "EndOffset": 2973
+    },
+    {
+      "Score": 0.9992758631706238,
+      "Type": "DATE",
+      "Text": "3 December 1967",
+      "BeginOffset": 3002,
+      "EndOffset": 3017
+    },
+    {
+      "Score": 0.9016939401626587,
+      "Type": "LOCATION",
+      "Text": "Cape Town",
+      "BeginOffset": 3022,
+      "EndOffset": 3031
+    },
+    {
+      "Score": 0.9621546864509583,
+      "Type": "ORGANIZATION",
+      "Text": "Groote Schuur Hospital",
+      "BeginOffset": 3034,
+      "EndOffset": 3056
+    },
+    {
+      "Score": 0.6811515092849731,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 3067,
+      "EndOffset": 3069
+    },
+    {
+      "Score": 0.9996887445449829,
+      "Type": "DATE",
+      "Text": "3 December 1967",
+      "BeginOffset": 3118,
+      "EndOffset": 3133
+    },
+    {
+      "Score": 0.9107294082641602,
+      "Type": "LOCATION",
+      "Text": "Cape Town",
+      "BeginOffset": 3138,
+      "EndOffset": 3147
+    },
+    {
+      "Score": 0.9550983309745789,
+      "Type": "ORGANIZATION",
+      "Text": "Groote Schuur Hospital",
+      "BeginOffset": 3150,
+      "EndOffset": 3172
+    },
+    {
+      "Score": 0.9021679759025574,
+      "Type": "LOCATION",
+      "Text": "Johannesburg",
+      "BeginOffset": 3246,
+      "EndOffset": 3258
+    },
+    {
+      "Score": 0.9492869973182678,
+      "Type": "LOCATION",
+      "Text": "Johannesburg",
+      "BeginOffset": 3321,
+      "EndOffset": 3333
+    },
+    {
+      "Score": 0.554733395576477,
+      "Type": "QUANTITY",
+      "Text": "decades",
+      "BeginOffset": 3373,
+      "EndOffset": 3380
+    },
+    {
+      "Score": 0.9562522172927856,
+      "Type": "QUANTITY",
+      "Text": "78",
+      "BeginOffset": 3389,
+      "EndOffset": 3391
+    },
+    {
+      "Score": 0.6941530704498291,
+      "Type": "LOCATION",
+      "Text": "City of Gold",
+      "BeginOffset": 3396,
+      "EndOffset": 3408
+    },
+    {
+      "Score": 0.4562414288520813,
+      "Type": "QUANTITY",
+      "Text": "81",
+      "BeginOffset": 3623,
+      "EndOffset": 3625
+    },
+    {
+      "Score": 0.9766850471496582,
+      "Type": "QUANTITY",
+      "Text": "35",
+      "BeginOffset": 3844,
+      "EndOffset": 3846
+    },
+    {
+      "Score": 0.8213237524032593,
+      "Type": "QUANTITY",
+      "Text": "two young children",
+      "BeginOffset": 3853,
+      "EndOffset": 3871
+    },
+    {
+      "Score": 0.7076547741889954,
+      "Type": "PERSON",
+      "Text": "Parkinson",
+      "BeginOffset": 3878,
+      "EndOffset": 3887
+    },
+    {
+      "Score": 0.7238903045654297,
+      "Type": "QUANTITY",
+      "Text": "90",
+      "BeginOffset": 3972,
+      "EndOffset": 3974
+    },
+    {
+      "Score": 0.9942288398742676,
+      "Type": "QUANTITY",
+      "Text": "35",
+      "BeginOffset": 3980,
+      "EndOffset": 3982
+    },
+    {
+      "Score": 0.775104284286499,
+      "Type": "QUANTITY",
+      "Text": "two young children",
+      "BeginOffset": 3989,
+      "EndOffset": 4007
+    },
+    {
+      "Score": 0.8496813178062439,
+      "Type": "PERSON",
+      "Text": "Parkinson",
+      "BeginOffset": 4014,
+      "EndOffset": 4023
+    },
+    {
+      "Score": 0.7237114906311035,
+      "Type": "TITLE",
+      "Text": "Avengers",
+      "BeginOffset": 4071,
+      "EndOffset": 4079
+    }
+  ]
+}

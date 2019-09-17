@@ -1,0 +1,1159 @@
+{
+  "Entities": [
+    {
+      "Score": 0.9824090600013733,
+      "Type": "ORGANIZATION",
+      "Text": "WikiLeaks",
+      "BeginOffset": 4,
+      "EndOffset": 13
+    },
+    {
+      "Score": 0.9991360902786255,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 15,
+      "EndOffset": 29
+    },
+    {
+      "Score": 0.8299019932746887,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 42,
+      "EndOffset": 48
+    },
+    {
+      "Score": 0.8078785538673401,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 50,
+      "EndOffset": 54
+    },
+    {
+      "Score": 0.9993413090705872,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 88,
+      "EndOffset": 102
+    },
+    {
+      "Score": 0.8815296292304993,
+      "Type": "ORGANIZATION",
+      "Text": "Ecuadorian Embassy",
+      "BeginOffset": 132,
+      "EndOffset": 150
+    },
+    {
+      "Score": 0.5858402252197266,
+      "Type": "PERSON",
+      "Text": "Post Mueller",
+      "BeginOffset": 155,
+      "EndOffset": 167
+    },
+    {
+      "Score": 0.9994593262672424,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 169,
+      "EndOffset": 174
+    },
+    {
+      "Score": 0.45414045453071594,
+      "Type": "QUANTITY",
+      "Text": "21",
+      "BeginOffset": 207,
+      "EndOffset": 209
+    },
+    {
+      "Score": 0.8318417072296143,
+      "Type": "QUANTITY",
+      "Text": "three black churches",
+      "BeginOffset": 247,
+      "EndOffset": 267
+    },
+    {
+      "Score": 0.993069052696228,
+      "Type": "LOCATION",
+      "Text": "Louisiana",
+      "BeginOffset": 271,
+      "EndOffset": 280
+    },
+    {
+      "Score": 0.9283636808395386,
+      "Type": "LOCATION",
+      "Text": "Europe",
+      "BeginOffset": 311,
+      "EndOffset": 317
+    },
+    {
+      "Score": 0.9889683723449707,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 322,
+      "EndOffset": 329
+    },
+    {
+      "Score": 0.9981533288955688,
+      "Type": "DATE",
+      "Text": "Oct. 31",
+      "BeginOffset": 340,
+      "EndOffset": 347
+    },
+    {
+      "Score": 0.8023577928543091,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 348,
+      "EndOffset": 354
+    },
+    {
+      "Score": 0.493825227022171,
+      "Type": "OTHER",
+      "Text": "25",
+      "BeginOffset": 356,
+      "EndOffset": 358
+    },
+    {
+      "Score": 0.8255729079246521,
+      "Type": "ORGANIZATION",
+      "Text": "National Enquirer",
+      "BeginOffset": 359,
+      "EndOffset": 376
+    },
+    {
+      "Score": 0.9979544878005981,
+      "Type": "ORGANIZATION",
+      "Text": "Amazon",
+      "BeginOffset": 413,
+      "EndOffset": 419
+    },
+    {
+      "Score": 0.9803755283355713,
+      "Type": "PERSON",
+      "Text": "Jeff\n   Justin Tallis",
+      "BeginOffset": 424,
+      "EndOffset": 445
+    },
+    {
+      "Score": 0.9891190528869629,
+      "Type": "ORGANIZATION",
+      "Text": "AFP",
+      "BeginOffset": 448,
+      "EndOffset": 451
+    },
+    {
+      "Score": 0.994663655757904,
+      "Type": "ORGANIZATION",
+      "Text": "Getty Images",
+      "BeginOffset": 454,
+      "EndOffset": 466
+    },
+    {
+      "Score": 0.9287747144699097,
+      "Type": "DATE",
+      "Text": "Today",
+      "BeginOffset": 497,
+      "EndOffset": 502
+    },
+    {
+      "Score": 0.8526475429534912,
+      "Type": "PERSON",
+      "Text": "Mnuchin",
+      "BeginOffset": 523,
+      "EndOffset": 530
+    },
+    {
+      "Score": 0.513929545879364,
+      "Type": "ORGANIZATION",
+      "Text": "Treasury",
+      "BeginOffset": 536,
+      "EndOffset": 544
+    },
+    {
+      "Score": 0.9934141039848328,
+      "Type": "ORGANIZATION",
+      "Text": "Democrats",
+      "BeginOffset": 556,
+      "EndOffset": 565
+    },
+    {
+      "Score": 0.9967269897460938,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 580,
+      "EndOffset": 585
+    },
+    {
+      "Score": 0.4937494099140167,
+      "Type": "QUANTITY",
+      "Text": "31",
+      "BeginOffset": 595,
+      "EndOffset": 597
+    },
+    {
+      "Score": 0.6043812036514282,
+      "Type": "EVENT",
+      "Text": "NFL",
+      "BeginOffset": 623,
+      "EndOffset": 626
+    },
+    {
+      "Score": 0.689220130443573,
+      "Type": "QUANTITY",
+      "Text": "first step",
+      "BeginOffset": 642,
+      "EndOffset": 652
+    },
+    {
+      "Score": 0.7789360880851746,
+      "Type": "QUANTITY",
+      "Text": "33",
+      "BeginOffset": 672,
+      "EndOffset": 674
+    },
+    {
+      "Score": 0.8347048163414001,
+      "Type": "LOCATION",
+      "Text": "Texas",
+      "BeginOffset": 675,
+      "EndOffset": 680
+    },
+    {
+      "Score": 0.8069826364517212,
+      "Type": "QUANTITY",
+      "Text": "35",
+      "BeginOffset": 743,
+      "EndOffset": 745
+    },
+    {
+      "Score": 0.9871900081634521,
+      "Type": "QUANTITY",
+      "Text": "5 days",
+      "BeginOffset": 765,
+      "EndOffset": 771
+    },
+    {
+      "Score": 0.9595332145690918,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 786,
+      "EndOffset": 796
+    },
+    {
+      "Score": 0.8636881113052368,
+      "Type": "QUANTITY",
+      "Text": "37",
+      "BeginOffset": 808,
+      "EndOffset": 810
+    },
+    {
+      "Score": 0.9736273884773254,
+      "Type": "QUANTITY",
+      "Text": "Twice",
+      "BeginOffset": 811,
+      "EndOffset": 816
+    },
+    {
+      "Score": 0.6882524490356445,
+      "Type": "QUANTITY",
+      "Text": "zero taxes",
+      "BeginOffset": 842,
+      "EndOffset": 852
+    },
+    {
+      "Score": 0.9894906878471375,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 859,
+      "EndOffset": 864
+    },
+    {
+      "Score": 0.47704145312309265,
+      "Type": "QUANTITY",
+      "Text": "39",
+      "BeginOffset": 875,
+      "EndOffset": 877
+    },
+    {
+      "Score": 0.7366220355033875,
+      "Type": "LOCATION",
+      "Text": "Midwest",
+      "BeginOffset": 919,
+      "EndOffset": 926
+    },
+    {
+      "Score": 0.4673801362514496,
+      "Type": "OTHER",
+      "Text": "41",
+      "BeginOffset": 928,
+      "EndOffset": 930
+    },
+    {
+      "Score": 0.7166534066200256,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 1007,
+      "EndOffset": 1012
+    },
+    {
+      "Score": 0.7838121652603149,
+      "Type": "DATE",
+      "Text": "after 3 decades",
+      "BeginOffset": 1062,
+      "EndOffset": 1077
+    },
+    {
+      "Score": 0.34722116589546204,
+      "Type": "QUANTITY",
+      "Text": "45",
+      "BeginOffset": 1079,
+      "EndOffset": 1081
+    },
+    {
+      "Score": 0.9398810863494873,
+      "Type": "PERSON",
+      "Text": "Kim Kardashian",
+      "BeginOffset": 1082,
+      "EndOffset": 1096
+    },
+    {
+      "Score": 0.7336514592170715,
+      "Type": "QUANTITY",
+      "Text": "47",
+      "BeginOffset": 1154,
+      "EndOffset": 1156
+    },
+    {
+      "Score": 0.9077268838882446,
+      "Type": "QUANTITY",
+      "Text": "5 science-backed tips",
+      "BeginOffset": 1157,
+      "EndOffset": 1178
+    },
+    {
+      "Score": 0.6544933319091797,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 1211,
+      "EndOffset": 1213
+    },
+    {
+      "Score": 0.6326952576637268,
+      "Type": "EVENT",
+      "Text": "NBA",
+      "BeginOffset": 1214,
+      "EndOffset": 1217
+    },
+    {
+      "Score": 0.9996706247329712,
+      "Type": "PERSON",
+      "Text": "Dwyane Wade",
+      "BeginOffset": 1223,
+      "EndOffset": 1234
+    },
+    {
+      "Score": 0.5551251769065857,
+      "Type": "QUANTITY",
+      "Text": "51",
+      "BeginOffset": 1253,
+      "EndOffset": 1255
+    },
+    {
+      "Score": 0.7565581798553467,
+      "Type": "QUANTITY",
+      "Text": "First photo",
+      "BeginOffset": 1256,
+      "EndOffset": 1267
+    },
+    {
+      "Score": 0.39078009128570557,
+      "Type": "QUANTITY",
+      "Text": "53",
+      "BeginOffset": 1328,
+      "EndOffset": 1330
+    },
+    {
+      "Score": 0.4293627142906189,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 1397,
+      "EndOffset": 1399
+    },
+    {
+      "Score": 0.9727429151535034,
+      "Type": "PERSON",
+      "Text": "John F. Kennedy Jr.",
+      "BeginOffset": 1400,
+      "EndOffset": 1419
+    },
+    {
+      "Score": 0.7769295573234558,
+      "Type": "QUANTITY",
+      "Text": "20 years",
+      "BeginOffset": 1455,
+      "EndOffset": 1463
+    },
+    {
+      "Score": 0.4979057312011719,
+      "Type": "QUANTITY",
+      "Text": "57",
+      "BeginOffset": 1475,
+      "EndOffset": 1477
+    },
+    {
+      "Score": 0.7884111404418945,
+      "Type": "PERSON",
+      "Text": "Rapper",
+      "BeginOffset": 1478,
+      "EndOffset": 1484
+    },
+    {
+      "Score": 0.7973251938819885,
+      "Type": "QUANTITY",
+      "Text": "60",
+      "BeginOffset": 1550,
+      "EndOffset": 1552
+    },
+    {
+      "Score": 0.9540444016456604,
+      "Type": "ORGANIZATION",
+      "Text": "DNC",
+      "BeginOffset": 1553,
+      "EndOffset": 1556
+    },
+    {
+      "Score": 0.967941403388977,
+      "Type": "DATE",
+      "Text": "2020",
+      "BeginOffset": 1578,
+      "EndOffset": 1582
+    },
+    {
+      "Score": 0.9966297745704651,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1600,
+      "EndOffset": 1605
+    },
+    {
+      "Score": 0.49389418959617615,
+      "Type": "QUANTITY",
+      "Text": "62",
+      "BeginOffset": 1620,
+      "EndOffset": 1622
+    },
+    {
+      "Score": 0.9403589367866516,
+      "Type": "PERSON",
+      "Text": "Barr",
+      "BeginOffset": 1663,
+      "EndOffset": 1667
+    },
+    {
+      "Score": 0.9479511380195618,
+      "Type": "PERSON",
+      "Text": "Sen. Sanders",
+      "BeginOffset": 1697,
+      "EndOffset": 1709
+    },
+    {
+      "Score": 0.7723855972290039,
+      "Type": "TITLE",
+      "Text": "Medicare For All",
+      "BeginOffset": 1726,
+      "EndOffset": 1742
+    },
+    {
+      "Score": 0.8430087566375732,
+      "Type": "ORGANIZATION",
+      "Text": "GOP",
+      "BeginOffset": 1772,
+      "EndOffset": 1775
+    },
+    {
+      "Score": 0.9979138970375061,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 1789,
+      "EndOffset": 1794
+    },
+    {
+      "Score": 0.9536594748497009,
+      "Type": "ORGANIZATION",
+      "Text": "Homeland Security",
+      "BeginOffset": 1808,
+      "EndOffset": 1825
+    },
+    {
+      "Score": 0.9493135809898376,
+      "Type": "ORGANIZATION",
+      "Text": "Immigration and Customs Enforcement",
+      "BeginOffset": 1853,
+      "EndOffset": 1888
+    },
+    {
+      "Score": 0.450149804353714,
+      "Type": "QUANTITY",
+      "Text": "70",
+      "BeginOffset": 1901,
+      "EndOffset": 1903
+    },
+    {
+      "Score": 0.9951850175857544,
+      "Type": "PERSON",
+      "Text": "Pete Buttigieg",
+      "BeginOffset": 1925,
+      "EndOffset": 1939
+    },
+    {
+      "Score": 0.4371752142906189,
+      "Type": "ORGANIZATION",
+      "Text": "Pences",
+      "BeginOffset": 1941,
+      "EndOffset": 1947
+    },
+    {
+      "Score": 0.607177197933197,
+      "Type": "PERSON",
+      "Text": "Mnuchin",
+      "BeginOffset": 1964,
+      "EndOffset": 1971
+    },
+    {
+      "Score": 0.8806713223457336,
+      "Type": "ORGANIZATION",
+      "Text": "Treasury Dept",
+      "BeginOffset": 1992,
+      "EndOffset": 2005
+    },
+    {
+      "Score": 0.9769282937049866,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2025,
+      "EndOffset": 2030
+    },
+    {
+      "Score": 0.7839473485946655,
+      "Type": "ORGANIZATION",
+      "Text": "Texas Tech medical school",
+      "BeginOffset": 2039,
+      "EndOffset": 2064
+    },
+    {
+      "Score": 0.9817546010017395,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2083,
+      "EndOffset": 2088
+    },
+    {
+      "Score": 0.9834669828414917,
+      "Type": "PERSON",
+      "Text": "Bertrand Guay",
+      "BeginOffset": 2112,
+      "EndOffset": 2125
+    },
+    {
+      "Score": 0.9872795343399048,
+      "Type": "ORGANIZATION",
+      "Text": "AFP",
+      "BeginOffset": 2128,
+      "EndOffset": 2131
+    },
+    {
+      "Score": 0.9935232996940613,
+      "Type": "ORGANIZATION",
+      "Text": "Getty Images",
+      "BeginOffset": 2134,
+      "EndOffset": 2146
+    },
+    {
+      "Score": 0.9993064403533936,
+      "Type": "ORGANIZATION",
+      "Text": "Facebook",
+      "BeginOffset": 2156,
+      "EndOffset": 2164
+    },
+    {
+      "Score": 0.99704509973526,
+      "Type": "ORGANIZATION",
+      "Text": "Amazon",
+      "BeginOffset": 2233,
+      "EndOffset": 2239
+    },
+    {
+      "Score": 0.6720912456512451,
+      "Type": "QUANTITY",
+      "Text": "83",
+      "BeginOffset": 2373,
+      "EndOffset": 2375
+    },
+    {
+      "Score": 0.5949761867523193,
+      "Type": "QUANTITY",
+      "Text": "85",
+      "BeginOffset": 2441,
+      "EndOffset": 2443
+    },
+    {
+      "Score": 0.8179327845573425,
+      "Type": "QUANTITY",
+      "Text": "87",
+      "BeginOffset": 2515,
+      "EndOffset": 2517
+    },
+    {
+      "Score": 0.99888014793396,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 2518,
+      "EndOffset": 2532
+    },
+    {
+      "Score": 0.8486387133598328,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 2545,
+      "EndOffset": 2551
+    },
+    {
+      "Score": 0.8599095940589905,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 2553,
+      "EndOffset": 2557
+    },
+    {
+      "Score": 0.4730450510978699,
+      "Type": "QUANTITY",
+      "Text": "89",
+      "BeginOffset": 2587,
+      "EndOffset": 2589
+    },
+    {
+      "Score": 0.7655426263809204,
+      "Type": "QUANTITY",
+      "Text": "91",
+      "BeginOffset": 2647,
+      "EndOffset": 2649
+    },
+    {
+      "Score": 0.9430892467498779,
+      "Type": "ORGANIZATION",
+      "Text": "AOC",
+      "BeginOffset": 2650,
+      "EndOffset": 2653
+    },
+    {
+      "Score": 0.7274273037910461,
+      "Type": "QUANTITY",
+      "Text": "92",
+      "BeginOffset": 2721,
+      "EndOffset": 2723
+    },
+    {
+      "Score": 0.9014173150062561,
+      "Type": "PERSON",
+      "Text": "Federico A. de",
+      "BeginOffset": 2724,
+      "EndOffset": 2738
+    },
+    {
+      "Score": 0.9975715279579163,
+      "Type": "PERSON",
+      "Text": "Trump",
+      "BeginOffset": 2775,
+      "EndOffset": 2780
+    },
+    {
+      "Score": 0.9591874480247498,
+      "Type": "PERSON",
+      "Text": "Steve VladeckWhy",
+      "BeginOffset": 2798,
+      "EndOffset": 2814
+    },
+    {
+      "Score": 0.8778530955314636,
+      "Type": "ORGANIZATION",
+      "Text": "Democrats",
+      "BeginOffset": 2815,
+      "EndOffset": 2824
+    },
+    {
+      "Score": 0.922535240650177,
+      "Type": "ORGANIZATION",
+      "Text": "Supreme Court",
+      "BeginOffset": 2845,
+      "EndOffset": 2858
+    },
+    {
+      "Score": 0.6726738810539246,
+      "Type": "QUANTITY",
+      "Text": "94",
+      "BeginOffset": 2866,
+      "EndOffset": 2868
+    },
+    {
+      "Score": 0.7971430420875549,
+      "Type": "PERSON",
+      "Text": "Lil Nas",
+      "BeginOffset": 2869,
+      "EndOffset": 2876
+    },
+    {
+      "Score": 0.7246379256248474,
+      "Type": "LOCATION",
+      "Text": "Old Town Road",
+      "BeginOffset": 2884,
+      "EndOffset": 2897
+    },
+    {
+      "Score": 0.6976034045219421,
+      "Type": "QUANTITY",
+      "Text": "95",
+      "BeginOffset": 2940,
+      "EndOffset": 2942
+    },
+    {
+      "Score": 0.9771184921264648,
+      "Type": "ORGANIZATION",
+      "Text": "Uber",
+      "BeginOffset": 2943,
+      "EndOffset": 2947
+    },
+    {
+      "Score": 0.7831122875213623,
+      "Type": "QUANTITY",
+      "Text": "billion-dollar",
+      "BeginOffset": 2956,
+      "EndOffset": 2970
+    },
+    {
+      "Score": 0.7829184532165527,
+      "Type": "QUANTITY",
+      "Text": "99",
+      "BeginOffset": 3012,
+      "EndOffset": 3014
+    },
+    {
+      "Score": 0.6998016238212585,
+      "Type": "LOCATION",
+      "Text": "New York",
+      "BeginOffset": 3015,
+      "EndOffset": 3023
+    },
+    {
+      "Score": 0.4497899115085602,
+      "Type": "QUANTITY",
+      "Text": "couple",
+      "BeginOffset": 3024,
+      "EndOffset": 3030
+    },
+    {
+      "Score": 0.9311445355415344,
+      "Type": "LOCATION",
+      "Text": "Dominican Republic",
+      "BeginOffset": 3042,
+      "EndOffset": 3060
+    },
+    {
+      "Score": 0.8584039211273193,
+      "Type": "QUANTITY",
+      "Text": "both",
+      "BeginOffset": 3065,
+      "EndOffset": 3069
+    },
+    {
+      "Score": 0.5142595767974854,
+      "Type": "QUANTITY",
+      "Text": "101",
+      "BeginOffset": 3086,
+      "EndOffset": 3089
+    },
+    {
+      "Score": 0.999239444732666,
+      "Type": "PERSON",
+      "Text": "Charles Van Doren",
+      "BeginOffset": 3090,
+      "EndOffset": 3107
+    },
+    {
+      "Score": 0.9255717992782593,
+      "Type": "DATE",
+      "Text": "1950s",
+      "BeginOffset": 3129,
+      "EndOffset": 3134
+    },
+    {
+      "Score": 0.2956527769565582,
+      "Type": "QUANTITY",
+      "Text": "103",
+      "BeginOffset": 3161,
+      "EndOffset": 3164
+    },
+    {
+      "Score": 0.8037930130958557,
+      "Type": "LOCATION",
+      "Text": "South L.A.",
+      "BeginOffset": 3165,
+      "EndOffset": 3175
+    },
+    {
+      "Score": 0.9679610729217529,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 3211,
+      "EndOffset": 3224
+    },
+    {
+      "Score": 0.8926132321357727,
+      "Type": "QUANTITY",
+      "Text": "105",
+      "BeginOffset": 3226,
+      "EndOffset": 3229
+    },
+    {
+      "Score": 0.9830286502838135,
+      "Type": "QUANTITY",
+      "Text": "2 people",
+      "BeginOffset": 3230,
+      "EndOffset": 3238
+    },
+    {
+      "Score": 0.9651334285736084,
+      "Type": "LOCATION",
+      "Text": "Minnesota",
+      "BeginOffset": 3263,
+      "EndOffset": 3272
+    },
+    {
+      "Score": 0.6500142812728882,
+      "Type": "QUANTITY",
+      "Text": "107",
+      "BeginOffset": 3293,
+      "EndOffset": 3296
+    },
+    {
+      "Score": 0.679013729095459,
+      "Type": "QUANTITY",
+      "Text": "109",
+      "BeginOffset": 3365,
+      "EndOffset": 3368
+    },
+    {
+      "Score": 0.9974952936172485,
+      "Type": "PERSON",
+      "Text": "Michelle Carter",
+      "BeginOffset": 3400,
+      "EndOffset": 3415
+    },
+    {
+      "Score": 0.9982722997665405,
+      "Type": "PERSON",
+      "Text": "Hilaria Baldwin",
+      "BeginOffset": 3431,
+      "EndOffset": 3446
+    },
+    {
+      "Score": 0.9989944696426392,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 3508,
+      "EndOffset": 3522
+    },
+    {
+      "Score": 0.8262986540794373,
+      "Type": "LOCATION",
+      "Text": "London",
+      "BeginOffset": 3535,
+      "EndOffset": 3541
+    },
+    {
+      "Score": 0.8602132201194763,
+      "Type": "LOCATION",
+      "Text": "U.S.",
+      "BeginOffset": 3543,
+      "EndOffset": 3547
+    },
+    {
+      "Score": 0.6717821955680847,
+      "Type": "QUANTITY",
+      "Text": "116",
+      "BeginOffset": 3577,
+      "EndOffset": 3580
+    },
+    {
+      "Score": 0.9994334578514099,
+      "Type": "PERSON",
+      "Text": "Julian Assange",
+      "BeginOffset": 3596,
+      "EndOffset": 3610
+    },
+    {
+      "Score": 0.8362445831298828,
+      "Type": "LOCATION",
+      "Text": "Ecuadorian",
+      "BeginOffset": 3640,
+      "EndOffset": 3650
+    },
+    {
+      "Score": 0.509703516960144,
+      "Type": "LOCATION",
+      "Text": "Sudan",
+      "BeginOffset": 3656,
+      "EndOffset": 3661
+    },
+    {
+      "Score": 0.9871386885643005,
+      "Type": "QUANTITY",
+      "Text": "3 decades",
+      "BeginOffset": 3717,
+      "EndOffset": 3726
+    },
+    {
+      "Score": 0.6923941373825073,
+      "Type": "QUANTITY",
+      "Text": "120",
+      "BeginOffset": 3728,
+      "EndOffset": 3731
+    },
+    {
+      "Score": 0.988172709941864,
+      "Type": "LOCATION",
+      "Text": "India",
+      "BeginOffset": 3789,
+      "EndOffset": 3794
+    },
+    {
+      "Score": 0.4777980148792267,
+      "Type": "QUANTITY",
+      "Text": "122",
+      "BeginOffset": 3796,
+      "EndOffset": 3799
+    },
+    {
+      "Score": 0.9444171786308289,
+      "Type": "LOCATION",
+      "Text": "Europe",
+      "BeginOffset": 3800,
+      "EndOffset": 3806
+    },
+    {
+      "Score": 0.9576473832130432,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 3811,
+      "EndOffset": 3818
+    },
+    {
+      "Score": 0.8427838087081909,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3834,
+      "EndOffset": 3840
+    },
+    {
+      "Score": 0.9837428331375122,
+      "Type": "DATE",
+      "Text": "Oct. 31",
+      "BeginOffset": 3853,
+      "EndOffset": 3860
+    },
+    {
+      "Score": 0.36523017287254333,
+      "Type": "DATE",
+      "Text": "124",
+      "BeginOffset": 3862,
+      "EndOffset": 3865
+    },
+    {
+      "Score": 0.9872745275497437,
+      "Type": "LOCATION",
+      "Text": "India",
+      "BeginOffset": 3923,
+      "EndOffset": 3928
+    },
+    {
+      "Score": 0.5803509950637817,
+      "Type": "QUANTITY",
+      "Text": "126",
+      "BeginOffset": 3930,
+      "EndOffset": 3933
+    },
+    {
+      "Score": 0.9246436953544617,
+      "Type": "LOCATION",
+      "Text": "Europe",
+      "BeginOffset": 3934,
+      "EndOffset": 3940
+    },
+    {
+      "Score": 0.9413185119628906,
+      "Type": "LOCATION",
+      "Text": "Britain",
+      "BeginOffset": 3945,
+      "EndOffset": 3952
+    },
+    {
+      "Score": 0.9285988211631775,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 3968,
+      "EndOffset": 3974
+    },
+    {
+      "Score": 0.990074098110199,
+      "Type": "DATE",
+      "Text": "Oct. 31",
+      "BeginOffset": 3987,
+      "EndOffset": 3994
+    },
+    {
+      "Score": 0.4477576017379761,
+      "Type": "OTHER",
+      "Text": "129",
+      "BeginOffset": 3996,
+      "EndOffset": 3999
+    },
+    {
+      "Score": 0.7972585558891296,
+      "Type": "QUANTITY",
+      "Text": "3 Louisiana church fires",
+      "BeginOffset": 4011,
+      "EndOffset": 4035
+    },
+    {
+      "Score": 0.3598651885986328,
+      "Type": "OTHER",
+      "Text": "131",
+      "BeginOffset": 4066,
+      "EndOffset": 4069
+    },
+    {
+      "Score": 0.8660482168197632,
+      "Type": "LOCATION",
+      "Text": "Arizona",
+      "BeginOffset": 4070,
+      "EndOffset": 4077
+    },
+    {
+      "Score": 0.4739573299884796,
+      "Type": "OTHER",
+      "Text": "133",
+      "BeginOffset": 4144,
+      "EndOffset": 4147
+    },
+    {
+      "Score": 0.8358936905860901,
+      "Type": "OTHER",
+      "Text": "Russian",
+      "BeginOffset": 4148,
+      "EndOffset": 4155
+    },
+    {
+      "Score": 0.5457692742347717,
+      "Type": "OTHER",
+      "Text": "135",
+      "BeginOffset": 4210,
+      "EndOffset": 4213
+    },
+    {
+      "Score": 0.9484713673591614,
+      "Type": "ORGANIZATION",
+      "Text": "Immigration and Customs Enforcement",
+      "BeginOffset": 4237,
+      "EndOffset": 4272
+    },
+    {
+      "Score": 0.4828729033470154,
+      "Type": "QUANTITY",
+      "Text": "137",
+      "BeginOffset": 4285,
+      "EndOffset": 4288
+    },
+    {
+      "Score": 0.7998844981193542,
+      "Type": "LOCATION",
+      "Text": "South L.A.",
+      "BeginOffset": 4289,
+      "EndOffset": 4299
+    },
+    {
+      "Score": 0.9352394342422485,
+      "Type": "PERSON",
+      "Text": "Nipsey Hussle",
+      "BeginOffset": 4335,
+      "EndOffset": 4348
+    },
+    {
+      "Score": 0.32511311769485474,
+      "Type": "OTHER",
+      "Text": "139",
+      "BeginOffset": 4350,
+      "EndOffset": 4353
+    },
+    {
+      "Score": 0.8305097222328186,
+      "Type": "ORGANIZATION",
+      "Text": "Democratic",
+      "BeginOffset": 4354,
+      "EndOffset": 4364
+    },
+    {
+      "Score": 0.7790340781211853,
+      "Type": "ORGANIZATION",
+      "Text": "LGBTQ",
+      "BeginOffset": 4400,
+      "EndOffset": 4405
+    },
+    {
+      "Score": 0.9909940958023071,
+      "Type": "PERSON",
+      "Text": "Pete Buttigieg",
+      "BeginOffset": 4449,
+      "EndOffset": 4463
+    },
+    {
+      "Score": 0.4654581546783447,
+      "Type": "ORGANIZATION",
+      "Text": "Pences",
+      "BeginOffset": 4465,
+      "EndOffset": 4471
+    },
+    {
+      "Score": 0.8993371725082397,
+      "Type": "QUANTITY",
+      "Text": "143",
+      "BeginOffset": 4485,
+      "EndOffset": 4488
+    },
+    {
+      "Score": 0.8737066388130188,
+      "Type": "QUANTITY",
+      "Text": "5 science-backed tips",
+      "BeginOffset": 4489,
+      "EndOffset": 4510
+    },
+    {
+      "Score": 0.6121349334716797,
+      "Type": "QUANTITY",
+      "Text": "144",
+      "BeginOffset": 4674,
+      "EndOffset": 4677
+    },
+    {
+      "Score": 0.6888654232025146,
+      "Type": "QUANTITY",
+      "Text": "145",
+      "BeginOffset": 4745,
+      "EndOffset": 4748
+    },
+    {
+      "Score": 0.8105511665344238,
+      "Type": "QUANTITY",
+      "Text": "5 DIY beauty recipes",
+      "BeginOffset": 4749,
+      "EndOffset": 4769
+    }
+  ]
+}

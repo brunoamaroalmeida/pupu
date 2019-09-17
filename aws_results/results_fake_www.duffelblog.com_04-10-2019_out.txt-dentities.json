@@ -1,0 +1,515 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8153421878814697,
+      "Type": "OTHER",
+      "Text": "1024407104258876",
+      "BeginOffset": 80,
+      "EndOffset": 96
+    },
+    {
+      "Score": 0.7723111510276794,
+      "Type": "LOCATION",
+      "Text": "Earth",
+      "BeginOffset": 251,
+      "EndOffset": 256
+    },
+    {
+      "Score": 0.763546884059906,
+      "Type": "PERSON",
+      "Text": "Saruman",
+      "BeginOffset": 277,
+      "EndOffset": 284
+    },
+    {
+      "Score": 0.7693780660629272,
+      "Type": "PERSON",
+      "Text": "Colonel Dole",
+      "BeginOffset": 360,
+      "EndOffset": 372
+    },
+    {
+      "Score": 0.755392849445343,
+      "Type": "QUANTITY",
+      "Text": "first round",
+      "BeginOffset": 597,
+      "EndOffset": 608
+    },
+    {
+      "Score": 0.7642463445663452,
+      "Type": "ORGANIZATION",
+      "Text": "Boeing",
+      "BeginOffset": 644,
+      "EndOffset": 650
+    },
+    {
+      "Score": 0.8662784099578857,
+      "Type": "COMMERCIAL_ITEM",
+      "Text": "737s",
+      "BeginOffset": 651,
+      "EndOffset": 655
+    },
+    {
+      "Score": 0.6625564694404602,
+      "Type": "LOCATION",
+      "Text": "Earth",
+      "BeginOffset": 988,
+      "EndOffset": 993
+    },
+    {
+      "Score": 0.8171641230583191,
+      "Type": "LOCATION",
+      "Text": "North Pole",
+      "BeginOffset": 1167,
+      "EndOffset": 1177
+    },
+    {
+      "Score": 0.9050115346908569,
+      "Type": "ORGANIZATION",
+      "Text": "NORAD",
+      "BeginOffset": 1185,
+      "EndOffset": 1190
+    },
+    {
+      "Score": 0.9983782172203064,
+      "Type": "PERSON",
+      "Text": "Eric Trump",
+      "BeginOffset": 1199,
+      "EndOffset": 1209
+    },
+    {
+      "Score": 0.8284407258033752,
+      "Type": "QUANTITY",
+      "Text": "fifth phase",
+      "BeginOffset": 1308,
+      "EndOffset": 1319
+    },
+    {
+      "Score": 0.9738010764122009,
+      "Type": "ORGANIZATION",
+      "Text": "University of Phoenix",
+      "BeginOffset": 1504,
+      "EndOffset": 1525
+    },
+    {
+      "Score": 0.9099648594856262,
+      "Type": "ORGANIZATION",
+      "Text": "Strayer University",
+      "BeginOffset": 1527,
+      "EndOffset": 1545
+    },
+    {
+      "Score": 0.9792006611824036,
+      "Type": "QUANTITY",
+      "Text": "134 percent",
+      "BeginOffset": 1558,
+      "EndOffset": 1569
+    },
+    {
+      "Score": 0.36360687017440796,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 1807,
+      "EndOffset": 1812
+    },
+    {
+      "Score": 0.9573463797569275,
+      "Type": "QUANTITY",
+      "Text": "millions of dollars",
+      "BeginOffset": 1985,
+      "EndOffset": 2004
+    },
+    {
+      "Score": 0.591650664806366,
+      "Type": "LOCATION",
+      "Text": "LOUIS",
+      "BeginOffset": 2303,
+      "EndOffset": 2308
+    },
+    {
+      "Score": 0.9825249910354614,
+      "Type": "ORGANIZATION",
+      "Text": "Charlotte High School",
+      "BeginOffset": 2311,
+      "EndOffset": 2332
+    },
+    {
+      "Score": 0.9994152784347534,
+      "Type": "PERSON",
+      "Text": "Devin Jaskot",
+      "BeginOffset": 2342,
+      "EndOffset": 2354
+    },
+    {
+      "Score": 0.7533957362174988,
+      "Type": "DATE",
+      "Text": "this July",
+      "BeginOffset": 2417,
+      "EndOffset": 2426
+    },
+    {
+      "Score": 0.7027109265327454,
+      "Type": "ORGANIZATION",
+      "Text": "Space Force",
+      "BeginOffset": 2434,
+      "EndOffset": 2445
+    },
+    {
+      "Score": 0.9056128859519958,
+      "Type": "LOCATION",
+      "Text": "Earth",
+      "BeginOffset": 2468,
+      "EndOffset": 2473
+    },
+    {
+      "Score": 0.906029999256134,
+      "Type": "LOCATION",
+      "Text": "MERRITT ISLAND, Fla",
+      "BeginOffset": 2489,
+      "EndOffset": 2508
+    },
+    {
+      "Score": 0.8514678478240967,
+      "Type": "ORGANIZATION",
+      "Text": "Space Force",
+      "BeginOffset": 2562,
+      "EndOffset": 2573
+    },
+    {
+      "Score": 0.9827860593795776,
+      "Type": "LOCATION",
+      "Text": "Earth",
+      "BeginOffset": 2640,
+      "EndOffset": 2645
+    },
+    {
+      "Score": 0.9071571230888367,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 2678,
+      "EndOffset": 2683
+    },
+    {
+      "Score": 0.8837085366249084,
+      "Type": "QUANTITY",
+      "Text": "fifth phase",
+      "BeginOffset": 2707,
+      "EndOffset": 2718
+    },
+    {
+      "Score": 0.7621422410011292,
+      "Type": "QUANTITY",
+      "Text": "fourth phase",
+      "BeginOffset": 2750,
+      "EndOffset": 2762
+    },
+    {
+      "Score": 0.9920743703842163,
+      "Type": "LOCATION",
+      "Text": "SAN DIEGO",
+      "BeginOffset": 2770,
+      "EndOffset": 2779
+    },
+    {
+      "Score": 0.8502943515777588,
+      "Type": "ORGANIZATION",
+      "Text": "Marine Corps Recruit Depot",
+      "BeginOffset": 2809,
+      "EndOffset": 2835
+    },
+    {
+      "Score": 0.9234730005264282,
+      "Type": "LOCATION",
+      "Text": "San Diego",
+      "BeginOffset": 2843,
+      "EndOffset": 2852
+    },
+    {
+      "Score": 0.9760944843292236,
+      "Type": "PERSON",
+      "Text": "Ryan Heritage",
+      "BeginOffset": 2865,
+      "EndOffset": 2878
+    },
+    {
+      "Score": 0.8829053044319153,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 2890,
+      "EndOffset": 2895
+    },
+    {
+      "Score": 0.8109682202339172,
+      "Type": "PERSON",
+      "Text": "Saruman",
+      "BeginOffset": 2905,
+      "EndOffset": 2912
+    },
+    {
+      "Score": 0.5277557373046875,
+      "Type": "ORGANIZATION",
+      "Text": "Palantir",
+      "BeginOffset": 3037,
+      "EndOffset": 3045
+    },
+    {
+      "Score": 0.9007524847984314,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 3152,
+      "EndOffset": 3157
+    },
+    {
+      "Score": 0.48872101306915283,
+      "Type": "ORGANIZATION",
+      "Text": "Marine",
+      "BeginOffset": 3204,
+      "EndOffset": 3210
+    },
+    {
+      "Score": 0.6969336867332458,
+      "Type": "LOCATION",
+      "Text": "PENTAGON",
+      "BeginOffset": 3263,
+      "EndOffset": 3271
+    },
+    {
+      "Score": 0.45968905091285706,
+      "Type": "ORGANIZATION",
+      "Text": "Marine",
+      "BeginOffset": 3277,
+      "EndOffset": 3283
+    },
+    {
+      "Score": 0.7710188031196594,
+      "Type": "ORGANIZATION",
+      "Text": "Marines",
+      "BeginOffset": 3350,
+      "EndOffset": 3357
+    },
+    {
+      "Score": 0.6171033978462219,
+      "Type": "ORGANIZATION",
+      "Text": "Pentagon",
+      "BeginOffset": 3426,
+      "EndOffset": 3434
+    },
+    {
+      "Score": 0.6784624457359314,
+      "Type": "PERSON",
+      "Text": "LASHKAR GAH",
+      "BeginOffset": 3459,
+      "EndOffset": 3470
+    },
+    {
+      "Score": 0.7375203967094421,
+      "Type": "LOCATION",
+      "Text": "Afghanistan",
+      "BeginOffset": 3472,
+      "EndOffset": 3483
+    },
+    {
+      "Score": 0.7400872111320496,
+      "Type": "ORGANIZATION",
+      "Text": "Taliban",
+      "BeginOffset": 3622,
+      "EndOffset": 3629
+    },
+    {
+      "Score": 0.869049608707428,
+      "Type": "PERSON",
+      "Text": "Ahmad",
+      "BeginOffset": 3639,
+      "EndOffset": 3644
+    },
+    {
+      "Score": 0.8129806518554688,
+      "Type": "LOCATION",
+      "Text": "RENTON, Wash",
+      "BeginOffset": 3655,
+      "EndOffset": 3667
+    },
+    {
+      "Score": 0.6988824605941772,
+      "Type": "ORGANIZATION",
+      "Text": "Navy",
+      "BeginOffset": 3676,
+      "EndOffset": 3680
+    },
+    {
+      "Score": 0.7268742918968201,
+      "Type": "ORGANIZATION",
+      "Text": "P-8",
+      "BeginOffset": 3755,
+      "EndOffset": 3758
+    },
+    {
+      "Score": 0.9254274964332581,
+      "Type": "DATE",
+      "Text": "today",
+      "BeginOffset": 3787,
+      "EndOffset": 3792
+    },
+    {
+      "Score": 0.5604366660118103,
+      "Type": "ORGANIZATION",
+      "Text": "Pentagon",
+      "BeginOffset": 3798,
+      "EndOffset": 3806
+    },
+    {
+      "Score": 0.9716550707817078,
+      "Type": "LOCATION",
+      "Text": "WASHINGTON",
+      "BeginOffset": 3882,
+      "EndOffset": 3892
+    },
+    {
+      "Score": 0.9927441477775574,
+      "Type": "ORGANIZATION",
+      "Text": "Pentagon Press Corps",
+      "BeginOffset": 3911,
+      "EndOffset": 3931
+    },
+    {
+      "Score": 0.99727863073349,
+      "Type": "QUANTITY",
+      "Text": "$3\n       million",
+      "BeginOffset": 3944,
+      "EndOffset": 3961
+    },
+    {
+      "Score": 0.5592096447944641,
+      "Type": "ORGANIZATION",
+      "Text": "GoFundMe",
+      "BeginOffset": 3962,
+      "EndOffset": 3970
+    },
+    {
+      "Score": 0.8780115246772766,
+      "Type": "PERSON",
+      "Text": "Colonel Dole",
+      "BeginOffset": 4078,
+      "EndOffset": 4090
+    },
+    {
+      "Score": 0.937305212020874,
+      "Type": "LOCATION",
+      "Text": "Washington, D.C.",
+      "BeginOffset": 4136,
+      "EndOffset": 4152
+    },
+    {
+      "Score": 0.847804605960846,
+      "Type": "PERSON",
+      "Text": "Col. Bob Dole",
+      "BeginOffset": 4171,
+      "EndOffset": 4184
+    },
+    {
+      "Score": 0.8079169392585754,
+      "Type": "QUANTITY",
+      "Text": "Page 1",
+      "BeginOffset": 4329,
+      "EndOffset": 4335
+    },
+    {
+      "Score": 0.7361648678779602,
+      "Type": "QUANTITY",
+      "Text": "3491[71",
+      "BeginOffset": 4339,
+      "EndOffset": 4346
+    },
+    {
+      "Score": 0.5263630151748657,
+      "Type": "QUANTITY",
+      "Text": "2",
+      "BeginOffset": 4347,
+      "EndOffset": 4348
+    },
+    {
+      "Score": 0.9762499332427979,
+      "Type": "QUANTITY",
+      "Text": "72",
+      "BeginOffset": 4349,
+      "EndOffset": 4351
+    },
+    {
+      "Score": 0.8256356716156006,
+      "Type": "QUANTITY",
+      "Text": "3",
+      "BeginOffset": 4352,
+      "EndOffset": 4353
+    },
+    {
+      "Score": 0.9920518398284912,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 4354,
+      "EndOffset": 4356
+    },
+    {
+      "Score": 0.8581851720809937,
+      "Type": "QUANTITY",
+      "Text": "4",
+      "BeginOffset": 4357,
+      "EndOffset": 4358
+    },
+    {
+      "Score": 0.9872781038284302,
+      "Type": "QUANTITY",
+      "Text": "74",
+      "BeginOffset": 4359,
+      "EndOffset": 4361
+    },
+    {
+      "Score": 0.8337066769599915,
+      "Type": "QUANTITY",
+      "Text": "5",
+      "BeginOffset": 4362,
+      "EndOffset": 4363
+    },
+    {
+      "Score": 0.9817741513252258,
+      "Type": "QUANTITY",
+      "Text": "75",
+      "BeginOffset": 4364,
+      "EndOffset": 4366
+    },
+    {
+      "Score": 0.8878613114356995,
+      "Type": "QUANTITY",
+      "Text": "76",
+      "BeginOffset": 4374,
+      "EndOffset": 4376
+    },
+    {
+      "Score": 0.5296621918678284,
+      "Type": "QUANTITY",
+      "Text": "77",
+      "BeginOffset": 4402,
+      "EndOffset": 4404
+    },
+    {
+      "Score": 0.9892628788948059,
+      "Type": "LOCATION",
+      "Text": "Afghanistan",
+      "BeginOffset": 4442,
+      "EndOffset": 4453
+    },
+    {
+      "Score": 0.9725983142852783,
+      "Type": "PERSON",
+      "Text": "Pelosi",
+      "BeginOffset": 4480,
+      "EndOffset": 4486
+    },
+    {
+      "Score": 0.9968894124031067,
+      "Type": "PERSON",
+      "Text": "Elizabeth Warren",
+      "BeginOffset": 4546,
+      "EndOffset": 4562
+    }
+  ]
+}

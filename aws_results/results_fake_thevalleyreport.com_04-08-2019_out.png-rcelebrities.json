@@ -1,0 +1,59 @@
+{
+  "CelebrityFaces": [
+    {
+      "Urls": [
+        "www.imdb.com/name/nm1577190"
+      ],
+      "Name": "Kanye West",
+      "Id": "1Zx6lL9X",
+      "Face": {
+        "BoundingBox": {
+          "Width": 0.11038961261510849,
+          "Height": 0.17000000178813934,
+          "Left": 0.638798713684082,
+          "Top": 0.5212500095367432
+        },
+        "Confidence": 99.2158203125,
+        "Landmarks": [
+          {
+            "Type": "eyeLeft",
+            "X": 0.6745847463607788,
+            "Y": 0.5973997116088867
+          },
+          {
+            "Type": "eyeRight",
+            "X": 0.7149319052696228,
+            "Y": 0.6019425392150879
+          },
+          {
+            "Type": "nose",
+            "X": 0.693093478679657,
+            "Y": 0.6360113620758057
+          },
+          {
+            "Type": "mouthLeft",
+            "X": 0.6773775815963745,
+            "Y": 0.6713115572929382
+          },
+          {
+            "Type": "mouthRight",
+            "X": 0.7088361978530884,
+            "Y": 0.6724967956542969
+          }
+        ],
+        "Pose": {
+          "Roll": 3.7610223293304443,
+          "Yaw": -1.184914469718933,
+          "Pitch": 8.115476608276367
+        },
+        "Quality": {
+          "Brightness": 49.41590118408203,
+          "Sharpness": 98.9316635131836
+        }
+      },
+      "MatchConfidence": 100
+    }
+  ],
+  "UnrecognizedFaces": [],
+  "OrientationCorrection": "ROTATE_0"
+}

@@ -1,0 +1,207 @@
+{
+  "Labels": [
+    {
+      "Name": "Human",
+      "Confidence": 99.14875030517578,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Person",
+      "Confidence": 99.14875030517578,
+      "Instances": [
+        {
+          "BoundingBox": {
+            "Width": 0.5768451690673828,
+            "Height": 0.4342237114906311,
+            "Left": 0.047541528940200806,
+            "Top": 0.18694747984409332
+          },
+          "Confidence": 99.14875030517578
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.06904196739196777,
+            "Height": 0.10482269525527954,
+            "Left": 0.798370897769928,
+            "Top": 0.6699361205101013
+          },
+          "Confidence": 99.06961822509766
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.07717549800872803,
+            "Height": 0.10097656399011612,
+            "Left": 0.784218966960907,
+            "Top": 0.8233757615089417
+          },
+          "Confidence": 98.53315734863281
+        },
+        {
+          "BoundingBox": {
+            "Width": 0.034853458404541016,
+            "Height": 0.11103484779596329,
+            "Left": 0.7769547700881958,
+            "Top": 0.6621938347816467
+          },
+          "Confidence": 96.12235260009766
+        }
+      ],
+      "Parents": []
+    },
+    {
+      "Name": "File",
+      "Confidence": 94.82315063476562,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Clothing",
+      "Confidence": 82.50540924072266,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Apparel",
+      "Confidence": 82.50540924072266,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Text",
+      "Confidence": 80.12853240966797,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Lab Coat",
+      "Confidence": 74.17201232910156,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Coat"
+        },
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Coat",
+      "Confidence": 74.17201232910156,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Clothing"
+        }
+      ]
+    },
+    {
+      "Name": "Webpage",
+      "Confidence": 73.98403930664062,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "File"
+        }
+      ]
+    },
+    {
+      "Name": "Poster",
+      "Confidence": 72.82072448730469,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Advertisement"
+        }
+      ]
+    },
+    {
+      "Name": "Advertisement",
+      "Confidence": 72.82072448730469,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Paper",
+      "Confidence": 64.15862274169922,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Flyer",
+      "Confidence": 64.15862274169922,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Poster"
+        }
+      ]
+    },
+    {
+      "Name": "Brochure",
+      "Confidence": 64.15862274169922,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Paper"
+        },
+        {
+          "Name": "Advertisement"
+        },
+        {
+          "Name": "Poster"
+        }
+      ]
+    },
+    {
+      "Name": "Finger",
+      "Confidence": 60.97277069091797,
+      "Instances": [],
+      "Parents": []
+    },
+    {
+      "Name": "Face",
+      "Confidence": 60.93492889404297,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Page",
+      "Confidence": 59.82065200805664,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Text"
+        }
+      ]
+    },
+    {
+      "Name": "Doctor",
+      "Confidence": 58.670955657958984,
+      "Instances": [],
+      "Parents": [
+        {
+          "Name": "Person"
+        }
+      ]
+    },
+    {
+      "Name": "Head",
+      "Confidence": 58.2108039855957,
+      "Instances": [],
+      "Parents": []
+    }
+  ],
+  "LabelModelVersion": "2.0"
+}

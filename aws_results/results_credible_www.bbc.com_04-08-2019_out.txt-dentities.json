@@ -1,0 +1,753 @@
+{
+  "Entities": [
+    {
+      "Score": 0.8981371521949768,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 70,
+      "EndOffset": 73
+    },
+    {
+      "Score": 0.9438175559043884,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 115,
+      "EndOffset": 118
+    },
+    {
+      "Score": 0.8374908566474915,
+      "Type": "QUANTITY",
+      "Text": "30",
+      "BeginOffset": 185,
+      "EndOffset": 187
+    },
+    {
+      "Score": 0.9671874046325684,
+      "Type": "ORGANIZATION",
+      "Text": "UN",
+      "BeginOffset": 188,
+      "EndOffset": 190
+    },
+    {
+      "Score": 0.7522063255310059,
+      "Type": "LOCATION",
+      "Text": "Tripoli",
+      "BeginOffset": 210,
+      "EndOffset": 217
+    },
+    {
+      "Score": 0.8976355791091919,
+      "Type": "LOCATION",
+      "Text": "Libya",
+      "BeginOffset": 255,
+      "EndOffset": 260
+    },
+    {
+      "Score": 0.6283515691757202,
+      "Type": "QUANTITY",
+      "Text": "32",
+      "BeginOffset": 307,
+      "EndOffset": 309
+    },
+    {
+      "Score": 0.9473472237586975,
+      "Type": "ORGANIZATION",
+      "Text": "UN",
+      "BeginOffset": 310,
+      "EndOffset": 312
+    },
+    {
+      "Score": 0.7098569273948669,
+      "Type": "LOCATION",
+      "Text": "Tripoli",
+      "BeginOffset": 332,
+      "EndOffset": 339
+    },
+    {
+      "Score": 0.9984279870986938,
+      "Type": "LOCATION",
+      "Text": "Louisiana",
+      "BeginOffset": 384,
+      "EndOffset": 393
+    },
+    {
+      "Score": 0.6755425930023193,
+      "Type": "QUANTITY",
+      "Text": "33",
+      "BeginOffset": 396,
+      "EndOffset": 398
+    },
+    {
+      "Score": 0.7990566492080688,
+      "Type": "QUANTITY",
+      "Text": "Three black churches",
+      "BeginOffset": 399,
+      "EndOffset": 419
+    },
+    {
+      "Score": 0.9914914965629578,
+      "Type": "LOCATION",
+      "Text": "Louisiana",
+      "BeginOffset": 430,
+      "EndOffset": 439
+    },
+    {
+      "Score": 0.776707649230957,
+      "Type": "QUANTITY",
+      "Text": "35",
+      "BeginOffset": 448,
+      "EndOffset": 450
+    },
+    {
+      "Score": 0.8605776429176331,
+      "Type": "QUANTITY",
+      "Text": "Three black churches",
+      "BeginOffset": 451,
+      "EndOffset": 471
+    },
+    {
+      "Score": 0.9903995394706726,
+      "Type": "LOCATION",
+      "Text": "Louisiana",
+      "BeginOffset": 482,
+      "EndOffset": 491
+    },
+    {
+      "Score": 0.6501728892326355,
+      "Type": "QUANTITY",
+      "Text": "36",
+      "BeginOffset": 493,
+      "EndOffset": 495
+    },
+    {
+      "Score": 0.7370857000350952,
+      "Type": "LOCATION",
+      "Text": "Italy",
+      "BeginOffset": 496,
+      "EndOffset": 501
+    },
+    {
+      "Score": 0.9659814238548279,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 508,
+      "EndOffset": 510
+    },
+    {
+      "Score": 0.493249773979187,
+      "Type": "ORGANIZATION",
+      "Text": "Pompeii",
+      "BeginOffset": 524,
+      "EndOffset": 531
+    },
+    {
+      "Score": 0.6217406988143921,
+      "Type": "LOCATION",
+      "Text": "Italy",
+      "BeginOffset": 556,
+      "EndOffset": 561
+    },
+    {
+      "Score": 0.9675700664520264,
+      "Type": "LOCATION",
+      "Text": "UK",
+      "BeginOffset": 568,
+      "EndOffset": 570
+    },
+    {
+      "Score": 0.461431622505188,
+      "Type": "ORGANIZATION",
+      "Text": "Pompeii",
+      "BeginOffset": 584,
+      "EndOffset": 591
+    },
+    {
+      "Score": 0.4686426520347595,
+      "Type": "QUANTITY",
+      "Text": "39",
+      "BeginOffset": 606,
+      "EndOffset": 608
+    },
+    {
+      "Score": 0.5715609192848206,
+      "Type": "QUANTITY",
+      "Text": "41",
+      "BeginOffset": 656,
+      "EndOffset": 658
+    },
+    {
+      "Score": 0.7332639694213867,
+      "Type": "QUANTITY",
+      "Text": "42",
+      "BeginOffset": 768,
+      "EndOffset": 770
+    },
+    {
+      "Score": 0.5899912118911743,
+      "Type": "QUANTITY",
+      "Text": "44",
+      "BeginOffset": 820,
+      "EndOffset": 822
+    },
+    {
+      "Score": 0.9578970670700073,
+      "Type": "ORGANIZATION",
+      "Text": "Iranian Revolutionary Guard",
+      "BeginOffset": 886,
+      "EndOffset": 913
+    },
+    {
+      "Score": 0.519212543964386,
+      "Type": "LOCATION",
+      "Text": "Iran",
+      "BeginOffset": 941,
+      "EndOffset": 945
+    },
+    {
+      "Score": 0.918135941028595,
+      "Type": "PERSON",
+      "Text": "Brigadier General Mohsen Ghajarian",
+      "BeginOffset": 969,
+      "EndOffset": 1003
+    },
+    {
+      "Score": 0.9987373948097229,
+      "Type": "LOCATION",
+      "Text": "Aleppo",
+      "BeginOffset": 1055,
+      "EndOffset": 1061
+    },
+    {
+      "Score": 0.9988958835601807,
+      "Type": "LOCATION",
+      "Text": "Syria",
+      "BeginOffset": 1085,
+      "EndOffset": 1090
+    },
+    {
+      "Score": 0.9421943426132202,
+      "Type": "LOCATION",
+      "Text": "Tehran",
+      "BeginOffset": 1139,
+      "EndOffset": 1145
+    },
+    {
+      "Score": 0.9037197828292847,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 1154,
+      "EndOffset": 1156
+    },
+    {
+      "Score": 0.8651229739189148,
+      "Type": "ORGANIZATION",
+      "Text": "Iran Guards",
+      "BeginOffset": 1164,
+      "EndOffset": 1175
+    },
+    {
+      "Score": 0.8833864331245422,
+      "Type": "QUANTITY",
+      "Text": "first time",
+      "BeginOffset": 1212,
+      "EndOffset": 1222
+    },
+    {
+      "Score": 0.8952411413192749,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 1227,
+      "EndOffset": 1229
+    },
+    {
+      "Score": 0.7619804739952087,
+      "Type": "QUANTITY",
+      "Text": "48",
+      "BeginOffset": 1319,
+      "EndOffset": 1321
+    },
+    {
+      "Score": 0.8022689819335938,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 1322,
+      "EndOffset": 1324
+    },
+    {
+      "Score": 0.8757650256156921,
+      "Type": "ORGANIZATION",
+      "Text": "Iran Guards",
+      "BeginOffset": 1332,
+      "EndOffset": 1343
+    },
+    {
+      "Score": 0.3705804944038391,
+      "Type": "QUANTITY",
+      "Text": "49",
+      "BeginOffset": 1364,
+      "EndOffset": 1366
+    },
+    {
+      "Score": 0.561998188495636,
+      "Type": "LOCATION",
+      "Text": "Israel",
+      "BeginOffset": 1380,
+      "EndOffset": 1386
+    },
+    {
+      "Score": 0.9897374510765076,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 1418,
+      "EndOffset": 1421
+    },
+    {
+      "Score": 0.9994081258773804,
+      "Type": "PERSON",
+      "Text": "Tom Bateman",
+      "BeginOffset": 1424,
+      "EndOffset": 1435
+    },
+    {
+      "Score": 0.42177635431289673,
+      "Type": "OTHER",
+      "Text": "Israelis",
+      "BeginOffset": 1483,
+      "EndOffset": 1491
+    },
+    {
+      "Score": 0.9877591729164124,
+      "Type": "DATE",
+      "Text": "Tuesday",
+      "BeginOffset": 1511,
+      "EndOffset": 1518
+    },
+    {
+      "Score": 0.5481672883033752,
+      "Type": "LOCATION",
+      "Text": "Israel",
+      "BeginOffset": 1544,
+      "EndOffset": 1550
+    },
+    {
+      "Score": 0.4116204082965851,
+      "Type": "QUANTITY",
+      "Text": "52",
+      "BeginOffset": 1572,
+      "EndOffset": 1574
+    },
+    {
+      "Score": 0.9601691365242004,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1601,
+      "EndOffset": 1607
+    },
+    {
+      "Score": 0.7449594736099243,
+      "Type": "QUANTITY",
+      "Text": "10 says ministers",
+      "BeginOffset": 1624,
+      "EndOffset": 1641
+    },
+    {
+      "Score": 0.6872084140777588,
+      "Type": "QUANTITY",
+      "Text": "54",
+      "BeginOffset": 1694,
+      "EndOffset": 1696
+    },
+    {
+      "Score": 0.9702478051185608,
+      "Type": "EVENT",
+      "Text": "Brexit",
+      "BeginOffset": 1723,
+      "EndOffset": 1729
+    },
+    {
+      "Score": 0.9041286110877991,
+      "Type": "PERSON",
+      "Text": "Eden Hazard",
+      "BeginOffset": 1743,
+      "EndOffset": 1754
+    },
+    {
+      "Score": 0.8909058570861816,
+      "Type": "ORGANIZATION",
+      "Text": "West Ham",
+      "BeginOffset": 1782,
+      "EndOffset": 1790
+    },
+    {
+      "Score": 0.9164763689041138,
+      "Type": "ORGANIZATION",
+      "Text": "Chelsea",
+      "BeginOffset": 1796,
+      "EndOffset": 1803
+    },
+    {
+      "Score": 0.7629402279853821,
+      "Type": "QUANTITY",
+      "Text": "56",
+      "BeginOffset": 1805,
+      "EndOffset": 1807
+    },
+    {
+      "Score": 0.679840624332428,
+      "Type": "PERSON",
+      "Text": "Hazard",
+      "BeginOffset": 1808,
+      "EndOffset": 1814
+    },
+    {
+      "Score": 0.9561613202095032,
+      "Type": "ORGANIZATION",
+      "Text": "Chelsea",
+      "BeginOffset": 1821,
+      "EndOffset": 1828
+    },
+    {
+      "Score": 0.7007207870483398,
+      "Type": "ORGANIZATION",
+      "Text": "West Ham",
+      "BeginOffset": 1838,
+      "EndOffset": 1846
+    },
+    {
+      "Score": 0.9777677655220032,
+      "Type": "PERSON",
+      "Text": "Eden Hazard",
+      "BeginOffset": 1854,
+      "EndOffset": 1865
+    },
+    {
+      "Score": 0.9256106019020081,
+      "Type": "QUANTITY",
+      "Text": "two goals",
+      "BeginOffset": 1873,
+      "EndOffset": 1882
+    },
+    {
+      "Score": 0.991060197353363,
+      "Type": "ORGANIZATION",
+      "Text": "Chelsea",
+      "BeginOffset": 1886,
+      "EndOffset": 1893
+    },
+    {
+      "Score": 0.9868662357330322,
+      "Type": "ORGANIZATION",
+      "Text": "West Ham",
+      "BeginOffset": 1899,
+      "EndOffset": 1907
+    },
+    {
+      "Score": 0.978927493095398,
+      "Type": "ORGANIZATION",
+      "Text": "Tottenham",
+      "BeginOffset": 1929,
+      "EndOffset": 1938
+    },
+    {
+      "Score": 0.9976105690002441,
+      "Type": "ORGANIZATION",
+      "Text": "Arsenal",
+      "BeginOffset": 1943,
+      "EndOffset": 1950
+    },
+    {
+      "Score": 0.895079493522644,
+      "Type": "QUANTITY",
+      "Text": "third place",
+      "BeginOffset": 1956,
+      "EndOffset": 1967
+    },
+    {
+      "Score": 0.9483622908592224,
+      "Type": "EVENT",
+      "Text": "Premier League",
+      "BeginOffset": 1975,
+      "EndOffset": 1989
+    },
+    {
+      "Score": 0.8737429976463318,
+      "Type": "QUANTITY",
+      "Text": "58",
+      "BeginOffset": 2005,
+      "EndOffset": 2007
+    },
+    {
+      "Score": 0.4756522476673126,
+      "Type": "PERSON",
+      "Text": "Hazard",
+      "BeginOffset": 2008,
+      "EndOffset": 2014
+    },
+    {
+      "Score": 0.962754487991333,
+      "Type": "ORGANIZATION",
+      "Text": "Chelsea",
+      "BeginOffset": 2021,
+      "EndOffset": 2028
+    },
+    {
+      "Score": 0.933578372001648,
+      "Type": "ORGANIZATION",
+      "Text": "West Ham",
+      "BeginOffset": 2038,
+      "EndOffset": 2046
+    },
+    {
+      "Score": 0.9311809539794922,
+      "Type": "ORGANIZATION",
+      "Text": "England",
+      "BeginOffset": 2054,
+      "EndOffset": 2061
+    },
+    {
+      "Score": 0.9998131394386292,
+      "Type": "PERSON",
+      "Text": "Raheem Sterling",
+      "BeginOffset": 2069,
+      "EndOffset": 2084
+    },
+    {
+      "Score": 0.7609390020370483,
+      "Type": "ORGANIZATION",
+      "Text": "Montenegro",
+      "BeginOffset": 2141,
+      "EndOffset": 2151
+    },
+    {
+      "Score": 0.5104970932006836,
+      "Type": "QUANTITY",
+      "Text": "59",
+      "BeginOffset": 2191,
+      "EndOffset": 2193
+    },
+    {
+      "Score": 0.7762985229492188,
+      "Type": "PERSON",
+      "Text": "Sterling",
+      "BeginOffset": 2194,
+      "EndOffset": 2202
+    },
+    {
+      "Score": 0.8801702857017517,
+      "Type": "ORGANIZATION",
+      "Text": "England",
+      "BeginOffset": 2242,
+      "EndOffset": 2249
+    },
+    {
+      "Score": 0.9996345639228821,
+      "Type": "PERSON",
+      "Text": "Raheem Sterling",
+      "BeginOffset": 2257,
+      "EndOffset": 2272
+    },
+    {
+      "Score": 0.4232749938964844,
+      "Type": "QUANTITY",
+      "Text": "61",
+      "BeginOffset": 2390,
+      "EndOffset": 2392
+    },
+    {
+      "Score": 0.7410432696342468,
+      "Type": "PERSON",
+      "Text": "Sterling",
+      "BeginOffset": 2393,
+      "EndOffset": 2401
+    },
+    {
+      "Score": 0.7347604632377625,
+      "Type": "QUANTITY",
+      "Text": "62",
+      "BeginOffset": 2435,
+      "EndOffset": 2437
+    },
+    {
+      "Score": 0.8313844799995422,
+      "Type": "PERSON",
+      "Text": "Tiger",
+      "BeginOffset": 2487,
+      "EndOffset": 2492
+    },
+    {
+      "Score": 0.9956430196762085,
+      "Type": "PERSON",
+      "Text": "Tiger Woods",
+      "BeginOffset": 2516,
+      "EndOffset": 2527
+    },
+    {
+      "Score": 0.9737226366996765,
+      "Type": "QUANTITY",
+      "Text": "19-year-old",
+      "BeginOffset": 2534,
+      "EndOffset": 2545
+    },
+    {
+      "Score": 0.7768861055374146,
+      "Type": "QUANTITY",
+      "Text": "first",
+      "BeginOffset": 2609,
+      "EndOffset": 2614
+    },
+    {
+      "Score": 0.7376221418380737,
+      "Type": "EVENT",
+      "Text": "Masters",
+      "BeginOffset": 2615,
+      "EndOffset": 2622
+    },
+    {
+      "Score": 0.9971858859062195,
+      "Type": "DATE",
+      "Text": "1995",
+      "BeginOffset": 2626,
+      "EndOffset": 2630
+    },
+    {
+      "Score": 0.9510616064071655,
+      "Type": "ORGANIZATION",
+      "Text": "BBC Sport",
+      "BeginOffset": 2632,
+      "EndOffset": 2641
+    },
+    {
+      "Score": 0.6402765512466431,
+      "Type": "QUANTITY",
+      "Text": "64",
+      "BeginOffset": 2660,
+      "EndOffset": 2662
+    },
+    {
+      "Score": 0.7682880163192749,
+      "Type": "PERSON",
+      "Text": "Tiger",
+      "BeginOffset": 2712,
+      "EndOffset": 2717
+    },
+    {
+      "Score": 0.9857233166694641,
+      "Type": "ORGANIZATION",
+      "Text": "BBC",
+      "BeginOffset": 2754,
+      "EndOffset": 2757
+    },
+    {
+      "Score": 0.6490190625190735,
+      "Type": "LOCATION",
+      "Text": "Earth",
+      "BeginOffset": 2839,
+      "EndOffset": 2844
+    },
+    {
+      "Score": 0.9138254523277283,
+      "Type": "DATE",
+      "Text": "1990s",
+      "BeginOffset": 2871,
+      "EndOffset": 2876
+    },
+    {
+      "Score": 0.8511467576026917,
+      "Type": "QUANTITY",
+      "Text": "73",
+      "BeginOffset": 2982,
+      "EndOffset": 2984
+    },
+    {
+      "Score": 0.7479264736175537,
+      "Type": "QUANTITY",
+      "Text": "10",
+      "BeginOffset": 2985,
+      "EndOffset": 2987
+    },
+    {
+      "Score": 0.569948136806488,
+      "Type": "QUANTITY",
+      "Text": "75",
+      "BeginOffset": 3086,
+      "EndOffset": 3088
+    },
+    {
+      "Score": 0.8436720371246338,
+      "Type": "QUANTITY",
+      "Text": "10",
+      "BeginOffset": 3089,
+      "EndOffset": 3091
+    },
+    {
+      "Score": 0.9363721013069153,
+      "Type": "LOCATION",
+      "Text": "South America",
+      "BeginOffset": 3530,
+      "EndOffset": 3543
+    },
+    {
+      "Score": 0.9467451572418213,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 3723,
+      "EndOffset": 3725
+    },
+    {
+      "Score": 0.3607558012008667,
+      "Type": "QUANTITY",
+      "Text": "85",
+      "BeginOffset": 3733,
+      "EndOffset": 3735
+    },
+    {
+      "Score": 0.8084960579872131,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 3744,
+      "EndOffset": 3754
+    },
+    {
+      "Score": 0.9928062558174133,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 3772,
+      "EndOffset": 3774
+    },
+    {
+      "Score": 0.9824090600013733,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 3841,
+      "EndOffset": 3843
+    },
+    {
+      "Score": 0.49508315324783325,
+      "Type": "QUANTITY",
+      "Text": "87",
+      "BeginOffset": 3858,
+      "EndOffset": 3860
+    },
+    {
+      "Score": 0.8897882699966431,
+      "Type": "LOCATION",
+      "Text": "California",
+      "BeginOffset": 3869,
+      "EndOffset": 3879
+    },
+    {
+      "Score": 0.9829061031341553,
+      "Type": "LOCATION",
+      "Text": "US",
+      "BeginOffset": 3897,
+      "EndOffset": 3899
+    },
+    {
+      "Score": 0.92314213514328,
+      "Type": "LOCATION",
+      "Text": "Oceanix City",
+      "BeginOffset": 3938,
+      "EndOffset": 3950
+    }
+  ]
+}
